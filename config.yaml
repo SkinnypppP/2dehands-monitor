@@ -1,0 +1,21 @@
+# 2dehands.be categories to monitor.
+#
+# How to add/adjust a category:
+#   1. Go to https://www.2dehands.be, drill into the category you want
+#      (e.g. Home > Sport en Fitness > Fitnessmaterialen).
+#   2. Apply any filters you want (price range, keyword search, location/
+#      distance) using the site's own search/filter UI.
+#   3. Copy the resulting URL from your browser's address bar and paste it
+#      below as `url`. Don't worry about sort order or the #... fragment at
+#      the end of the URL - the script always fetches results sorted
+#      newest-first on its own, regardless of what's in the URL.
+#   4. Give it a short, unique `name` - it's used in notifications and as
+#      the key for tracking "already seen" listings, so don't reuse a name
+#      for two different categories/filters.
+#
+# After editing this file on the VM, no restart is needed - it's re-read
+# on every check cycle.
+
+categories:
+  - name: "Fitnessmaterialen"
+    url: "https://www.2dehands.be/l/sport-en-fitness/fitnessmaterialen/"

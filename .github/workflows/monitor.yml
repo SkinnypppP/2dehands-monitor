@@ -1,0 +1,43 @@
+name: 2dehands monitor
+
+on:
+  schedule:
+    # GitHub's minimum cron granularity is 1 min, but frequent schedules
+    # are explicitly documented as best-effort and may run late under
+    # load. Every 10 min is our target cadence from the design doc.
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  # Prevent two overlapping runs from racing to commit/push seen.json.
+  group: 2dehands-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - run: pip install -r requirements.txt
+
+      - run: python monitor.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update monitor state"
+          file_pattern: data/seen.json
+          commit_user_name: "2dehands-monitor-bot"
+          commit_user_email: "actions@users.noreply.github.com"

@@ -1,0 +1,17 @@
+[Unit]
+Description=Run the 2dehands.be monitor every 8-12 minutes (jittered)
+
+[Timer]
+# First run shortly after boot, then every 8 min plus up to 4 min of random
+# jitter (so cycles land 8-12 min apart) - polite, non-robotic cadence.
+OnBootSec=2min
+OnUnitActiveSec=8min
+RandomizedDelaySec=4min
+AccuracySec=30sec
+
+# If the VM was off/asleep when a run was due, run it once on next boot
+# instead of silently skipping it.
+Persistent=true
+
+[Install]
+WantedBy=timers.target
