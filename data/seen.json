@@ -434,6 +434,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Acoustische gitaar + Boekje",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420067797-acoustische-gitaar-boekje"
+        },
+        "m2420084286": {
+          "first_seen_at": "2026-07-13T20:53:45.327158+00:00",
+          "price_display": "€ 200,00",
+          "title": "Guitare acoustique Art & Lutherie Spruce",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420084286-guitare-acoustique-art-lutherie-spruce"
         }
       }
     },
@@ -1320,6 +1326,24 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Moovv walking pad (zwart)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420069454-moovv-walking-pad-zwart"
+        },
+        "m2420078433": {
+          "first_seen_at": "2026-07-13T20:53:14.857582+00:00",
+          "price_display": "€ 80,00",
+          "title": "Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420078433-roeitrainer"
+        },
+        "m2420085272": {
+          "first_seen_at": "2026-07-13T20:53:14.857582+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fietshelmt",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420085272-fietshelmt"
+        },
+        "m2420085495": {
+          "first_seen_at": "2026-07-13T20:53:14.857582+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Powerboard",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420085495-powerboard"
         }
       }
     },
@@ -1775,6 +1799,48 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Wandelband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420057256-wandelband"
+        },
+        "m2420074392": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank zeer solide nieuw Prijs 40€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420074392-schitterende-fitnessbank-zeer-solide-nieuw-prijs-40"
+        },
+        "m2420077317": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "€ 500,00",
+          "title": "Crossmaxx Bumper Plates Set + Crossmaxx Olympische Barbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420077317-crossmaxx-bumper-plates-set-crossmaxx-olympische-barbells"
+        },
+        "m2420080349": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "€ 250,00",
+          "title": "Jetstream MC300 power rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420080349-jetstream-mc300-power-rack"
+        },
+        "m2420081030": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "4 x Domyos 5kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420081030-4-x-domyos-5kg-halterschijven-2-8cm"
+        },
+        "m2420081382": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "4 x Domyos 10kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420081382-4-x-domyos-10kg-halterschijven-2-8cm"
+        },
+        "m2420082717": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "€ 60,00",
+          "title": "Compact rowing machine sunny SF-RW5639",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420082717-compact-rowing-machine-sunny-sf-rw5639"
+        },
+        "m2420085148": {
+          "first_seen_at": "2026-07-13T20:52:52.197802+00:00",
+          "price_display": "€ 275,00",
+          "title": "Velo de spinning",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420085148-velo-de-spinning"
         }
       }
     },
@@ -2595,13 +2661,19 @@
           "price_display": "Bieden vanaf € 990,00",
           "title": "Buffetpiano Carl Ebel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420063323-buffetpiano-carl-ebel"
+        },
+        "m2420076604": {
+          "first_seen_at": "2026-07-13T20:53:35.813486+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420076604-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T19:53:18.924437+00:00",
+    "last_checked_at": "2026-07-13T20:53:46.204383+00:00",
     "outage_alert_sent": false
   }
 }
