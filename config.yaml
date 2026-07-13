@@ -13,9 +13,20 @@
 #      the key for tracking "already seen" listings, so don't reuse a name
 #      for two different categories/filters.
 #
-# After editing this file on the VM, no restart is needed - it's re-read
-# on every check cycle.
+# Just commit and push changes to this file - it's re-read on every check
+# cycle, no other setup needed. A brand new category gets the same silent
+# first-run seeding as the others (no notification flood).
 
 categories:
   - name: "Fitnessmaterialen"
     url: "https://www.2dehands.be/l/sport-en-fitness/fitnessmaterialen/"
+  - name: "Padel"
+    url: "https://www.2dehands.be/l/sport-en-fitness/padel/"
+  - name: "Fitnessapparatuur"
+    url: "https://www.2dehands.be/l/sport-en-fitness/fitnessapparatuur/"
+  - name: "Edelmetalen en baren"
+    url: "https://www.2dehands.be/l/postzegels-en-munten/edelmetalen-en-baren/"
+  - name: "Piano's"
+    url: "https://www.2dehands.be/l/muziek-en-instrumenten/piano-s/"
+  - name: "Akoestische gitaren"
+    url: "https://www.2dehands.be/l/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/"
