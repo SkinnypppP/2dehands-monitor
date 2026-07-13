@@ -27,6 +27,12 @@ listing appears - checked roughly every 10 minutes.
 - The very first check for a new category seeds the store silently
   (no notification flood for pre-existing listings) - you only get notified
   from the next cycle onward.
+- Listings from confirmed business/professional sellers ("TRADER") are
+  skipped - only genuinely new listings get one extra request to check
+  the seller type, so this doesn't add meaningful load. 2dehands also has
+  an "UNKNOWN" seller classification that mixes unclassified private
+  sellers with some businesses - those are intentionally still shown,
+  since excluding them would also hide real private-seller listings.
 - If every category fails to fetch for ~1 hour straight (site down,
   blocked, etc.), you get one "monitoring is down" Telegram alert, and one
   "back up" message when it recovers. Individual transient errors are just
