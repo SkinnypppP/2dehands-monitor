@@ -15,6 +15,12 @@
           "title": "Epiphone - Elector Kent Lap Steel Guitar - - Guitare Lap",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164259635-epiphone-elector-kent-lap-steel-guitar-guitare-lap"
         },
+        "a164267274": {
+          "first_seen_at": "2026-07-13T21:51:47.679217+00:00",
+          "price_display": "€ 1.750,00",
+          "title": "Gibson - Les Paul Standard 50s Gold Top - - Guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164267274-gibson-les-paul-standard-50s-gold-top-guitare"
+        },
         "a164394034": {
           "first_seen_at": "2026-07-13T14:08:36.532176+00:00",
           "price_display": "€ 160,00",
@@ -1841,6 +1847,24 @@
           "price_display": "€ 275,00",
           "title": "Velo de spinning",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420085148-velo-de-spinning"
+        },
+        "m2420088460": {
+          "first_seen_at": "2026-07-13T21:50:56.471168+00:00",
+          "price_display": "€ 10,00",
+          "title": "Cables for cablemachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420088460-cables-for-cablemachine"
+        },
+        "m2420088672": {
+          "first_seen_at": "2026-07-13T21:50:56.471168+00:00",
+          "price_display": "Gratis",
+          "title": "Dumbbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420088672-dumbbells"
+        },
+        "m2420092274": {
+          "first_seen_at": "2026-07-13T21:50:56.471168+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Gewichten Olympische bar met bank set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420092274-gewichten-olympische-bar-met-bank-set"
         }
       }
     },
@@ -2218,6 +2242,18 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Adidas 3 RX - 3K carbon in perfecte staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2419998929-adidas-3-rx-3k-carbon-in-perfecte-staat"
+        },
+        "m2420092517": {
+          "first_seen_at": "2026-07-13T21:51:08.808687+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Royal Padel hoes Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420092517-royal-padel-hoes-nieuw"
+        },
+        "m2420092958": {
+          "first_seen_at": "2026-07-13T21:51:08.808687+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Snauwaert Padel Racket Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420092958-snauwaert-padel-racket-nieuw"
         }
       }
     },
@@ -2667,13 +2703,19 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420076604-piano"
+        },
+        "m2420089842": {
+          "first_seen_at": "2026-07-13T21:51:35.804754+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420089842-digitale-roland-bk-5-backing-keyboard-nieuw"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T20:53:46.204383+00:00",
+    "last_checked_at": "2026-07-13T21:51:48.428257+00:00",
     "outage_alert_sent": false
   }
 }
