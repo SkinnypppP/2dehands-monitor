@@ -859,6 +859,12 @@
           "title": "Technogym Top 1000 Unity - Black",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a135938407-technogym-top-1000-unity-black"
         },
+        "a158080538": {
+          "first_seen_at": "2026-07-13T22:51:16.775716+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Volledige homegym op maat – geleverd en geïnstalleerd",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a158080538-volledige-homegym-op-maat-geleverd-en-geinstalleerd"
+        },
         "a160302341": {
           "first_seen_at": "2026-07-13T14:08:16.397935+00:00",
           "price_display": "€ 699,00",
@@ -1350,12 +1356,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Powerboard",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420085495-powerboard"
+        },
+        "m2420098415": {
+          "first_seen_at": "2026-07-13T22:51:16.775716+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zo goed als nieuwe twist and shape",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420098415-zo-goed-als-nieuwe-twist-and-shape"
+        },
+        "m2420099425": {
+          "first_seen_at": "2026-07-13T22:51:16.775716+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "Home trainer fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420099425-home-trainer-fiets"
         }
       }
     },
     "Fitnessmaterialen": {
       "initialized_at": "2026-07-13T13:48:22.483713+00:00",
       "seen": {
+        "a157177144": {
+          "first_seen_at": "2026-07-13T22:50:58.804591+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Marre de la salle de sport ? Créez votre homegym avec nous",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a157177144-marre-de-la-salle-de-sport-creez-votre-homegym-avec-nous"
+        },
         "a164129547": {
           "first_seen_at": "2026-07-13T14:19:38.228885+00:00",
           "price_display": "€ 1.450,00",
@@ -2709,13 +2733,19 @@
           "price_display": "Zie omschrijving",
           "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420089842-digitale-roland-bk-5-backing-keyboard-nieuw"
+        },
+        "m2420098237": {
+          "first_seen_at": "2026-07-13T22:51:35.947539+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "PIANO",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420098237-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T21:51:48.428257+00:00",
+    "last_checked_at": "2026-07-13T22:51:45.571451+00:00",
     "outage_alert_sent": false
   }
 }
