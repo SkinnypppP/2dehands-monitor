@@ -61,6 +61,12 @@ CATEGORY_STAGGER_RANGE_SECONDS = (5, 10)
 # roughly an hour.
 FAILURE_ALERT_THRESHOLD = 6
 
+# Only positively-confirmed business/professional sellers are filtered out.
+# 2dehands also has an "UNKNOWN" seller type covering both unclassified
+# private sellers and some businesses - we'd rather risk showing an
+# occasional business listing than hiding real private-seller listings.
+EXCLUDED_SELLER_TYPES = {"TRADER"}
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
@@ -245,9 +251,12 @@ def normalize_item(raw):
 
     image_url = None
     pictures = raw.get("pictures") or []
-    if pictures and pictures[0].get("mediumUrl"):
-        image_url = pictures[0]["mediumUrl"]
-    else:
+    if pictures:
+        pic = pictures[0]
+        image_url = (
+            pic.get("extraExtraLargeUrl") or pic.get("largeUrl") or pic.get("mediumUrl")
+        )
+    if not image_url:
         image_urls = raw.get("imageUrls") or []
         if image_urls:
             image_url = image_urls[0]
@@ -342,6 +351,27 @@ def fetch_category_listings(session, category_url):
             "Sorted API fetch failed (%s), falling back to embedded page listings", exc
         )
         return extract_candidate_items(search_response)
+
+
+_SELLER_TYPE_RE = re.compile(r'"sellerType":"(\w+)"')
+
+
+def fetch_seller_type(session, listing_url):
+    """
+    CONSUMER/TRADER/UNKNOWN - only present on the individual listing page,
+    not in search results, so this is only called for genuinely new
+    listings (a handful per cycle at most), not every listing checked.
+    Returns None if it can't be determined (network error or the page
+    layout changed) - callers should treat that as "don't filter out",
+    consistent with only excluding positively-confirmed traders.
+    """
+    try:
+        resp = http_get(session, listing_url)
+    except FetchError as exc:
+        log.warning("Could not fetch seller type for %s: %s", listing_url, exc)
+        return None
+    m = _SELLER_TYPE_RE.search(resp.text)
+    return m.group(1) if m else None
 
 
 # --------------------------------------------------------------------------
@@ -478,9 +508,17 @@ def check_category(store, session, category):
         log.info("%r: no new listings (%d checked)", name, len(items))
 
     detected_at = now_iso()
+    filtered_count = 0
     for item in new_items:
-        notify_new_listing(session, name, item, detected_at)
+        seller_type = fetch_seller_type(session, item["url"])
+        if seller_type in EXCLUDED_SELLER_TYPES:
+            filtered_count += 1
+        else:
+            notify_new_listing(session, name, item, detected_at)
         save_listing(store, name, item, detected_at)
+
+    if filtered_count:
+        log.info("%r: filtered out %d listing(s) from business/trader sellers", name, filtered_count)
     return True
 
 
