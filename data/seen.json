@@ -1,0 +1,392 @@
+{
+  "categories": {
+    "Fitnessmaterialen": {
+      "initialized_at": "2026-07-13T13:48:22.483713+00:00",
+      "seen": {
+        "a164129547": {
+          "first_seen_at": "2026-07-13T13:48:22.483709+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "Technogym - Element - Lat Pulldown",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164129547-technogym-element-lat-pulldown"
+        },
+        "a164129593": {
+          "first_seen_at": "2026-07-13T13:48:22.483706+00:00",
+          "price_display": "€ 395,00",
+          "title": "Pendlay - Glute Ham Developer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164129593-pendlay-glute-ham-developer"
+        },
+        "a164174418": {
+          "first_seen_at": "2026-07-13T13:48:22.483702+00:00",
+          "price_display": "€ 25,00",
+          "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164174418-diverse-schijven-platen-olympische-schijven-bumper"
+        },
+        "m2063918943": {
+          "first_seen_at": "2026-07-13T13:48:22.483512+00:00",
+          "price_display": "€ 16,00",
+          "title": "Rubber Sportvloer / Gym / Crossfit Tegels!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2063918943-rubber-sportvloer-gym-crossfit-tegels"
+        },
+        "m2063943301": {
+          "first_seen_at": "2026-07-13T13:48:22.483516+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Rubber Bumper Plates! 5k / 10Kg / 15kg / 20kg/ 25kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2063943301-rubber-bumper-plates-5k-10kg-15kg-20kg-25kg"
+        },
+        "m2081326576": {
+          "first_seen_at": "2026-07-13T13:48:22.483519+00:00",
+          "price_display": "€ 29,75",
+          "title": "Rubber Crossfit / Fitness Tegel EPDM Toplaag 100 x 100 x 2cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2081326576-rubber-crossfit-fitness-tegel-epdm-toplaag-100-x-100-x-2cm"
+        },
+        "m2166257893": {
+          "first_seen_at": "2026-07-13T13:48:22.483505+00:00",
+          "price_display": "€ 16,00",
+          "title": "Rubber Sportvloer Tegels Vanaf €16,- per m2! A Kwaliteit!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2166257893-rubber-sportvloer-tegels-vanaf-16-per-m2-a-kwaliteit"
+        },
+        "m2398280757": {
+          "first_seen_at": "2026-07-13T13:48:22.483533+00:00",
+          "price_display": "€ 250,00",
+          "title": "Technogym wellness rack halter set.  Halters.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2398280757-technogym-wellness-rack-halter-set-halters"
+        },
+        "m2403652242": {
+          "first_seen_at": "2026-07-13T13:48:22.483494+00:00",
+          "price_display": "€ 4.780,00",
+          "title": "EMS I-Motion systeem, made in Spain",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2403652242-ems-i-motion-systeem-made-in-spain"
+        },
+        "m2407786485": {
+          "first_seen_at": "2026-07-13T13:48:22.483509+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Rubber Fitness Vloer / Gym Tegels / Crossfit vloer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2407786485-rubber-fitness-vloer-gym-tegels-crossfit-vloer"
+        },
+        "m2411262647": {
+          "first_seen_at": "2026-07-13T13:48:22.483562+00:00",
+          "price_display": "Bieden vanaf € 299,00",
+          "title": "Hometrainer DKN Technology RB-3i ‼️‼️in nieuwstaat‼️‼️",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2411262647-hometrainer-dkn-technology-rb-3i-in-nieuwstaat"
+        },
+        "m2414949648": {
+          "first_seen_at": "2026-07-13T13:48:22.483498+00:00",
+          "price_display": "€ 750,00",
+          "title": "Squatrack Atletica+ Olympische Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2414949648-squatrack-atletica-olympische-halterschijven"
+        },
+        "m2415565261": {
+          "first_seen_at": "2026-07-13T13:48:22.483530+00:00",
+          "price_display": "Bieden vanaf € 2.450,00",
+          "title": "Technogym: Run Now 700 Loopband + Synchro 700 Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2415565261-technogym-run-now-700-loopband-synchro-700-crosstrainer"
+        },
+        "m2417956044": {
+          "first_seen_at": "2026-07-13T13:48:22.483502+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Hometrainer/Ergometer – Christopeit ECO Pro HT",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2417956044-hometrainer-ergometer-christopeit-eco-pro-ht"
+        },
+        "m2418035339": {
+          "first_seen_at": "2026-07-13T13:48:22.483583+00:00",
+          "price_display": "Bieden vanaf € 2.450,00",
+          "title": "20 paar Dumbbells tot 50kg inclusief 2 racks",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2418035339-20-paar-dumbbells-tot-50kg-inclusief-2-racks"
+        },
+        "m2418359467": {
+          "first_seen_at": "2026-07-13T13:48:22.483544+00:00",
+          "price_display": "€ 1.200,00",
+          "title": "Loopband tunturi endurance t80",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2418359467-loopband-tunturi-endurance-t80"
+        },
+        "m2418994404": {
+          "first_seen_at": "2026-07-13T13:48:22.483614+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness banken- Doufit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2418994404-fitness-banken-doufit"
+        },
+        "m2419012281": {
+          "first_seen_at": "2026-07-13T13:48:22.483611+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419012281-fitness-toestel"
+        },
+        "m2419044213": {
+          "first_seen_at": "2026-07-13T13:48:22.483607+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Citysports WP2 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419044213-citysports-wp2-loopband"
+        },
+        "m2419071234": {
+          "first_seen_at": "2026-07-13T13:48:22.483604+00:00",
+          "price_display": "€ 370,00",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419071234-halterschijven"
+        },
+        "m2419154887": {
+          "first_seen_at": "2026-07-13T13:48:22.483601+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Paar bowflex-halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419154887-paar-bowflex-halters"
+        },
+        "m2419175275": {
+          "first_seen_at": "2026-07-13T13:48:22.483597+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Barres asymétriques primagym - Dimasport",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419175275-barres-asymetriques-primagym-dimasport"
+        },
+        "m2419178234": {
+          "first_seen_at": "2026-07-13T13:48:22.483594+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Bar met gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419178234-bar-met-gewichten"
+        },
+        "m2419182238": {
+          "first_seen_at": "2026-07-13T13:48:22.483590+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Moov loopband met 10% hellingsgraad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419182238-moov-loopband-met-10-hellingsgraad"
+        },
+        "m2419241574": {
+          "first_seen_at": "2026-07-13T13:48:22.483587+00:00",
+          "price_display": "€ 100,00",
+          "title": "Tunturi Rapid dumbbell stand",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419241574-tunturi-rapid-dumbbell-stand"
+        },
+        "m2419288850": {
+          "first_seen_at": "2026-07-13T13:48:22.483487+00:00",
+          "price_display": "€ 1.100,00",
+          "title": "NordicTrack SpaceSaver SE7i",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419288850-nordictrack-spacesaver-se7i"
+        },
+        "m2419346769": {
+          "first_seen_at": "2026-07-13T13:48:22.483580+00:00",
+          "price_display": "€ 60,00",
+          "title": "UnderArmor HeatGear White/Grey Bundle - Nieuw met tag",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419346769-underarmor-heatgear-white-grey-bundle-nieuw-met-tag"
+        },
+        "m2419352873": {
+          "first_seen_at": "2026-07-13T13:48:22.483576+00:00",
+          "price_display": "€ 150,00",
+          "title": "Set Top merk Precor 28kg dumbells,  totaal = 56kg.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419352873-set-top-merk-precor-28kg-dumbells-totaal-56kg"
+        },
+        "m2419359831": {
+          "first_seen_at": "2026-07-13T13:48:22.483573+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Kettler hometrainer - goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419359831-kettler-hometrainer-goede-staat"
+        },
+        "m2419383960": {
+          "first_seen_at": "2026-07-13T13:48:22.483569+00:00",
+          "price_display": "Bieden vanaf € 1.300,00",
+          "title": "Fitnesstoestel | Horizon Torus 5 Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419383960-fitnesstoestel-horizon-torus-5-home-gym"
+        },
+        "m2419400857": {
+          "first_seen_at": "2026-07-13T13:48:22.483565+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Loopband DOMYOS T900C",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419400857-loopband-domyos-t900c"
+        },
+        "m2419508255": {
+          "first_seen_at": "2026-07-13T13:48:22.483558+00:00",
+          "price_display": "€ 90,00",
+          "title": "Twee halters Rogue 15 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419508255-twee-halters-rogue-15-kg"
+        },
+        "m2419526857": {
+          "first_seen_at": "2026-07-13T13:48:22.483554+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "VirtuFit Ergometer Roeitrainer Semi-Pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419526857-virtufit-ergometer-roeitrainer-semi-pro"
+        },
+        "m2419538537": {
+          "first_seen_at": "2026-07-13T13:48:22.483551+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym leg extension en leg curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419538537-technogym-leg-extension-en-leg-curl"
+        },
+        "m2419611534": {
+          "first_seen_at": "2026-07-13T13:48:22.483547+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Kettlebell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419611534-kettlebell"
+        },
+        "m2419752414": {
+          "first_seen_at": "2026-07-13T13:48:22.483540+00:00",
+          "price_display": "€ 295,00",
+          "title": "Olympische halterset 70 kg + LifeMax halterstang + Lock-Jaw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419752414-olympische-halterset-70-kg-lifemax-halterstang-lock-jaw"
+        },
+        "m2419773308": {
+          "first_seen_at": "2026-07-13T13:48:22.483537+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "BASIC-FIT SMART BIKE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419773308-basic-fit-smart-bike"
+        },
+        "m2419873903": {
+          "first_seen_at": "2026-07-13T13:48:22.483699+00:00",
+          "price_display": "€ 15,00",
+          "title": "AB trainer buikspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419873903-ab-trainer-buikspieren"
+        },
+        "m2419875004": {
+          "first_seen_at": "2026-07-13T13:48:22.483695+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "TECHNOGYM OLYMPIC FLAT BENCH",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419875004-technogym-olympic-flat-bench"
+        },
+        "m2419885309": {
+          "first_seen_at": "2026-07-13T13:48:22.483692+00:00",
+          "price_display": "€ 200,00",
+          "title": "Pull up rek fitness dips squats",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419885309-pull-up-rek-fitness-dips-squats"
+        },
+        "m2419885642": {
+          "first_seen_at": "2026-07-13T13:48:22.483688+00:00",
+          "price_display": "€ 150,00",
+          "title": "60 kilogram gewichten en fitnessbar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419885642-60-kilogram-gewichten-en-fitnessbar"
+        },
+        "m2419889636": {
+          "first_seen_at": "2026-07-13T13:48:22.483685+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "armhalter en vier gewichten van 3.5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419889636-armhalter-en-vier-gewichten-van-3-5-kg"
+        },
+        "m2419890121": {
+          "first_seen_at": "2026-07-13T13:48:22.483681+00:00",
+          "price_display": "€ 350,00",
+          "title": "1kg - 10kg dumbbells halters dumbells technogym rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419890121-1kg-10kg-dumbbells-halters-dumbells-technogym-rek"
+        },
+        "m2419893411": {
+          "first_seen_at": "2026-07-13T13:48:22.483678+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Verstelbaar Gewichtsvest (15kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419893411-verstelbaar-gewichtsvest-15kg"
+        },
+        "m2419894090": {
+          "first_seen_at": "2026-07-13T13:48:22.483674+00:00",
+          "price_display": "€ 160,00",
+          "title": "Barbell halterstang gewichten bumperplates schijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419894090-barbell-halterstang-gewichten-bumperplates-schijven"
+        },
+        "m2419899205": {
+          "first_seen_at": "2026-07-13T13:48:22.483671+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "dumbbells 22.5 tot 30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419899205-dumbbells-22-5-tot-30kg"
+        },
+        "m2419899676": {
+          "first_seen_at": "2026-07-13T13:48:22.483667+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Skierg concept5 pm5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419899676-skierg-concept5-pm5"
+        },
+        "m2419900935": {
+          "first_seen_at": "2026-07-13T13:48:22.483664+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bike erg concept 2 pm5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419900935-bike-erg-concept-2-pm5"
+        },
+        "m2419901421": {
+          "first_seen_at": "2026-07-13T13:48:22.483660+00:00",
+          "price_display": "Bieden vanaf € 14,00",
+          "title": "Set Hexa dumbbel domyos 5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419901421-set-hexa-dumbbel-domyos-5-kg"
+        },
+        "m2419902619": {
+          "first_seen_at": "2026-07-13T13:48:22.483657+00:00",
+          "price_display": "€ 100,00",
+          "title": "Half rack + dip bars",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419902619-half-rack-dip-bars"
+        },
+        "m2419904552": {
+          "first_seen_at": "2026-07-13T13:48:22.483654+00:00",
+          "price_display": "Bieden vanaf € 4,50",
+          "title": "Set dumbbels domyos 2x 0,5kg 2x 1kg 2x 3kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419904552-set-dumbbels-domyos-2x-0-5kg-2x-1kg-2x-3kg"
+        },
+        "m2419907612": {
+          "first_seen_at": "2026-07-13T13:48:22.483650+00:00",
+          "price_display": "€ 50,00",
+          "title": "Halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419907612-halterbank"
+        },
+        "m2419908639": {
+          "first_seen_at": "2026-07-13T13:48:22.483647+00:00",
+          "price_display": "€ 50,00",
+          "title": "Sqaud rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419908639-sqaud-rek"
+        },
+        "m2419911059": {
+          "first_seen_at": "2026-07-13T13:48:22.483526+00:00",
+          "price_display": "€ 150,00",
+          "title": "Halterbank met gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419911059-halterbank-met-gewichten"
+        },
+        "m2419913329": {
+          "first_seen_at": "2026-07-13T13:48:22.483643+00:00",
+          "price_display": "Bieden vanaf € 3,00",
+          "title": "Set usa pro 2kg dumbbel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419913329-set-usa-pro-2kg-dumbbel"
+        },
+        "m2419914721": {
+          "first_seen_at": "2026-07-13T13:48:22.483638+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "Technogym artis run loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419914721-technogym-artis-run-loopband"
+        },
+        "m2419917057": {
+          "first_seen_at": "2026-07-13T13:48:22.483635+00:00",
+          "price_display": "Bieden vanaf € 8,00",
+          "title": "DOMYOS Enkel- en polsgewichten 2x2 kg aanpasbaar grijs",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419917057-domyos-enkel-en-polsgewichten-2x2-kg-aanpasbaar-grijs"
+        },
+        "m2419921601": {
+          "first_seen_at": "2026-07-13T13:48:22.483523+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Loopband domyos t540c",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419921601-loopband-domyos-t540c"
+        },
+        "m2419921971": {
+          "first_seen_at": "2026-07-13T13:48:22.483631+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Banc de musculation Domyos BM 160 + barre, haltères et poids",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419921971-banc-de-musculation-domyos-bm-160-barre-halteres-et-poids"
+        },
+        "m2419935345": {
+          "first_seen_at": "2026-07-13T13:48:22.483628+00:00",
+          "price_display": "€ 25,00",
+          "title": "Halterstang 120cm en 16kg totaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419935345-halterstang-120cm-en-16kg-totaal"
+        },
+        "m2419938767": {
+          "first_seen_at": "2026-07-13T13:48:22.483625+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Wonder Core fitnessapparaat – buiktrainer – in goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419938767-wonder-core-fitnessapparaat-buiktrainer-in-goede-staat"
+        },
+        "m2419940036": {
+          "first_seen_at": "2026-07-13T13:48:22.483621+00:00",
+          "price_display": "€ 150,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419940036-loopband"
+        },
+        "m2419944570": {
+          "first_seen_at": "2026-07-13T13:48:22.483618+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten 9kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419944570-gewichten-9kg"
+        }
+      }
+    }
+  },
+  "monitor_state": {
+    "consecutive_failed_cycles": 0,
+    "last_checked_at": "2026-07-13T13:48:22.483840+00:00",
+    "outage_alert_sent": false
+  }
+}
