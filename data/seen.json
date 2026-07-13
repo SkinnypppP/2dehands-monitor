@@ -45,6 +45,12 @@
           "title": "Yamaha GC10A Grand Concert Klassieke Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2400647092-yamaha-gc10a-grand-concert-klassieke-gitaar"
         },
+        "m2410995353": {
+          "first_seen_at": "2026-07-13T14:49:54.235768+00:00",
+          "price_display": "Bieden vanaf € 260,00",
+          "title": "Guitare Électro-classic Estève 1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2410995353-guitare-electro-classic-esteve-1"
+        },
         "m2418567359": {
           "first_seen_at": "2026-07-13T14:08:36.532156+00:00",
           "price_display": "€ 599,00",
@@ -769,6 +775,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Australian Brumby 2025 - 1 oz Zilveren Munt Limited Mintage",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2419909578-australian-brumby-2025-1-oz-zilveren-munt-limited-mintage"
+        },
+        "m2419973107": {
+          "first_seen_at": "2026-07-13T14:49:32.246346+00:00",
+          "price_display": "€ 13,00",
+          "title": "Parfum van man 50ml",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2419973107-parfum-van-man-50ml"
         }
       }
     },
@@ -1158,6 +1170,12 @@
           "price_display": "Zie omschrijving",
           "title": "home trainer fiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2419966278-home-trainer-fiets"
+        },
+        "m2419973897": {
+          "first_seen_at": "2026-07-13T14:49:20.782696+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Hometrainer Batuvus C2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2419973897-hometrainer-batuvus-c2"
         }
       }
     },
@@ -2002,6 +2020,12 @@
           "title": "Reserveer nu je huurpiano voor het nieuwe academiejaar!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2415827551-reserveer-nu-je-huurpiano-voor-het-nieuwe-academiejaar"
         },
+        "m2416284039": {
+          "first_seen_at": "2026-07-13T14:49:41.974155+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "FAME SP 15 ROOD",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2416284039-fame-sp-15-rood"
+        },
         "m2418632333": {
           "first_seen_at": "2026-07-13T14:08:29.176467+00:00",
           "price_display": "Bieden vanaf € 90,00",
@@ -2289,13 +2313,19 @@
           "price_display": "€ 1.800,00",
           "title": "Piano LX705 Light Oak",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2419954222-piano-lx705-light-oak"
+        },
+        "m2419972085": {
+          "first_seen_at": "2026-07-13T14:49:41.974155+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2419972085-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T14:20:22.201112+00:00",
+    "last_checked_at": "2026-07-13T14:49:55.314749+00:00",
     "outage_alert_sent": false
   }
 }
