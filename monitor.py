@@ -48,6 +48,12 @@ STATE_PATH = Path(os.environ.get("MONITOR_STATE_FILE", BASE_DIR / "data" / "seen
 # just a safety net against unbounded growth, not a real dedup risk.
 PRUNE_SEEN_AFTER_DAYS = 180
 
+# How often to force a state commit even when nothing changed, purely so
+# the repo never goes fully quiet - GitHub auto-disables scheduled
+# workflows after 60 days of zero repository activity. 24h leaves a huge
+# safety margin while cutting steady-state commit noise from ~144/day to 1/day.
+HEARTBEAT_INTERVAL = timedelta(hours=24)
+
 BASE_URL = "https://www.2dehands.be"
 SEARCH_API_PATH = "/lrp/api/search"
 API_RESULT_LIMIT = 60
@@ -484,20 +490,22 @@ def handle_cycle_outcome(store, session, any_category_succeeded):
 # --------------------------------------------------------------------------
 
 def check_category(store, session, category):
+    """Returns (success, changed) - changed is True if the store now holds
+    something worth persisting (new listings seen, or first-run seeding)."""
     name = category["name"]
     url = category["url"]
     try:
         items = fetch_category_listings(session, url)
     except FetchError as exc:
         log.error("Failed to fetch category %r: %s", name, exc)
-        return False
+        return False, False
 
     if not is_category_initialized(store, name):
         for item in items:
             save_listing(store, name, item)
         mark_category_initialized(store, name)
         log.info("First run for %r: seeded %d listings silently", name, len(items))
-        return True
+        return True, True
 
     seen_ids = get_seen_ids(store, name)
     new_items = [i for i in items if i["item_id"] not in seen_ids]
@@ -519,7 +527,7 @@ def check_category(store, session, category):
 
     if filtered_count:
         log.info("%r: filtered out %d listing(s) from business/trader sellers", name, filtered_count)
-    return True
+    return True, bool(new_items)
 
 
 def main():
@@ -533,10 +541,12 @@ def main():
     session = requests.Session()
 
     any_succeeded = False
+    any_changed = False
     for idx, category in enumerate(categories):
         try:
-            ok = check_category(store, session, category)
+            ok, changed = check_category(store, session, category)
             any_succeeded = any_succeeded or ok
+            any_changed = any_changed or changed
         except Exception:
             log.exception("Unexpected error checking category %r", category.get("name"))
         if idx < len(categories) - 1:
@@ -547,13 +557,30 @@ def main():
     except Exception:
         log.exception("Error while handling cycle outcome/outage alerting")
 
-    # Always update, so this run produces a diff even when nothing else
-    # changed - guarantees a commit each cycle in CI, which keeps the repo
-    # "active" and avoids GitHub's 60-day dormant-schedule auto-disable.
-    set_state(store, "last_checked_at", now_iso())
     prune_old_entries(store)
+
+    # Only touch last_checked_at (and thus produce a git diff worth
+    # committing) when something actually happened, or periodically as a
+    # heartbeat so the repo doesn't go dormant. Pruning also changed the
+    # store when it happens, but that's already reflected on disk either
+    # way. Without this, every single run would commit just to update a
+    # timestamp nobody needs, at ~144 commits/day.
+    if any_changed or _heartbeat_due(store):
+        set_state(store, "last_checked_at", now_iso())
+
     save_store(store)
     return 0
+
+
+def _heartbeat_due(store):
+    last_checked_at = get_state(store, "last_checked_at")
+    if not last_checked_at:
+        return True
+    try:
+        elapsed = datetime.now(timezone.utc) - datetime.fromisoformat(last_checked_at)
+    except ValueError:
+        return True
+    return elapsed >= HEARTBEAT_INTERVAL
 
 
 if __name__ == "__main__":
