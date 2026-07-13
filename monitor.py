@@ -392,23 +392,49 @@ def telegram_api_url(method):
     return f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/{method}"
 
 
+def _telegram_call(session, method, data):
+    """
+    POST to the Telegram Bot API and return (ok, response). Telegram often
+    returns HTTP 200 even on failure (e.g. "can't fetch that photo URL"),
+    with the real success/failure in the JSON body's "ok" field - checking
+    only the HTTP status code (as earlier versions of this script did)
+    silently treats those as success and drops the notification.
+    """
+    try:
+        resp = session.post(
+            telegram_api_url(method), data=data, timeout=REQUEST_TIMEOUT_SECONDS
+        )
+    except requests.exceptions.RequestException as exc:
+        log.error("Telegram %s request failed: %s", method, exc)
+        return False, None
+
+    try:
+        payload = resp.json()
+    except ValueError:
+        log.error("Telegram %s returned non-JSON response (HTTP %d): %s", method, resp.status_code, resp.text[:200])
+        return False, None
+
+    if not payload.get("ok"):
+        log.error("Telegram %s failed (HTTP %d): %s", method, resp.status_code, payload.get("description"))
+        return False, payload
+
+    return True, payload
+
+
 def send_telegram_message(session, text):
     if not telegram_configured():
         log.warning("Telegram not configured, skipping notification: %s", text)
         return
-    try:
-        session.post(
-            telegram_api_url("sendMessage"),
-            data={
-                "chat_id": TELEGRAM_CHAT_ID,
-                "text": text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": False,
-            },
-            timeout=REQUEST_TIMEOUT_SECONDS,
-        ).raise_for_status()
-    except requests.exceptions.RequestException as exc:
-        log.error("Failed to send Telegram message: %s", exc)
+    _telegram_call(
+        session,
+        "sendMessage",
+        {
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": False,
+        },
+    )
 
 
 def notify_new_listing(session, category, item, detected_at):
@@ -422,28 +448,23 @@ def notify_new_listing(session, category, item, detected_at):
     if not telegram_configured():
         log.warning("Telegram not configured, skipping notification: %s", caption)
         return
-    try:
-        if item.get("image_url"):
-            resp = session.post(
-                telegram_api_url("sendPhoto"),
-                data={
-                    "chat_id": TELEGRAM_CHAT_ID,
-                    "photo": item["image_url"],
-                    "caption": caption,
-                    "parse_mode": "HTML",
-                },
-                timeout=REQUEST_TIMEOUT_SECONDS,
-            )
-            if resp.status_code != 200:
-                # e.g. Telegram couldn't fetch that image URL - fall back to text.
-                log.warning(
-                    "sendPhoto failed (%s), falling back to text message", resp.text[:200]
-                )
-                send_telegram_message(session, caption)
-        else:
+
+    if item.get("image_url"):
+        ok, _ = _telegram_call(
+            session,
+            "sendPhoto",
+            {
+                "chat_id": TELEGRAM_CHAT_ID,
+                "photo": item["image_url"],
+                "caption": caption,
+                "parse_mode": "HTML",
+            },
+        )
+        if not ok:
+            log.warning("sendPhoto failed for %s, falling back to text message", item["item_id"])
             send_telegram_message(session, caption)
-    except requests.exceptions.RequestException as exc:
-        log.error("Failed to send Telegram notification: %s", exc)
+    else:
+        send_telegram_message(session, caption)
 
 
 def escape_html(text):
