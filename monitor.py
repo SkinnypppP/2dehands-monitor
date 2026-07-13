@@ -24,10 +24,13 @@ import time
 import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 import yaml
 from dotenv import load_dotenv
+
+LOCAL_TZ = ZoneInfo("Europe/Brussels")
 
 # --------------------------------------------------------------------------
 # Config / constants
@@ -142,7 +145,7 @@ def get_seen_ids(store, category):
     return set(store["categories"].get(category, {}).get("seen", {}).keys())
 
 
-def save_listing(store, category, item):
+def save_listing(store, category, item, detected_at=None):
     cat = store["categories"].setdefault(category, {"initialized_at": now_iso(), "seen": {}})
     cat["seen"].setdefault(
         item["item_id"],
@@ -150,7 +153,7 @@ def save_listing(store, category, item):
             "title": item["title"],
             "price_display": item["price_display"],
             "url": item["url"],
-            "first_seen_at": now_iso(),
+            "first_seen_at": detected_at or now_iso(),
         },
     )
 
@@ -178,6 +181,12 @@ def prune_old_entries(store):
 
 def now_iso():
     return datetime.now(timezone.utc).isoformat()
+
+
+def format_local_time(iso_str):
+    """Render a stored UTC ISO timestamp as a friendly Belgium-local time."""
+    dt = datetime.fromisoformat(iso_str).astimezone(LOCAL_TZ)
+    return dt.strftime("%d %b %Y, %H:%M")
 
 
 # --------------------------------------------------------------------------
@@ -366,11 +375,12 @@ def send_telegram_message(session, text):
         log.error("Failed to send Telegram message: %s", exc)
 
 
-def notify_new_listing(session, category, item):
+def notify_new_listing(session, category, item, detected_at):
     caption = (
         f"📂 {escape_html(category)}\n"
         f"<b>{escape_html(item['title'])}</b>\n"
         f"{escape_html(item['price_display'])}\n"
+        f"🕒 Gevonden: {format_local_time(detected_at)}\n"
         f"{item['url']}"
     )
     if not telegram_configured():
@@ -467,9 +477,10 @@ def check_category(store, session, category):
     else:
         log.info("%r: no new listings (%d checked)", name, len(items))
 
+    detected_at = now_iso()
     for item in new_items:
-        notify_new_listing(session, name, item)
-        save_listing(store, name, item)
+        notify_new_listing(session, name, item, detected_at)
+        save_listing(store, name, item, detected_at)
     return True
 
 
