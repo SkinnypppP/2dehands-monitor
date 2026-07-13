@@ -1559,6 +1559,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gewichten 9kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419944570-gewichten-9kg"
+        },
+        "m2419978557": {
+          "first_seen_at": "2026-07-13T14:54:25.037247+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "Body-Solid leg extension/leg curl machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2419978557-body-solid-leg-extension-leg-curl-machine"
         }
       }
     },
@@ -1930,6 +1936,12 @@
     "Piano's": {
       "initialized_at": "2026-07-13T14:08:29.176493+00:00",
       "seen": {
+        "a156001980": {
+          "first_seen_at": "2026-07-13T14:55:02.798245+00:00",
+          "price_display": "Bieden vanaf € 1.490,00",
+          "title": "Excellent piano Petrof noir laqué accordé et garanti",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a156001980-excellent-piano-petrof-noir-laque-accorde-et-garanti"
+        },
         "a161836280": {
           "first_seen_at": "2026-07-13T14:08:29.176483+00:00",
           "price_display": "€ 19.500,00",
@@ -2313,13 +2325,19 @@
           "price_display": "Bieden vanaf € 500,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2419972085-piano"
+        },
+        "m2419978230": {
+          "first_seen_at": "2026-07-13T14:55:02.798245+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke piano te geef",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2419978230-antieke-piano-te-geef"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T14:49:55.314749+00:00",
+    "last_checked_at": "2026-07-13T14:55:13.090931+00:00",
     "outage_alert_sent": false
   }
 }
