@@ -470,6 +470,24 @@
           "title": "1 Troy Ounce - Platine .999 - 1oz Valcambi Suisse .9995 Fine",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164512601-1-troy-ounce-platine-999-1oz-valcambi-suisse-9995-fine"
         },
+        "a164547663": {
+          "first_seen_at": "2026-07-14T04:13:43.856383+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Argent .999 - The Outback 2026 - 31,1 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164547663-1-troy-ounce-argent-999-the-outback-2026-31-1-gram"
+        },
+        "a164547664": {
+          "first_seen_at": "2026-07-14T04:13:43.856383+00:00",
+          "price_display": "€ 155,00",
+          "title": "1 kilogramme - Argent .999 - BANK OF MALTA",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164547664-1-kilogramme-argent-999-bank-of-malta"
+        },
+        "a164547665": {
+          "first_seen_at": "2026-07-14T04:13:43.856383+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Argent .999 - random refinery (Sans prix de",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164547665-1-troy-ounce-argent-999-random-refinery-sans-prix-de"
+        },
         "m2379504267": {
           "first_seen_at": "2026-07-13T14:08:23.179379+00:00",
           "price_display": "Bieden vanaf € 37,00",
@@ -906,6 +924,12 @@
           "price_display": "Bieden vanaf € 725,00",
           "title": "NordicTrack Vélo Indoor Tour de France",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2412464867-nordictrack-velo-indoor-tour-de-france"
+        },
+        "m2412789982": {
+          "first_seen_at": "2026-07-14T04:13:34.969394+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "ATX leg extension curl combo barbarian line",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2412789982-atx-leg-extension-curl-combo-barbarian-line"
         },
         "m2412952842": {
           "first_seen_at": "2026-07-13T14:08:16.397763+00:00",
@@ -2763,7 +2787,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T01:06:39.151336+00:00",
+    "last_checked_at": "2026-07-14T04:14:06.693750+00:00",
     "outage_alert_sent": false
   }
 }
