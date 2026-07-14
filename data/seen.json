@@ -1740,6 +1740,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Kettler Golf S hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420310166-kettler-golf-s-hometrainer"
+        },
+        "m2420330031": {
+          "first_seen_at": "2026-07-14T17:45:10.002537+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "EZ-balk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420330031-ez-balk"
+        },
+        "m2420330037": {
+          "first_seen_at": "2026-07-14T17:45:10.002537+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Domyos 500 hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420330037-domyos-500-hometrainer"
+        },
+        "m2420330698": {
+          "first_seen_at": "2026-07-14T17:45:10.002537+00:00",
+          "price_display": "€ 100,00",
+          "title": "Step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420330698-step"
         }
       }
     },
@@ -2639,12 +2657,42 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "SIT ' n ' GYM",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420310056-sit-n-gym"
+        },
+        "m2420313228": {
+          "first_seen_at": "2026-07-14T17:44:47.948740+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vibromax trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420313228-vibromax-trilplaat"
+        },
+        "m2420322141": {
+          "first_seen_at": "2026-07-14T17:44:47.948740+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "Complete Halterbank Set, 75 kg gewicht en Halterstang 30mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420322141-complete-halterbank-set-75-kg-gewicht-en-halterstang-30mm"
+        },
+        "m2420324177": {
+          "first_seen_at": "2026-07-14T17:44:47.948740+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Professionele Weight tree / plate tree 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420324177-professionele-weight-tree-plate-tree-50mm"
+        },
+        "m2420325876": {
+          "first_seen_at": "2026-07-14T17:44:47.948740+00:00",
+          "price_display": "€ 39,99",
+          "title": "Powerlifting Riem Lever Buckle Belt ZeusAnime Karakter Print",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420325876-powerlifting-riem-lever-buckle-belt-zeusanime-karakter-print"
         }
       }
     },
     "Padel": {
       "initialized_at": "2026-07-13T14:08:07.794738+00:00",
       "seen": {
+        "a156762805": {
+          "first_seen_at": "2026-07-14T17:44:59.070275+00:00",
+          "price_display": "€ 69,99",
+          "title": "2dekans | Padel Racket - TUYO - Silver Stealth+ - voor de",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/a156762805-2dekans-padel-racket-tuyo-silver-stealth-voor-de"
+        },
         "m2382712855": {
           "first_seen_at": "2026-07-13T14:08:07.794538+00:00",
           "price_display": "Bieden vanaf € 1.800,00",
@@ -3052,6 +3100,12 @@
           "price_display": "€ 50,00",
           "title": "Padelracket head",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420309368-padelracket-head"
+        },
+        "m2420325302": {
+          "first_seen_at": "2026-07-14T17:44:59.070275+00:00",
+          "price_display": "€ 40,00",
+          "title": "Padel racket babolat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420325302-padel-racket-babolat"
         }
       }
     },
@@ -3645,7 +3699,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T16:37:05.582851+00:00",
+    "last_checked_at": "2026-07-14T17:45:39.081399+00:00",
     "outage_alert_sent": false
   }
 }
