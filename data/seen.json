@@ -1374,6 +1374,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420099598-crosstrainer"
+        },
+        "m2420103748": {
+          "first_seen_at": "2026-07-14T01:06:14.243953+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Crosstrainer Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420103748-crosstrainer-domyos"
         }
       }
     },
@@ -1895,6 +1901,12 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Gewichten Olympische bar met bank set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420092274-gewichten-olympische-bar-met-bank-set"
+        },
+        "m2420104408": {
+          "first_seen_at": "2026-07-14T01:05:53.219330+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fietstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420104408-fietstrainer"
         }
       }
     },
@@ -2751,7 +2763,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-13T23:49:29.565535+00:00",
+    "last_checked_at": "2026-07-14T01:06:39.151336+00:00",
     "outage_alert_sent": false
   }
 }
