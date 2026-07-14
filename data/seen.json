@@ -2999,6 +2999,18 @@
           "price_display": "€ 1,00",
           "title": "Professionele Olympische bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420382504-professionele-olympische-bank"
+        },
+        "m2420390371": {
+          "first_seen_at": "2026-07-14T22:15:13.046247+00:00",
+          "price_display": "€ 4.500,00",
+          "title": "Technogym personal recumbent bike ligfiets unity",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420390371-technogym-personal-recumbent-bike-ligfiets-unity"
+        },
+        "m2420390516": {
+          "first_seen_at": "2026-07-14T22:15:13.046247+00:00",
+          "price_display": "€ 2.999,00",
+          "title": "Nieuwste Model Technogym Skillmill Connect Loopband Skill",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420390516-nieuwste-model-technogym-skillmill-connect-loopband-skill"
         }
       }
     },
@@ -4053,7 +4065,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T21:12:23.401173+00:00",
+    "last_checked_at": "2026-07-14T22:15:56.110411+00:00",
     "outage_alert_sent": false
   }
 }
