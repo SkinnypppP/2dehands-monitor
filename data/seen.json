@@ -572,6 +572,12 @@
           "price_display": "€ 180,00",
           "title": "Semi - Akoestische hollow body gitaar Fazley nieuw !",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420346300-semi-akoestische-hollow-body-gitaar-fazley-nieuw"
+        },
+        "m2420395183": {
+          "first_seen_at": "2026-07-14T23:13:42.434466+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Guitare Yamaha C40",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420395183-guitare-yamaha-c40"
         }
       }
     },
@@ -3011,6 +3017,36 @@
           "price_display": "€ 2.999,00",
           "title": "Nieuwste Model Technogym Skillmill Connect Loopband Skill",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420390516-nieuwste-model-technogym-skillmill-connect-loopband-skill"
+        },
+        "m2420395313": {
+          "first_seen_at": "2026-07-14T23:12:54.401688+00:00",
+          "price_display": "€ 5.999,00",
+          "title": "Technogym Skillrun 5000 Loopband Skill Run Unity LIVE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420395313-technogym-skillrun-5000-loopband-skill-run-unity-live"
+        },
+        "m2420396257": {
+          "first_seen_at": "2026-07-14T23:12:54.401688+00:00",
+          "price_display": "€ 1.590,00",
+          "title": "Technogym Excite+ 1000 Unity 3 LIVE Upright Bike Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420396257-technogym-excite-1000-unity-3-live-upright-bike-hometrainer"
+        },
+        "m2420396619": {
+          "first_seen_at": "2026-07-14T23:12:54.401688+00:00",
+          "price_display": "€ 1.650,00",
+          "title": "Technogym Artis Upright Bike Unity Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420396619-technogym-artis-upright-bike-unity-hometrainer"
+        },
+        "m2420396812": {
+          "first_seen_at": "2026-07-14T23:12:54.401688+00:00",
+          "price_display": "€ 1.399,00",
+          "title": "Fitness Discover SE3HD Upright Bike Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420396812-fitness-discover-se3hd-upright-bike-hometrainer"
+        },
+        "m2420396982": {
+          "first_seen_at": "2026-07-14T23:12:54.401688+00:00",
+          "price_display": "€ 1.150,00",
+          "title": "Technogym Vario Excite+ 1000 LED Crosstrainer /Stepper Black",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420396982-technogym-vario-excite-1000-led-crosstrainer-stepper-black"
         }
       }
     },
@@ -4065,7 +4101,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T22:15:56.110411+00:00",
+    "last_checked_at": "2026-07-14T23:13:43.676270+00:00",
     "outage_alert_sent": false
   }
 }
