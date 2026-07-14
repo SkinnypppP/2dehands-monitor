@@ -1800,6 +1800,24 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Domyos Mini Stepper met Weerstandsbanden – Zeer Goede Staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420349649-domyos-mini-stepper-met-weerstandsbanden-zeer-goede-staat"
+        },
+        "m2420351506": {
+          "first_seen_at": "2026-07-14T20:00:42.888036+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "ATX LPL-700 Lat Pulldown / Low Row – Zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420351506-atx-lpl-700-lat-pulldown-low-row-zo-goed-als-nieuw"
+        },
+        "m2420360501": {
+          "first_seen_at": "2026-07-14T20:00:42.888036+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Stationaire fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420360501-stationaire-fiets"
+        },
+        "m2420363487": {
+          "first_seen_at": "2026-07-14T20:00:42.888036+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "Dreaver loopband met mat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420363487-dreaver-loopband-met-mat"
         }
       }
     },
@@ -2849,6 +2867,48 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420349995-crosstrainer"
+        },
+        "m2420350891": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "€ 5,00",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420350891-halterschijven"
+        },
+        "m2420351529": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "€ 7,50",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420351529-halterschijven"
+        },
+        "m2420354417": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "PRIX ULTRA BAS Lot accessoires gym / muscu SPORT A PRIX MINI",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420354417-prix-ultra-bas-lot-accessoires-gym-muscu-sport-a-prix-mini"
+        },
+        "m2420356007": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "€ 10,00",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420356007-halterschijven"
+        },
+        "m2420357708": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "€ 15,00",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420357708-halterschijven"
+        },
+        "m2420360985": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "€ 1.650,00",
+          "title": "Technogym Skillrow Skill row Roeitrainer Roeiapparaat Roeier",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420360985-technogym-skillrow-skill-row-roeitrainer-roeiapparaat-roeier"
+        },
+        "m2420362009": {
+          "first_seen_at": "2026-07-14T20:00:17.898310+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420362009-fitnessbank"
         }
       }
     },
@@ -3879,13 +3939,25 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano gunther a donner ixelles",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420346465-piano-gunther-a-donner-ixelles"
+        },
+        "m2420365065": {
+          "first_seen_at": "2026-07-14T20:01:10.581143+00:00",
+          "price_display": "€ 1.950,00",
+          "title": "Samick SU127",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420365065-samick-su127"
+        },
+        "m2420368175": {
+          "first_seen_at": "2026-07-14T20:01:10.581143+00:00",
+          "price_display": "€ 160,00",
+          "title": "Piano in zeer goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420368175-piano-in-zeer-goede-staat"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T18:50:52.002160+00:00",
+    "last_checked_at": "2026-07-14T20:01:25.688040+00:00",
     "outage_alert_sent": false
   }
 }
