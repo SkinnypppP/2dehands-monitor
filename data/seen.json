@@ -2370,6 +2370,12 @@
           "title": "Rubber Sportvloer Tegels Vanaf €16,- per m2! A Kwaliteit!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2166257893-rubber-sportvloer-tegels-vanaf-16-per-m2-a-kwaliteit"
         },
+        "m2389020949": {
+          "first_seen_at": "2026-07-15T20:55:59.181564+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2389020949-fitness"
+        },
         "m2398280757": {
           "first_seen_at": "2026-07-13T13:48:22.483533+00:00",
           "price_display": "€ 250,00",
@@ -3941,6 +3947,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Verstelbare Gewichten set-Dumbbell set Halter set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420683182-verstelbare-gewichten-set-dumbbell-set-halter-set"
+        },
+        "m2420684936": {
+          "first_seen_at": "2026-07-15T20:55:59.181564+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Squatrack + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420684936-squatrack-gewichten"
         }
       }
     },
@@ -4402,6 +4414,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Adidas metalbone 3.5 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420659299-adidas-metalbone-3-5-2026"
+        },
+        "m2420685329": {
+          "first_seen_at": "2026-07-15T20:56:11.803323+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Babolat technical viper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420685329-babolat-technical-viper"
         }
       }
     },
@@ -5187,7 +5205,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T19:56:40.512574+00:00",
+    "last_checked_at": "2026-07-15T20:56:43.458303+00:00",
     "outage_alert_sent": false
   }
 }
