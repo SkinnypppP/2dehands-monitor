@@ -800,6 +800,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Akoestische gitaar elektrische ‘Yahama’",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420640121-akoestische-gitaar-elektrische-yahama"
+        },
+        "m2420707883": {
+          "first_seen_at": "2026-07-15T22:57:40.078923+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Akoestische gitaar: Richwood Master Series D 50 CE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420707883-akoestische-gitaar-richwood-master-series-d-50-ce"
         }
       }
     },
@@ -3983,6 +3989,18 @@
           "price_display": "€ 1.499,00",
           "title": "Technogym Vario Excite+ 1000 Unity LIVE Crosstrainer / Step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420702253-technogym-vario-excite-1000-unity-live-crosstrainer-step"
+        },
+        "m2420704871": {
+          "first_seen_at": "2026-07-15T22:56:58.092926+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420704871-fitness-materiaal"
+        },
+        "m2420708522": {
+          "first_seen_at": "2026-07-15T22:56:58.092926+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Pull up bar decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420708522-pull-up-bar-decathlon"
         }
       }
     },
@@ -5241,7 +5259,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T21:57:24.922855+00:00",
+    "last_checked_at": "2026-07-15T22:57:40.934014+00:00",
     "outage_alert_sent": false
   }
 }
