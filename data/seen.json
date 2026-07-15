@@ -578,6 +578,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Guitare Yamaha C40",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420395183-guitare-yamaha-c40"
+        },
+        "m2420409339": {
+          "first_seen_at": "2026-07-15T03:28:32.667043+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420409339-gitaar"
         }
       }
     },
@@ -4101,7 +4107,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-14T23:13:43.676270+00:00",
+    "last_checked_at": "2026-07-15T03:28:34.242233+00:00",
     "outage_alert_sent": false
   }
 }
