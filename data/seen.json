@@ -4294,6 +4294,18 @@
           "price_display": "€ 190,00",
           "title": "Padel racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420625772-padel-racket"
+        },
+        "m2420658630": {
+          "first_seen_at": "2026-07-15T18:47:13.472711+00:00",
+          "price_display": "€ 150,00",
+          "title": "Adidas metalbone carbon control 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420658630-adidas-metalbone-carbon-control-2026"
+        },
+        "m2420659299": {
+          "first_seen_at": "2026-07-15T18:47:13.472711+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Adidas metalbone 3.5 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420659299-adidas-metalbone-3-5-2026"
         }
       }
     },
@@ -5079,7 +5091,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T17:42:34.688951+00:00",
+    "last_checked_at": "2026-07-15T18:47:57.528057+00:00",
     "outage_alert_sent": false
   }
 }
