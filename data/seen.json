@@ -596,6 +596,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420409339-gitaar"
+        },
+        "m2420437846": {
+          "first_seen_at": "2026-07-15T07:58:15.713298+00:00",
+          "price_display": "€ 950,00",
+          "title": "Lava me 4",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420437846-lava-me-4"
+        },
+        "m2420444759": {
+          "first_seen_at": "2026-07-15T07:58:15.713298+00:00",
+          "price_display": "€ 420,00",
+          "title": "PRS SE A20E Angelus",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420444759-prs-se-a20e-angelus"
         }
       }
     },
@@ -1099,12 +1111,24 @@
           "price_display": "Zie omschrijving",
           "title": "1/10 ounce Britannia 2025 zilver .999 tube 16 munten BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420383800-1-10-ounce-britannia-2025-zilver-999-tube-16-munten-bu"
+        },
+        "m2420442924": {
+          "first_seen_at": "2026-07-15T07:57:54.646432+00:00",
+          "price_display": "€ 2.300,00",
+          "title": "1kg zilver baar Heraeus",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420442924-1kg-zilver-baar-heraeus"
         }
       }
     },
     "Fitnessapparatuur": {
       "initialized_at": "2026-07-13T14:08:16.397944+00:00",
       "seen": {
+        "a135887988": {
+          "first_seen_at": "2026-07-15T07:57:46.320425+00:00",
+          "price_display": "€ 3.400,00",
+          "title": "Technogym Top Excite 700 Unity",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a135887988-technogym-top-excite-700-unity"
+        },
         "a135938407": {
           "first_seen_at": "2026-07-13T14:08:16.397932+00:00",
           "price_display": "€ 4.400,00",
@@ -1146,6 +1170,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Crosstrainer Bremshey CF3",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2388308196-crosstrainer-bremshey-cf3"
+        },
+        "m2402831402": {
+          "first_seen_at": "2026-07-15T07:57:46.320425+00:00",
+          "price_display": "€ 235,00",
+          "title": "loopband nog nieuw! weg wegens verhuis",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2402831402-loopband-nog-nieuw-weg-wegens-verhuis"
         },
         "m2411431827": {
           "first_seen_at": "2026-07-13T14:08:16.397733+00:00",
@@ -3083,6 +3113,48 @@
           "price_display": "€ 1.500,00",
           "title": "Powertec",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420416252-powertec"
+        },
+        "m2420427164": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "€ 3.000,00",
+          "title": "Dumbells life fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420427164-dumbells-life-fitness"
+        },
+        "m2420428549": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Jordan Fitness Portable Landmine Attachment",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420428549-jordan-fitness-portable-landmine-attachment"
+        },
+        "m2420436775": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "€ 15,00",
+          "title": "Halter baar 1m60",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420436775-halter-baar-1m60"
+        },
+        "m2420437265": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "€ 55,00",
+          "title": "Barbell/halterstang 14kg - 150cm (50mm) in nieuwstaat!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420437265-barbell-halterstang-14kg-150cm-50mm-in-nieuwstaat"
+        },
+        "m2420439765": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "€ 35,00",
+          "title": "Dumbbells gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420439765-dumbbells-gewichten"
+        },
+        "m2420442975": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "Bieden vanaf € 245,00",
+          "title": "Complete set Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420442975-complete-set-fitness"
+        },
+        "m2420447943": {
+          "first_seen_at": "2026-07-15T07:57:22.652126+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "CORE Heat Training Suit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420447943-core-heat-training-suit"
         }
       }
     },
@@ -4137,13 +4209,25 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano J. Oor",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420420535-piano-j-oor"
+        },
+        "m2420430462": {
+          "first_seen_at": "2026-07-15T07:58:03.769204+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Piano ancien",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420430462-piano-ancien"
+        },
+        "m2420441563": {
+          "first_seen_at": "2026-07-15T07:58:03.769204+00:00",
+          "price_display": "€ 9.500,00",
+          "title": "Zeer mooie vleugelpiano Yamaha G2 te koop.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420441563-zeer-mooie-vleugelpiano-yamaha-g2-te-koop"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T05:54:04.605393+00:00",
+    "last_checked_at": "2026-07-15T07:58:17.228823+00:00",
     "outage_alert_sent": false
   }
 }
