@@ -2298,6 +2298,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Infinity goods loopband inklapbaar tot 12km/u",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420680353-infinity-goods-loopband-inklapbaar-tot-12km-u"
+        },
+        "m2420697054": {
+          "first_seen_at": "2026-07-15T21:56:55.982828+00:00",
+          "price_display": "€ 400,00",
+          "title": "Virtufit TR100 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420697054-virtufit-tr100-loopband"
         }
       }
     },
@@ -3953,6 +3959,30 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Squatrack + gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420684936-squatrack-gewichten"
+        },
+        "m2420700766": {
+          "first_seen_at": "2026-07-15T21:56:34.778565+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Lebert EQualizer Totale Lichaamsversterker",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420700766-lebert-equalizer-totale-lichaamsversterker"
+        },
+        "m2420701509": {
+          "first_seen_at": "2026-07-15T21:56:34.778565+00:00",
+          "price_display": "€ 5.499,00",
+          "title": "Technogym Skillrun TX 500 Loopband Skill Run",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420701509-technogym-skillrun-tx-500-loopband-skill-run"
+        },
+        "m2420701824": {
+          "first_seen_at": "2026-07-15T21:56:34.778565+00:00",
+          "price_display": "€ 1.499,00",
+          "title": "New model Technogym Pure Strength Olympic Half Rack Halfrack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420701824-new-model-technogym-pure-strength-olympic-half-rack-halfrack"
+        },
+        "m2420702253": {
+          "first_seen_at": "2026-07-15T21:56:34.778565+00:00",
+          "price_display": "€ 1.499,00",
+          "title": "Technogym Vario Excite+ 1000 Unity LIVE Crosstrainer / Step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420702253-technogym-vario-excite-1000-unity-live-crosstrainer-step"
         }
       }
     },
@@ -4420,6 +4450,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Babolat technical viper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420685329-babolat-technical-viper"
+        },
+        "m2420698146": {
+          "first_seen_at": "2026-07-15T21:56:45.955919+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "Bullpadel Vertex 04 Hybrid 2025",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2420698146-bullpadel-vertex-04-hybrid-2025"
         }
       }
     },
@@ -5205,7 +5241,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T20:56:43.458303+00:00",
+    "last_checked_at": "2026-07-15T21:57:24.922855+00:00",
     "outage_alert_sent": false
   }
 }
