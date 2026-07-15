@@ -33,11 +33,23 @@
           "title": "Takamine - GX11ME-NS - - Guitare acoustique - Chine - 2010",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164392379-takamine-gx11me-ns-guitare-acoustique-chine-2010"
         },
+        "a164392388": {
+          "first_seen_at": "2026-07-15T05:54:02.666933+00:00",
+          "price_display": "€ 183,00",
+          "title": "Greco - - Guitare électrique - Japon - 1974 (Sans prix de",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164392388-greco-guitare-electrique-japon-1974-sans-prix-de"
+        },
         "a164393414": {
           "first_seen_at": "2026-07-14T06:28:09.400772+00:00",
           "price_display": "€ 27,00",
           "title": "Kawai - E40 - - Guitare acoustique - Japon - 1955",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164393414-kawai-e40-guitare-acoustique-japon-1955"
+        },
+        "a164393997": {
+          "first_seen_at": "2026-07-15T05:54:02.666933+00:00",
+          "price_display": "€ 206,00",
+          "title": "Ibanez - AM53 - - Guitare à corps semi-creux - Chine - 2017",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164393997-ibanez-am53-guitare-a-corps-semi-creux-chine-2017"
         },
         "a164394034": {
           "first_seen_at": "2026-07-13T14:08:36.532176+00:00",
@@ -1860,6 +1872,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420372074-hometrainer"
+        },
+        "m2420424896": {
+          "first_seen_at": "2026-07-15T05:53:37.732070+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness - Trilplaat Powermaxx",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420424896-fitness-trilplaat-powermaxx"
         }
       }
     },
@@ -1889,6 +1907,12 @@
           "price_display": "€ 25,00",
           "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164174418-diverse-schijven-platen-olympische-schijven-bumper"
+        },
+        "a164178126": {
+          "first_seen_at": "2026-07-15T05:53:19.561661+00:00",
+          "price_display": "€ 3.199,00",
+          "title": "Run 600i LED",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164178126-run-600i-led"
         },
         "a164407771": {
           "first_seen_at": "2026-07-14T06:27:18.841295+00:00",
@@ -3053,6 +3077,12 @@
           "price_display": "€ 1.150,00",
           "title": "Technogym Vario Excite+ 1000 LED Crosstrainer /Stepper Black",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420396982-technogym-vario-excite-1000-led-crosstrainer-stepper-black"
+        },
+        "m2420416252": {
+          "first_seen_at": "2026-07-15T05:53:19.561661+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Powertec",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420416252-powertec"
         }
       }
     },
@@ -4101,13 +4131,19 @@
           "price_display": "€ 160,00",
           "title": "Piano in zeer goede staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420368175-piano-in-zeer-goede-staat"
+        },
+        "m2420420535": {
+          "first_seen_at": "2026-07-15T05:53:55.079931+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano J. Oor",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420420535-piano-j-oor"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T03:28:34.242233+00:00",
+    "last_checked_at": "2026-07-15T05:54:04.605393+00:00",
     "outage_alert_sent": false
   }
 }
