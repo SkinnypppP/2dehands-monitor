@@ -75,6 +75,12 @@
           "title": "LARRIVEE OMV 03 (2002)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2375497804-larrivee-omv-03-2002"
         },
+        "m2382486702": {
+          "first_seen_at": "2026-07-16T22:00:37.634165+00:00",
+          "price_display": "€ 395,00",
+          "title": "Klassieke akoestische gitaar ALHAMBRA 7Fs",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2382486702-klassieke-akoestische-gitaar-alhambra-7fs"
+        },
         "m2383950512": {
           "first_seen_at": "2026-07-16T07:37:02.436750+00:00",
           "price_display": "Bieden vanaf € 1.800,00",
@@ -2688,6 +2694,12 @@
           "price_display": "€ 150,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420995969-crosstrainer"
+        },
+        "m2421009062": {
+          "first_seen_at": "2026-07-16T22:00:03.156099+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Domyos loopband T900D",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421009062-domyos-loopband-t900d"
         }
       }
     },
@@ -4877,6 +4889,24 @@
           "price_display": "€ 120,00",
           "title": "Loopband Sportconic",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420977058-loopband-sportconic"
+        },
+        "m2421000440": {
+          "first_seen_at": "2026-07-16T21:59:41.394709+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vrijstaande optrekstang + houten ringen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421000440-vrijstaande-optrekstang-houten-ringen"
+        },
+        "m2421000572": {
+          "first_seen_at": "2026-07-16T21:59:41.394709+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Loopband Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421000572-loopband-tunturi"
+        },
+        "m2421002431": {
+          "first_seen_at": "2026-07-16T21:59:41.394709+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Smith Machine Precor Icarian Line",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421002431-smith-machine-precor-icarian-line"
         }
       }
     },
@@ -6375,13 +6405,25 @@
           "price_display": "Bieden vanaf € 2.150,00",
           "title": "Buffetpiano Gaveau [Gerenoveerd] incl. pianobankje",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420981720-buffetpiano-gaveau-gerenoveerd-incl-pianobankje"
+        },
+        "m2421006051": {
+          "first_seen_at": "2026-07-16T22:00:25.621510+00:00",
+          "price_display": "€ 900,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421006051-piano"
+        },
+        "m2421009261": {
+          "first_seen_at": "2026-07-16T22:00:25.621510+00:00",
+          "price_display": "€ 190,00",
+          "title": "piano J Gunther Brussel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421009261-piano-j-gunther-brussel"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T20:52:27.087004+00:00",
+    "last_checked_at": "2026-07-16T22:00:38.924583+00:00",
     "outage_alert_sent": false
   }
 }
