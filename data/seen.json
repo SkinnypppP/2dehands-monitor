@@ -1369,6 +1369,12 @@
           "price_display": "€ 40,00",
           "title": "Lingot de cuivre 1kg",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420563055-lingot-de-cuivre-1kg"
+        },
+        "m2420716148": {
+          "first_seen_at": "2026-07-16T02:33:18.267216+00:00",
+          "price_display": "€ 9,50",
+          "title": "led spot, aluminum, adjustable",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420716148-led-spot-aluminum-adjustable"
         }
       }
     },
@@ -4001,6 +4007,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Pull up bar decathlon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420708522-pull-up-bar-decathlon"
+        },
+        "m2420713116": {
+          "first_seen_at": "2026-07-16T02:32:50.800421+00:00",
+          "price_display": "Bieden vanaf € 215,00",
+          "title": "Domyos T540 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420713116-domyos-t540-loopband"
         }
       }
     },
@@ -5259,7 +5271,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-15T22:57:40.934014+00:00",
+    "last_checked_at": "2026-07-16T02:33:38.580231+00:00",
     "outage_alert_sent": false
   }
 }
