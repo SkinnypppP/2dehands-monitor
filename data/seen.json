@@ -1597,6 +1597,18 @@
           "price_display": "Bieden vanaf € 62,00",
           "title": "American Eagle 1 ounce .9999 zilver - 25x",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420957879-american-eagle-1-ounce-9999-zilver-25x"
+        },
+        "m2420991023": {
+          "first_seen_at": "2026-07-16T20:52:04.298729+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Koper",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420991023-koper"
+        },
+        "m2420996778": {
+          "first_seen_at": "2026-07-16T20:52:04.298729+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zilveren munten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420996778-zilveren-munten"
         }
       }
     },
@@ -2670,6 +2682,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Compacte pedaaltrainer/mini hometrainer-Ideaal voor thuis!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420971860-compacte-pedaaltrainer-mini-hometrainer-ideaal-voor-thuis"
+        },
+        "m2420995969": {
+          "first_seen_at": "2026-07-16T20:51:56.735764+00:00",
+          "price_display": "€ 150,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420995969-crosstrainer"
         }
       }
     },
@@ -6363,7 +6381,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T19:52:30.289294+00:00",
+    "last_checked_at": "2026-07-16T20:52:27.087004+00:00",
     "outage_alert_sent": false
   }
 }
