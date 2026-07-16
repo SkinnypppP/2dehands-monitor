@@ -39,6 +39,12 @@
           "title": "Greco - - Guitare électrique - Japon - 1974 (Sans prix de",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164392388-greco-guitare-electrique-japon-1974-sans-prix-de"
         },
+        "a164392398": {
+          "first_seen_at": "2026-07-16T05:27:31.031528+00:00",
+          "price_display": "€ 270,00",
+          "title": "Morris - Alembic Clone 2H Double Cut Electric Guitar - -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164392398-morris-alembic-clone-2h-double-cut-electric-guitar"
+        },
         "a164393414": {
           "first_seen_at": "2026-07-14T06:28:09.400772+00:00",
           "price_display": "€ 27,00",
@@ -2316,6 +2322,12 @@
           "price_display": "€ 400,00",
           "title": "Virtufit TR100 loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420697054-virtufit-tr100-loopband"
+        },
+        "m2420722479": {
+          "first_seen_at": "2026-07-16T05:27:03.639187+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Domyos EL900 Crosstrainer – Zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420722479-domyos-el900-crosstrainer-zo-goed-als-nieuw"
         }
       }
     },
@@ -2357,6 +2369,12 @@
           "price_display": "€ 401,88",
           "title": "Life Fitness - Kracht Set - 10 Delig (lease)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164407771-life-fitness-kracht-set-10-delig-lease"
+        },
+        "a164407773": {
+          "first_seen_at": "2026-07-16T05:26:42.779591+00:00",
+          "price_display": "€ 401,88",
+          "title": "Life Fitness - Kracht Set - 10 Delig (lease)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164407773-life-fitness-kracht-set-10-delig-lease"
         },
         "a164515179": {
           "first_seen_at": "2026-07-14T06:27:18.841295+00:00",
@@ -5271,7 +5289,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T02:33:38.580231+00:00",
+    "last_checked_at": "2026-07-16T05:27:31.737950+00:00",
     "outage_alert_sent": false
   }
 }
