@@ -968,6 +968,12 @@
           "price_display": "€ 1.800,00",
           "title": "Gibson J-45 Standard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420929902-gibson-j-45-standard"
+        },
+        "m2420983635": {
+          "first_seen_at": "2026-07-16T19:52:29.172396+00:00",
+          "price_display": "Gratis",
+          "title": "Op zoek naar een ongebruikte gitaar of ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420983635-op-zoek-naar-een-ongebruikte-gitaar-of-ukelele"
         }
       }
     },
@@ -2658,6 +2664,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Kettler hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420942206-kettler-hometrainer"
+        },
+        "m2420971860": {
+          "first_seen_at": "2026-07-16T19:51:54.748189+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Compacte pedaaltrainer/mini hometrainer-Ideaal voor thuis!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420971860-compacte-pedaaltrainer-mini-hometrainer-ideaal-voor-thuis"
         }
       }
     },
@@ -2831,6 +2843,12 @@
           "price_display": "€ 1.200,00",
           "title": "Dumbbell set 2,5 tot 30kg met rek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2412203829-dumbbell-set-2-5-tot-30kg-met-rek"
+        },
+        "m2412575386": {
+          "first_seen_at": "2026-07-16T19:51:34.548594+00:00",
+          "price_display": "€ 699,00",
+          "title": "Loopband x trend",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2412575386-loopband-x-trend"
         },
         "m2414949648": {
           "first_seen_at": "2026-07-13T13:48:22.483498+00:00",
@@ -4835,6 +4853,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Trilplaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420967367-trilplaat"
+        },
+        "m2420977058": {
+          "first_seen_at": "2026-07-16T19:51:34.548594+00:00",
+          "price_display": "€ 120,00",
+          "title": "Loopband Sportconic",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420977058-loopband-sportconic"
         }
       }
     },
@@ -5493,6 +5517,12 @@
           "price_display": "€ 25.000,00",
           "title": "C. Bechstein-vleugel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2372424489-c-bechstein-vleugel"
+        },
+        "m2382375130": {
+          "first_seen_at": "2026-07-16T19:52:15.968012+00:00",
+          "price_display": "€ 27.000,00",
+          "title": "Steinway & Sons vleugel Grand model B-211 Palissander",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2382375130-steinway-sons-vleugel-grand-model-b-211-palissander"
         },
         "m2383143489": {
           "first_seen_at": "2026-07-13T18:11:51.111829+00:00",
@@ -6321,13 +6351,19 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Vida xl piano 88 touche sans pied",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420961016-vida-xl-piano-88-touche-sans-pied"
+        },
+        "m2420981720": {
+          "first_seen_at": "2026-07-16T19:52:15.968012+00:00",
+          "price_display": "Bieden vanaf € 2.150,00",
+          "title": "Buffetpiano Gaveau [Gerenoveerd] incl. pianobankje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420981720-buffetpiano-gaveau-gerenoveerd-incl-pianobankje"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T18:51:09.110141+00:00",
+    "last_checked_at": "2026-07-16T19:52:30.289294+00:00",
     "outage_alert_sent": false
   }
 }
