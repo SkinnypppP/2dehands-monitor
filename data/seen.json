@@ -6417,13 +6417,25 @@
           "price_display": "€ 190,00",
           "title": "piano J Gunther Brussel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421009261-piano-j-gunther-brussel"
+        },
+        "m2421015999": {
+          "first_seen_at": "2026-07-16T23:03:19.829351+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano pedal for young pianists",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421015999-piano-pedal-for-young-pianists"
+        },
+        "m2421016204": {
+          "first_seen_at": "2026-07-16T23:03:19.829351+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano vintage",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421016204-piano-vintage"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T22:00:38.924583+00:00",
+    "last_checked_at": "2026-07-16T23:03:43.258441+00:00",
     "outage_alert_sent": false
   }
 }
