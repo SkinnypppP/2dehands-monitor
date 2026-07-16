@@ -1573,6 +1573,18 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Step linergy buitenlamp",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420929712-step-linergy-buitenlamp"
+        },
+        "m2420949565": {
+          "first_seen_at": "2026-07-16T17:50:32.961297+00:00",
+          "price_display": "Bieden vanaf € 1.900,00",
+          "title": "1 kg zilverbaar Tony Goetz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420949565-1-kg-zilverbaar-tony-goetz"
+        },
+        "m2420951916": {
+          "first_seen_at": "2026-07-16T17:50:32.961297+00:00",
+          "price_display": "Bieden vanaf € 14,00",
+          "title": "Brittania 1/10 ounce .999 zilver 2026",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420951916-brittania-1-10-ounce-999-zilver-2026"
         }
       }
     },
@@ -2628,6 +2640,18 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420926772-crosstrainer"
+        },
+        "m2420936391": {
+          "first_seen_at": "2026-07-16T17:50:21.280825+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Wonder core smart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420936391-wonder-core-smart"
+        },
+        "m2420942206": {
+          "first_seen_at": "2026-07-16T17:50:21.280825+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Kettler hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2420942206-kettler-hometrainer"
         }
       }
     },
@@ -4733,6 +4757,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Halter van 4 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420928469-halter-van-4-kg"
+        },
+        "m2420936315": {
+          "first_seen_at": "2026-07-16T17:49:57.671564+00:00",
+          "price_display": "€ 80,00",
+          "title": "Behandelingsstoel, pedicuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420936315-behandelingsstoel-pedicuur"
+        },
+        "m2420937972": {
+          "first_seen_at": "2026-07-16T17:49:57.671564+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "TECHNOGYM OLYMPIC FLAT BENCH",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420937972-technogym-olympic-flat-bench"
+        },
+        "m2420938262": {
+          "first_seen_at": "2026-07-16T17:49:57.671564+00:00",
+          "price_display": "Bieden vanaf € 499,00",
+          "title": "Life Fitness G2-101 Station de musculation complète bon état",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420938262-life-fitness-g2-101-station-de-musculation-complete-bon-etat"
+        },
+        "m2420944419": {
+          "first_seen_at": "2026-07-16T17:49:57.671564+00:00",
+          "price_display": "€ 950,00",
+          "title": "Combinatie Apparaat , Lat pulley en Row Apparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2420944419-combinatie-apparaat-lat-pulley-en-row-apparaat"
         }
       }
     },
@@ -6189,13 +6237,25 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Casio PX-160 elektronische piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420930913-casio-px-160-elektronische-piano"
+        },
+        "m2420932878": {
+          "first_seen_at": "2026-07-16T17:50:45.262181+00:00",
+          "price_display": "Bieden vanaf € 1.750,00",
+          "title": "Yamaha CVP605",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420932878-yamaha-cvp605"
+        },
+        "m2420933096": {
+          "first_seen_at": "2026-07-16T17:50:45.262181+00:00",
+          "price_display": "€ 400,00",
+          "title": "Digitale piano met opbergkruk en hoofdtelefoon",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2420933096-digitale-piano-met-opbergkruk-en-hoofdtelefoon"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T16:39:00.659098+00:00",
+    "last_checked_at": "2026-07-16T17:50:53.648780+00:00",
     "outage_alert_sent": false
   }
 }
