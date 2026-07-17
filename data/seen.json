@@ -3012,6 +3012,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Dunlop Concept 1200 Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421314775-dunlop-concept-1200-hometrainer"
+        },
+        "m2421319868": {
+          "first_seen_at": "2026-07-17T23:10:39.550024+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421319868-roeitrainer"
         }
       }
     },
@@ -5657,6 +5663,12 @@
           "price_display": "Zie omschrijving",
           "title": "Summer Shred Stack | Fat Loss, Cut, Recomp & Muscle Gain",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421311191-summer-shred-stack-fat-loss-cut-recomp-muscle-gain"
+        },
+        "m2421318766": {
+          "first_seen_at": "2026-07-17T23:10:20.003499+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "TECHNOGYM OLYMPIC FLAT BENCH",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421318766-technogym-olympic-flat-bench"
         }
       }
     },
@@ -7395,7 +7407,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T22:13:27.884889+00:00",
+    "last_checked_at": "2026-07-17T23:11:06.606591+00:00",
     "outage_alert_sent": false
   }
 }
