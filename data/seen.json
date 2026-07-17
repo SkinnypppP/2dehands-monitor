@@ -69,6 +69,12 @@
           "title": "Frankenstein, Fender - Stratocaster - - Guitare électrique -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164394034-frankenstein-fender-stratocaster-guitare-electrique"
         },
+        "a164614406": {
+          "first_seen_at": "2026-07-17T06:02:56.360903+00:00",
+          "price_display": "€ 10,00",
+          "title": "G&L - Tribute Asat Special Tobacco Sunburst - - Guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164614406-g-l-tribute-asat-special-tobacco-sunburst-guitare"
+        },
         "m2362891553": {
           "first_seen_at": "2026-07-13T14:08:36.532002+00:00",
           "price_display": "€ 7.500,00",
@@ -986,6 +992,12 @@
           "price_display": "Gratis",
           "title": "Op zoek naar een ongebruikte gitaar of ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2420983635-op-zoek-naar-een-ongebruikte-gitaar-of-ukelele"
+        },
+        "m2421036550": {
+          "first_seen_at": "2026-07-17T06:02:56.360903+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421036550-guitar"
         }
       }
     },
@@ -2765,6 +2777,12 @@
           "price_display": "€ 1.450,00",
           "title": "Dumbell Set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164515179-dumbell-set"
+        },
+        "a164573580": {
+          "first_seen_at": "2026-07-17T06:02:06.175725+00:00",
+          "price_display": "€ 900,00",
+          "title": "Concept 2 - Indoor Rower Model C - Roeier",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164573580-concept-2-indoor-rower-model-c-roeier"
         },
         "m2063918943": {
           "first_seen_at": "2026-07-13T13:48:22.483512+00:00",
@@ -4919,6 +4937,18 @@
           "price_display": "€ 1.500,00",
           "title": "Smith Machine Precor Icarian Line",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421002431-smith-machine-precor-icarian-line"
+        },
+        "m2421033950": {
+          "first_seen_at": "2026-07-17T06:02:06.175725+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "haltères",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421033950-halteres"
+        },
+        "m2421044244": {
+          "first_seen_at": "2026-07-17T06:02:06.175725+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "165kg Technogym Olympische Training Plates + 2 Barbell + Rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421044244-165kg-technogym-olympische-training-plates-2-barbell-rek"
         }
       }
     },
@@ -6441,13 +6471,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano vintage",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421016204-piano-vintage"
+        },
+        "m2421044110": {
+          "first_seen_at": "2026-07-17T06:02:45.462278+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Digitale piano (Yamaha Clavinova)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421044110-digitale-piano-yamaha-clavinova"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T03:35:08.480454+00:00",
+    "last_checked_at": "2026-07-17T06:02:58.716339+00:00",
     "outage_alert_sent": false
   }
 }
