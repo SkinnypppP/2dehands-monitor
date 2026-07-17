@@ -1615,6 +1615,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Zilveren munten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2420996778-zilveren-munten"
+        },
+        "m2421021766": {
+          "first_seen_at": "2026-07-17T00:09:45.727116+00:00",
+          "price_display": "Bieden vanaf € 680,00",
+          "title": "Gouden munt 20 Francs Cockerel Marianne 1909",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421021766-gouden-munt-20-francs-cockerel-marianne-1909"
         }
       }
     },
@@ -6435,7 +6441,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-16T23:03:43.258441+00:00",
+    "last_checked_at": "2026-07-17T00:10:01.038970+00:00",
     "outage_alert_sent": false
   }
 }
