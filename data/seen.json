@@ -3006,6 +3006,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421306422-hometrainer"
+        },
+        "m2421314775": {
+          "first_seen_at": "2026-07-17T22:12:57.605477+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Dunlop Concept 1200 Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421314775-dunlop-concept-1200-hometrainer"
         }
       }
     },
@@ -5645,6 +5651,12 @@
           "price_display": "€ 300,00",
           "title": "Lion TITANSILVER V5 Verstelbare Dumbell t/m 41.5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421302759-lion-titansilver-v5-verstelbare-dumbell-t-m-41-5kg"
+        },
+        "m2421311191": {
+          "first_seen_at": "2026-07-17T22:12:39.183620+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Summer Shred Stack | Fat Loss, Cut, Recomp & Muscle Gain",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421311191-summer-shred-stack-fat-loss-cut-recomp-muscle-gain"
         }
       }
     },
@@ -7383,7 +7395,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T21:24:51.681863+00:00",
+    "last_checked_at": "2026-07-17T22:13:27.884889+00:00",
     "outage_alert_sent": false
   }
 }
