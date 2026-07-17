@@ -2928,6 +2928,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Kettler hometrainer ergometer DX1 pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421248290-kettler-hometrainer-ergometer-dx1-pro"
+        },
+        "m2421264137": {
+          "first_seen_at": "2026-07-17T18:15:59.123141+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roeitoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421264137-roeitoestel"
+        },
+        "m2421267442": {
+          "first_seen_at": "2026-07-17T18:15:59.123141+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Kettler crosstrainer - weerstand werkt, display defect",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421267442-kettler-crosstrainer-weerstand-werkt-display-defect"
         }
       }
     },
@@ -5501,6 +5513,42 @@
           "price_display": "€ 125,00",
           "title": "Zipro Wave White Crosstrainer Nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421248673-zipro-wave-white-crosstrainer-nieuw"
+        },
+        "m2421253376": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "€ 170,00",
+          "title": "Alles nog nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421253376-alles-nog-nieuw"
+        },
+        "m2421257173": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "€ 19,00",
+          "title": "Onderarm trainer Wrist Twister",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421257173-onderarm-trainer-wrist-twister"
+        },
+        "m2421257429": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "€ 15,90",
+          "title": "Weerstandsbanden set met accessoires starterset beginners",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421257429-weerstandsbanden-set-met-accessoires-starterset-beginners"
+        },
+        "m2421257700": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "€ 12,90",
+          "title": "Wrist straps polsbeschermers voor krachttraining nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421257700-wrist-straps-polsbeschermers-voor-krachttraining-nieuw"
+        },
+        "m2421259459": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "€ 250,00",
+          "title": "homegym te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421259459-homegym-te-koop"
+        },
+        "m2421266514": {
+          "first_seen_at": "2026-07-17T18:15:39.349061+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Nieuwe Gornation calisthenics Premium Dip Bars",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421266514-nieuwe-gornation-calisthenics-premium-dip-bars"
         }
       }
     },
@@ -7191,13 +7239,19 @@
           "price_display": "€ 2.900,00",
           "title": "U1 YAMAHA WIT",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421243226-u1-yamaha-wit"
+        },
+        "m2421261466": {
+          "first_seen_at": "2026-07-17T18:16:15.635727+00:00",
+          "price_display": "Bieden vanaf € 900,00",
+          "title": "Magnifique piano Sangler et Sohne blanc",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421261466-magnifique-piano-sangler-et-sohne-blanc"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T17:07:29.626339+00:00",
+    "last_checked_at": "2026-07-17T18:16:26.479207+00:00",
     "outage_alert_sent": false
   }
 }
