@@ -1106,6 +1106,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar Aria AK100 met draagtas.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421301340-gitaar-aria-ak100-met-draagtas"
+        },
+        "m2421304409": {
+          "first_seen_at": "2026-07-17T21:24:50.850259+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421304409-gitaar"
         }
       }
     },
@@ -2988,6 +2994,18 @@
           "price_display": "€ 55,00",
           "title": "Mini / SwissJump / BodyBounce Trampoline Bluefiniti",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421301473-mini-swissjump-bodybounce-trampoline-bluefiniti"
+        },
+        "m2421302388": {
+          "first_seen_at": "2026-07-17T21:24:24.376216+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Weider Pro PT800 Power Tower – Zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421302388-weider-pro-pt800-power-tower-zeer-goede-staat"
+        },
+        "m2421306422": {
+          "first_seen_at": "2026-07-17T21:24:24.376216+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421306422-hometrainer"
         }
       }
     },
@@ -5621,6 +5639,12 @@
           "price_display": "€ 30,00",
           "title": "Vlakke bench /halterbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421297664-vlakke-bench-halterbank"
+        },
+        "m2421302759": {
+          "first_seen_at": "2026-07-17T21:24:06.209212+00:00",
+          "price_display": "€ 300,00",
+          "title": "Lion TITANSILVER V5 Verstelbare Dumbell t/m 41.5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421302759-lion-titansilver-v5-verstelbare-dumbell-t-m-41-5kg"
         }
       }
     },
@@ -7359,7 +7383,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T20:30:50.404397+00:00",
+    "last_checked_at": "2026-07-17T21:24:51.681863+00:00",
     "outage_alert_sent": false
   }
 }
