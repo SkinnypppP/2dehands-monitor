@@ -5549,6 +5549,24 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Nieuwe Gornation calisthenics Premium Dip Bars",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421266514-nieuwe-gornation-calisthenics-premium-dip-bars"
+        },
+        "m2421273483": {
+          "first_seen_at": "2026-07-17T19:34:58.487699+00:00",
+          "price_display": "Bieden vanaf € 1.600,00",
+          "title": "Crosstrainer Ergonomisch",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421273483-crosstrainer-ergonomisch"
+        },
+        "m2421274345": {
+          "first_seen_at": "2026-07-17T19:34:58.487699+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Lat pulldown",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421274345-lat-pulldown"
+        },
+        "m2421288926": {
+          "first_seen_at": "2026-07-17T19:34:58.487699+00:00",
+          "price_display": "€ 60,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421288926-gewichten"
         }
       }
     },
@@ -6261,6 +6279,12 @@
           "price_display": "€ 69,00",
           "title": "Yamaha huren met koopoptie, gratis stembeurten en levering!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2386274708-yamaha-huren-met-koopoptie-gratis-stembeurten-en-levering"
+        },
+        "m2391470955": {
+          "first_seen_at": "2026-07-17T19:35:41.403995+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2391470955-piano-yamaha"
         },
         "m2393151381": {
           "first_seen_at": "2026-07-13T14:08:29.176389+00:00",
@@ -7245,13 +7269,31 @@
           "price_display": "Bieden vanaf € 900,00",
           "title": "Magnifique piano Sangler et Sohne blanc",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421261466-magnifique-piano-sangler-et-sohne-blanc"
+        },
+        "m2421276124": {
+          "first_seen_at": "2026-07-17T19:35:41.403995+00:00",
+          "price_display": "€ 5.500,00",
+          "title": "Prachtige Weber (Aeolian) Baby Grand Vleugelpiano (1920)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421276124-prachtige-weber-aeolian-baby-grand-vleugelpiano-1920"
+        },
+        "m2421277913": {
+          "first_seen_at": "2026-07-17T19:35:41.403995+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421277913-piano"
+        },
+        "m2421282686": {
+          "first_seen_at": "2026-07-17T19:35:41.403995+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421282686-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T18:16:26.479207+00:00",
+    "last_checked_at": "2026-07-17T19:35:52.691344+00:00",
     "outage_alert_sent": false
   }
 }
