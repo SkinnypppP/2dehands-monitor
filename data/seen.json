@@ -3456,6 +3456,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "ROEITRAINER",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421570557-roeitrainer"
+        },
+        "m2421639113": {
+          "first_seen_at": "2026-07-18T21:12:36.686425+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Kettler toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421639113-kettler-toestel"
         }
       }
     },
@@ -6647,6 +6653,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "13-delige sportstoel met een gewicht van 5 kg. De overige on",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421617145-13-delige-sportstoel-met-een-gewicht-van-5-kg-de-overige-on"
+        },
+        "m2421639461": {
+          "first_seen_at": "2026-07-18T21:12:18.380295+00:00",
+          "price_display": "€ 10,00",
+          "title": "Halters 2x5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421639461-halters-2x5kg"
         }
       }
     },
@@ -8541,7 +8553,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-18T20:22:28.093837+00:00",
+    "last_checked_at": "2026-07-18T21:13:04.030713+00:00",
     "outage_alert_sent": false
   }
 }
