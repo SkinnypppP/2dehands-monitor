@@ -1292,6 +1292,18 @@
           "price_display": "€ 180,00",
           "title": "Ibanez gitaar GA5TCE Amber High Gloss",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421579509-ibanez-gitaar-ga5tce-amber-high-gloss"
+        },
+        "m2421594684": {
+          "first_seen_at": "2026-07-18T18:10:45.504541+00:00",
+          "price_display": "€ 50,00",
+          "title": "Sopraan ukelele ,  Stagg US-TIKI AH Tiki-serie  Nieuw !!!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421594684-sopraan-ukelele-stagg-us-tiki-ah-tiki-serie-nieuw"
+        },
+        "m2421598624": {
+          "first_seen_at": "2026-07-18T18:10:45.504541+00:00",
+          "price_display": "€ 6,00",
+          "title": "Simply Guitar - Boek & DVD, voor beginnende gitarist",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421598624-simply-guitar-boek-dvd-voor-beginnende-gitarist"
         }
       }
     },
@@ -2053,6 +2065,12 @@
           "price_display": "Bieden vanaf € 675,00",
           "title": "20 Francs of Cockerel Marianne 1909",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421560711-20-francs-of-cockerel-marianne-1909"
+        },
+        "m2421593675": {
+          "first_seen_at": "2026-07-18T18:10:27.481059+00:00",
+          "price_display": "€ 230,00",
+          "title": "Leipziger 5 kilo koperbaren .999 fine koper",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421593675-leipziger-5-kilo-koperbaren-999-fine-koper"
         }
       }
     },
@@ -6599,6 +6617,12 @@
           "price_display": "€ 1.450,00",
           "title": "BodyCraft F660 Leg Press / Hack Squat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421571948-bodycraft-f660-leg-press-hack-squat"
+        },
+        "m2421597356": {
+          "first_seen_at": "2026-07-18T18:10:00.819109+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Oude “Hometrainer”",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421597356-oude-hometrainer"
         }
       }
     },
@@ -8487,7 +8511,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-18T17:12:40.331588+00:00",
+    "last_checked_at": "2026-07-18T18:10:47.283599+00:00",
     "outage_alert_sent": false
   }
 }
