@@ -1304,6 +1304,12 @@
           "price_display": "€ 6,00",
           "title": "Simply Guitar - Boek & DVD, voor beginnende gitarist",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421598624-simply-guitar-boek-dvd-voor-beginnende-gitarist"
+        },
+        "m2421615427": {
+          "first_seen_at": "2026-07-18T19:30:09.403666+00:00",
+          "price_display": "€ 625,00",
+          "title": "Taylor 110e elektro-akoestische gitaar — Onberispelijke staa",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421615427-taylor-110e-elektro-akoestische-gitaar-onberispelijke-staa"
         }
       }
     },
@@ -3599,6 +3605,12 @@
           "price_display": "Bieden vanaf € 850,00",
           "title": "Machine de musculation multifonction Body-Solid",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2404815588-machine-de-musculation-multifonction-body-solid"
+        },
+        "m2405209403": {
+          "first_seen_at": "2026-07-18T19:29:23.941206+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "Table d’inversion gravitationnelle ou d’étirements",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2405209403-table-d-inversion-gravitationnelle-ou-d-etirements"
         },
         "m2407786485": {
           "first_seen_at": "2026-07-13T13:48:22.483509+00:00",
@@ -6623,6 +6635,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Oude “Hometrainer”",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421597356-oude-hometrainer"
+        },
+        "m2421617145": {
+          "first_seen_at": "2026-07-18T19:29:23.941206+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "13-delige sportstoel met een gewicht van 5 kg. De overige on",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421617145-13-delige-sportstoel-met-een-gewicht-van-5-kg-de-overige-on"
         }
       }
     },
@@ -8505,13 +8523,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano droit fabrication belge",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421576258-piano-droit-fabrication-belge"
+        },
+        "m2421603289": {
+          "first_seen_at": "2026-07-18T19:29:59.418867+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano vintage",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421603289-piano-vintage"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-18T18:10:47.283599+00:00",
+    "last_checked_at": "2026-07-18T19:30:10.311005+00:00",
     "outage_alert_sent": false
   }
 }
