@@ -1232,6 +1232,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421504669-gitaar"
+        },
+        "m2421527375": {
+          "first_seen_at": "2026-07-18T15:09:44.539106+00:00",
+          "price_display": "€ 50,00",
+          "title": "Ukelele, met extra’s",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421527375-ukelele-met-extra-s"
         }
       }
     },
@@ -1975,6 +1981,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Herdenkingsmunten wereldoorlog 2",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421507864-herdenkingsmunten-wereldoorlog-2"
+        },
+        "m2421524393": {
+          "first_seen_at": "2026-07-18T15:09:26.622233+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Aschenbecher Vide- Poche RaRe",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421524393-aschenbecher-vide-poche-rare"
         }
       }
     },
@@ -3312,6 +3324,12 @@
           "price_display": "Bieden vanaf € 850,00",
           "title": "NordicTrack S22i – Vélo d'appartement connecté",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421517503-nordictrack-s22i-velo-d-appartement-connecte"
+        },
+        "m2421542360": {
+          "first_seen_at": "2026-07-18T15:09:17.563903+00:00",
+          "price_display": "€ 120,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421542360-loopband"
         }
       }
     },
@@ -6383,6 +6401,18 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Stepper Essential",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421517601-stepper-essential"
+        },
+        "m2421520984": {
+          "first_seen_at": "2026-07-18T15:08:59.928478+00:00",
+          "price_display": "€ 30,00",
+          "title": "Barre pliable Pectoraux tension 30 a 50kg – 30 €",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421520984-barre-pliable-pectoraux-tension-30-a-50kg-30"
+        },
+        "m2421541083": {
+          "first_seen_at": "2026-07-18T15:08:59.928478+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Stappenteller NIEUW",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421541083-stappenteller-nieuw"
         }
       }
     },
@@ -8235,13 +8265,25 @@
           "price_display": "€ 600,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421488264-piano"
+        },
+        "m2421539305": {
+          "first_seen_at": "2026-07-18T15:09:35.772649+00:00",
+          "price_display": "€ 6.250,00",
+          "title": "W. HOFFMANN PIANO | VISION V126 | UNIEKE KANS",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421539305-w-hoffmann-piano-vision-v126-unieke-kans"
+        },
+        "m2421540477": {
+          "first_seen_at": "2026-07-18T15:09:35.772649+00:00",
+          "price_display": "€ 3.500,00",
+          "title": "Kawai K3",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421540477-kawai-k3"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-18T14:05:04.356378+00:00",
+    "last_checked_at": "2026-07-18T15:09:45.669824+00:00",
     "outage_alert_sent": false
   }
 }
