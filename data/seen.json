@@ -1226,6 +1226,24 @@
           "title": "5 grammes - Or .999 - Valcambi, Switzerland - Scellé & avec",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164683656-5-grammes-or-999-valcambi-switzerland-scelle-avec"
         },
+        "a164695180": {
+          "first_seen_at": "2026-07-18T03:35:55.352642+00:00",
+          "price_display": "€ 1,00",
+          "title": "20 grammes - Or .999 - Umicore - Scellé & avec certificat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164695180-20-grammes-or-999-umicore-scelle-avec-certificat"
+        },
+        "a164695186": {
+          "first_seen_at": "2026-07-18T03:35:55.352642+00:00",
+          "price_display": "€ 98,00",
+          "title": "1/2 oz - Or .999 - Valcambi - Avec certificat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164695186-1-2-oz-or-999-valcambi-avec-certificat"
+        },
+        "a164695187": {
+          "first_seen_at": "2026-07-18T03:35:55.352642+00:00",
+          "price_display": "€ 1,00",
+          "title": "2 grammes - Or .999 - C. Hafner - Scellé & avec certificat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164695187-2-grammes-or-999-c-hafner-scelle-avec-certificat"
+        },
         "m2379504267": {
           "first_seen_at": "2026-07-13T14:08:23.179379+00:00",
           "price_display": "Bieden vanaf € 37,00",
@@ -5669,6 +5687,30 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "TECHNOGYM OLYMPIC FLAT BENCH",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421318766-technogym-olympic-flat-bench"
+        },
+        "m2421324910": {
+          "first_seen_at": "2026-07-18T03:35:22.722091+00:00",
+          "price_display": "€ 60,00",
+          "title": "Bench decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421324910-bench-decathlon"
+        },
+        "m2421325421": {
+          "first_seen_at": "2026-07-18T03:35:22.722091+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Kettlebell 16 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421325421-kettlebell-16-kg"
+        },
+        "m2421325521": {
+          "first_seen_at": "2026-07-18T03:35:22.722091+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Verstelbare kettlebell Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421325521-verstelbare-kettlebell-domyos"
+        },
+        "m2421326168": {
+          "first_seen_at": "2026-07-18T03:35:22.722091+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "haltère de 7,5 kg, 5kg, 2kg, 1kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421326168-haltere-de-7-5-kg-5kg-2kg-1kg"
         }
       }
     },
@@ -7407,7 +7449,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-17T23:11:06.606591+00:00",
+    "last_checked_at": "2026-07-18T03:36:17.248805+00:00",
     "outage_alert_sent": false
   }
 }
