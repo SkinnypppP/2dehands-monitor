@@ -2437,6 +2437,12 @@
           "price_display": "Zie omschrijving",
           "title": "ZILVEREN MUNTEN 1 OUNCE .999 VARIA TUBES",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421986407-zilveren-munten-1-ounce-999-varia-tubes"
+        },
+        "m2421996129": {
+          "first_seen_at": "2026-07-19T22:23:50.872626+00:00",
+          "price_display": "€ 12,00",
+          "title": "Parfum van man 50ml",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421996129-parfum-van-man-50ml"
         }
       }
     },
@@ -7931,6 +7937,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "2 ZEUZ-halters van 25 kg - Zeer goede conditie",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421994302-2-zeuz-halters-van-25-kg-zeer-goede-conditie"
+        },
+        "m2421996319": {
+          "first_seen_at": "2026-07-19T22:23:26.671073+00:00",
+          "price_display": "€ 15,00",
+          "title": "Halterstangen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421996319-halterstangen"
         }
       }
     },
@@ -10017,7 +10029,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-19T21:24:12.836324+00:00",
+    "last_checked_at": "2026-07-19T22:24:08.710697+00:00",
     "outage_alert_sent": false
   }
 }
