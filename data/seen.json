@@ -3462,6 +3462,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Kettler toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421639113-kettler-toestel"
+        },
+        "m2421652732": {
+          "first_seen_at": "2026-07-19T00:05:51.383461+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "Fitnesstoestel. Perfecte staat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421652732-fitnesstoestel-perfecte-staat"
         }
       }
     },
@@ -7300,6 +7306,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Paddel band",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2421510328-paddel-band"
+        },
+        "m2421654215": {
+          "first_seen_at": "2026-07-19T00:05:39.940625+00:00",
+          "price_display": "Bieden vanaf € 170,00",
+          "title": "adidas padel racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2421654215-adidas-padel-racket"
         }
       }
     },
@@ -8553,7 +8565,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-18T21:13:04.030713+00:00",
+    "last_checked_at": "2026-07-19T00:06:18.869905+00:00",
     "outage_alert_sent": false
   }
 }
