@@ -1574,6 +1574,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421985450-akoestische-gitaar"
+        },
+        "m2421993755": {
+          "first_seen_at": "2026-07-19T21:24:11.835136+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Almansa 435 Spruce klassieke gitaar + koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2421993755-almansa-435-spruce-klassieke-gitaar-koffer"
         }
       }
     },
@@ -7901,6 +7907,30 @@
           "price_display": "€ 120,00",
           "title": "Drop pad Bulldoggear",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421986431-drop-pad-bulldoggear"
+        },
+        "m2421986995": {
+          "first_seen_at": "2026-07-19T21:23:22.800582+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Wall ball Boxpt 6kg & 15kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421986995-wall-ball-boxpt-6kg-15kg"
+        },
+        "m2421988782": {
+          "first_seen_at": "2026-07-19T21:23:22.800582+00:00",
+          "price_display": "€ 110,00",
+          "title": "Cerakote halterstang voor dames van 15 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421988782-cerakote-halterstang-voor-dames-van-15-kg"
+        },
+        "m2421993891": {
+          "first_seen_at": "2026-07-19T21:23:22.800582+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "2 POWRX-halters van 30 kg - Zeer goede conditie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421993891-2-powrx-halters-van-30-kg-zeer-goede-conditie"
+        },
+        "m2421994302": {
+          "first_seen_at": "2026-07-19T21:23:22.800582+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "2 ZEUZ-halters van 25 kg - Zeer goede conditie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421994302-2-zeuz-halters-van-25-kg-zeer-goede-conditie"
         }
       }
     },
@@ -9975,13 +10005,19 @@
           "price_display": "Bieden vanaf € 1.450,00",
           "title": "Piano Yamaha clp725",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421979906-piano-yamaha-clp725"
+        },
+        "m2421987707": {
+          "first_seen_at": "2026-07-19T21:24:03.632921+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Oude piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421987707-oude-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-19T20:27:24.102071+00:00",
+    "last_checked_at": "2026-07-19T21:24:12.836324+00:00",
     "outage_alert_sent": false
   }
 }
