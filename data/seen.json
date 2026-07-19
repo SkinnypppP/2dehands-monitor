@@ -2359,6 +2359,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Airpod",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421918774-airpod"
+        },
+        "m2421948345": {
+          "first_seen_at": "2026-07-19T18:12:31.587695+00:00",
+          "price_display": "€ 815,00",
+          "title": "#KOPER# 20 X 1 KILO KOPERBAREN .999 FINE KOPER BU KWALITEIT",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421948345-koper-20-x-1-kilo-koperbaren-999-fine-koper-bu-kwaliteit"
+        },
+        "m2421952493": {
+          "first_seen_at": "2026-07-19T18:12:31.587695+00:00",
+          "price_display": "€ 225,00",
+          "title": "#KOPER# GEIGER KOPERBAAR 5 KILOGRAM 999.9 FINE KOPER BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2421952493-koper-geiger-koperbaar-5-kilogram-999-9-fine-koper-bu"
         }
       }
     },
@@ -7643,6 +7655,36 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421933656-gewichten"
+        },
+        "m2421935991": {
+          "first_seen_at": "2026-07-19T18:12:01.613322+00:00",
+          "price_display": "€ 400,00",
+          "title": "Loopband start 2 run",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421935991-loopband-start-2-run"
+        },
+        "m2421942630": {
+          "first_seen_at": "2026-07-19T18:12:01.613322+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym cardiostep",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421942630-technogym-cardiostep"
+        },
+        "m2421948458": {
+          "first_seen_at": "2026-07-19T18:12:01.613322+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Spinningbike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421948458-spinningbike"
+        },
+        "m2421951727": {
+          "first_seen_at": "2026-07-19T18:12:01.613322+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Banc de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421951727-banc-de-musculation"
+        },
+        "m2421953060": {
+          "first_seen_at": "2026-07-19T18:12:01.613322+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2421953060-fitness-bankje"
         }
       }
     },
@@ -9687,13 +9729,19 @@
           "price_display": "€ 2.100,00",
           "title": "Yamaha Clavinova CSP-170 WH digitale piano (wit)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421929448-yamaha-clavinova-csp-170-wh-digitale-piano-wit"
+        },
+        "m2421937377": {
+          "first_seen_at": "2026-07-19T18:12:40.594298+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Korg b1 figitale piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2421937377-korg-b1-figitale-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-19T17:19:10.996082+00:00",
+    "last_checked_at": "2026-07-19T18:12:47.899848+00:00",
     "outage_alert_sent": false
   }
 }
