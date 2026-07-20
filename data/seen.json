@@ -2821,6 +2821,12 @@
           "title": "Technogym Top 1000 Unity - Black",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a135938407-technogym-top-1000-unity-black"
         },
+        "a152176858": {
+          "first_seen_at": "2026-07-20T23:30:15.379648+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Smith machine en power racks testen? Kom langs in onze depot",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a152176858-smith-machine-en-power-racks-testen-kom-langs-in-onze-depot"
+        },
         "a158080538": {
           "first_seen_at": "2026-07-13T22:51:16.775716+00:00",
           "price_display": "Zie omschrijving",
@@ -9077,6 +9083,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Doymos roeier",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422342986-doymos-roeier"
+        },
+        "m2422346167": {
+          "first_seen_at": "2026-07-20T23:29:59.252654+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Domyos Fitness Cube",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422346167-domyos-fitness-cube"
         }
       }
     },
@@ -11463,7 +11475,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-20T22:27:10.978985+00:00",
+    "last_checked_at": "2026-07-20T23:30:37.073128+00:00",
     "outage_alert_sent": false
   }
 }
