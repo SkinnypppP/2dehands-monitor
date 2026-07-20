@@ -1832,6 +1832,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Gitarre Ukulele.   For Beginner",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422292875-gitarre-ukulele-for-beginner"
+        },
+        "m2422301164": {
+          "first_seen_at": "2026-07-20T20:07:33.499391+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Giatare acoustique pour enfant en très bonne état",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422301164-giatare-acoustique-pour-enfant-en-tres-bonne-etat"
         }
       }
     },
@@ -2761,6 +2767,24 @@
           "price_display": "Zie omschrijving",
           "title": "Schroeven etc",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422257527-schroeven-etc"
+        },
+        "m2422307781": {
+          "first_seen_at": "2026-07-20T20:07:07.240031+00:00",
+          "price_display": "€ 165,95",
+          "title": "BRITANNIA 2026 ZILVER 1/10 OUNCE .999 TUBE 16 MUNTJES BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422307781-britannia-2026-zilver-1-10-ounce-999-tube-16-muntjes-bu"
+        },
+        "m2422311056": {
+          "first_seen_at": "2026-07-20T20:07:07.240031+00:00",
+          "price_display": "€ 223,95",
+          "title": "#KOPER# GEIGER KOPERBAAR 5 KILOGRAM 999.9 FINE KOPER BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422311056-koper-geiger-koperbaar-5-kilogram-999-9-fine-koper-bu"
+        },
+        "m2422313216": {
+          "first_seen_at": "2026-07-20T20:07:07.240031+00:00",
+          "price_display": "€ 815,00",
+          "title": "#KOPER# 20 X 1 KILO KOPERBAREN .999 FINE KOPER BU KWALITEIT",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422313216-koper-20-x-1-kilo-koperbaren-999-fine-koper-bu-kwaliteit"
         }
       }
     },
@@ -8987,6 +9011,30 @@
           "price_display": "€ 40,00",
           "title": "Fitness dumbbells",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422288876-fitness-dumbbells"
+        },
+        "m2422298740": {
+          "first_seen_at": "2026-07-20T20:06:33.860584+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Buikspieren - ab trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422298740-buikspieren-ab-trainer"
+        },
+        "m2422301046": {
+          "first_seen_at": "2026-07-20T20:06:33.860584+00:00",
+          "price_display": "Bieden vanaf € 88,00",
+          "title": "Merk domyos, halter",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422301046-merk-domyos-halter"
+        },
+        "m2422317272": {
+          "first_seen_at": "2026-07-20T20:06:33.860584+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Loopband Proform Performance 650",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422317272-loopband-proform-performance-650"
+        },
+        "m2422319190": {
+          "first_seen_at": "2026-07-20T20:06:33.860584+00:00",
+          "price_display": "€ 850,00",
+          "title": "Technogym Dumbells Set 10 kilo tot 34 kilo + Dumbellrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422319190-technogym-dumbells-set-10-kilo-tot-34-kilo-dumbellrek"
         }
       }
     },
@@ -11337,13 +11385,25 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Digitale piano.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422279142-digitale-piano"
+        },
+        "m2422297910": {
+          "first_seen_at": "2026-07-20T20:07:21.722031+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Yamaha ElectoneFC-20 Elektronisch Orgel met bank&handleiding",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422297910-yamaha-electonefc-20-elektronisch-orgel-met-bank-handleiding"
+        },
+        "m2422307935": {
+          "first_seen_at": "2026-07-20T20:07:21.722031+00:00",
+          "price_display": "€ 750,00",
+          "title": "Piano (Gaveau)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422307935-piano-gaveau"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-20T18:28:42.264597+00:00",
+    "last_checked_at": "2026-07-20T20:07:34.834649+00:00",
     "outage_alert_sent": false
   }
 }
