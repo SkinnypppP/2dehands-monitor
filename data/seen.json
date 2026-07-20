@@ -2797,6 +2797,12 @@
           "price_display": "Bieden vanaf € 130,00",
           "title": "zilver 999",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422329233-zilver-999"
+        },
+        "m2422341838": {
+          "first_seen_at": "2026-07-20T22:26:50.025170+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Rambomil Ronde Schijfremblokken voor Elektrische Step / Fiet",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422341838-rambomil-ronde-schijfremblokken-voor-elektrische-step-fiet"
         }
       }
     },
@@ -9059,6 +9065,18 @@
           "price_display": "€ 10,00",
           "title": "Halter baar 1m60",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422333167-halter-baar-1m60"
+        },
+        "m2422342074": {
+          "first_seen_at": "2026-07-20T22:26:22.718467+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitnessapparatuur. Fitnessbank + halterstang + dumbbells.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422342074-fitnessapparatuur-fitnessbank-halterstang-dumbbells"
+        },
+        "m2422342986": {
+          "first_seen_at": "2026-07-20T22:26:22.718467+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Doymos roeier",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422342986-doymos-roeier"
         }
       }
     },
@@ -11433,13 +11451,19 @@
           "price_display": "Gratis",
           "title": "DONEER Technics digitale piano SX-PX111-EH om te doneren",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422334517-doneer-technics-digitale-piano-sx-px111-eh-om-te-doneren"
+        },
+        "m2422338437": {
+          "first_seen_at": "2026-07-20T22:26:59.290480+00:00",
+          "price_display": "€ 650,00",
+          "title": "LOT Professional muziek Roland RD-300GX. Digitale stage",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422338437-lot-professional-muziek-roland-rd-300gx-digitale-stage"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-20T21:20:54.871987+00:00",
+    "last_checked_at": "2026-07-20T22:27:10.978985+00:00",
     "outage_alert_sent": false
   }
 }
