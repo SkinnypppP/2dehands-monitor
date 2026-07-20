@@ -1838,6 +1838,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Giatare acoustique pour enfant en très bonne état",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422301164-giatare-acoustique-pour-enfant-en-tres-bonne-etat"
+        },
+        "m2422335479": {
+          "first_seen_at": "2026-07-20T21:20:53.931806+00:00",
+          "price_display": "€ 355,00",
+          "title": "Manuel Rodríguez Luthier Caballero 9 – Fabriquée en Espagne",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422335479-manuel-rodriguez-luthier-caballero-9-fabriquee-en-espagne"
         }
       }
     },
@@ -2785,6 +2791,12 @@
           "price_display": "€ 815,00",
           "title": "#KOPER# 20 X 1 KILO KOPERBAREN .999 FINE KOPER BU KWALITEIT",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422313216-koper-20-x-1-kilo-koperbaren-999-fine-koper-bu-kwaliteit"
+        },
+        "m2422329233": {
+          "first_seen_at": "2026-07-20T21:20:33.084157+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "zilver 999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422329233-zilver-999"
         }
       }
     },
@@ -4494,6 +4506,12 @@
           "price_display": "€ 100,00",
           "title": "Domyos E-Shape+ crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2422290788-domyos-e-shape-crosstrainer"
+        },
+        "m2422334116": {
+          "first_seen_at": "2026-07-20T21:20:23.898770+00:00",
+          "price_display": "Bieden vanaf € 2.100,00",
+          "title": "Newton Fitness CSR-300 Smith Power Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2422334116-newton-fitness-csr-300-smith-power-rack"
         }
       }
     },
@@ -9035,6 +9053,12 @@
           "price_display": "€ 850,00",
           "title": "Technogym Dumbells Set 10 kilo tot 34 kilo + Dumbellrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422319190-technogym-dumbells-set-10-kilo-tot-34-kilo-dumbellrek"
+        },
+        "m2422333167": {
+          "first_seen_at": "2026-07-20T21:20:09.237183+00:00",
+          "price_display": "€ 10,00",
+          "title": "Halter baar 1m60",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422333167-halter-baar-1m60"
         }
       }
     },
@@ -11397,13 +11421,25 @@
           "price_display": "€ 750,00",
           "title": "Piano (Gaveau)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422307935-piano-gaveau"
+        },
+        "m2422324435": {
+          "first_seen_at": "2026-07-20T21:20:42.747395+00:00",
+          "price_display": "Bieden vanaf € 3,40",
+          "title": "Kleine piano met een muziekje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422324435-kleine-piano-met-een-muziekje"
+        },
+        "m2422334517": {
+          "first_seen_at": "2026-07-20T21:20:42.747395+00:00",
+          "price_display": "Gratis",
+          "title": "DONEER Technics digitale piano SX-PX111-EH om te doneren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422334517-doneer-technics-digitale-piano-sx-px111-eh-om-te-doneren"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-20T20:07:34.834649+00:00",
+    "last_checked_at": "2026-07-20T21:20:54.871987+00:00",
     "outage_alert_sent": false
   }
 }
