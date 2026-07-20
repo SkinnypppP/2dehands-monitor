@@ -1712,6 +1712,24 @@
           "title": "2 grammes - Or .999 - C. Hafner - Scellé & avec certificat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164695187-2-grammes-or-999-c-hafner-scelle-avec-certificat"
         },
+        "a164731135": {
+          "first_seen_at": "2026-07-20T04:47:46.031655+00:00",
+          "price_display": "€ 11,00",
+          "title": "2 x 1/2 Ounce - Argent .999 - Noahs Arch 2026 - 31,10 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164731135-2-x-1-2-ounce-argent-999-noahs-arch-2026-31-10-gram"
+        },
+        "a164731137": {
+          "first_seen_at": "2026-07-20T04:47:46.031655+00:00",
+          "price_display": "€ 41,00",
+          "title": "2 grammes - Or .999 - Batman - Justice - 250 Euros - Monnaie",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164731137-2-grammes-or-999-batman-justice-250-euros-monnaie"
+        },
+        "a164731139": {
+          "first_seen_at": "2026-07-20T04:47:46.031655+00:00",
+          "price_display": "€ 33,00",
+          "title": "1 gramme - Or .999 - Maple Leaf fine gold (Sans prix de",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164731139-1-gramme-or-999-maple-leaf-fine-gold-sans-prix-de"
+        },
         "a164731238": {
           "first_seen_at": "2026-07-18T12:33:13.633330+00:00",
           "price_display": "€ 1,00",
@@ -10029,7 +10047,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-19T22:24:08.710697+00:00",
+    "last_checked_at": "2026-07-20T04:48:06.980940+00:00",
     "outage_alert_sent": false
   }
 }
