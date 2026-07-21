@@ -2138,6 +2138,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "gitaar staander of violoncello staander",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422611899-gitaar-staander-of-violoncello-staander"
+        },
+        "m2422638089": {
+          "first_seen_at": "2026-07-21T20:38:41.316063+00:00",
+          "price_display": "€ 100,00",
+          "title": "Kala KA-SLNG ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422638089-kala-ka-slng-ukelele"
         }
       }
     },
@@ -3163,6 +3169,12 @@
           "price_display": "€ 640,00",
           "title": "#KOPER# GEIGER KOPERBAAR 5 KILOGRAM 999.9 FINE KOPER BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422592566-koper-geiger-koperbaar-5-kilogram-999-9-fine-koper-bu"
+        },
+        "m2422640963": {
+          "first_seen_at": "2026-07-21T20:38:20.171624+00:00",
+          "price_display": "€ 250,00",
+          "title": "5 francs or napoleon",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422640963-5-francs-or-napoleon"
         }
       }
     },
@@ -10313,6 +10325,42 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Reebok Spinningfiets – Met Digitaal Scherm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422623385-reebok-spinningfiets-met-digitaal-scherm"
+        },
+        "m2422630813": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422630813-gewichten"
+        },
+        "m2422631339": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "€ 290,00",
+          "title": "Elite Direto XR-T met 11 en 12 speed + voorwielsteun",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422631339-elite-direto-xr-t-met-11-en-12-speed-voorwielsteun"
+        },
+        "m2422634344": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Domyos Crosstrainer – Met Programma’s en Standen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422634344-domyos-crosstrainer-met-programma-s-en-standen"
+        },
+        "m2422638255": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Pull up bar voor boven deurgat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422638255-pull-up-bar-voor-boven-deurgat"
+        },
+        "m2422641906": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "optrekstang voor wandmontage",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422641906-optrekstang-voor-wandmontage"
+        },
+        "m2422642065": {
+          "first_seen_at": "2026-07-21T20:37:46.088910+00:00",
+          "price_display": "Bieden vanaf € 19,00",
+          "title": "Ceinture de lestage",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422642065-ceinture-de-lestage"
         }
       }
     },
@@ -11319,6 +11367,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Steinway & Sons Model M, polished white!Completely restored!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2402190648-steinway-sons-model-m-polished-white-completely-restored"
+        },
+        "m2406470531": {
+          "first_seen_at": "2026-07-21T20:38:30.567200+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Prachtige vintage Petrof piano in lichte houtkleur en kruk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2406470531-prachtige-vintage-petrof-piano-in-lichte-houtkleur-en-kruk"
         },
         "m2410674498": {
           "first_seen_at": "2026-07-13T14:08:29.176271+00:00",
@@ -12873,7 +12927,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-21T19:17:20.270540+00:00",
+    "last_checked_at": "2026-07-21T20:38:42.805249+00:00",
     "outage_alert_sent": false
   }
 }
