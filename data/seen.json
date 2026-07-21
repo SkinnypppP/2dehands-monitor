@@ -1844,6 +1844,12 @@
           "price_display": "€ 355,00",
           "title": "Manuel Rodríguez Luthier Caballero 9 – Fabriquée en Espagne",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422335479-manuel-rodriguez-luthier-caballero-9-fabriquee-en-espagne"
+        },
+        "m2422351598": {
+          "first_seen_at": "2026-07-21T04:26:54.905196+00:00",
+          "price_display": "€ 450,00",
+          "title": "Gretsch model G5013ce blk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422351598-gretsch-model-g5013ce-blk"
         }
       }
     },
@@ -11475,7 +11481,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-20T23:30:37.073128+00:00",
+    "last_checked_at": "2026-07-21T04:26:56.138853+00:00",
     "outage_alert_sent": false
   }
 }
