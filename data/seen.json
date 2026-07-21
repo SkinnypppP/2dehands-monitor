@@ -2144,6 +2144,12 @@
           "price_display": "€ 100,00",
           "title": "Kala KA-SLNG ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422638089-kala-ka-slng-ukelele"
+        },
+        "m2422649606": {
+          "first_seen_at": "2026-07-21T21:44:29.047542+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Seagull Excursion Nat SG – Made in Canada",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422649606-seagull-excursion-nat-sg-made-in-canada"
         }
       }
     },
@@ -12921,13 +12927,31 @@
           "price_display": "€ 1.900,00",
           "title": "Elektrische piano - Roland LX705 - charcoal black",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422619282-elektrische-piano-roland-lx705-charcoal-black"
+        },
+        "m2422649946": {
+          "first_seen_at": "2026-07-21T21:44:17.541246+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Piano droit Zimmermann",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422649946-piano-droit-zimmermann"
+        },
+        "m2422654634": {
+          "first_seen_at": "2026-07-21T21:44:17.541246+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano in redelijk goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422654634-piano-in-redelijk-goede-staat"
+        },
+        "m2422655938": {
+          "first_seen_at": "2026-07-21T21:44:17.541246+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Electriche piano bijna nooit gebruikt",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422655938-electriche-piano-bijna-nooit-gebruikt"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-21T20:38:42.805249+00:00",
+    "last_checked_at": "2026-07-21T21:44:29.864774+00:00",
     "outage_alert_sent": false
   }
 }
