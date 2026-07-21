@@ -12945,13 +12945,19 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Electriche piano bijna nooit gebruikt",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422655938-electriche-piano-bijna-nooit-gebruikt"
+        },
+        "m2422660268": {
+          "first_seen_at": "2026-07-21T22:39:10.994545+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422660268-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-21T21:44:29.864774+00:00",
+    "last_checked_at": "2026-07-21T22:39:21.490008+00:00",
     "outage_alert_sent": false
   }
 }
