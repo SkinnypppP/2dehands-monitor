@@ -12969,13 +12969,19 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422660268-piano"
+        },
+        "m2422672001": {
+          "first_seen_at": "2026-07-22T04:29:08.835258+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422672001-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-22T01:05:07.198572+00:00",
+    "last_checked_at": "2026-07-22T04:29:19.622256+00:00",
     "outage_alert_sent": false
   }
 }
