@@ -2390,6 +2390,12 @@
           "price_display": "Bieden vanaf € 1.050,00",
           "title": "Perfecte staat, Martin DX1AE Dreadnought Elektro-akoestisch",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422961274-perfecte-staat-martin-dx1ae-dreadnought-elektro-akoestisch"
+        },
+        "m2422979965": {
+          "first_seen_at": "2026-07-22T22:44:34.264190+00:00",
+          "price_display": "€ 35,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2422979965-gitaar"
         }
       }
     },
@@ -3499,6 +3505,12 @@
           "price_display": "€ 635,00",
           "title": "3 x 5 kilogram Geiger #koperbaren# 999.9 fine koper  BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422967892-3-x-5-kilogram-geiger-koperbaren-999-9-fine-koper-bu"
+        },
+        "m2422984877": {
+          "first_seen_at": "2026-07-22T22:44:15.426993+00:00",
+          "price_display": "€ 240,00",
+          "title": "2.5 Pesos of Mexico",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2422984877-2-5-pesos-of-mexico"
         }
       }
     },
@@ -11447,6 +11459,18 @@
           "price_display": "Bieden vanaf € 59,00",
           "title": "Plyobox Decathlon - ongebruikt!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422978333-plyobox-decathlon-ongebruikt"
+        },
+        "m2422979453": {
+          "first_seen_at": "2026-07-22T22:43:49.374287+00:00",
+          "price_display": "€ 20,00",
+          "title": "Balancemat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422979453-balancemat"
+        },
+        "m2422980254": {
+          "first_seen_at": "2026-07-22T22:43:49.374287+00:00",
+          "price_display": "€ 20,00",
+          "title": "ZEUZ Houten Parallettes Klein",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422980254-zeuz-houten-parallettes-klein"
         }
       }
     },
@@ -14385,13 +14409,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Apollo TAV 121M – akoestische piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422978309-apollo-tav-121m-akoestische-piano"
+        },
+        "m2422982855": {
+          "first_seen_at": "2026-07-22T22:44:25.811952+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2422982855-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-22T21:41:38.314628+00:00",
+    "last_checked_at": "2026-07-22T22:44:35.467456+00:00",
     "outage_alert_sent": false
   }
 }
