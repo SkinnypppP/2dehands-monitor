@@ -10379,6 +10379,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Complete thuisgym set - bank, halterstang, dumbells, rekkers",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422664467-complete-thuisgym-set-bank-halterstang-dumbells-rekkers"
+        },
+        "m2422667389": {
+          "first_seen_at": "2026-07-22T01:04:22.655494+00:00",
+          "price_display": "€ 4,00",
+          "title": "veerbelaste klemmen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422667389-veerbelaste-klemmen"
         }
       }
     },
@@ -12969,7 +12975,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-21T23:39:04.001620+00:00",
+    "last_checked_at": "2026-07-22T01:05:07.198572+00:00",
     "outage_alert_sent": false
   }
 }
