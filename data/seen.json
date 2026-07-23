@@ -171,6 +171,12 @@
           "title": "Gibson - Howard Roberts Custom 1974 - - Guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164726666-gibson-howard-roberts-custom-1974-guitare"
         },
+        "a164726669": {
+          "first_seen_at": "2026-07-23T04:37:17.146051+00:00",
+          "price_display": "€ 500,00",
+          "title": "No brand - - Guitare classique - France",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164726669-no-brand-guitare-classique-france"
+        },
         "a164726671": {
           "first_seen_at": "2026-07-20T07:48:10.794418+00:00",
           "price_display": "€ 95,00",
@@ -11471,6 +11477,36 @@
           "price_display": "€ 20,00",
           "title": "ZEUZ Houten Parallettes Klein",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422980254-zeuz-houten-parallettes-klein"
+        },
+        "m2422992636": {
+          "first_seen_at": "2026-07-23T04:36:33.910271+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Mini trampoline Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422992636-mini-trampoline-domyos"
+        },
+        "m2422992658": {
+          "first_seen_at": "2026-07-23T04:36:33.910271+00:00",
+          "price_display": "€ 175,00",
+          "title": "Maxxus 45 Back Extension / Hyper Extension Zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422992658-maxxus-45-back-extension-hyper-extension-zeer-goede-staat"
+        },
+        "m2422996285": {
+          "first_seen_at": "2026-07-23T04:36:33.910271+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterset Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422996285-halterset-domyos"
+        },
+        "m2422996362": {
+          "first_seen_at": "2026-07-23T04:36:33.910271+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halter Domyos 155 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422996362-halter-domyos-155-cm"
+        },
+        "m2422996414": {
+          "first_seen_at": "2026-07-23T04:36:33.910271+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Domyos halterschijven 5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2422996414-domyos-halterschijven-5-kg"
         }
       }
     },
@@ -14421,7 +14457,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-22T22:44:35.467456+00:00",
+    "last_checked_at": "2026-07-23T04:37:18.530629+00:00",
     "outage_alert_sent": false
   }
 }
