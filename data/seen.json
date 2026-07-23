@@ -2588,6 +2588,12 @@
           "price_display": "€ 380,00",
           "title": "Salvador Cortez klassieke gitaar model CC-08-SN",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423348339-salvador-cortez-klassieke-gitaar-model-cc-08-sn"
+        },
+        "m2423385125": {
+          "first_seen_at": "2026-07-23T22:41:02.840816+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423385125-gitaar"
         }
       }
     },
@@ -12557,6 +12563,18 @@
           "price_display": "€ 40,00",
           "title": "Schitterende fitnessbank zeer solide nieuw Prijs 40€",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423363559-schitterende-fitnessbank-zeer-solide-nieuw-prijs-40"
+        },
+        "m2423381418": {
+          "first_seen_at": "2026-07-23T22:40:12.432252+00:00",
+          "price_display": "€ 550,00",
+          "title": "Volledige homegym + 100kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423381418-volledige-homegym-100kg"
+        },
+        "m2423383263": {
+          "first_seen_at": "2026-07-23T22:40:12.432252+00:00",
+          "price_display": "€ 275,00",
+          "title": "Multifunctionele benchpress + Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423383263-multifunctionele-benchpress-gewichten"
         }
       }
     },
@@ -15741,13 +15759,31 @@
           "price_display": "Bieden vanaf € 650,00",
           "title": "Digitale Piano Roland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423341660-digitale-piano-roland"
+        },
+        "m2423379617": {
+          "first_seen_at": "2026-07-23T22:40:51.512874+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Yamaha P-45 digitale piano & accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423379617-yamaha-p-45-digitale-piano-accessoires"
+        },
+        "m2423380378": {
+          "first_seen_at": "2026-07-23T22:40:51.512874+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke Klems buffetpiano – Duitse kwaliteitspiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423380378-antieke-klems-buffetpiano-duitse-kwaliteitspiano"
+        },
+        "m2423387505": {
+          "first_seen_at": "2026-07-23T22:40:51.512874+00:00",
+          "price_display": "€ 775,00",
+          "title": "Roland",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423387505-roland"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-23T21:46:35.864970+00:00",
+    "last_checked_at": "2026-07-23T22:41:03.842110+00:00",
     "outage_alert_sent": false
   }
 }
