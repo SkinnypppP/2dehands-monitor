@@ -12551,6 +12551,12 @@
           "price_display": "€ 5,00",
           "title": "Ballon sport de 5KG",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423352450-ballon-sport-de-5kg"
+        },
+        "m2423363559": {
+          "first_seen_at": "2026-07-23T21:45:54.431937+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank zeer solide nieuw Prijs 40€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423363559-schitterende-fitnessbank-zeer-solide-nieuw-prijs-40"
         }
       }
     },
@@ -15741,7 +15747,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-23T20:44:54.650729+00:00",
+    "last_checked_at": "2026-07-23T21:46:35.864970+00:00",
     "outage_alert_sent": false
   }
 }
