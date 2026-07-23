@@ -2582,6 +2582,12 @@
           "price_display": "€ 80,00",
           "title": "Semi akoestische ukelele - Epiphone Les Paul",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423334103-semi-akoestische-ukelele-epiphone-les-paul"
+        },
+        "m2423348339": {
+          "first_seen_at": "2026-07-23T20:44:53.992397+00:00",
+          "price_display": "€ 380,00",
+          "title": "Salvador Cortez klassieke gitaar model CC-08-SN",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423348339-salvador-cortez-klassieke-gitaar-model-cc-08-sn"
         }
       }
     },
@@ -6024,6 +6030,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Bench press met latt pulldown en gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423332718-bench-press-met-latt-pulldown-en-gewichten"
+        },
+        "m2423346924": {
+          "first_seen_at": "2026-07-23T20:44:27.667537+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Elliptisch",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423346924-elliptisch"
         }
       }
     },
@@ -12527,6 +12539,18 @@
           "price_display": "Bieden vanaf € 500,00",
           "title": "Oldschool Squat Rack met Olympische Halter en Gewichten.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423336678-oldschool-squat-rack-met-olympische-halter-en-gewichten"
+        },
+        "m2423345166": {
+          "first_seen_at": "2026-07-23T20:44:10.015652+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Ketter, track motion",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423345166-ketter-track-motion"
+        },
+        "m2423352450": {
+          "first_seen_at": "2026-07-23T20:44:10.015652+00:00",
+          "price_display": "€ 5,00",
+          "title": "Ballon sport de 5KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423352450-ballon-sport-de-5kg"
         }
       }
     },
@@ -15705,13 +15729,19 @@
           "price_display": "€ 280,00",
           "title": "Piano Yamaha P-145 B + Siège + Stand",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423305521-piano-yamaha-p-145-b-siege-stand"
+        },
+        "m2423341660": {
+          "first_seen_at": "2026-07-23T20:44:46.648496+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Digitale Piano Roland",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423341660-digitale-piano-roland"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-23T19:44:32.185403+00:00",
+    "last_checked_at": "2026-07-23T20:44:54.650729+00:00",
     "outage_alert_sent": false
   }
 }
