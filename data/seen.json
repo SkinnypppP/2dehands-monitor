@@ -2594,6 +2594,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423385125-gitaar"
+        },
+        "m2423407820": {
+          "first_seen_at": "2026-07-24T01:05:19.697165+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Spanish Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423407820-spanish-guitar"
         }
       }
     },
@@ -15783,7 +15789,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-23T22:41:03.842110+00:00",
+    "last_checked_at": "2026-07-24T01:05:21.426059+00:00",
     "outage_alert_sent": false
   }
 }
