@@ -6420,6 +6420,18 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Tapis de course Domyos T900A – 19 h d’utilisation / 126 km",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423694992-tapis-de-course-domyos-t900a-19-h-d-utilisation-126-km"
+        },
+        "m2423749988": {
+          "first_seen_at": "2026-07-24T21:32:21.580567+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Domyos EL500 crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423749988-domyos-el500-crosstrainer"
+        },
+        "m2423756802": {
+          "first_seen_at": "2026-07-24T21:32:21.580567+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Mini pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423756802-mini-pro"
         }
       }
     },
@@ -13451,6 +13463,24 @@
           "price_display": "€ 10,00",
           "title": "Adidas ab wheel nieuw in doos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423749279-adidas-ab-wheel-nieuw-in-doos"
+        },
+        "m2423751719": {
+          "first_seen_at": "2026-07-24T21:31:59.766101+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessbaren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423751719-fitnessbaren"
+        },
+        "m2423760227": {
+          "first_seen_at": "2026-07-24T21:31:59.766101+00:00",
+          "price_display": "€ 39,99",
+          "title": "Powerlifting Riem Lever Buckle Belt ZeusAnime Karakter Print",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423760227-powerlifting-riem-lever-buckle-belt-zeusanime-karakter-print"
+        },
+        "m2423760370": {
+          "first_seen_at": "2026-07-24T21:31:59.766101+00:00",
+          "price_display": "€ 110,00",
+          "title": "bench press",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423760370-bench-press"
         }
       }
     },
@@ -16857,7 +16887,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-24T20:18:54.686678+00:00",
+    "last_checked_at": "2026-07-24T21:32:50.658848+00:00",
     "outage_alert_sent": false
   }
 }
