@@ -4123,6 +4123,36 @@
           "price_display": "Bieden vanaf € 460,00",
           "title": "5 pesos 1920 Mexicaans goud",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423713195-5-pesos-1920-mexicaans-goud"
+        },
+        "m2423766635": {
+          "first_seen_at": "2026-07-24T22:39:46.279546+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "100 gram zilver baar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423766635-100-gram-zilver-baar"
+        },
+        "m2423766745": {
+          "first_seen_at": "2026-07-24T22:39:46.279546+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "1 gram Goubaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423766745-1-gram-goubaar"
+        },
+        "m2423766923": {
+          "first_seen_at": "2026-07-24T22:39:46.279546+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Goudbaar 2 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423766923-goudbaar-2-gram"
+        },
+        "m2423767363": {
+          "first_seen_at": "2026-07-24T22:39:46.279546+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Troy Ounce Zilver .999 – British Lion & American Eagle",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423767363-troy-ounce-zilver-999-british-lion-american-eagle"
+        },
+        "m2423767566": {
+          "first_seen_at": "2026-07-24T22:39:46.279546+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "American Silver Eagle – 1 Troy Ounce .999 Zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423767566-american-silver-eagle-1-troy-ounce-999-zilver"
         }
       }
     },
@@ -13481,6 +13511,12 @@
           "price_display": "€ 110,00",
           "title": "bench press",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423760370-bench-press"
+        },
+        "m2423762607": {
+          "first_seen_at": "2026-07-24T22:39:21.134300+00:00",
+          "price_display": "€ 150,00",
+          "title": "Bench Bar + 63kg + halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423762607-bench-bar-63kg-halters"
         }
       }
     },
@@ -16887,7 +16923,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-24T21:32:50.658848+00:00",
+    "last_checked_at": "2026-07-24T22:40:09.887647+00:00",
     "outage_alert_sent": false
   }
 }
