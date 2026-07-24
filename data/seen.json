@@ -13409,6 +13409,48 @@
           "price_display": "Zie omschrijving",
           "title": "Fitness bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423726435-fitness-bar"
+        },
+        "m2423730022": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Step verhoogblokkken",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423730022-step-verhoogblokkken"
+        },
+        "m2423730384": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Battlerope",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423730384-battlerope"
+        },
+        "m2423736199": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423736199-fitnessbank"
+        },
+        "m2423738057": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Olympische  schijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423738057-olympische-schijven"
+        },
+        "m2423746038": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "€ 175,00",
+          "title": "FITNESS Home Gym Unit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423746038-fitness-home-gym-unit"
+        },
+        "m2423746291": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "technogym cardiotoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423746291-technogym-cardiotoestel"
+        },
+        "m2423749279": {
+          "first_seen_at": "2026-07-24T20:18:01.659014+00:00",
+          "price_display": "€ 10,00",
+          "title": "Adidas ab wheel nieuw in doos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423749279-adidas-ab-wheel-nieuw-in-doos"
         }
       }
     },
@@ -16803,13 +16845,19 @@
           "price_display": "Bieden vanaf € 399,00",
           "title": "Piano Roland FP10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423701831-piano-roland-fp10"
+        },
+        "m2423730288": {
+          "first_seen_at": "2026-07-24T20:18:44.574677+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "Hammond M3 met leslie aansluiting voor leslie 145 en galm.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423730288-hammond-m3-met-leslie-aansluiting-voor-leslie-145-en-galm"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-24T18:56:58.440783+00:00",
+    "last_checked_at": "2026-07-24T20:18:54.686678+00:00",
     "outage_alert_sent": false
   }
 }
