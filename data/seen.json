@@ -171,6 +171,12 @@
           "title": "Fender - Stratocaster - - Guitare électrique - Mexique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164666321-fender-stratocaster-guitare-electrique-mexique"
         },
+        "a164725254": {
+          "first_seen_at": "2026-07-24T04:27:36.600368+00:00",
+          "price_display": "€ 320,00",
+          "title": "Destroy - Flea Jazz Bass - - Guitare basse électrique -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164725254-destroy-flea-jazz-bass-guitare-basse-electrique"
+        },
         "a164725327": {
           "first_seen_at": "2026-07-22T07:14:04.278538+00:00",
           "price_display": "€ 380,00",
@@ -200,6 +206,12 @@
           "price_display": "€ 95,00",
           "title": "Michael Sandén - Sandén SRB-D Resonator Gutar Roots. - -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164726671-michael-sanden-sanden-srb-d-resonator-gutar-roots"
+        },
+        "a164729489": {
+          "first_seen_at": "2026-07-24T04:27:36.600368+00:00",
+          "price_display": "€ 320,00",
+          "title": "Destroy - Flea Jazz Bass - - Elektrische basgitaar - Spanje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164729489-destroy-flea-jazz-bass-elektrische-basgitaar-spanje"
         },
         "a164729491": {
           "first_seen_at": "2026-07-22T07:14:04.278538+00:00",
@@ -15783,13 +15795,19 @@
           "price_display": "€ 775,00",
           "title": "Roland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423387505-roland"
+        },
+        "m2423429449": {
+          "first_seen_at": "2026-07-24T04:27:24.579061+00:00",
+          "price_display": "€ 425,00",
+          "title": "Kit yamaha p145 piano + meuble Yamaha L-100B",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423429449-kit-yamaha-p145-piano-meuble-yamaha-l-100b"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-24T01:05:21.426059+00:00",
+    "last_checked_at": "2026-07-24T04:27:38.545247+00:00",
     "outage_alert_sent": false
   }
 }
