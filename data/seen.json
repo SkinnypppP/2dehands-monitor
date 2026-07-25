@@ -3116,6 +3116,24 @@
           "title": "3 gram - Goud .999 - Valcambi, Switzerland",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164913052-3-gram-goud-999-valcambi-switzerland"
         },
+        "a164923637": {
+          "first_seen_at": "2026-07-25T04:30:27.519079+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - MRBUD - Met certificaat (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164923637-1-kilogram-koper-999-mrbud-met-certificaat-zonder"
+        },
+        "a164923638": {
+          "first_seen_at": "2026-07-25T04:30:27.519079+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - Germania Mint (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164923638-1-kilogram-koper-999-germania-mint-zonder"
+        },
+        "a164923639": {
+          "first_seen_at": "2026-07-25T04:30:27.519079+00:00",
+          "price_display": "€ 20,00",
+          "title": "1 kilogram - Koper .999 - MrCopperArte - Met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164923639-1-kilogram-koper-999-mrcopperarte-met-certificaat"
+        },
         "m2379504267": {
           "first_seen_at": "2026-07-13T14:08:23.179379+00:00",
           "price_display": "Bieden vanaf € 37,00",
@@ -13517,6 +13535,12 @@
           "price_display": "€ 150,00",
           "title": "Bench Bar + 63kg + halters",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423762607-bench-bar-63kg-halters"
+        },
+        "m2423785629": {
+          "first_seen_at": "2026-07-25T04:30:02.809892+00:00",
+          "price_display": "€ 500,00",
+          "title": "Eleiko Half Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423785629-eleiko-half-rack"
         }
       }
     },
@@ -16923,7 +16947,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-24T22:40:09.887647+00:00",
+    "last_checked_at": "2026-07-25T04:30:45.623594+00:00",
     "outage_alert_sent": false
   }
 }
