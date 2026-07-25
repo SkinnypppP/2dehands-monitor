@@ -3044,6 +3044,18 @@
           "price_display": "€ 250,00",
           "title": "Akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423972827-akoestische-gitaar"
+        },
+        "m2423987604": {
+          "first_seen_at": "2026-07-25T15:37:57.849044+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423987604-akoestische-gitaar"
+        },
+        "m2423993490": {
+          "first_seen_at": "2026-07-25T15:37:57.849044+00:00",
+          "price_display": "Bieden vanaf € 99,00",
+          "title": "Fender akoestische gitaar 3/4",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2423993490-fender-akoestische-gitaar-3-4"
         }
       }
     },
@@ -4435,6 +4447,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Rechthoekige schaal Kéraluc Quimper -Pierre Toulhoat Vintage",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423919915-rechthoekige-schaal-keraluc-quimper-pierre-toulhoat-vintage"
+        },
+        "m2423980414": {
+          "first_seen_at": "2026-07-25T15:37:41.221261+00:00",
+          "price_display": "€ 10,00",
+          "title": "Gekorreld koper",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2423980414-gekorreld-koper"
         }
       }
     },
@@ -6798,6 +6816,18 @@
           "price_display": "Gratis",
           "title": "Loopband Xiaomi A1 gratis af te halen in Zonhoven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423950227-loopband-xiaomi-a1-gratis-af-te-halen-in-zonhoven"
+        },
+        "m2423975687": {
+          "first_seen_at": "2026-07-25T15:37:33.075941+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Elliptische trainer in zeer goede algemene conditie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423975687-elliptische-trainer-in-zeer-goede-algemene-conditie"
+        },
+        "m2423977118": {
+          "first_seen_at": "2026-07-25T15:37:33.075941+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423977118-loopband"
         }
       }
     },
@@ -14237,6 +14267,24 @@
           "price_display": "Bieden vanaf € 3.000,00",
           "title": "Fitness: smith machine en toebh, gewichten, halters, spiegel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423965853-fitness-smith-machine-en-toebh-gewichten-halters-spiegel"
+        },
+        "m2423980082": {
+          "first_seen_at": "2026-07-25T15:37:12.298530+00:00",
+          "price_display": "€ 60,00",
+          "title": "Inklapbare Hometrainer met Bureau (Deskbike) – Zo goed als n",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423980082-inklapbare-hometrainer-met-bureau-deskbike-zo-goed-als-n"
+        },
+        "m2423981744": {
+          "first_seen_at": "2026-07-25T15:37:12.298530+00:00",
+          "price_display": "€ 495,00",
+          "title": "Technogym Group Cycle D91 Indoor Cycling Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423981744-technogym-group-cycle-d91-indoor-cycling-bike"
+        },
+        "m2423991095": {
+          "first_seen_at": "2026-07-25T15:37:12.298530+00:00",
+          "price_display": "€ 18,00",
+          "title": "Veel oude kleine spieropbouwende apparatuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2423991095-veel-oude-kleine-spieropbouwende-apparatuur"
         }
       }
     },
@@ -17811,13 +17859,19 @@
           "price_display": "€ 1.999,00",
           "title": "Witte hoogglans piano te koop Kemble J33333220",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423971744-witte-hoogglans-piano-te-koop-kemble-j33333220"
+        },
+        "m2423977423": {
+          "first_seen_at": "2026-07-25T15:37:48.961804+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "piano uit eerste hand",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2423977423-piano-uit-eerste-hand"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-25T14:21:32.804455+00:00",
+    "last_checked_at": "2026-07-25T15:37:59.662073+00:00",
     "outage_alert_sent": false
   }
 }
