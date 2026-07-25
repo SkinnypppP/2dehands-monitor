@@ -6924,6 +6924,12 @@
           "price_display": "Bieden vanaf € 995,00",
           "title": "Nordic Track S22i",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424045895-nordic-track-s22i"
+        },
+        "m2424064507": {
+          "first_seen_at": "2026-07-25T20:37:21.642475+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Comfortabele hometrainer!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424064507-comfortabele-hometrainer"
         }
       }
     },
@@ -14513,6 +14519,42 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Krachtstation / powerstation / fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424060183-krachtstation-powerstation-fitness"
+        },
+        "m2424064512": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "€ 30,00",
+          "title": "Gold's Gym  Stepper met Stuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424064512-gold-s-gym-stepper-met-stuur"
+        },
+        "m2424065616": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Atletica dumbbels 32,5kg + 35kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424065616-atletica-dumbbels-32-5kg-35kg"
+        },
+        "m2424065643": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Fitness Tracking",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424065643-fitness-tracking"
+        },
+        "m2424069912": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "€ 45,00",
+          "title": "Sportfiets (fitness fiets)  te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424069912-sportfiets-fitness-fiets-te-koop"
+        },
+        "m2424070939": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "€ 50,00",
+          "title": "Trampoline",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424070939-trampoline"
+        },
+        "m2424070970": {
+          "first_seen_at": "2026-07-25T20:36:55.901238+00:00",
+          "price_display": "€ 10,00",
+          "title": "Een 10kg dumbbel en fitness accessoires",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424070970-een-10kg-dumbbel-en-fitness-accessoires"
         }
       }
     },
@@ -18159,7 +18201,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-25T19:50:59.527256+00:00",
+    "last_checked_at": "2026-07-25T20:37:46.378461+00:00",
     "outage_alert_sent": false
   }
 }
