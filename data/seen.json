@@ -3086,6 +3086,12 @@
           "price_display": "€ 120,00",
           "title": "Bijna nieuwe fender gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424007136-bijna-nieuwe-fender-gitaar"
+        },
+        "m2424015747": {
+          "first_seen_at": "2026-07-25T17:33:58.892870+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Takamine 12-snarige gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424015747-takamine-12-snarige-gitaar"
         }
       }
     },
@@ -6876,6 +6882,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Tapis de course Techness T1100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424010428-tapis-de-course-techness-t1100"
+        },
+        "m2424026741": {
+          "first_seen_at": "2026-07-25T17:33:27.740412+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Vélo elliptique Domos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424026741-velo-elliptique-domos"
         }
       }
     },
@@ -14363,6 +14375,24 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Beentrainer van Tunturi",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424012844-beentrainer-van-tunturi"
+        },
+        "m2424013181": {
+          "first_seen_at": "2026-07-25T17:33:03.158657+00:00",
+          "price_display": "€ 600,00",
+          "title": "Sportvloertegel 'DESERT' - 100x100 cm 20MM",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424013181-sportvloertegel-desert-100x100-cm-20mm"
+        },
+        "m2424022899": {
+          "first_seen_at": "2026-07-25T17:33:03.158657+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Tapis de course à vendre",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424022899-tapis-de-course-a-vendre"
+        },
+        "m2424027475": {
+          "first_seen_at": "2026-07-25T17:33:03.158657+00:00",
+          "price_display": "€ 20,00",
+          "title": "halterstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424027475-halterstang"
         }
       }
     },
@@ -17961,7 +17991,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-25T16:31:11.404430+00:00",
+    "last_checked_at": "2026-07-25T17:34:00.157464+00:00",
     "outage_alert_sent": false
   }
 }
