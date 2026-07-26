@@ -7692,6 +7692,12 @@
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2389020949-fitness"
         },
+        "m2398157689": {
+          "first_seen_at": "2026-07-26T22:36:34.070973+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "PRO-FORM PERFORMANCE & INNOVATION",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2398157689-pro-form-performance-innovation"
+        },
         "m2398280757": {
           "first_seen_at": "2026-07-13T13:48:22.483533+00:00",
           "price_display": "€ 250,00",
@@ -19695,13 +19701,19 @@
           "price_display": "Gratis",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424438753-piano"
+        },
+        "m2424449058": {
+          "first_seen_at": "2026-07-26T22:37:11.817358+00:00",
+          "price_display": "Gratis",
+          "title": "Piano droit reutner",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424449058-piano-droit-reutner"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T21:33:30.413302+00:00",
+    "last_checked_at": "2026-07-26T22:37:21.582408+00:00",
     "outage_alert_sent": false
   }
 }
