@@ -3398,6 +3398,18 @@
           "price_display": "€ 2.750,00",
           "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424428746-gibson-hummingbird-standard-gibson-strap-thalia-capo"
+        },
+        "m2424442276": {
+          "first_seen_at": "2026-07-26T21:33:28.085874+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424442276-akoestische-gitaar"
+        },
+        "m2424442455": {
+          "first_seen_at": "2026-07-26T21:33:28.085874+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Ukelele aloha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424442455-ukelele-aloha"
         }
       }
     },
@@ -15731,6 +15743,12 @@
           "price_display": "Bieden vanaf € 190,00",
           "title": "Life Fitness Stepper -",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424432826-life-fitness-stepper"
+        },
+        "m2424441056": {
+          "first_seen_at": "2026-07-26T21:32:43.579173+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewicht kettlebel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424441056-gewicht-kettlebel"
         }
       }
     },
@@ -19671,13 +19689,19 @@
           "price_display": "Gratis",
           "title": "Piano (beschadigd)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424432388-piano-beschadigd"
+        },
+        "m2424438753": {
+          "first_seen_at": "2026-07-26T21:33:19.519908+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424438753-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T20:35:14.777364+00:00",
+    "last_checked_at": "2026-07-26T21:33:30.413302+00:00",
     "outage_alert_sent": false
   }
 }
