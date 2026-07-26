@@ -3386,6 +3386,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Breedlove Passport C25 reisgitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424393812-breedlove-passport-c25-reisgitaar"
+        },
+        "m2424419329": {
+          "first_seen_at": "2026-07-26T19:38:11.099265+00:00",
+          "price_display": "Bieden vanaf € 310,00",
+          "title": "Alhambra 1P Cedro – Spaanse klassieke gitaar – Made in Spain",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424419329-alhambra-1p-cedro-spaanse-klassieke-gitaar-made-in-spain"
         }
       }
     },
@@ -7434,6 +7440,12 @@
           "price_display": "€ 550,00",
           "title": "loopband decathlon tc6204",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424390686-loopband-decathlon-tc6204"
+        },
+        "m2424408763": {
+          "first_seen_at": "2026-07-26T19:37:37.804873+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Roeier DC Athletics",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424408763-roeier-dc-athletics"
         }
       }
     },
@@ -15677,6 +15689,30 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Set enkel- of polsgewichten 10 kg (2 x 5 kg)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424394269-set-enkel-of-polsgewichten-10-kg-2-x-5-kg"
+        },
+        "m2424400007": {
+          "first_seen_at": "2026-07-26T19:37:16.281771+00:00",
+          "price_display": "€ 290,00",
+          "title": "tapis de course Domyos t900b",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424400007-tapis-de-course-domyos-t900b"
+        },
+        "m2424404174": {
+          "first_seen_at": "2026-07-26T19:37:16.281771+00:00",
+          "price_display": "€ 25,00",
+          "title": "Baar 20 kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424404174-baar-20-kilo"
+        },
+        "m2424413122": {
+          "first_seen_at": "2026-07-26T19:37:16.281771+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Sensas afsteekroller",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424413122-sensas-afsteekroller"
+        },
+        "m2424419576": {
+          "first_seen_at": "2026-07-26T19:37:16.281771+00:00",
+          "price_display": "€ 8,00",
+          "title": "leuke fitnesbal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424419576-leuke-fitnesbal"
         }
       }
     },
@@ -19569,13 +19605,25 @@
           "price_display": "€ 50,00",
           "title": "Piano roland électrique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424395013-piano-roland-electrique"
+        },
+        "m2424403123": {
+          "first_seen_at": "2026-07-26T19:37:59.355227+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke E. Hirsch & Co. buffetpiano met kandelaars (ca. 1900",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424403123-antieke-e-hirsch-co-buffetpiano-met-kandelaars-ca-1900"
+        },
+        "m2424421085": {
+          "first_seen_at": "2026-07-26T19:37:59.355227+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Piano's",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424421085-piano-s"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T18:16:23.885757+00:00",
+    "last_checked_at": "2026-07-26T19:38:12.452933+00:00",
     "outage_alert_sent": false
   }
 }
