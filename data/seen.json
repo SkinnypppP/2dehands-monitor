@@ -3392,6 +3392,12 @@
           "price_display": "Bieden vanaf € 310,00",
           "title": "Alhambra 1P Cedro – Spaanse klassieke gitaar – Made in Spain",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424419329-alhambra-1p-cedro-spaanse-klassieke-gitaar-made-in-spain"
+        },
+        "m2424428746": {
+          "first_seen_at": "2026-07-26T20:35:13.869432+00:00",
+          "price_display": "€ 2.750,00",
+          "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424428746-gibson-hummingbird-standard-gibson-strap-thalia-capo"
         }
       }
     },
@@ -7446,6 +7452,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Roeier DC Athletics",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424408763-roeier-dc-athletics"
+        },
+        "m2424428152": {
+          "first_seen_at": "2026-07-26T20:34:40.919326+00:00",
+          "price_display": "€ 25,00",
+          "title": "Satisfyer pro 2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424428152-satisfyer-pro-2"
         }
       }
     },
@@ -15713,6 +15725,12 @@
           "price_display": "€ 8,00",
           "title": "leuke fitnesbal",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424419576-leuke-fitnesbal"
+        },
+        "m2424432826": {
+          "first_seen_at": "2026-07-26T20:34:13.144465+00:00",
+          "price_display": "Bieden vanaf € 190,00",
+          "title": "Life Fitness Stepper -",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424432826-life-fitness-stepper"
         }
       }
     },
@@ -17056,6 +17074,30 @@
           "price_display": "Bieden vanaf € 230,00",
           "title": "Nox AT10 genius attack 12k",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2424365724-nox-at10-genius-attack-12k"
+        },
+        "m2424427778": {
+          "first_seen_at": "2026-07-26T20:34:24.907149+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Hesacore Tour Grip Carbon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2424427778-hesacore-tour-grip-carbon"
+        },
+        "m2424428252": {
+          "first_seen_at": "2026-07-26T20:34:24.907149+00:00",
+          "price_display": "Bieden vanaf € 3,00",
+          "title": "Bullpadel Hesacore Grip Tour",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2424428252-bullpadel-hesacore-grip-tour"
+        },
+        "m2424433285": {
+          "first_seen_at": "2026-07-26T20:34:24.907149+00:00",
+          "price_display": "€ 55,00",
+          "title": "Adidas Tour 3.3 antraciet 2024 padeltas",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2424433285-adidas-tour-3-3-antraciet-2024-padeltas"
+        },
+        "m2424435486": {
+          "first_seen_at": "2026-07-26T20:34:24.907149+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Raquette de padel adidas METALBON VE CARBON CTRL",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2424435486-raquette-de-padel-adidas-metalbon-ve-carbon-ctrl"
         }
       }
     },
@@ -19617,13 +19659,25 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Piano's",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424421085-piano-s"
+        },
+        "m2424432322": {
+          "first_seen_at": "2026-07-26T20:35:01.887994+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424432322-piano"
+        },
+        "m2424432388": {
+          "first_seen_at": "2026-07-26T20:35:01.887994+00:00",
+          "price_display": "Gratis",
+          "title": "Piano (beschadigd)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424432388-piano-beschadigd"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T19:38:12.452933+00:00",
+    "last_checked_at": "2026-07-26T20:35:14.777364+00:00",
     "outage_alert_sent": false
   }
 }
