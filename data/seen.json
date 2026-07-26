@@ -3410,6 +3410,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Ukelele aloha",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424442455-ukelele-aloha"
+        },
+        "m2424453842": {
+          "first_seen_at": "2026-07-26T23:37:49.945254+00:00",
+          "price_display": "€ 100,00",
+          "title": "Bromo BAA1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424453842-bromo-baa1"
         }
       }
     },
@@ -4885,6 +4891,18 @@
           "price_display": "€ 100,00",
           "title": "5 francs argent napoleon",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2424392437-5-francs-argent-napoleon"
+        },
+        "m2424454106": {
+          "first_seen_at": "2026-07-26T23:37:32.086686+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "1 ounce zilverbaar Silvertowne",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2424454106-1-ounce-zilverbaar-silvertowne"
+        },
+        "m2424454190": {
+          "first_seen_at": "2026-07-26T23:37:32.086686+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "1/2 ounce zilverbaar Gravura",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2424454190-1-2-ounce-zilverbaar-gravura"
         }
       }
     },
@@ -19713,7 +19731,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T22:37:21.582408+00:00",
+    "last_checked_at": "2026-07-26T23:37:51.698138+00:00",
     "outage_alert_sent": false
   }
 }
