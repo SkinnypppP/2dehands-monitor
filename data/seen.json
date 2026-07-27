@@ -16907,6 +16907,24 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "sets d'haltères",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424793546-sets-d-halteres"
+        },
+        "m2424812125": {
+          "first_seen_at": "2026-07-27T22:14:58.017114+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424812125-fitness-toestel"
+        },
+        "m2424813215": {
+          "first_seen_at": "2026-07-27T22:14:58.017114+00:00",
+          "price_display": "€ 4,00",
+          "title": "Holder voor schoenen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424813215-holder-voor-schoenen"
+        },
+        "m2424817504": {
+          "first_seen_at": "2026-07-27T22:14:58.017114+00:00",
+          "price_display": "€ 300,00",
+          "title": "Maxxus omkeertabel Impeccable.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424817504-maxxus-omkeertabel-impeccable"
         }
       }
     },
@@ -21099,13 +21117,19 @@
           "price_display": "€ 400,00",
           "title": "Roland FP-10 met pedaal en stand",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424785238-roland-fp-10-met-pedaal-en-stand"
+        },
+        "m2424812981": {
+          "first_seen_at": "2026-07-27T22:15:34.939603+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "gratis piano 0476610886",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424812981-gratis-piano-0476610886"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-27T21:06:14.496951+00:00",
+    "last_checked_at": "2026-07-27T22:15:45.441148+00:00",
     "outage_alert_sent": false
   }
 }
