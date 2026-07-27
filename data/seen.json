@@ -3578,6 +3578,12 @@
           "price_display": "€ 100,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424769880-gitaar"
+        },
+        "m2424786140": {
+          "first_seen_at": "2026-07-27T21:06:13.686049+00:00",
+          "price_display": "€ 95,00",
+          "title": "Folk gitaar met ingebouwde versterker",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424786140-folk-gitaar-met-ingebouwde-versterker"
         }
       }
     },
@@ -7986,6 +7992,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Trilplaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424772039-trilplaat"
+        },
+        "m2424782032": {
+          "first_seen_at": "2026-07-27T21:05:41.263456+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Apparaat voor buikspieroefeningen, goede conditie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424782032-apparaat-voor-buikspieroefeningen-goede-conditie"
         }
       }
     },
@@ -16871,6 +16883,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424776417-fitness"
+        },
+        "m2424789298": {
+          "first_seen_at": "2026-07-27T21:05:15.432678+00:00",
+          "price_display": "€ 775,00",
+          "title": "Complete Hexagon Dumbbell Set 2,5 t/m 25 kg + Heavy Duty Rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424789298-complete-hexagon-dumbbell-set-2-5-t-m-25-kg-heavy-duty-rek"
+        },
+        "m2424791193": {
+          "first_seen_at": "2026-07-27T21:05:15.432678+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bieden",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424791193-bieden"
+        },
+        "m2424792465": {
+          "first_seen_at": "2026-07-27T21:05:15.432678+00:00",
+          "price_display": "€ 100,00",
+          "title": "2 Halterstangen en een EZ curl stang van 30 mm + gewichten..",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424792465-2-halterstangen-en-een-ez-curl-stang-van-30-mm-gewichten"
+        },
+        "m2424793546": {
+          "first_seen_at": "2026-07-27T21:05:15.432678+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "sets d'haltères",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424793546-sets-d-halteres"
         }
       }
     },
@@ -21051,13 +21087,25 @@
           "price_display": "€ 570,00",
           "title": "Piano roland FP-30X",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424774376-piano-roland-fp-30x"
+        },
+        "m2424778832": {
+          "first_seen_at": "2026-07-27T21:06:01.509075+00:00",
+          "price_display": "Bieden vanaf € 259,00",
+          "title": "piano te verkopen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424778832-piano-te-verkopen"
+        },
+        "m2424785238": {
+          "first_seen_at": "2026-07-27T21:06:01.509075+00:00",
+          "price_display": "€ 400,00",
+          "title": "Roland FP-10 met pedaal en stand",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424785238-roland-fp-10-met-pedaal-en-stand"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-27T19:54:28.903002+00:00",
+    "last_checked_at": "2026-07-27T21:06:14.496951+00:00",
     "outage_alert_sent": false
   }
 }
