@@ -171,6 +171,12 @@
           "title": "Boss - Multi-effect pedaal",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164614558-boss-multi-effect-pedaal"
         },
+        "a164614561": {
+          "first_seen_at": "2026-07-27T04:55:24.066282+00:00",
+          "price_display": "€ 85,00",
+          "title": "Boss - Diverse modellen - Effectpedaal - Taiwan (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164614561-boss-diverse-modellen-effectpedaal-taiwan-zonder"
+        },
         "a164614576": {
           "first_seen_at": "2026-07-23T07:15:24.053501+00:00",
           "price_display": "€ 550,00",
@@ -243,11 +249,23 @@
           "title": "G&L ASAT HB Tribute Floyd Rose (2010) - - Elektrische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164838852-g-l-asat-hb-tribute-floyd-rose-2010-elektrische-gitaar"
         },
+        "a164839459": {
+          "first_seen_at": "2026-07-27T04:55:24.066282+00:00",
+          "price_display": "€ 35,00",
+          "title": "Yamaha - RGX 112 P - - Elektrische gitaar (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164839459-yamaha-rgx-112-p-elektrische-gitaar-zonder"
+        },
         "a164839973": {
           "first_seen_at": "2026-07-26T07:26:08.968131+00:00",
           "price_display": "€ 65,00",
           "title": "Lintage Guitars - TLY-30-RD Wine Red - - Elektrische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164839973-lintage-guitars-tly-30-rd-wine-red-elektrische-gitaar"
+        },
+        "a164839983": {
+          "first_seen_at": "2026-07-27T04:55:24.066282+00:00",
+          "price_display": "€ 45,00",
+          "title": "Tenson - ST-Model SSS - - Elektrische gitaar (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164839983-tenson-st-model-sss-elektrische-gitaar-zonder"
         },
         "a164839984": {
           "first_seen_at": "2026-07-25T06:41:25.949781+00:00",
@@ -7488,6 +7506,18 @@
           "price_display": "€ 25,00",
           "title": "Satisfyer pro 2",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424428152-satisfyer-pro-2"
+        },
+        "m2424464964": {
+          "first_seen_at": "2026-07-27T04:55:02.889493+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424464964-hometrainer"
+        },
+        "m2424465079": {
+          "first_seen_at": "2026-07-27T04:55:02.889493+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Tapis de marche LITEX",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424465079-tapis-de-marche-litex"
         }
       }
     },
@@ -7559,6 +7589,12 @@
           "price_display": "€ 25,00",
           "title": "Lifemaxx - Crossmaxx - Halterschijven - Bumper Plates - 1,5",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164528681-lifemaxx-crossmaxx-halterschijven-bumper-plates-1-5"
+        },
+        "a164573555": {
+          "first_seen_at": "2026-07-27T04:54:44.106723+00:00",
+          "price_display": "€ 645,00",
+          "title": "Technogym – Adjustable Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164573555-technogym-adjustable-bench"
         },
         "a164573580": {
           "first_seen_at": "2026-07-17T06:02:06.175725+00:00",
@@ -19731,7 +19767,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-26T23:37:51.698138+00:00",
+    "last_checked_at": "2026-07-27T04:55:26.503095+00:00",
     "outage_alert_sent": false
   }
 }
