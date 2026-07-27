@@ -3584,6 +3584,18 @@
           "price_display": "€ 95,00",
           "title": "Folk gitaar met ingebouwde versterker",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424786140-folk-gitaar-met-ingebouwde-versterker"
+        },
+        "m2424820595": {
+          "first_seen_at": "2026-07-27T23:29:47.007439+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Ukulele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424820595-ukulele"
+        },
+        "m2424827761": {
+          "first_seen_at": "2026-07-27T23:29:47.007439+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Fender Mustang USA 1976\n\nPrijs: 1500\n\nBeschrijving: A",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2424827761-fender-mustang-usa-1976-prijs-1500-beschrijving-a"
         }
       }
     },
@@ -7998,6 +8010,12 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Apparaat voor buikspieroefeningen, goede conditie",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424782032-apparaat-voor-buikspieroefeningen-goede-conditie"
+        },
+        "m2424822299": {
+          "first_seen_at": "2026-07-27T23:29:22.291400+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessapparatuur voor thuis",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424822299-fitnessapparatuur-voor-thuis"
         }
       }
     },
@@ -21129,7 +21147,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-27T22:15:45.441148+00:00",
+    "last_checked_at": "2026-07-27T23:29:48.256624+00:00",
     "outage_alert_sent": false
   }
 }
