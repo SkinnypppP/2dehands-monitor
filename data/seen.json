@@ -3794,6 +3794,12 @@
           "price_display": "€ 2.750,00",
           "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425175285-gibson-hummingbird-standard-gibson-strap-thalia-capo"
+        },
+        "m2425195836": {
+          "first_seen_at": "2026-07-28T23:31:51.784000+00:00",
+          "price_display": "€ 100,00",
+          "title": "Richwood Artiste Series RD-12-BK",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425195836-richwood-artiste-series-rd-12-bk"
         }
       }
     },
@@ -19450,6 +19456,12 @@
           "price_display": "€ 220,00",
           "title": "Adidas Metalbone HRD 3.5 als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425186180-adidas-metalbone-hrd-3-5-als-nieuw"
+        },
+        "m2425194898": {
+          "first_seen_at": "2026-07-28T23:31:20.722953+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Desperados nieuwe padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425194898-desperados-nieuwe-padelracket"
         }
       }
     },
@@ -22317,7 +22329,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-28T22:28:45.617676+00:00",
+    "last_checked_at": "2026-07-28T23:31:52.716089+00:00",
     "outage_alert_sent": false
   }
 }
