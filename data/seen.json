@@ -17837,6 +17837,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Life fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425182719-life-fitness"
+        },
+        "m2425189540": {
+          "first_seen_at": "2026-07-28T22:28:06.277616+00:00",
+          "price_display": "€ 450,00",
+          "title": "Hometrainer bike te koop MATRIX",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425189540-hometrainer-bike-te-koop-matrix"
+        },
+        "m2425192130": {
+          "first_seen_at": "2026-07-28T22:28:06.277616+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Lot de disques Domyos + barre de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425192130-lot-de-disques-domyos-barre-de-musculation"
         }
       }
     },
@@ -19432,6 +19444,12 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "NOX EA10 VENTUS ATTACK 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425147951-nox-ea10-ventus-attack-2026"
+        },
+        "m2425186180": {
+          "first_seen_at": "2026-07-28T22:28:15.438381+00:00",
+          "price_display": "€ 220,00",
+          "title": "Adidas Metalbone HRD 3.5 als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425186180-adidas-metalbone-hrd-3-5-als-nieuw"
         }
       }
     },
@@ -22299,7 +22317,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-28T21:19:01.994663+00:00",
+    "last_checked_at": "2026-07-28T22:28:45.617676+00:00",
     "outage_alert_sent": false
   }
 }
