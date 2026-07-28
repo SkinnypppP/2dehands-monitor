@@ -3788,6 +3788,12 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Guitare classique a vendre",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425161626-guitare-classique-a-vendre"
+        },
+        "m2425175285": {
+          "first_seen_at": "2026-07-28T21:19:00.890824+00:00",
+          "price_display": "€ 2.750,00",
+          "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425175285-gibson-hummingbird-standard-gibson-strap-thalia-capo"
         }
       }
     },
@@ -5467,6 +5473,12 @@
           "price_display": "Zie omschrijving",
           "title": "#Koperbaar Geiger 5 kilogram fine koper BU 999.9%",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425126663-koperbaar-geiger-5-kilogram-fine-koper-bu-999-9"
+        },
+        "m2425182175": {
+          "first_seen_at": "2026-07-28T21:18:41.803561+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "pièce de collection",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425182175-piece-de-collection"
         }
       }
     },
@@ -17795,6 +17807,36 @@
           "price_display": "€ 600,00",
           "title": "Powermark 2 in 1 Leg Press en Hack Squat  Machine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425169872-powermark-2-in-1-leg-press-en-hack-squat-machine"
+        },
+        "m2425179721": {
+          "first_seen_at": "2026-07-28T21:18:08.439569+00:00",
+          "price_display": "€ 3.495,00",
+          "title": "Technogym Excite+ Live 7000 16 P Unity 4 Upright Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425179721-technogym-excite-live-7000-16-p-unity-4-upright-bike"
+        },
+        "m2425180411": {
+          "first_seen_at": "2026-07-28T21:18:08.439569+00:00",
+          "price_display": "€ 200,00",
+          "title": "domyos fitnes toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425180411-domyos-fitnes-toestel"
+        },
+        "m2425180590": {
+          "first_seen_at": "2026-07-28T21:18:08.439569+00:00",
+          "price_display": "€ 3.495,00",
+          "title": "Technogym Excite+ Live 7000 16 P Unity 4.0 Recline Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425180590-technogym-excite-live-7000-16-p-unity-4-0-recline-bike"
+        },
+        "m2425180983": {
+          "first_seen_at": "2026-07-28T21:18:08.439569+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Poids 2kg + 1kg + 2kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425180983-poids-2kg-1kg-2kg"
+        },
+        "m2425182719": {
+          "first_seen_at": "2026-07-28T21:18:08.439569+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Life fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425182719-life-fitness"
         }
       }
     },
@@ -19599,6 +19641,12 @@
           "price_display": "€ 59.500,00",
           "title": "Piano, Vleugel Steinway & Sons B 1973",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2410674498-piano-vleugel-steinway-sons-b-1973"
+        },
+        "m2411624538": {
+          "first_seen_at": "2026-07-28T21:18:51.258692+00:00",
+          "price_display": "Bieden vanaf € 2.900,00",
+          "title": "Piano Schimmel 112 — Jaar 1984 — met kruk en lamp",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2411624538-piano-schimmel-112-jaar-1984-met-kruk-en-lamp"
         },
         "m2411665647": {
           "first_seen_at": "2026-07-14T18:50:30.872460+00:00",
@@ -22239,13 +22287,19 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Yamaha P-45 Digitale Piano – Zo Goed Als Nieuw, Complete Set",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425167625-yamaha-p-45-digitale-piano-zo-goed-als-nieuw-complete-set"
+        },
+        "m2425175689": {
+          "first_seen_at": "2026-07-28T21:18:51.258692+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano winkelmann",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425175689-piano-winkelmann"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-28T20:06:35.108639+00:00",
+    "last_checked_at": "2026-07-28T21:19:01.994663+00:00",
     "outage_alert_sent": false
   }
 }
