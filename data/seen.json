@@ -5215,6 +5215,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "5oz zilver baar uit usa",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2424755158-5oz-zilver-baar-uit-usa"
+        },
+        "m2424847710": {
+          "first_seen_at": "2026-07-28T00:57:30.377529+00:00",
+          "price_display": "€ 800,00",
+          "title": "10 oz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2424847710-10-oz"
         }
       }
     },
@@ -21147,7 +21153,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-27T23:29:48.256624+00:00",
+    "last_checked_at": "2026-07-28T00:57:51.010717+00:00",
     "outage_alert_sent": false
   }
 }
