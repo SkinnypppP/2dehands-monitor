@@ -16949,6 +16949,12 @@
           "price_display": "€ 300,00",
           "title": "Maxxus omkeertabel Impeccable.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424817504-maxxus-omkeertabel-impeccable"
+        },
+        "m2424864346": {
+          "first_seen_at": "2026-07-28T04:08:24.643968+00:00",
+          "price_display": "Bieden vanaf € 23,50",
+          "title": "Fitness Elastiek - Resistance band kit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2424864346-fitness-elastiek-resistance-band-kit"
         }
       }
     },
@@ -21147,13 +21153,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "gratis piano 0476610886",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424812981-gratis-piano-0476610886"
+        },
+        "m2424882140": {
+          "first_seen_at": "2026-07-28T04:09:07.541692+00:00",
+          "price_display": "€ 650,00",
+          "title": "Petrof Buffetpiano type 115",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2424882140-petrof-buffetpiano-type-115"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-28T00:57:51.010717+00:00",
+    "last_checked_at": "2026-07-28T04:09:16.841054+00:00",
     "outage_alert_sent": false
   }
 }
