@@ -8862,6 +8862,12 @@
           "price_display": "€ 185,00",
           "title": "Indoor bike trainer spinning",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425498343-indoor-bike-trainer-spinning"
+        },
+        "m2425526467": {
+          "first_seen_at": "2026-07-29T23:45:11.485696+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "Professionele loopband - Technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425526467-professionele-loopband-technogym"
         }
       }
     },
@@ -23511,7 +23517,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T22:43:10.444862+00:00",
+    "last_checked_at": "2026-07-29T23:45:41.077937+00:00",
     "outage_alert_sent": false
   }
 }
