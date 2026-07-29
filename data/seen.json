@@ -8808,6 +8808,30 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "XTERRA TR2.0 Opklapbare Loopband + Twister Toestel! ‍️",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425452998-xterra-tr2-0-opklapbare-loopband-twister-toestel"
+        },
+        "m2425484025": {
+          "first_seen_at": "2026-07-29T19:55:38.043886+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Crosstrainer - Kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425484025-crosstrainer-kettler"
+        },
+        "m2425491856": {
+          "first_seen_at": "2026-07-29T19:55:38.043886+00:00",
+          "price_display": "€ 490,00",
+          "title": "Loopband tot 16 km/u",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425491856-loopband-tot-16-km-u"
+        },
+        "m2425498084": {
+          "first_seen_at": "2026-07-29T19:55:38.043886+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Decathlon Domyos Training Station 900 Pull-up & Dip Station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425498084-decathlon-domyos-training-station-900-pull-up-dip-station"
+        },
+        "m2425498343": {
+          "first_seen_at": "2026-07-29T19:55:38.043886+00:00",
+          "price_display": "€ 185,00",
+          "title": "Indoor bike trainer spinning",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425498343-indoor-bike-trainer-spinning"
         }
       }
     },
@@ -18641,6 +18665,30 @@
           "price_display": "€ 25,00",
           "title": "Plate tree",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425474841-plate-tree"
+        },
+        "m2425493508": {
+          "first_seen_at": "2026-07-29T19:55:14.540977+00:00",
+          "price_display": "€ 400,00",
+          "title": "Verstelbare dumbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425493508-verstelbare-dumbells"
+        },
+        "m2425494373": {
+          "first_seen_at": "2026-07-29T19:55:14.540977+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425494373-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2425495901": {
+          "first_seen_at": "2026-07-29T19:55:14.540977+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Airex balance pad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425495901-airex-balance-pad"
+        },
+        "m2425498545": {
+          "first_seen_at": "2026-07-29T19:55:14.540977+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Hile trainer Vision Fitness E3200 HRT",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425498545-hile-trainer-vision-fitness-e3200-hrt"
         }
       }
     },
@@ -20362,6 +20410,18 @@
           "price_display": "€ 89,95",
           "title": "Oxdog ultimate court padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425473255-oxdog-ultimate-court-padelracket"
+        },
+        "m2425490648": {
+          "first_seen_at": "2026-07-29T19:55:26.317276+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "x24 padelballen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425490648-x24-padelballen"
+        },
+        "m2425494056": {
+          "first_seen_at": "2026-07-29T19:55:26.317276+00:00",
+          "price_display": "€ 69,00",
+          "title": "Siux Diablo Pro 4 van Libaak",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2425494056-siux-diablo-pro-4-van-libaak"
         }
       }
     },
@@ -23367,13 +23427,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Louis DE SMET rechtopstaande piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425450966-louis-de-smet-rechtopstaande-piano"
+        },
+        "m2425485985": {
+          "first_seen_at": "2026-07-29T19:55:57.865602+00:00",
+          "price_display": "€ 500,00",
+          "title": "Vintage electrisch rietorgel uit de jaren 60",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425485985-vintage-electrisch-rietorgel-uit-de-jaren-60"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T18:32:06.080025+00:00",
+    "last_checked_at": "2026-07-29T19:56:09.384019+00:00",
     "outage_alert_sent": false
   }
 }
