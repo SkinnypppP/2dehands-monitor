@@ -3998,6 +3998,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Akoestische Alvaro gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425510267-akoestische-alvaro-gitaar"
+        },
+        "m2425510774": {
+          "first_seen_at": "2026-07-29T21:41:51.389330+00:00",
+          "price_display": "€ 550,00",
+          "title": "Blueridge BR-43 B akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425510774-blueridge-br-43-b-akoestische-gitaar"
         }
       }
     },
@@ -18713,6 +18719,18 @@
           "price_display": "€ 490,00",
           "title": "loopbaan zeer goede staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425504143-loopbaan-zeer-goede-staat"
+        },
+        "m2425510224": {
+          "first_seen_at": "2026-07-29T21:41:11.679984+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gietijzeren halterschijven – 4 x 5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425510224-gietijzeren-halterschijven-4-x-5-kg"
+        },
+        "m2425513240": {
+          "first_seen_at": "2026-07-29T21:41:11.679984+00:00",
+          "price_display": "€ 2.999,00",
+          "title": "e-fit infinity + 1 receiver",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425513240-e-fit-infinity-1-receiver"
         }
       }
     },
@@ -23481,7 +23499,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T20:47:54.352672+00:00",
+    "last_checked_at": "2026-07-29T21:41:52.372639+00:00",
     "outage_alert_sent": false
   }
 }
