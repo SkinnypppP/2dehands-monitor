@@ -3986,6 +3986,18 @@
           "price_display": "€ 250,00",
           "title": "Yamaha APX600 black",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425474531-yamaha-apx600-black"
+        },
+        "m2425510175": {
+          "first_seen_at": "2026-07-29T20:47:52.501035+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425510175-ukelele"
+        },
+        "m2425510267": {
+          "first_seen_at": "2026-07-29T20:47:52.501035+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Akoestische Alvaro gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425510267-akoestische-alvaro-gitaar"
         }
       }
     },
@@ -5749,6 +5761,12 @@
           "price_display": "€ 3.500,00",
           "title": "20 dollar goud",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425477614-20-dollar-goud"
+        },
+        "m2425509808": {
+          "first_seen_at": "2026-07-29T20:47:28.432389+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vaticaan penning puur goud 1962",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425509808-vaticaan-penning-puur-goud-1962"
         }
       }
     },
@@ -18689,6 +18707,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Hile trainer Vision Fitness E3200 HRT",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425498545-hile-trainer-vision-fitness-e3200-hrt"
+        },
+        "m2425504143": {
+          "first_seen_at": "2026-07-29T20:47:03.373251+00:00",
+          "price_display": "€ 490,00",
+          "title": "loopbaan zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425504143-loopbaan-zeer-goede-staat"
         }
       }
     },
@@ -23433,13 +23457,31 @@
           "price_display": "€ 500,00",
           "title": "Vintage electrisch rietorgel uit de jaren 60",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425485985-vintage-electrisch-rietorgel-uit-de-jaren-60"
+        },
+        "m2425502681": {
+          "first_seen_at": "2026-07-29T20:47:40.499962+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425502681-digitale-roland-bk-5-backing-keyboard-nieuw"
+        },
+        "m2425503166": {
+          "first_seen_at": "2026-07-29T20:47:40.499962+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "pianobankje ( Jacky Claes) verstelbaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425503166-pianobankje-jacky-claes-verstelbaar"
+        },
+        "m2425508287": {
+          "first_seen_at": "2026-07-29T20:47:40.499962+00:00",
+          "price_display": "€ 7.900,00",
+          "title": "PIANO YAMAHA G2",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425508287-piano-yamaha-g2"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T19:56:09.384019+00:00",
+    "last_checked_at": "2026-07-29T20:47:54.352672+00:00",
     "outage_alert_sent": false
   }
 }
