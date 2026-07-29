@@ -4004,6 +4004,12 @@
           "price_display": "€ 550,00",
           "title": "Blueridge BR-43 B akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425510774-blueridge-br-43-b-akoestische-gitaar"
+        },
+        "m2425521639": {
+          "first_seen_at": "2026-07-29T22:43:09.436489+00:00",
+          "price_display": "€ 200,00",
+          "title": "Cort GA5F BW NS acoustic gitaar + bag",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425521639-cort-ga5f-bw-ns-acoustic-gitaar-bag"
         }
       }
     },
@@ -18731,6 +18737,12 @@
           "price_display": "€ 2.999,00",
           "title": "e-fit infinity + 1 receiver",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425513240-e-fit-infinity-1-receiver"
+        },
+        "m2425523026": {
+          "first_seen_at": "2026-07-29T22:42:24.133211+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "loopband horizon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425523026-loopband-horizon"
         }
       }
     },
@@ -23499,7 +23511,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T21:41:52.372639+00:00",
+    "last_checked_at": "2026-07-29T22:43:10.444862+00:00",
     "outage_alert_sent": false
   }
 }
