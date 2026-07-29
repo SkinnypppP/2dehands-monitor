@@ -4094,6 +4094,12 @@
           "title": "1 Troy Ounce - Goud - C. Hafner",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164932196-1-troy-ounce-goud-c-hafner"
         },
+        "a164938276": {
+          "first_seen_at": "2026-07-29T04:24:53.522854+00:00",
+          "price_display": "€ 1.330,00",
+          "title": "13,96 grams - Goud .980 - 4 Ducat Austria 1915 - 986‰",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164938276-13-96-grams-goud-980-4-ducat-austria-1915-986"
+        },
         "a164944648": {
           "first_seen_at": "2026-07-25T12:47:12.740529+00:00",
           "price_display": "€ 1,00",
@@ -4112,6 +4118,12 @@
           "title": "6,45 grams - Goud .900 - 20 Francs Napoleon III",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164944656-6-45-grams-goud-900-20-francs-napoleon-iii"
         },
+        "a164968215": {
+          "first_seen_at": "2026-07-29T04:24:53.522854+00:00",
+          "price_display": "€ 29,00",
+          "title": "Tsjaad. 5000 Francs 1/200 oz 999 Fine Gold 5000 CFA Francs",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164968215-tsjaad-5000-francs-1-200-oz-999-fine-gold-5000-cfa-francs"
+        },
         "a164972470": {
           "first_seen_at": "2026-07-26T12:13:01.964891+00:00",
           "price_display": "€ 1,00",
@@ -4129,6 +4141,12 @@
           "price_display": "€ 1,00",
           "title": "Canada. 5 Dollars 5 x 1 oz $5 CAD Canadian Silver Maple Leaf",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164972472-canada-5-dollars-5-x-1-oz-5-cad-canadian-silver-maple-leaf"
+        },
+        "a164983337": {
+          "first_seen_at": "2026-07-29T04:24:53.522854+00:00",
+          "price_display": "€ 60,00",
+          "title": "Tsjaad. 5000 Francs 2024 1 oz Chad Cannabis Green Smoker",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164983337-tsjaad-5000-francs-2024-1-oz-chad-cannabis-green-smoker"
         },
         "a164986904": {
           "first_seen_at": "2026-07-27T14:02:06.558728+00:00",
@@ -8430,6 +8448,12 @@
           "price_display": "€ 375,00",
           "title": "Fitness rek + bench + gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425159315-fitness-rek-bench-gewichten"
+        },
+        "m2425207940": {
+          "first_seen_at": "2026-07-29T04:24:45.154919+00:00",
+          "price_display": "Bieden vanaf € 1.950,00",
+          "title": "Leg Press Matrix",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425207940-leg-press-matrix"
         }
       }
     },
@@ -22329,13 +22353,19 @@
           "price_display": "Bieden vanaf € 5.000,00",
           "title": "Vleugelpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425200951-vleugelpiano"
+        },
+        "m2425204090": {
+          "first_seen_at": "2026-07-29T04:25:03.460206+00:00",
+          "price_display": "€ 999,00",
+          "title": "eterna piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425204090-eterna-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-29T01:04:56.115878+00:00",
+    "last_checked_at": "2026-07-29T04:25:13.752314+00:00",
     "outage_alert_sent": false
   }
 }
