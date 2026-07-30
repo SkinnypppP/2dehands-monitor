@@ -4358,6 +4358,18 @@
           "title": "Tsjaad. 5000 Francs 2024 1 oz Chad Cannabis Green Smoker",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164983337-tsjaad-5000-francs-2024-1-oz-chad-cannabis-green-smoker"
         },
+        "a164984213": {
+          "first_seen_at": "2026-07-30T04:15:21.036297+00:00",
+          "price_display": "€ 1.400,00",
+          "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164984213-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
+        },
+        "a164984918": {
+          "first_seen_at": "2026-07-30T04:15:21.036297+00:00",
+          "price_display": "€ 3.177,00",
+          "title": "1 Troy Ounce - Goud .999 - 1 oz .9999 Fine Gold Bar Valcambi",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a164984918-1-troy-ounce-goud-999-1-oz-9999-fine-gold-bar-valcambi"
+        },
         "a164986904": {
           "first_seen_at": "2026-07-27T14:02:06.558728+00:00",
           "price_display": "€ 1,00",
@@ -4393,6 +4405,12 @@
           "price_display": "€ 325,00",
           "title": "10 troy ounce - Zilver .999 - Krugerrand 2026 - 311 gram -",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165013824-10-troy-ounce-zilver-999-krugerrand-2026-311-gram"
+        },
+        "a165034094": {
+          "first_seen_at": "2026-07-30T04:15:21.036297+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165034094-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
         },
         "a165039817": {
           "first_seen_at": "2026-07-29T14:29:01.717820+00:00",
@@ -23523,7 +23541,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-30T01:04:46.902922+00:00",
+    "last_checked_at": "2026-07-30T04:15:43.456078+00:00",
     "outage_alert_sent": false
   }
 }
