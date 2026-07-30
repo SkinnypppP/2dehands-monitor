@@ -4208,6 +4208,36 @@
           "price_display": "€ 30,00",
           "title": "guitare acoustique classique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425808728-guitare-acoustique-classique"
+        },
+        "m2425810196": {
+          "first_seen_at": "2026-07-30T21:07:34.092191+00:00",
+          "price_display": "€ 2.800,00",
+          "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425810196-gibson-hummingbird-standard-gibson-strap-thalia-capo"
+        },
+        "m2425815047": {
+          "first_seen_at": "2026-07-30T21:07:34.092191+00:00",
+          "price_display": "€ 350,00",
+          "title": "Panneaux acoustiques et bass trap fait maison",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425815047-panneaux-acoustiques-et-bass-trap-fait-maison"
+        },
+        "m2425815977": {
+          "first_seen_at": "2026-07-30T21:07:34.092191+00:00",
+          "price_display": "€ 180,00",
+          "title": "Patchbay ART P48 et patchbay xlr P16",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425815977-patchbay-art-p48-et-patchbay-xlr-p16"
+        },
+        "m2425818110": {
+          "first_seen_at": "2026-07-30T21:07:34.092191+00:00",
+          "price_display": "€ 40,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425818110-akoestische-gitaar"
+        },
+        "m2425819010": {
+          "first_seen_at": "2026-07-30T21:07:34.092191+00:00",
+          "price_display": "€ 240,00",
+          "title": "Guitare électro-acoustique Cort - révisée par luthier",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2425819010-guitare-electro-acoustique-cort-revisee-par-luthier"
         }
       }
     },
@@ -6073,6 +6103,12 @@
           "price_display": "Zie omschrijving",
           "title": "VOLLEDIGE KOOKABURRA REEKS (EXCLUSIEF)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425723435-volledige-kookaburra-reeks-exclusief"
+        },
+        "m2425822016": {
+          "first_seen_at": "2026-07-30T21:07:15.375134+00:00",
+          "price_display": "€ 65,00",
+          "title": "maple leaf 1oz zilver munten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425822016-maple-leaf-1oz-zilver-munten"
         }
       }
     },
@@ -24591,13 +24627,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Antieke buffetpiano – Bay Vezzani & Co – Zwart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425806510-antieke-buffetpiano-bay-vezzani-co-zwart"
+        },
+        "m2425818853": {
+          "first_seen_at": "2026-07-30T21:07:24.828763+00:00",
+          "price_display": "€ 850,00",
+          "title": "Electric piano - Roland FP-E50",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425818853-electric-piano-roland-fp-e50"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-30T19:57:29.555284+00:00",
+    "last_checked_at": "2026-07-30T21:07:42.577720+00:00",
     "outage_alert_sent": false
   }
 }
