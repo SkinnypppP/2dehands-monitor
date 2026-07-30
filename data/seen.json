@@ -5887,6 +5887,18 @@
           "title": "Veiling - Multifunctionele Trainingsbank / Fitnessbank - Ver",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a164778103-veiling-multifunctionele-trainingsbank-fitnessbank-ver"
         },
+        "a165019381": {
+          "first_seen_at": "2026-07-30T06:43:44.677604+00:00",
+          "price_display": "€ 30,00",
+          "title": "Veiling - Halterbank / trainingsbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a165019381-veiling-halterbank-trainingsbank"
+        },
+        "a165019383": {
+          "first_seen_at": "2026-07-30T06:43:44.677604+00:00",
+          "price_display": "€ 95,00",
+          "title": "Veiling - Multifunctionele Trainingsbank / Fitnessbank - Ver",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a165019383-veiling-multifunctionele-trainingsbank-fitnessbank-ver"
+        },
         "m1929069366": {
           "first_seen_at": "2026-07-13T14:08:16.397730+00:00",
           "price_display": "€ 16,00",
@@ -9047,6 +9059,12 @@
           "price_display": "€ 1.450,00",
           "title": "Dumbell Set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a164959461-dumbell-set"
+        },
+        "a165015803": {
+          "first_seen_at": "2026-07-30T06:43:25.796305+00:00",
+          "price_display": "€ 900,00",
+          "title": "Concept 2 - Indoor Rower Model C - Roeier",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165015803-concept-2-indoor-rower-model-c-roeier"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -18773,6 +18791,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "loopband horizon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425523026-loopband-horizon"
+        },
+        "m2425548830": {
+          "first_seen_at": "2026-07-30T06:43:25.796305+00:00",
+          "price_display": "€ 10,00",
+          "title": "2 halters met bouten zonder gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425548830-2-halters-met-bouten-zonder-gewichten"
+        },
+        "m2425552635": {
+          "first_seen_at": "2026-07-30T06:43:25.796305+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Squat rack/ bench press van Focus Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425552635-squat-rack-bench-press-van-focus-fitness"
+        },
+        "m2425555215": {
+          "first_seen_at": "2026-07-30T06:43:25.796305+00:00",
+          "price_display": "€ 2.950,00",
+          "title": "Lot complet d’équipements de musculation  - GHD – Boomfit,",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425555215-lot-complet-d-equipements-de-musculation-ghd-boomfit"
+        },
+        "m2425556174": {
+          "first_seen_at": "2026-07-30T06:43:25.796305+00:00",
+          "price_display": "€ 39,99",
+          "title": "Powerlifting Riem Lever Buckle Belt ZeusAnime Karakter Print",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425556174-powerlifting-riem-lever-buckle-belt-zeusanime-karakter-print"
         }
       }
     },
@@ -23535,13 +23577,19 @@
           "price_display": "€ 7.900,00",
           "title": "PIANO YAMAHA G2",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425508287-piano-yamaha-g2"
+        },
+        "m2425554842": {
+          "first_seen_at": "2026-07-30T06:44:01.773073+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Zwarte buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2425554842-zwarte-buffetpiano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-30T04:15:43.456078+00:00",
+    "last_checked_at": "2026-07-30T06:44:11.890964+00:00",
     "outage_alert_sent": false
   }
 }
