@@ -249,6 +249,12 @@
           "title": "G&L ASAT HB Tribute Floyd Rose (2010) - - Elektrische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164838852-g-l-asat-hb-tribute-floyd-rose-2010-elektrische-gitaar"
         },
+        "a164839457": {
+          "first_seen_at": "2026-07-31T04:35:05.458023+00:00",
+          "price_display": "€ 55,00",
+          "title": "Boss - RC-2 - - Muziekinstrumenten - Japan - 1998 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164839457-boss-rc-2-muziekinstrumenten-japan-1998-zonder"
+        },
         "a164839459": {
           "first_seen_at": "2026-07-27T04:55:24.066282+00:00",
           "price_display": "€ 35,00",
@@ -290,6 +296,12 @@
           "price_display": "€ 25,00",
           "title": "Boston - - Elektro-akoestische gitaar - Zuid-Korea - 90",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164841879-boston-elektro-akoestische-gitaar-zuid-korea-90"
+        },
+        "a164841885": {
+          "first_seen_at": "2026-07-31T04:35:05.458023+00:00",
+          "price_display": "€ 390,00",
+          "title": "Fender - Aantal items: 1 - Gitaarversterker - Mexico - 2016",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164841885-fender-aantal-items-1-gitaarversterker-mexico-2016"
         },
         "a164842260": {
           "first_seen_at": "2026-07-26T07:26:08.968131+00:00",
@@ -6127,6 +6139,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "USA zilveren indian",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425856035-usa-zilveren-indian"
+        },
+        "m2425862824": {
+          "first_seen_at": "2026-07-31T04:34:45.819385+00:00",
+          "price_display": "€ 2.099,00",
+          "title": "1 Kilo Fiji Coin Bar | Silver | Argor-Heraeus",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425862824-1-kilo-fiji-coin-bar-silver-argor-heraeus"
         }
       }
     },
@@ -19703,6 +19721,24 @@
           "price_display": "Bieden vanaf € 390,00",
           "title": "Crosstrainer VPS Elliptical – jouw nieuwe workout‑crush!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425809130-crosstrainer-vps-elliptical-jouw-nieuwe-workout-crush"
+        },
+        "m2425857874": {
+          "first_seen_at": "2026-07-31T04:34:11.938759+00:00",
+          "price_display": "Bieden vanaf € 220,00",
+          "title": "Halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425857874-halterbank"
+        },
+        "m2425858343": {
+          "first_seen_at": "2026-07-31T04:34:11.938759+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Nautilus T626 loopband te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425858343-nautilus-t626-loopband-te-koop"
+        },
+        "m2425860468": {
+          "first_seen_at": "2026-07-31T04:34:11.938759+00:00",
+          "price_display": "Bieden vanaf € 2.950,00",
+          "title": "Complete homegym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2425860468-complete-homegym"
         }
       }
     },
@@ -24663,7 +24699,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T01:06:03.396351+00:00",
+    "last_checked_at": "2026-07-31T04:35:08.254818+00:00",
     "outage_alert_sent": false
   }
 }
