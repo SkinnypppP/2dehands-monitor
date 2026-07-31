@@ -4568,6 +4568,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426173165-guitare"
+        },
+        "m2426175072": {
+          "first_seen_at": "2026-07-31T22:45:46.208533+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Yamaha FG730S akoestische gitaar – compleet pakket",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426175072-yamaha-fg730s-akoestische-gitaar-compleet-pakket"
         }
       }
     },
@@ -25821,7 +25827,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T21:50:09.657851+00:00",
+    "last_checked_at": "2026-07-31T22:45:47.185357+00:00",
     "outage_alert_sent": false
   }
 }
