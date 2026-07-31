@@ -4544,6 +4544,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fishman Rare Earth Humbucker",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426140953-fishman-rare-earth-humbucker"
+        },
+        "m2426152425": {
+          "first_seen_at": "2026-07-31T20:47:37.585489+00:00",
+          "price_display": "Bieden vanaf € 3.750,00",
+          "title": "Martin 000-28 Eric Clapton Sunburst + KK pick up",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426152425-martin-000-28-eric-clapton-sunburst-kk-pick-up"
         }
       }
     },
@@ -20639,6 +20645,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Roeimachine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426131504-roeimachine"
+        },
+        "m2426142754": {
+          "first_seen_at": "2026-07-31T20:46:49.554407+00:00",
+          "price_display": "€ 380,00",
+          "title": "Rack 500 Musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426142754-rack-500-musculation"
         }
       }
     },
@@ -25755,13 +25767,19 @@
           "price_display": "€ 250,00",
           "title": "Buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426123813-buffetpiano"
+        },
+        "m2426153917": {
+          "first_seen_at": "2026-07-31T20:47:25.650641+00:00",
+          "price_display": "Bieden vanaf € 3.850,00",
+          "title": "Hyundai U-837",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426153917-hyundai-u-837"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T19:48:26.622370+00:00",
+    "last_checked_at": "2026-07-31T20:47:38.798945+00:00",
     "outage_alert_sent": false
   }
 }
