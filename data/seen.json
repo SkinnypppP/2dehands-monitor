@@ -6121,6 +6121,12 @@
           "price_display": "€ 65,00",
           "title": "maple leaf 1oz zilver munten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425822016-maple-leaf-1oz-zilver-munten"
+        },
+        "m2425856035": {
+          "first_seen_at": "2026-07-31T01:05:44.930271+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "USA zilveren indian",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2425856035-usa-zilveren-indian"
         }
       }
     },
@@ -24657,7 +24663,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-30T23:28:24.502287+00:00",
+    "last_checked_at": "2026-07-31T01:06:03.396351+00:00",
     "outage_alert_sent": false
   }
 }
