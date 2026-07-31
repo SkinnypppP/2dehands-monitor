@@ -20693,6 +20693,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "dumbells decathlon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426171785-dumbells-decathlon"
+        },
+        "m2426182663": {
+          "first_seen_at": "2026-07-31T23:45:17.298311+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "OLYMPIC FLAT BENCH TECHNOGYM ISOTONIC LINE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426182663-olympic-flat-bench-technogym-isotonic-line"
         }
       }
     },
@@ -25827,7 +25833,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T22:45:47.185357+00:00",
+    "last_checked_at": "2026-07-31T23:46:03.279630+00:00",
     "outage_alert_sent": false
   }
 }
