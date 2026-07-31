@@ -4550,6 +4550,24 @@
           "price_display": "Bieden vanaf € 3.750,00",
           "title": "Martin 000-28 Eric Clapton Sunburst + KK pick up",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426152425-martin-000-28-eric-clapton-sunburst-kk-pick-up"
+        },
+        "m2426159527": {
+          "first_seen_at": "2026-07-31T21:50:05.877081+00:00",
+          "price_display": "Bieden vanaf € 325,00",
+          "title": "Japanse Klassieke Gitaar (Luxor) Gegraveerde Kop.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426159527-japanse-klassieke-gitaar-luxor-gegraveerde-kop"
+        },
+        "m2426166654": {
+          "first_seen_at": "2026-07-31T21:50:05.877081+00:00",
+          "price_display": "Bieden vanaf € 23.500,00",
+          "title": "Fender Telecaster fin 1954 / Début 1955 Refin",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426166654-fender-telecaster-fin-1954-debut-1955-refin"
+        },
+        "m2426173165": {
+          "first_seen_at": "2026-07-31T21:50:05.877081+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426173165-guitare"
         }
       }
     },
@@ -6487,6 +6505,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Schitterende 1 kilo koperbaar van topmerk Germania Mint",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426104685-schitterende-1-kilo-koperbaar-van-topmerk-germania-mint"
+        },
+        "m2426158745": {
+          "first_seen_at": "2026-07-31T21:49:47.837274+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Gold medal panda 1/500 OZ. (.999)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426158745-gold-medal-panda-1-500-oz-999"
         }
       }
     },
@@ -20651,6 +20675,18 @@
           "price_display": "€ 380,00",
           "title": "Rack 500 Musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426142754-rack-500-musculation"
+        },
+        "m2426158386": {
+          "first_seen_at": "2026-07-31T21:49:20.409929+00:00",
+          "price_display": "Bieden vanaf € 299,00",
+          "title": "crosstrainer Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426158386-crosstrainer-tunturi"
+        },
+        "m2426171785": {
+          "first_seen_at": "2026-07-31T21:49:20.409929+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "dumbells decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426171785-dumbells-decathlon"
         }
       }
     },
@@ -22683,6 +22719,12 @@
           "price_display": "Bieden vanaf € 4.450,00",
           "title": "Piano Yamaha U3 (Slow Soft Closing)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2398941608-piano-yamaha-u3-slow-soft-closing"
+        },
+        "m2399929560": {
+          "first_seen_at": "2026-07-31T21:49:57.625624+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "piano Gaveau Paris",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2399929560-piano-gaveau-paris"
         },
         "m2400536480": {
           "first_seen_at": "2026-07-13T14:08:29.176278+00:00",
@@ -25779,7 +25821,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T20:47:38.798945+00:00",
+    "last_checked_at": "2026-07-31T21:50:09.657851+00:00",
     "outage_alert_sent": false
   }
 }
