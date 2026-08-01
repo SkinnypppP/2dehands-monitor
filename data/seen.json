@@ -333,6 +333,12 @@
           "title": "Fender American Acoustasonic Strat 2024 | Black",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a164959431-fender-american-acoustasonic-strat-2024-black"
         },
+        "a165060254": {
+          "first_seen_at": "2026-08-01T04:41:51.112927+00:00",
+          "price_display": "€ 550,00",
+          "title": "Ibanez - EHB1006MS - - Elektrische basgitaar - Indonesië -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165060254-ibanez-ehb1006ms-elektrische-basgitaar-indonesie"
+        },
         "m2283920065": {
           "first_seen_at": "2026-07-26T11:06:45.359664+00:00",
           "price_display": "Bieden vanaf € 1.500,00",
@@ -5029,6 +5035,24 @@
           "price_display": "€ 55,00",
           "title": "20 gram - Goud - Valcambi, Switzerland",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165131056-20-gram-goud-valcambi-switzerland"
+        },
+        "a165137944": {
+          "first_seen_at": "2026-08-01T04:41:31.101981+00:00",
+          "price_display": "€ 2,00",
+          "title": "1 kilogram - Koper .999 - MrCopperArte - Met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165137944-1-kilogram-koper-999-mrcopperarte-met-certificaat"
+        },
+        "a165137945": {
+          "first_seen_at": "2026-08-01T04:41:31.101981+00:00",
+          "price_display": "€ 1,00",
+          "title": "30 once - Koper .999 (Zonder minimumprijs)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165137945-30-once-koper-999-zonder-minimumprijs"
+        },
+        "a165137946": {
+          "first_seen_at": "2026-08-01T04:41:31.101981+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - MRBUD - Met certificaat (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165137946-1-kilogram-koper-999-mrbud-met-certificaat-zonder"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -25827,13 +25851,19 @@
           "price_display": "Bieden vanaf € 3.850,00",
           "title": "Hyundai U-837",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426153917-hyundai-u-837"
+        },
+        "m2426192970": {
+          "first_seen_at": "2026-08-01T04:41:44.056469+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "Kwalitatieve Fazer Studiepiano – Gereviseerd & Gestemd",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426192970-kwalitatieve-fazer-studiepiano-gereviseerd-gestemd"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-07-31T23:46:03.279630+00:00",
+    "last_checked_at": "2026-08-01T04:41:52.061382+00:00",
     "outage_alert_sent": false
   }
 }
