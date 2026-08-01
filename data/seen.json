@@ -4772,6 +4772,18 @@
           "price_display": "€ 40,00",
           "title": "akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426497619-akoestische-gitaar"
+        },
+        "m2426504598": {
+          "first_seen_at": "2026-08-01T21:50:28.672252+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Kleine gitaar met toebehoren in hele goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426504598-kleine-gitaar-met-toebehoren-in-hele-goede-staat"
+        },
+        "m2426506480": {
+          "first_seen_at": "2026-08-01T21:50:28.672252+00:00",
+          "price_display": "Bieden vanaf € 32,00",
+          "title": "Ukulélé",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426506480-ukulele"
         }
       }
     },
@@ -21995,6 +22007,18 @@
           "price_display": "Bieden vanaf € 1.850,00",
           "title": "Technogym Unica, station de musculation multifonction",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426495773-technogym-unica-station-de-musculation-multifonction"
+        },
+        "m2426502536": {
+          "first_seen_at": "2026-08-01T21:49:50.024364+00:00",
+          "price_display": "€ 200,00",
+          "title": "home gym setup",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426502536-home-gym-setup"
+        },
+        "m2426505589": {
+          "first_seen_at": "2026-08-01T21:49:50.024364+00:00",
+          "price_display": "€ 5,00",
+          "title": "Hoepel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426505589-hoepel"
         }
       }
     },
@@ -23914,6 +23938,12 @@
           "price_display": "€ 200,00",
           "title": "Adidas Metalbone HRD 3.5 als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426488908-adidas-metalbone-hrd-3-5-als-nieuw"
+        },
+        "m2426504260": {
+          "first_seen_at": "2026-08-01T21:49:59.123344+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Padel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426504260-padel"
         }
       }
     },
@@ -27351,7 +27381,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T20:56:28.271196+00:00",
+    "last_checked_at": "2026-08-01T21:50:29.483845+00:00",
     "outage_alert_sent": false
   }
 }
