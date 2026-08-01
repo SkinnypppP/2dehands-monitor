@@ -4760,6 +4760,18 @@
           "price_display": "Bieden vanaf € 1.095,00",
           "title": "Epiphone by Gibson Custom SJ200 1957 Vintage Sunburst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426476140-epiphone-by-gibson-custom-sj200-1957-vintage-sunburst"
+        },
+        "m2426494745": {
+          "first_seen_at": "2026-08-01T20:56:26.062373+00:00",
+          "price_display": "€ 395,00",
+          "title": "Gitaar Alhambra 1P - 1982 - 1ste eigenaar - nr. 1416",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426494745-gitaar-alhambra-1p-1982-1ste-eigenaar-nr-1416"
+        },
+        "m2426497619": {
+          "first_seen_at": "2026-08-01T20:56:26.062373+00:00",
+          "price_display": "€ 40,00",
+          "title": "akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426497619-akoestische-gitaar"
         }
       }
     },
@@ -7080,6 +7092,12 @@
           "price_display": "€ 150,00",
           "title": "Crosstrainer kettler",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2414017932-crosstrainer-kettler"
+        },
+        "m2414151475": {
+          "first_seen_at": "2026-08-01T20:55:54.301814+00:00",
+          "price_display": "€ 799,00",
+          "title": "power rack /squat rack met kabelstation thuisfitness + 300 k",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2414151475-power-rack-squat-rack-met-kabelstation-thuisfitness-300-k"
         },
         "m2414715053": {
           "first_seen_at": "2026-08-01T13:38:58.440741+00:00",
@@ -21959,6 +21977,24 @@
           "price_display": "€ 30,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426489560-fitness"
+        },
+        "m2426495142": {
+          "first_seen_at": "2026-08-01T20:55:28.753337+00:00",
+          "price_display": "€ 500,00",
+          "title": "OG Barbarian Line Lat en Low Pulley Station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426495142-og-barbarian-line-lat-en-low-pulley-station"
+        },
+        "m2426495598": {
+          "first_seen_at": "2026-08-01T20:55:28.753337+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Domyos MG 6000 hometrainer — zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426495598-domyos-mg-6000-hometrainer-zeer-goede-staat"
+        },
+        "m2426495773": {
+          "first_seen_at": "2026-08-01T20:55:28.753337+00:00",
+          "price_display": "Bieden vanaf € 1.850,00",
+          "title": "Technogym Unica, station de musculation multifonction",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426495773-technogym-unica-station-de-musculation-multifonction"
         }
       }
     },
@@ -24111,6 +24147,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Kawai K-15E Piano Zwart Hoogglans – Uitstekende Staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2407790814-kawai-k-15e-piano-zwart-hoogglans-uitstekende-staat"
+        },
+        "m2408926796": {
+          "first_seen_at": "2026-08-01T20:56:14.506591+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Steinway & sons Buffetpiano model K",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2408926796-steinway-sons-buffetpiano-model-k"
         },
         "m2409587664": {
           "first_seen_at": "2026-07-30T15:21:34.568173+00:00",
@@ -27309,7 +27351,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T19:59:26.664768+00:00",
+    "last_checked_at": "2026-08-01T20:56:28.271196+00:00",
     "outage_alert_sent": false
   }
 }
