@@ -4742,6 +4742,18 @@
           "price_display": "€ 175,00",
           "title": "Semi - Akoestische hollow body gitaar Fazley nieuw !",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426441335-semi-akoestische-hollow-body-gitaar-fazley-nieuw"
+        },
+        "m2426456812": {
+          "first_seen_at": "2026-08-01T18:43:47.850626+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Valencia CG 190 ce + versterker.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426456812-valencia-cg-190-ce-versterker"
+        },
+        "m2426458699": {
+          "first_seen_at": "2026-08-01T18:43:47.850626+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Recording King ROS 16",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426458699-recording-king-ros-16"
         }
       }
     },
@@ -10302,6 +10314,12 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "“Domyos Hometrainer 540 – Zo goed als nieuw – Factuur – €375",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426437757-domyos-hometrainer-540-zo-goed-als-nieuw-factuur-375"
+        },
+        "m2426473981": {
+          "first_seen_at": "2026-08-01T18:43:14.791716+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Bench press en squat statief",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426473981-bench-press-en-squat-statief"
         }
       }
     },
@@ -21869,6 +21887,30 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Fitness toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426451745-fitness-toestel"
+        },
+        "m2426457062": {
+          "first_seen_at": "2026-08-01T18:42:46.436441+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Lifting belt XS (Strenth shop)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426457062-lifting-belt-xs-strenth-shop"
+        },
+        "m2426469060": {
+          "first_seen_at": "2026-08-01T18:42:46.436441+00:00",
+          "price_display": "€ 25,00",
+          "title": "mini-velo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426469060-mini-velo"
+        },
+        "m2426472946": {
+          "first_seen_at": "2026-08-01T18:42:46.436441+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Krachtstation - Met Halterbank- dipsteunen-pull up bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426472946-krachtstation-met-halterbank-dipsteunen-pull-up-bar"
+        },
+        "m2426473920": {
+          "first_seen_at": "2026-08-01T18:42:46.436441+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Fitness buikspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426473920-fitness-buikspieren"
         }
       }
     },
@@ -23776,6 +23818,12 @@
           "price_display": "Bieden vanaf € 79,00",
           "title": "kuikma Hybrid pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426441956-kuikma-hybrid-pro"
+        },
+        "m2426468307": {
+          "first_seen_at": "2026-08-01T18:43:02.869798+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "2 stuk DUNLOP sport racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426468307-2-stuk-dunlop-sport-racket"
         }
       }
     },
@@ -27183,7 +27231,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T17:42:18.427450+00:00",
+    "last_checked_at": "2026-08-01T18:43:50.196009+00:00",
     "outage_alert_sent": false
   }
 }
