@@ -6775,6 +6775,30 @@
           "price_display": "Zie omschrijving",
           "title": "Handgegoten koperbaren diverse gewichten 999",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426391769-handgegoten-koperbaren-diverse-gewichten-999"
+        },
+        "m2426430337": {
+          "first_seen_at": "2026-08-01T16:39:49.330186+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Medailles",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426430337-medailles"
+        },
+        "m2426433072": {
+          "first_seen_at": "2026-08-01T16:39:49.330186+00:00",
+          "price_display": "Bieden vanaf € 91,50",
+          "title": "1 oz zilver prehistoric life 2025",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426433072-1-oz-zilver-prehistoric-life-2025"
+        },
+        "m2426435470": {
+          "first_seen_at": "2026-08-01T16:39:49.330186+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "1 oz zilver prehistoric life 2025  in kleur",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426435470-1-oz-zilver-prehistoric-life-2025-in-kleur"
+        },
+        "m2426437068": {
+          "first_seen_at": "2026-08-01T16:39:49.330186+00:00",
+          "price_display": "Bieden vanaf € 87,00",
+          "title": "1 oz zilver krugerrand 2026",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426437068-1-oz-zilver-krugerrand-2026"
         }
       }
     },
@@ -21749,6 +21773,18 @@
           "price_display": "Bieden vanaf € 5,00",
           "title": "Enkelgewichten 2x0,5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426417977-enkelgewichten-2x0-5kg"
+        },
+        "m2426425354": {
+          "first_seen_at": "2026-08-01T16:39:18.042335+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Appareil musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426425354-appareil-musculation"
+        },
+        "m2426432085": {
+          "first_seen_at": "2026-08-01T16:39:18.042335+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Power cage - uprights",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426432085-power-cage-uprights"
         }
       }
     },
@@ -23644,6 +23680,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Raquette padel adidas metalbone 3.4 Galan",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426359664-raquette-padel-adidas-metalbone-3-4-galan"
+        },
+        "m2426435020": {
+          "first_seen_at": "2026-08-01T16:39:28.872548+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "padel racket + hoes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426435020-padel-racket-hoes"
         }
       }
     },
@@ -27039,7 +27081,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T15:46:01.667624+00:00",
+    "last_checked_at": "2026-08-01T16:40:10.346058+00:00",
     "outage_alert_sent": false
   }
 }
