@@ -4784,6 +4784,18 @@
           "price_display": "Bieden vanaf € 32,00",
           "title": "Ukulélé",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426506480-ukulele"
+        },
+        "m2426517275": {
+          "first_seen_at": "2026-08-01T23:43:45.179895+00:00",
+          "price_display": "Bieden vanaf € 5.400,00",
+          "title": "Goodall TR 000 (2018)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426517275-goodall-tr-000-2018"
+        },
+        "m2426517904": {
+          "first_seen_at": "2026-08-01T23:43:45.179895+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "salvador cortez cc21",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2426517904-salvador-cortez-cc21"
         }
       }
     },
@@ -27381,7 +27393,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T21:50:29.483845+00:00",
+    "last_checked_at": "2026-08-01T23:43:46.944078+00:00",
     "outage_alert_sent": false
   }
 }
