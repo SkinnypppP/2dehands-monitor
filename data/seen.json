@@ -23177,6 +23177,12 @@
           "price_display": "Bieden vanaf € 299,00",
           "title": "Verstelbare dumbells 2x24 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426859071-verstelbare-dumbells-2x24-kg"
+        },
+        "m2426865653": {
+          "first_seen_at": "2026-08-02T22:12:12.265939+00:00",
+          "price_display": "€ 35,00",
+          "title": "Gilet lest + ceinture lest excellent etat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426865653-gilet-lest-ceinture-lest-excellent-etat"
         }
       }
     },
@@ -25246,6 +25252,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426832176-padelracket"
+        },
+        "m2426872168": {
+          "first_seen_at": "2026-08-02T22:12:21.018699+00:00",
+          "price_display": "Bieden vanaf € 239,00",
+          "title": "Adidas Metalbone padelracket van de nieuwe generatie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426872168-adidas-metalbone-padelracket-van-de-nieuwe-generatie"
         }
       }
     },
@@ -28821,13 +28833,19 @@
           "price_display": "Zie omschrijving",
           "title": "DAUBERT antieke rechtopstaande piano (ca. 1890)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426852709-daubert-antieke-rechtopstaande-piano-ca-1890"
+        },
+        "m2426872949": {
+          "first_seen_at": "2026-08-02T22:12:43.418294+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano - Eyndels",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426872949-piano-eyndels"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-02T21:13:19.769117+00:00",
+    "last_checked_at": "2026-08-02T22:12:51.573719+00:00",
     "outage_alert_sent": false
   }
 }
