@@ -10698,6 +10698,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Hometrainer goed staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426762446-hometrainer-goed-staat"
+        },
+        "m2426782281": {
+          "first_seen_at": "2026-08-02T16:55:33.150925+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Domyos Essential 03 hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426782281-domyos-essential-03-hometrainer"
         }
       }
     },
@@ -22931,6 +22937,60 @@
           "price_display": "Bieden vanaf € 2.500,00",
           "title": "body solid fusion 600",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426772979-body-solid-fusion-600"
+        },
+        "m2426774647": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "AB Trimmer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426774647-ab-trimmer"
+        },
+        "m2426776404": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "€ 285,00",
+          "title": "Body Bike - Spinning",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426776404-body-bike-spinning"
+        },
+        "m2426784976": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "€ 10,00",
+          "title": "gewichten dumbel domyos 1,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426784976-gewichten-dumbel-domyos-1-5kg"
+        },
+        "m2426786812": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 1.650,00",
+          "title": "Panatta phrone leg curl / liegende beinbeuger / lying leg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426786812-panatta-phrone-leg-curl-liegende-beinbeuger-lying-leg"
+        },
+        "m2426787691": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 1.750,00",
+          "title": "Panatta Decline Convergent chestpress / brustpresse",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426787691-panatta-decline-convergent-chestpress-brustpresse"
+        },
+        "m2426788560": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 2.000,00",
+          "title": "Star Trac Pec Dec / Pec fly / butterfly / fly machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426788560-star-trac-pec-dec-pec-fly-butterfly-fly-machine"
+        },
+        "m2426789429": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Johnson shoulderpress / schulterpresse / machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426789429-johnson-shoulderpress-schulterpresse-machine"
+        },
+        "m2426790812": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Johnson Tricep Extension / Triceps / Trizep / Tricep machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426790812-johnson-tricep-extension-triceps-trizep-tricep-machine"
+        },
+        "m2426791643": {
+          "first_seen_at": "2026-08-02T16:55:09.189382+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Decline benchpress machine / bench press / brustpresse",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426791643-decline-benchpress-machine-bench-press-brustpresse"
         }
       }
     },
@@ -28515,13 +28575,19 @@
           "price_display": "Bieden vanaf € 950,00",
           "title": "Ludwig Römer piano (1ste stembeurt gratis!)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426774389-ludwig-romer-piano-1ste-stembeurt-gratis"
+        },
+        "m2426787716": {
+          "first_seen_at": "2026-08-02T16:55:51.822258+00:00",
+          "price_display": "€ 300,00",
+          "title": "Roland GO88-p piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426787716-roland-go88-p-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-02T15:57:20.810452+00:00",
+    "last_checked_at": "2026-08-02T16:56:02.402779+00:00",
     "outage_alert_sent": false
   }
 }
