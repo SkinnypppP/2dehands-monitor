@@ -7117,6 +7117,12 @@
           "price_display": "€ 75,00",
           "title": "projectiescherm nr 2",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426729228-projectiescherm-nr-2"
+        },
+        "m2426843593": {
+          "first_seen_at": "2026-08-02T20:16:47.670574+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Studio 100 Kleurplaat zomerfestival 2007",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426843593-studio-100-kleurplaat-zomerfestival-2007"
         }
       }
     },
@@ -10740,6 +10746,18 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "crosstrainer domyos grijs/zwart",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426834411-crosstrainer-domyos-grijs-zwart"
+        },
+        "m2426840766": {
+          "first_seen_at": "2026-08-02T20:16:38.442761+00:00",
+          "price_display": "Bieden vanaf € 1.150,00",
+          "title": "Crosstrainer Life Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426840766-crosstrainer-life-fitness"
+        },
+        "m2426848356": {
+          "first_seen_at": "2026-08-02T20:16:38.442761+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Loopband - model Robore L20",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426848356-loopband-model-robore-l20"
         }
       }
     },
@@ -23105,6 +23123,42 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Banc pour abdominaux",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426816821-banc-pour-abdominaux"
+        },
+        "m2426835055": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Mooi paar verstelbare halters van verchroomd staal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426835055-mooi-paar-verstelbare-halters-van-verchroomd-staal"
+        },
+        "m2426836593": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "€ 40,00",
+          "title": "Verstelbare dumbbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426836593-verstelbare-dumbbells"
+        },
+        "m2426837033": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Professioneel rek voor gewichtsschijven en dumbbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426837033-professioneel-rek-voor-gewichtsschijven-en-dumbbells"
+        },
+        "m2426839815": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "€ 50,00",
+          "title": "Gloednieuwe optrekstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426839815-gloednieuwe-optrekstang"
+        },
+        "m2426848077": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "fitness bank - Zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426848077-fitness-bank-zo-goed-als-nieuw"
+        },
+        "m2426849200": {
+          "first_seen_at": "2026-08-02T20:16:14.976248+00:00",
+          "price_display": "€ 200,00",
+          "title": "OLYMPIC FLAT BENCH TECHNOGYM ISOTONIC LINE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426849200-olympic-flat-bench-technogym-isotonic-line"
         }
       }
     },
@@ -28737,13 +28791,19 @@
           "price_display": "€ 75,00",
           "title": "Bureau",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426828489-bureau"
+        },
+        "m2426837424": {
+          "first_seen_at": "2026-08-02T20:16:58.050947+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2426837424-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-02T19:08:28.497295+00:00",
+    "last_checked_at": "2026-08-02T20:17:09.387184+00:00",
     "outage_alert_sent": false
   }
 }
