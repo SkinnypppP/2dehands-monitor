@@ -7129,6 +7129,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Studio 100 Kleurplaat zomerfestival 2007",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426843593-studio-100-kleurplaat-zomerfestival-2007"
+        },
+        "m2426873898": {
+          "first_seen_at": "2026-08-02T23:14:46.652076+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "indian silver buffalo",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426873898-indian-silver-buffalo"
+        },
+        "m2426874241": {
+          "first_seen_at": "2026-08-02T23:14:46.652076+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "year of the dog",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2426874241-year-of-the-dog"
         }
       }
     },
@@ -28845,7 +28857,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-02T22:12:51.573719+00:00",
+    "last_checked_at": "2026-08-02T23:15:02.221406+00:00",
     "outage_alert_sent": false
   }
 }
