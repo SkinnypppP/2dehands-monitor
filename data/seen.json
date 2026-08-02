@@ -22031,6 +22031,12 @@
           "price_display": "€ 5,00",
           "title": "Hoepel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426505589-hoepel"
+        },
+        "m2426524749": {
+          "first_seen_at": "2026-08-02T04:42:23.799908+00:00",
+          "price_display": "€ 30,00",
+          "title": "Barres à dips K-Sport réglables",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2426524749-barres-a-dips-k-sport-reglables"
         }
       }
     },
@@ -23956,6 +23962,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Padel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426504260-padel"
+        },
+        "m2426524861": {
+          "first_seen_at": "2026-08-02T04:42:34.335504+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Servante",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2426524861-servante"
         }
       }
     },
@@ -27393,7 +27405,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-01T23:43:46.944078+00:00",
+    "last_checked_at": "2026-08-02T04:43:12.989934+00:00",
     "outage_alert_sent": false
   }
 }
