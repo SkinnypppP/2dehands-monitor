@@ -411,6 +411,12 @@
           "title": "Martin OM-42 Custom Shop (Zeer zeldzaam)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2362891553-martin-om-42-custom-shop-zeer-zeldzaam"
         },
+        "m2367636816": {
+          "first_seen_at": "2026-08-03T20:58:26.759108+00:00",
+          "price_display": "€ 1.300,00",
+          "title": "Parlor gitaar antiek klassiek",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2367636816-parlor-gitaar-antiek-klassiek"
+        },
         "m2373489792": {
           "first_seen_at": "2026-07-22T21:41:36.310357+00:00",
           "price_display": "Bieden vanaf € 30,00",
@@ -24407,6 +24413,30 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Plyo box",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427237390-plyo-box"
+        },
+        "m2427242755": {
+          "first_seen_at": "2026-08-03T20:57:37.500389+00:00",
+          "price_display": "€ 40,00",
+          "title": "Uitrusting voor kinderen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427242755-uitrusting-voor-kinderen"
+        },
+        "m2427251149": {
+          "first_seen_at": "2026-08-03T20:57:37.500389+00:00",
+          "price_display": "€ 60,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427251149-hometrainer"
+        },
+        "m2427251455": {
+          "first_seen_at": "2026-08-03T20:57:37.500389+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Altères",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427251455-alteres"
+        },
+        "m2427253546": {
+          "first_seen_at": "2026-08-03T20:57:37.500389+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Matrix fitness pakket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427253546-matrix-fitness-pakket"
         }
       }
     },
@@ -30255,13 +30285,37 @@
           "price_display": "Bieden vanaf € 1.050,00",
           "title": "Yamaha Clavinova CVP-503 Dark Rosewood piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427239244-yamaha-clavinova-cvp-503-dark-rosewood-piano"
+        },
+        "m2427242545": {
+          "first_seen_at": "2026-08-03T20:58:16.112738+00:00",
+          "price_display": "€ 200,00",
+          "title": "Yamaha dgx 620",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427242545-yamaha-dgx-620"
+        },
+        "m2427243903": {
+          "first_seen_at": "2026-08-03T20:58:16.112738+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano als decoratiestuk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427243903-piano-als-decoratiestuk"
+        },
+        "m2427252954": {
+          "first_seen_at": "2026-08-03T20:58:16.112738+00:00",
+          "price_display": "€ 900,00",
+          "title": "Piano Samick",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427252954-piano-samick"
+        },
+        "m2427253856": {
+          "first_seen_at": "2026-08-03T20:58:16.112738+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Sonic frontiers Line 3",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427253856-sonic-frontiers-line-3"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-03T19:53:36.335927+00:00",
+    "last_checked_at": "2026-08-03T20:58:27.749469+00:00",
     "outage_alert_sent": false
   }
 }
