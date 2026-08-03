@@ -5264,6 +5264,12 @@
           "price_display": "€ 110,00",
           "title": "Daytone akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427237383-daytone-akoestische-gitaar"
+        },
+        "m2427259554": {
+          "first_seen_at": "2026-08-03T22:10:04.732570+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Canadese linkshandige gitaar van „Boucher”.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427259554-canadese-linkshandige-gitaar-van-boucher"
         }
       }
     },
@@ -7471,6 +7477,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "2 plafond rozetten in gips perfecte staat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427218862-2-plafond-rozetten-in-gips-perfecte-staat"
+        },
+        "m2427263166": {
+          "first_seen_at": "2026-08-03T22:09:45.401931+00:00",
+          "price_display": "€ 120,00",
+          "title": "Zilveren Krugerrand 2017",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427263166-zilveren-krugerrand-2017"
+        },
+        "m2427263843": {
+          "first_seen_at": "2026-08-03T22:09:45.401931+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Tado starterkit voor slimme thermostaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427263843-tado-starterkit-voor-slimme-thermostaat"
         }
       }
     },
@@ -11244,6 +11262,12 @@
           "price_display": "€ 160,00",
           "title": "Opvouwbare loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427235085-opvouwbare-loopband"
+        },
+        "m2427256387": {
+          "first_seen_at": "2026-08-03T22:09:33.815461+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Wahoo kickr v4",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427256387-wahoo-kickr-v4"
         }
       }
     },
@@ -24437,6 +24461,18 @@
           "price_display": "Zie omschrijving",
           "title": "Matrix fitness pakket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427253546-matrix-fitness-pakket"
+        },
+        "m2427258876": {
+          "first_seen_at": "2026-08-03T22:09:17.378075+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Set van 2 verstelbare chromen halters (dumbbells)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427258876-set-van-2-verstelbare-chromen-halters-dumbbells"
+        },
+        "m2427260747": {
+          "first_seen_at": "2026-08-03T22:09:17.378075+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "fitnes PHYP200X 45 Back Hyperextension!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427260747-fitnes-phyp200x-45-back-hyperextension"
         }
       }
     },
@@ -30315,7 +30351,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-03T20:58:27.749469+00:00",
+    "last_checked_at": "2026-08-03T22:10:05.692362+00:00",
     "outage_alert_sent": false
   }
 }
