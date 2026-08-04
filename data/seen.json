@@ -5270,6 +5270,18 @@
           "price_display": "Zie omschrijving",
           "title": "Canadese linkshandige gitaar van „Boucher”.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427259554-canadese-linkshandige-gitaar-van-boucher"
+        },
+        "m2427276733": {
+          "first_seen_at": "2026-08-04T03:43:35.301777+00:00",
+          "price_display": "€ 50,00",
+          "title": "Kinder gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427276733-kinder-gitaar"
+        },
+        "m2427281428": {
+          "first_seen_at": "2026-08-04T03:43:35.301777+00:00",
+          "price_display": "€ 60,00",
+          "title": "Akoestische gitaar Gomez 036 3/4-model",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427281428-akoestische-gitaar-gomez-036-3-4-model"
         }
       }
     },
@@ -7489,6 +7501,18 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Tado starterkit voor slimme thermostaat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427263843-tado-starterkit-voor-slimme-thermostaat"
+        },
+        "m2427276182": {
+          "first_seen_at": "2026-08-04T03:43:15.182125+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "year of the horse",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427276182-year-of-the-horse"
+        },
+        "m2427276304": {
+          "first_seen_at": "2026-08-04T03:43:15.182125+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "year of the dragon ( series 2 )",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427276304-year-of-the-dragon-series-2"
         }
       }
     },
@@ -24473,6 +24497,24 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "fitnes PHYP200X 45 Back Hyperextension!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427260747-fitnes-phyp200x-45-back-hyperextension"
+        },
+        "m2427277139": {
+          "first_seen_at": "2026-08-04T03:42:45.890148+00:00",
+          "price_display": "€ 875,00",
+          "title": "E-fit EF-2080 computer in opbergkoffer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427277139-e-fit-ef-2080-computer-in-opbergkoffer"
+        },
+        "m2427277790": {
+          "first_seen_at": "2026-08-04T03:42:45.890148+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "goede trapper voor tijdens het gamen of film kijken",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427277790-goede-trapper-voor-tijdens-het-gamen-of-film-kijken"
+        },
+        "m2427277860": {
+          "first_seen_at": "2026-08-04T03:42:45.890148+00:00",
+          "price_display": "Bieden vanaf € 295,00",
+          "title": "Body-Solid GCEC340B CAM Series Leg Extension & Leg Curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427277860-body-solid-gcec340b-cam-series-leg-extension-leg-curl"
         }
       }
     },
@@ -30357,7 +30399,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-04T00:17:38.466143+00:00",
+    "last_checked_at": "2026-08-04T03:43:37.009354+00:00",
     "outage_alert_sent": false
   }
 }
