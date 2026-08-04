@@ -25661,6 +25661,30 @@
           "price_display": "€ 50,00",
           "title": "Oldschool gewichten fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427583664-oldschool-gewichten-fitness"
+        },
+        "m2427595229": {
+          "first_seen_at": "2026-08-04T21:54:32.435962+00:00",
+          "price_display": "€ 600,00",
+          "title": "Atx Air Rower",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427595229-atx-air-rower"
+        },
+        "m2427595694": {
+          "first_seen_at": "2026-08-04T21:54:32.435962+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "matériel de musculation PANATTA pour cuisse",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427595694-materiel-de-musculation-panatta-pour-cuisse"
+        },
+        "m2427596187": {
+          "first_seen_at": "2026-08-04T21:54:32.435962+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "machine de musculation PANATTA pur pectoraux",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427596187-machine-de-musculation-panatta-pur-pectoraux"
+        },
+        "m2427596316": {
+          "first_seen_at": "2026-08-04T21:54:32.435962+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "FLAT BENCH TECHNOGYM ISOTONIC LINE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427596316-flat-bench-technogym-isotonic-line"
         }
       }
     },
@@ -31767,7 +31791,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-04T20:40:42.348529+00:00",
+    "last_checked_at": "2026-08-04T21:55:21.859689+00:00",
     "outage_alert_sent": false
   }
 }
