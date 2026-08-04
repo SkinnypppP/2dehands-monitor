@@ -5480,6 +5480,12 @@
           "price_display": "€ 400,00",
           "title": "Esteve Granados 1 gr 07 de 1992",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427572937-esteve-granados-1-gr-07-de-1992"
+        },
+        "m2427576055": {
+          "first_seen_at": "2026-08-04T20:40:41.167622+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "V/E ovation country artist model 1624+ semi-rigide koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427576055-v-e-ovation-country-artist-model-1624-semi-rigide-koffer"
         }
       }
     },
@@ -25649,6 +25655,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Verstelbare Dumbells 2kg t/m 40kg - verstelbare bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427564135-verstelbare-dumbells-2kg-t-m-40kg-verstelbare-bench"
+        },
+        "m2427583664": {
+          "first_seen_at": "2026-08-04T20:39:53.210148+00:00",
+          "price_display": "€ 50,00",
+          "title": "Oldschool gewichten fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427583664-oldschool-gewichten-fitness"
         }
       }
     },
@@ -27838,6 +27850,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Omnicol kleur snow",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427535571-omnicol-kleur-snow"
+        },
+        "m2427580283": {
+          "first_seen_at": "2026-08-04T20:40:02.474228+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Siux padel racket nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427580283-siux-padel-racket-nieuw"
         }
       }
     },
@@ -31731,13 +31749,25 @@
           "price_display": "Zie omschrijving",
           "title": "Digitale piano Roland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427553799-digitale-piano-roland"
+        },
+        "m2427575446": {
+          "first_seen_at": "2026-08-04T20:40:32.442965+00:00",
+          "price_display": "Gratis",
+          "title": "piano gratis af te halen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427575446-piano-gratis-af-te-halen"
+        },
+        "m2427591275": {
+          "first_seen_at": "2026-08-04T20:40:32.442965+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Antieke Gunther piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427591275-antieke-gunther-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-04T19:06:37.939374+00:00",
+    "last_checked_at": "2026-08-04T20:40:42.348529+00:00",
     "outage_alert_sent": false
   }
 }
