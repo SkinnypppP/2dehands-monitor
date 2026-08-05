@@ -26963,6 +26963,12 @@
           "price_display": "Bieden vanaf € 45,00",
           "title": "Hangsysteem om aan te trainen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427938777-hangsysteem-om-aan-te-trainen"
+        },
+        "m2427954067": {
+          "first_seen_at": "2026-08-05T23:33:06.325485+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Verstelbare buikspierbank / Sit-up bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427954067-verstelbare-buikspierbank-sit-up-bench"
         }
       }
     },
@@ -33387,7 +33393,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-05T22:34:23.351017+00:00",
+    "last_checked_at": "2026-08-05T23:33:44.738220+00:00",
     "outage_alert_sent": false
   }
 }
