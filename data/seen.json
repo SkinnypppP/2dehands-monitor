@@ -12684,6 +12684,12 @@
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2412966595-hometrainer"
         },
+        "m2413477220": {
+          "first_seen_at": "2026-08-05T21:22:13.147194+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "rameur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2413477220-rameur"
+        },
         "m2414185347": {
           "first_seen_at": "2026-07-27T08:25:13.797671+00:00",
           "price_display": "€ 700,00",
@@ -26933,6 +26939,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Rack 900 Corength Cage musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427920877-rack-900-corength-cage-musculation"
+        },
+        "m2427935241": {
+          "first_seen_at": "2026-08-05T21:22:13.147194+00:00",
+          "price_display": "€ 10,00",
+          "title": "Optrekstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427935241-optrekstang"
+        },
+        "m2427938777": {
+          "first_seen_at": "2026-08-05T21:22:13.147194+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Hangsysteem om aan te trainen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427938777-hangsysteem-om-aan-te-trainen"
         }
       }
     },
@@ -29218,6 +29236,12 @@
           "price_display": "Bieden vanaf € 45,00",
           "title": "Padel racket, Kuikma PR 990",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427921263-padel-racket-kuikma-pr-990"
+        },
+        "m2427940937": {
+          "first_seen_at": "2026-08-05T21:22:25.526406+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Adidas Arrow Hit CTRL-racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427940937-adidas-arrow-hit-ctrl-racket"
         }
       }
     },
@@ -33297,13 +33321,19 @@
           "price_display": "Bieden vanaf € 650,00",
           "title": "Hele mooie top piano!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427911586-hele-mooie-top-piano"
+        },
+        "m2427939622": {
+          "first_seen_at": "2026-08-05T21:22:51.005970+00:00",
+          "price_display": "Bieden vanaf € 8.500,00",
+          "title": "Schimmel C116 — Uitzonderlijke piano met stil systeem",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427939622-schimmel-c116-uitzonderlijke-piano-met-stil-systeem"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-05T20:06:29.587286+00:00",
+    "last_checked_at": "2026-08-05T21:22:59.028684+00:00",
     "outage_alert_sent": false
   }
 }
