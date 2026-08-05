@@ -7849,6 +7849,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "1kg koper 999",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427569739-1kg-koper-999"
+        },
+        "m2427639932": {
+          "first_seen_at": "2026-08-05T06:06:44.701872+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "doosje met goud schilfers 0,51 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2427639932-doosje-met-goud-schilfers-0-51-gram"
         }
       }
     },
@@ -11766,6 +11772,12 @@
           "price_display": "Bieden vanaf € 675,00",
           "title": "Atx pulley",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427620596-atx-pulley"
+        },
+        "m2427639374": {
+          "first_seen_at": "2026-08-05T06:06:36.126622+00:00",
+          "price_display": "Bieden vanaf € 2.050,00",
+          "title": "Pivot fsm-400 met 2x 90kg cable uitbreiding fitness rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427639374-pivot-fsm-400-met-2x-90kg-cable-uitbreiding-fitness-rack"
         }
       }
     },
@@ -25727,6 +25739,48 @@
           "price_display": "Bieden vanaf € 950,00",
           "title": "Volledige atletica gym/training/fullbody setup",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427613039-volledige-atletica-gym-training-fullbody-setup"
+        },
+        "m2427631904": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Bieden vanaf € 325,00",
+          "title": "Rogue squat stand S-4 2.0",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427631904-rogue-squat-stand-s-4-2-0"
+        },
+        "m2427634276": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessbank BENCH 100",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427634276-fitnessbank-bench-100"
+        },
+        "m2427634592": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "DOMYOS Halterset van 20 kg met schijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427634592-domyos-halterset-van-20-kg-met-schijven"
+        },
+        "m2427635698": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "€ 500,00",
+          "title": "Technogym Olympische Gewichten Set + Technogym Barbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427635698-technogym-olympische-gewichten-set-technogym-barbells"
+        },
+        "m2427636993": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Isefit roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427636993-isefit-roeitrainer"
+        },
+        "m2427637722": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "bokszak Booster/ cable cross / fitness tegels / grasmat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427637722-bokszak-booster-cable-cross-fitness-tegels-grasmat"
+        },
+        "m2427640076": {
+          "first_seen_at": "2026-08-05T06:06:13.618346+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Therabody",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427640076-therabody"
         }
       }
     },
@@ -27922,6 +27976,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Siux padel racket nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427580283-siux-padel-racket-nieuw"
+        },
+        "m2427640749": {
+          "first_seen_at": "2026-08-05T06:06:27.206922+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Raquettes Padel Artengo PR730 x2 Décathlon - Etat correct",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427640749-raquettes-padel-artengo-pr730-x2-decathlon-etat-correct"
         }
       }
     },
@@ -31839,7 +31899,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-05T03:28:01.821257+00:00",
+    "last_checked_at": "2026-08-05T06:07:00.805595+00:00",
     "outage_alert_sent": false
   }
 }
