@@ -5702,6 +5702,12 @@
           "price_display": "€ 180,00",
           "title": "Yamaha APX600 black",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427907460-yamaha-apx600-black"
+        },
+        "m2427948916": {
+          "first_seen_at": "2026-08-05T22:34:22.406448+00:00",
+          "price_display": "€ 10,00",
+          "title": "Staander voor gitaar, staander voor gitaarboek, metronoom",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2427948916-staander-voor-gitaar-staander-voor-gitaarboek-metronoom"
         }
       }
     },
@@ -12641,6 +12647,12 @@
           "price_display": "Bieden vanaf € 299,00",
           "title": "Hometrainer DKN Technology RB-3i ‼️‼️in nieuwstaat‼️‼️",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2411262647-hometrainer-dkn-technology-rb-3i-in-nieuwstaat"
+        },
+        "m2411400703": {
+          "first_seen_at": "2026-08-05T22:33:28.264081+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Tunturi T50 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2411400703-tunturi-t50-loopband"
         },
         "m2411746453": {
           "first_seen_at": "2026-07-28T20:05:34.181465+00:00",
@@ -29242,6 +29254,42 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Adidas Arrow Hit CTRL-racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427940937-adidas-arrow-hit-ctrl-racket"
+        },
+        "m2427947895": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 80,00",
+          "title": "Varlion Bourne Hexagon 8.8",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427947895-varlion-bourne-hexagon-8-8"
+        },
+        "m2427948164": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 65,00",
+          "title": "Bullpadel Hack 02 Junior",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427948164-bullpadel-hack-02-junior"
+        },
+        "m2427948354": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 65,00",
+          "title": "Enebe Arrow",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427948354-enebe-arrow"
+        },
+        "m2427948682": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 9,00",
+          "title": "Varlion Summum Padel Cover Silver",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427948682-varlion-summum-padel-cover-silver"
+        },
+        "m2427948826": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 5,00",
+          "title": "Royal Padel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427948826-royal-padel"
+        },
+        "m2427948946": {
+          "first_seen_at": "2026-08-05T22:33:36.763268+00:00",
+          "price_display": "€ 7,00",
+          "title": "Varlion Basic Padelracket Hoes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2427948946-varlion-basic-padelracket-hoes"
         }
       }
     },
@@ -33327,13 +33375,19 @@
           "price_display": "Bieden vanaf € 8.500,00",
           "title": "Schimmel C116 — Uitzonderlijke piano met stil systeem",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427939622-schimmel-c116-uitzonderlijke-piano-met-stil-systeem"
+        },
+        "m2427947649": {
+          "first_seen_at": "2026-08-05T22:34:12.401718+00:00",
+          "price_display": "Bieden vanaf € 1.350,00",
+          "title": "Nord Piano 2 — Uitstekende conditie",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427947649-nord-piano-2-uitstekende-conditie"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-05T21:22:59.028684+00:00",
+    "last_checked_at": "2026-08-05T22:34:23.351017+00:00",
     "outage_alert_sent": false
   }
 }
