@@ -11760,6 +11760,12 @@
           "price_display": "€ 99,00",
           "title": "Bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427566161-bench"
+        },
+        "m2427620596": {
+          "first_seen_at": "2026-08-05T03:27:35.025775+00:00",
+          "price_display": "Bieden vanaf € 675,00",
+          "title": "Atx pulley",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427620596-atx-pulley"
         }
       }
     },
@@ -25715,6 +25721,12 @@
           "price_display": "€ 200,00",
           "title": "2x 14,5 Verstelbare Powerblocks Dumbbells",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427607278-2x-14-5-verstelbare-powerblocks-dumbbells"
+        },
+        "m2427613039": {
+          "first_seen_at": "2026-08-05T03:27:14.050979+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Volledige atletica gym/training/fullbody setup",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2427613039-volledige-atletica-gym-training-fullbody-setup"
         }
       }
     },
@@ -31815,13 +31827,19 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Antieke Gunther piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427591275-antieke-gunther-piano"
+        },
+        "m2427617435": {
+          "first_seen_at": "2026-08-05T03:27:54.249690+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Piano - Entièrement vidé",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2427617435-piano-entierement-vide"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-04T22:57:49.957521+00:00",
+    "last_checked_at": "2026-08-05T03:28:01.821257+00:00",
     "outage_alert_sent": false
   }
 }
