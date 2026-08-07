@@ -567,6 +567,12 @@
           "title": "Yamaha GC10A Grand Concert Klassieke Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2400647092-yamaha-gc10a-grand-concert-klassieke-gitaar"
         },
+        "m2400696522": {
+          "first_seen_at": "2026-08-07T06:15:14.246594+00:00",
+          "price_display": "Bieden vanaf € 480,00",
+          "title": "‼️ Sigma 000T-28S ‼️",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2400696522-sigma-000t-28s"
+        },
         "m2401000791": {
           "first_seen_at": "2026-08-03T16:08:03.793492+00:00",
           "price_display": "Bieden vanaf € 1.500,00",
@@ -6026,6 +6032,12 @@
           "price_display": "€ 70,00",
           "title": "Gitaren Burswood Acoustic,6 snarige",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428295671-gitaren-burswood-acoustic-6-snarige"
+        },
+        "m2428332491": {
+          "first_seen_at": "2026-08-07T06:15:14.246594+00:00",
+          "price_display": "€ 3.500,00",
+          "title": "Huss&Dalton D-RH",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428332491-huss-dalton-d-rh"
         }
       }
     },
@@ -8592,6 +8604,12 @@
           "price_display": "Zie omschrijving",
           "title": "Smith machine en power racks testen? Kom langs in onze depot",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a152176858-smith-machine-en-power-racks-testen-kom-langs-in-onze-depot"
+        },
+        "a157971241": {
+          "first_seen_at": "2026-08-07T06:14:44.426793+00:00",
+          "price_display": "€ 369,97",
+          "title": "Loopband Krachtig | 19km/u | Nieuw | OP=OP",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a157971241-loopband-krachtig-19km-u-nieuw-op-op"
         },
         "a158080538": {
           "first_seen_at": "2026-07-13T22:51:16.775716+00:00",
@@ -12786,6 +12804,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Loopband perfect staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428305778-loopband-perfect-staat"
+        },
+        "m2428332514": {
+          "first_seen_at": "2026-08-07T06:14:44.426793+00:00",
+          "price_display": "€ 90,00",
+          "title": "Elliptische trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428332514-elliptische-trainer"
         }
       }
     },
@@ -28085,6 +28109,24 @@
           "price_display": "Bieden vanaf € 1.650,00",
           "title": "Spinningbike WAHOO Kickr Bike",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428324259-spinningbike-wahoo-kickr-bike"
+        },
+        "m2428326428": {
+          "first_seen_at": "2026-08-07T06:14:20.724358+00:00",
+          "price_display": "Bieden vanaf € 135,00",
+          "title": "Epileptische fiets van het merk Domyos.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428326428-epileptische-fiets-van-het-merk-domyos"
+        },
+        "m2428326579": {
+          "first_seen_at": "2026-08-07T06:14:20.724358+00:00",
+          "price_display": "€ 5.500,00",
+          "title": "LIFE FITNESS LIFECYCLE LIGFIETS RECUMBENT CLUBSERIE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428326579-life-fitness-lifecycle-ligfiets-recumbent-clubserie"
+        },
+        "m2428327128": {
+          "first_seen_at": "2026-08-07T06:14:20.724358+00:00",
+          "price_display": "€ 5.300,00",
+          "title": "LIFE FITNESS LIFECYCLE CLUBSERIE HOMETRAINER",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428327128-life-fitness-lifecycle-clubserie-hometrainer"
         }
       }
     },
@@ -34701,13 +34743,19 @@
           "price_display": "€ 200,00",
           "title": "M-Audio Hammer 88 midi controller keyboard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428306677-m-audio-hammer-88-midi-controller-keyboard"
+        },
+        "m2428334392": {
+          "first_seen_at": "2026-08-07T06:15:06.684224+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano SCHIMMEL te koop.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428334392-piano-schimmel-te-koop"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T05:04:58.789793+00:00",
+    "last_checked_at": "2026-08-07T06:15:16.234281+00:00",
     "outage_alert_sent": false
   }
 }
