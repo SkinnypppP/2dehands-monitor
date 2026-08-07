@@ -405,6 +405,12 @@
           "title": "Orville - Les Paul - - Guitare électrique - Japon (Sans prix",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165072538-orville-les-paul-guitare-electrique-japon-sans-prix"
         },
+        "a165153932": {
+          "first_seen_at": "2026-08-07T05:04:57.319226+00:00",
+          "price_display": "€ 1.300,00",
+          "title": "Fender - Telecaster - - Guitare électrique - États-Unis -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165153932-fender-telecaster-guitare-electrique-etats-unis"
+        },
         "a165154564": {
           "first_seen_at": "2026-08-03T07:27:43.463537+00:00",
           "price_display": "€ 1.800,00",
@@ -422,6 +428,12 @@
           "price_display": "€ 2.450,00",
           "title": "Fender - Stratocaster - - Elektrische gitaar - Verenigde",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156380-fender-stratocaster-elektrische-gitaar-verenigde"
+        },
+        "a165157622": {
+          "first_seen_at": "2026-08-07T05:04:57.319226+00:00",
+          "price_display": "€ 6.500,00",
+          "title": "Fender - Stratocaster - - Elektrische gitaar - Verenigde",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165157622-fender-stratocaster-elektrische-gitaar-verenigde"
         },
         "a165159046": {
           "first_seen_at": "2026-08-05T13:02:03.678913+00:00",
@@ -6470,6 +6482,12 @@
           "title": "20 gram - Goud - Valcambi, Switzerland",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165131056-20-gram-goud-valcambi-switzerland"
         },
+        "a165137244": {
+          "first_seen_at": "2026-08-07T05:04:42.882791+00:00",
+          "price_display": "€ 3,00",
+          "title": "1 kilogram - Koper .999 - Verzegeld en met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165137244-1-kilogram-koper-999-verzegeld-en-met-certificaat"
+        },
         "a165137944": {
           "first_seen_at": "2026-08-01T04:41:31.101981+00:00",
           "price_display": "€ 2,00",
@@ -12480,6 +12498,12 @@
           "price_display": "Bieden vanaf € 2.050,00",
           "title": "Pivot fsm-400 met 2x 90kg cable uitbreiding fitness rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427639374-pivot-fsm-400-met-2x-90kg-cable-uitbreiding-fitness-rack"
+        },
+        "m2427640787": {
+          "first_seen_at": "2026-08-07T05:04:32.509668+00:00",
+          "price_display": "€ 200,00",
+          "title": "Walk loopband Moov",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427640787-walk-loopband-moov"
         },
         "m2427653929": {
           "first_seen_at": "2026-08-05T08:49:22.899631+00:00",
@@ -28055,6 +28079,12 @@
           "price_display": "€ 450,00",
           "title": "Crossmaxx Bumper Plates Set + Olympische Barbells Set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428313308-crossmaxx-bumper-plates-set-olympische-barbells-set"
+        },
+        "m2428324259": {
+          "first_seen_at": "2026-08-07T05:04:12.683074+00:00",
+          "price_display": "Bieden vanaf € 1.650,00",
+          "title": "Spinningbike WAHOO Kickr Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428324259-spinningbike-wahoo-kickr-bike"
         }
       }
     },
@@ -34677,7 +34707,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T03:13:54.799446+00:00",
+    "last_checked_at": "2026-08-07T05:04:58.789793+00:00",
     "outage_alert_sent": false
   }
 }
