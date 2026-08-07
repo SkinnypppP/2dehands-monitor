@@ -6224,6 +6224,12 @@
           "price_display": "Bieden vanaf € 380,00",
           "title": "di giorgo acoustic guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428603114-di-giorgo-acoustic-guitar"
+        },
+        "m2428634609": {
+          "first_seen_at": "2026-08-07T20:54:24.354731+00:00",
+          "price_display": "€ 50,00",
+          "title": "Ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428634609-ukelele"
         }
       }
     },
@@ -8845,6 +8851,12 @@
           "price_display": "€ 2.100,00",
           "title": "Pamp/Perth minth 20g goud",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428623724-pamp-perth-minth-20g-goud"
+        },
+        "m2428630351": {
+          "first_seen_at": "2026-08-07T20:54:04.774774+00:00",
+          "price_display": "€ 165,00",
+          "title": "Britannia 2026 zilver 1/10 ounce .999 BU kwaliteit nieuw",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428630351-britannia-2026-zilver-1-10-ounce-999-bu-kwaliteit-nieuw"
         }
       }
     },
@@ -13218,6 +13230,12 @@
           "price_display": "€ 850,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428608992-loopband"
+        },
+        "m2428629580": {
+          "first_seen_at": "2026-08-07T20:53:56.962165+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428629580-hometrainer"
         }
       }
     },
@@ -28961,6 +28979,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vintage Seamco Super K78 Medicijnbal (15 lbs / 6,8 kg)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428622325-vintage-seamco-super-k78-medicijnbal-15-lbs-6-8-kg"
+        },
+        "m2428636957": {
+          "first_seen_at": "2026-08-07T20:53:32.164757+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "26 rubberen fitness tegels.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428636957-26-rubberen-fitness-tegels"
+        },
+        "m2428637450": {
+          "first_seen_at": "2026-08-07T20:53:32.164757+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Cable accessoire met 360° draaibare handgrepen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428637450-cable-accessoire-met-360-draaibare-handgrepen"
+        },
+        "m2428637742": {
+          "first_seen_at": "2026-08-07T20:53:32.164757+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "45 kg  + halterschijvenrek van het merk pivot.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428637742-45-kg-halterschijvenrek-van-het-merk-pivot"
         }
       }
     },
@@ -35751,13 +35787,25 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "elektrische piano Fazley, wit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428627858-elektrische-piano-fazley-wit"
+        },
+        "m2428631361": {
+          "first_seen_at": "2026-08-07T20:54:15.623108+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "piano Pearl river",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428631361-piano-pearl-river"
+        },
+        "m2428638902": {
+          "first_seen_at": "2026-08-07T20:54:15.623108+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Piano électronique Casio SA-65",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428638902-piano-electronique-casio-sa-65"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T20:01:34.412770+00:00",
+    "last_checked_at": "2026-08-07T20:54:25.509496+00:00",
     "outage_alert_sent": false
   }
 }
