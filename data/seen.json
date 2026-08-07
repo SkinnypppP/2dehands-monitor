@@ -411,11 +411,29 @@
           "title": "Marshall - Aantal items: 2 - Gitaarversterker - 1971",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165154564-marshall-aantal-items-2-gitaarversterker-1971"
         },
+        "a165156361": {
+          "first_seen_at": "2026-08-07T03:13:51.960275+00:00",
+          "price_display": "€ 160,00",
+          "title": "M.G Contreras - - Klassieke gitaar - Spanje - 1970 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156361-m-g-contreras-klassieke-gitaar-spanje-1970-zonder"
+        },
+        "a165156380": {
+          "first_seen_at": "2026-08-07T03:13:51.960275+00:00",
+          "price_display": "€ 2.450,00",
+          "title": "Fender - Stratocaster - - Elektrische gitaar - Verenigde",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156380-fender-stratocaster-elektrische-gitaar-verenigde"
+        },
         "a165159046": {
           "first_seen_at": "2026-08-05T13:02:03.678913+00:00",
           "price_display": "€ 750,00",
           "title": "Fender - Fender/Jollar Prototype - - Elektrische gitaar -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165159046-fender-fender-jollar-prototype-elektrische-gitaar"
+        },
+        "a165162644": {
+          "first_seen_at": "2026-08-07T03:13:51.960275+00:00",
+          "price_display": "€ 700,00",
+          "title": "Epiphone - Vivian Campbell Holy Diver Les Paul Outfit –",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165162644-epiphone-vivian-campbell-holy-diver-les-paul-outfit"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -28019,6 +28037,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "tapis de marche",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428295562-tapis-de-marche"
+        },
+        "m2428313200": {
+          "first_seen_at": "2026-08-07T03:13:02.775751+00:00",
+          "price_display": "€ 850,00",
+          "title": "Technogym Dumbells Set 10 kilo tot 34 kilo + Technogym Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428313200-technogym-dumbells-set-10-kilo-tot-34-kilo-technogym-rack"
+        },
+        "m2428313272": {
+          "first_seen_at": "2026-08-07T03:13:02.775751+00:00",
+          "price_display": "€ 300,00",
+          "title": "Crossmaxx Squat Rack Halfrack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428313272-crossmaxx-squat-rack-halfrack"
+        },
+        "m2428313308": {
+          "first_seen_at": "2026-08-07T03:13:02.775751+00:00",
+          "price_display": "€ 450,00",
+          "title": "Crossmaxx Bumper Plates Set + Olympische Barbells Set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428313308-crossmaxx-bumper-plates-set-olympische-barbells-set"
         }
       }
     },
@@ -34641,7 +34677,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T00:06:49.826413+00:00",
+    "last_checked_at": "2026-08-07T03:13:54.799446+00:00",
     "outage_alert_sent": false
   }
 }
