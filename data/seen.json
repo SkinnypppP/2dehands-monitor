@@ -6098,6 +6098,18 @@
           "price_display": "€ 320,00",
           "title": "Ovation Celebrity cc68 zeer mooie staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428401893-ovation-celebrity-cc68-zeer-mooie-staat"
+        },
+        "m2428414809": {
+          "first_seen_at": "2026-08-07T10:38:01.475645+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "spaanse gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428414809-spaanse-gitaar"
+        },
+        "m2428422988": {
+          "first_seen_at": "2026-08-07T10:38:01.475645+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Taylor 214e + case Gator",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428422988-taylor-214e-case-gator"
         }
       }
     },
@@ -12942,6 +12954,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Homegym - Nordic Fitness Powerstudio 3100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428395073-homegym-nordic-fitness-powerstudio-3100"
+        },
+        "m2428419981": {
+          "first_seen_at": "2026-08-07T10:37:33.331209+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Tapis de courses",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428419981-tapis-de-courses"
         }
       }
     },
@@ -28325,6 +28343,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428401787-hometrainer"
+        },
+        "m2428407155": {
+          "first_seen_at": "2026-08-07T10:37:09.582086+00:00",
+          "price_display": "€ 85,00",
+          "title": "TUNTURI VERSTELBARE FITNESSBANK UB40",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428407155-tunturi-verstelbare-fitnessbank-ub40"
+        },
+        "m2428407990": {
+          "first_seen_at": "2026-08-07T10:37:09.582086+00:00",
+          "price_display": "€ 125,00",
+          "title": "FLOWIN Pro - zwart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428407990-flowin-pro-zwart"
+        },
+        "m2428409077": {
+          "first_seen_at": "2026-08-07T10:37:09.582086+00:00",
+          "price_display": "€ 199,00",
+          "title": "Rogue (pair; 7.5kg) + Stride (pair; 6kg - 7kg - 8kg - 9kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428409077-rogue-pair-7-5kg-stride-pair-6kg-7kg-8kg-9kg"
         }
       }
     },
@@ -35001,13 +35037,31 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Magnifique Piano électrique YAMAHA, P 105",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428385218-magnifique-piano-electrique-yamaha-p-105"
+        },
+        "m2428409055": {
+          "first_seen_at": "2026-08-07T10:37:50.762950+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "Piano droit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428409055-piano-droit"
+        },
+        "m2428421000": {
+          "first_seen_at": "2026-08-07T10:37:50.762950+00:00",
+          "price_display": "€ 200,00",
+          "title": "Yamaha P-105",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428421000-yamaha-p-105"
+        },
+        "m2428421409": {
+          "first_seen_at": "2026-08-07T10:37:50.762950+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Yamaha P-145 BT Digitale Piano + Accesoires - Perfecte staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428421409-yamaha-p-145-bt-digitale-piano-accesoires-perfecte-staat"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T09:44:16.220469+00:00",
+    "last_checked_at": "2026-08-07T10:38:03.610061+00:00",
     "outage_alert_sent": false
   }
 }
