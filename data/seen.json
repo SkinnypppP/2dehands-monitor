@@ -8689,6 +8689,12 @@
           "price_display": "€ 1.450,00",
           "title": "Dragon Rectangle 2026 zilver 1 ounce .999 tube 20 muntbaren",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428444530-dragon-rectangle-2026-zilver-1-ounce-999-tube-20-muntbaren"
+        },
+        "m2428445953": {
+          "first_seen_at": "2026-08-07T12:10:17.669755+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Herdenkings munt frankrijk",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428445953-herdenkings-munt-frankrijk"
         }
       }
     },
@@ -28397,6 +28403,30 @@
           "price_display": "Bieden vanaf € 695,00",
           "title": "Matrix R7xe Ligfiets / Recumbent Bike – Prof Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428427064-matrix-r7xe-ligfiets-recumbent-bike-prof-hometrainer"
+        },
+        "m2428447868": {
+          "first_seen_at": "2026-08-07T12:09:43.683702+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Halters met gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428447868-halters-met-gewichten"
+        },
+        "m2428450667": {
+          "first_seen_at": "2026-08-07T12:09:43.683702+00:00",
+          "price_display": "€ 75,00",
+          "title": "Haltergewichtset met schijftoevoeging mogelijk nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428450667-haltergewichtset-met-schijftoevoeging-mogelijk-nieuw"
+        },
+        "m2428459682": {
+          "first_seen_at": "2026-08-07T12:09:43.683702+00:00",
+          "price_display": "Bieden vanaf € 715,00",
+          "title": "ATX Tirage vertical",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428459682-atx-tirage-vertical"
+        },
+        "m2428459893": {
+          "first_seen_at": "2026-08-07T12:09:43.683702+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Complete Fitness Set: Halterbank, Squat Rack, Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428459893-complete-fitness-set-halterbank-squat-rack-gewichten"
         }
       }
     },
@@ -35115,7 +35145,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T11:28:48.725994+00:00",
+    "last_checked_at": "2026-08-07T12:10:36.812284+00:00",
     "outage_alert_sent": false
   }
 }
