@@ -6110,6 +6110,18 @@
           "price_display": "Bieden vanaf € 550,00",
           "title": "Taylor 214e + case Gator",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428422988-taylor-214e-case-gator"
+        },
+        "m2428428068": {
+          "first_seen_at": "2026-08-07T11:28:47.231530+00:00",
+          "price_display": "€ 450,00",
+          "title": "Akoestische gitaar Lag",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428428068-akoestische-gitaar-lag"
+        },
+        "m2428430511": {
+          "first_seen_at": "2026-08-07T11:28:47.231530+00:00",
+          "price_display": "Bieden vanaf € 900,00",
+          "title": "ibanez LGB 30 met orginele koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428430511-ibanez-lgb-30-met-orginele-koffer"
         }
       }
     },
@@ -8665,6 +8677,18 @@
           "price_display": "€ 390,00",
           "title": "Lingots d'or Umicore 2,5 Gr",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428403403-lingots-d-or-umicore-2-5-gr"
+        },
+        "m2428443273": {
+          "first_seen_at": "2026-08-07T11:28:29.236097+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "Lunar Horse 2026 zilver 1 ounce .999 tube 20 muntbaren",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428443273-lunar-horse-2026-zilver-1-ounce-999-tube-20-muntbaren"
+        },
+        "m2428444530": {
+          "first_seen_at": "2026-08-07T11:28:29.236097+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "Dragon Rectangle 2026 zilver 1 ounce .999 tube 20 muntbaren",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428444530-dragon-rectangle-2026-zilver-1-ounce-999-tube-20-muntbaren"
         }
       }
     },
@@ -12960,6 +12984,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Tapis de courses",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428419981-tapis-de-courses"
+        },
+        "m2428440526": {
+          "first_seen_at": "2026-08-07T11:28:21.501294+00:00",
+          "price_display": "€ 550,00",
+          "title": "Loopband DKN roadrun",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428440526-loopband-dkn-roadrun"
         }
       }
     },
@@ -28361,6 +28391,12 @@
           "price_display": "€ 199,00",
           "title": "Rogue (pair; 7.5kg) + Stride (pair; 6kg - 7kg - 8kg - 9kg)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428409077-rogue-pair-7-5kg-stride-pair-6kg-7kg-8kg-9kg"
+        },
+        "m2428427064": {
+          "first_seen_at": "2026-08-07T11:28:02.792095+00:00",
+          "price_display": "Bieden vanaf € 695,00",
+          "title": "Matrix R7xe Ligfiets / Recumbent Bike – Prof Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428427064-matrix-r7xe-ligfiets-recumbent-bike-prof-hometrainer"
         }
       }
     },
@@ -35055,13 +35091,31 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Yamaha P-145 BT Digitale Piano + Accesoires - Perfecte staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428421409-yamaha-p-145-bt-digitale-piano-accesoires-perfecte-staat"
+        },
+        "m2428440644": {
+          "first_seen_at": "2026-08-07T11:28:39.082361+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Yamaha digitale buffetpiano met pianobank en koptelefoon",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428440644-yamaha-digitale-buffetpiano-met-pianobank-en-koptelefoon"
+        },
+        "m2428441819": {
+          "first_seen_at": "2026-08-07T11:28:39.082361+00:00",
+          "price_display": "€ 1.550,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428441819-piano"
+        },
+        "m2428443230": {
+          "first_seen_at": "2026-08-07T11:28:39.082361+00:00",
+          "price_display": "Bieden vanaf € 1.700,00",
+          "title": "KAWAI CA401B Black Piano Elektrisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428443230-kawai-ca401b-black-piano-elektrisch"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T10:38:03.610061+00:00",
+    "last_checked_at": "2026-08-07T11:28:48.725994+00:00",
     "outage_alert_sent": false
   }
 }
