@@ -6206,6 +6206,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "klassieke gitaar Aria",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428545153-klassieke-gitaar-aria"
+        },
+        "m2428570573": {
+          "first_seen_at": "2026-08-07T17:25:08.734992+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Elektrische gitaar met 8 snaren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428570573-elektrische-gitaar-met-8-snaren"
         }
       }
     },
@@ -13158,6 +13164,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "home trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428556777-home-trainer"
+        },
+        "m2428565955": {
+          "first_seen_at": "2026-08-07T17:24:34.000909+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Station de musculation multifonction Nordic Fitness Studio",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428565955-station-de-musculation-multifonction-nordic-fitness-studio"
+        },
+        "m2428578923": {
+          "first_seen_at": "2026-08-07T17:24:34.000909+00:00",
+          "price_display": "€ 165,00",
+          "title": "Rameur Water Resistance  VirtuFit ROW 100 (comme neuf)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428578923-rameur-water-resistance-virtufit-row-100-comme-neuf"
         }
       }
     },
@@ -28787,6 +28805,42 @@
           "price_display": "€ 45,00",
           "title": "Gewichten Domyos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428563580-gewichten-domyos"
+        },
+        "m2428571449": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Ab roller",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428571449-ab-roller"
+        },
+        "m2428573501": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "€ 19,00",
+          "title": "Fitnessriem lifting belt leer hoge kwaliteit squat deadlift",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428573501-fitnessriem-lifting-belt-leer-hoge-kwaliteit-squat-deadlift"
+        },
+        "m2428573799": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "€ 15,90",
+          "title": "Halterstang kussen Barbell squat pad foamkussen voor halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428573799-halterstang-kussen-barbell-squat-pad-foamkussen-voor-halters"
+        },
+        "m2428574041": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "€ 12,90",
+          "title": "Lifting straps til ondersteuning deadlift hulp",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428574041-lifting-straps-til-ondersteuning-deadlift-hulp"
+        },
+        "m2428574273": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "€ 20,00",
+          "title": "Bicep Blaster arm trainer bicep curl hammer curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428574273-bicep-blaster-arm-trainer-bicep-curl-hammer-curl"
+        },
+        "m2428574607": {
+          "first_seen_at": "2026-08-07T17:24:13.169266+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "30kg Halterset van SVEN (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428574607-30kg-halterset-van-sven-30mm"
         }
       }
     },
@@ -35559,7 +35613,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T16:29:43.299797+00:00",
+    "last_checked_at": "2026-08-07T17:25:10.151884+00:00",
     "outage_alert_sent": false
   }
 }
