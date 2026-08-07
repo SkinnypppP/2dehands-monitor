@@ -13176,6 +13176,12 @@
           "price_display": "€ 165,00",
           "title": "Rameur Water Resistance  VirtuFit ROW 100 (comme neuf)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428578923-rameur-water-resistance-virtufit-row-100-comme-neuf"
+        },
+        "m2428586939": {
+          "first_seen_at": "2026-08-07T18:09:28.248970+00:00",
+          "price_display": "€ 12,00",
+          "title": "vélo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428586939-velo-d-appartement"
         }
       }
     },
@@ -28841,6 +28847,36 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "30kg Halterset van SVEN (30mm)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428574607-30kg-halterset-van-sven-30mm"
+        },
+        "m2428583606": {
+          "first_seen_at": "2026-08-07T18:09:06.514332+00:00",
+          "price_display": "€ 550,00",
+          "title": "Fitnis materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428583606-fitnis-materiaal"
+        },
+        "m2428587468": {
+          "first_seen_at": "2026-08-07T18:09:06.514332+00:00",
+          "price_display": "€ 150,00",
+          "title": "28kg dumbells, 56kg samen + 2 ziva 15kg 50mm halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428587468-28kg-dumbells-56kg-samen-2-ziva-15kg-50mm-halterschijven"
+        },
+        "m2428588402": {
+          "first_seen_at": "2026-08-07T18:09:06.514332+00:00",
+          "price_display": "€ 20,00",
+          "title": "Stepper noir/rose MS500",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428588402-stepper-noir-rose-ms500"
+        },
+        "m2428590653": {
+          "first_seen_at": "2026-08-07T18:09:06.514332+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Haltere unique 19kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428590653-haltere-unique-19kg"
+        },
+        "m2428596103": {
+          "first_seen_at": "2026-08-07T18:09:06.514332+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Bodybuilding apparaatje.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428596103-bodybuilding-apparaatje"
         }
       }
     },
@@ -35607,13 +35643,25 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Set van 4 Sustainpedalen (Clavia, Nord, Boston, Merkloos)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428562621-set-van-4-sustainpedalen-clavia-nord-boston-merkloos"
+        },
+        "m2428585318": {
+          "first_seen_at": "2026-08-07T18:09:47.598022+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Yamaha DGX-640 Digital Piano – In uitstekende staat!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428585318-yamaha-dgx-640-digital-piano-in-uitstekende-staat"
+        },
+        "m2428586935": {
+          "first_seen_at": "2026-08-07T18:09:47.598022+00:00",
+          "price_display": "€ 8.500,00",
+          "title": "Piano Yamahavleugel GB 1 K",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428586935-piano-yamahavleugel-gb-1-k"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T17:25:10.151884+00:00",
+    "last_checked_at": "2026-08-07T18:09:56.744396+00:00",
     "outage_alert_sent": false
   }
 }
