@@ -6164,6 +6164,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "klassieke gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428496886-klassieke-gitaar"
+        },
+        "m2428515325": {
+          "first_seen_at": "2026-08-07T14:36:50.781369+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Guitare acoustique années 60 suédoise B’parton",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428515325-guitare-acoustique-annees-60-suedoise-b-parton"
+        },
+        "m2428516174": {
+          "first_seen_at": "2026-08-07T14:36:50.781369+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Mooie Portugese fadogitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428516174-mooie-portugese-fadogitaar"
+        },
+        "m2428518225": {
+          "first_seen_at": "2026-08-07T14:36:50.781369+00:00",
+          "price_display": "Bieden vanaf € 1.150,00",
+          "title": "\"Bijna\" nieuwe Guild akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428518225-bijna-nieuwe-guild-akoestische-gitaar"
         }
       }
     },
@@ -13068,6 +13086,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Roeitoestel Focus fitness row 3",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428482546-roeitoestel-focus-fitness-row-3"
+        },
+        "m2428504478": {
+          "first_seen_at": "2026-08-07T14:36:20.409863+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "crosstrainer zipro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428504478-crosstrainer-zipro"
         }
       }
     },
@@ -28511,6 +28535,30 @@
           "price_display": "€ 20,00",
           "title": "Bank vr buikspieren",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428488051-bank-vr-buikspieren"
+        },
+        "m2428501445": {
+          "first_seen_at": "2026-08-07T14:35:53.879270+00:00",
+          "price_display": "€ 100,00",
+          "title": "Fitness gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428501445-fitness-gewichten"
+        },
+        "m2428508521": {
+          "first_seen_at": "2026-08-07T14:35:53.879270+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428508521-gewichten"
+        },
+        "m2428515312": {
+          "first_seen_at": "2026-08-07T14:35:53.879270+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428515312-fitness"
+        },
+        "m2428516171": {
+          "first_seen_at": "2026-08-07T14:35:53.879270+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428516171-fitness"
         }
       }
     },
@@ -30904,6 +30952,18 @@
           "price_display": "Bieden vanaf € 139,00",
           "title": "Raquette padel Tecnifibre Wall Breaker 365 NEUVE - nieuwe",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428470883-raquette-padel-tecnifibre-wall-breaker-365-neuve-nieuwe"
+        },
+        "m2428516422": {
+          "first_seen_at": "2026-08-07T14:36:09.403737+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Bullpadel Vertex 04",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428516422-bullpadel-vertex-04"
+        },
+        "m2428521141": {
+          "first_seen_at": "2026-08-07T14:36:09.403737+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Suix diablo Revolution II Sanyo Pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428521141-suix-diablo-revolution-ii-sanyo-pro"
         }
       }
     },
@@ -35247,7 +35307,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T13:37:16.850271+00:00",
+    "last_checked_at": "2026-08-07T14:36:54.271232+00:00",
     "outage_alert_sent": false
   }
 }
