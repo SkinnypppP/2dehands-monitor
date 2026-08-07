@@ -6038,6 +6038,24 @@
           "price_display": "€ 3.500,00",
           "title": "Huss&Dalton D-RH",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428332491-huss-dalton-d-rh"
+        },
+        "m2428341324": {
+          "first_seen_at": "2026-08-07T07:44:48.007483+00:00",
+          "price_display": "€ 250,00",
+          "title": "Cuenca 10 Klassieke Gitaar (Handmade in Spain) + Gigbag",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428341324-cuenca-10-klassieke-gitaar-handmade-in-spain-gigbag"
+        },
+        "m2428341516": {
+          "first_seen_at": "2026-08-07T07:44:48.007483+00:00",
+          "price_display": "Gratis",
+          "title": "akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428341516-akoestische-gitaar"
+        },
+        "m2428342458": {
+          "first_seen_at": "2026-08-07T07:44:48.007483+00:00",
+          "price_display": "€ 125,00",
+          "title": "Cuenca model 10 klassieke beginners guitaar in hoes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428342458-cuenca-model-10-klassieke-beginners-guitaar-in-hoes"
         }
       }
     },
@@ -8569,6 +8587,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "1oz zilveren munt Kookaburra 2025 Nieuw in capsule",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428242003-1oz-zilveren-munt-kookaburra-2025-nieuw-in-capsule"
+        },
+        "m2428351972": {
+          "first_seen_at": "2026-08-07T07:44:30.365815+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "20x 1oz .999 zilver  U.S.Silver Eagle",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428351972-20x-1oz-999-zilver-u-s-silver-eagle"
         }
       }
     },
@@ -12810,6 +12834,24 @@
           "price_display": "€ 90,00",
           "title": "Elliptische trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428332514-elliptische-trainer"
+        },
+        "m2428343923": {
+          "first_seen_at": "2026-08-07T07:44:19.084322+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bowflex crosstrainer M6",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428343923-bowflex-crosstrainer-m6"
+        },
+        "m2428344550": {
+          "first_seen_at": "2026-08-07T07:44:19.084322+00:00",
+          "price_display": "€ 135,00",
+          "title": "Focus ride 5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428344550-focus-ride-5"
+        },
+        "m2428353761": {
+          "first_seen_at": "2026-08-07T07:44:19.084322+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Loopband T960",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428353761-loopband-t960"
         }
       }
     },
@@ -28127,6 +28169,12 @@
           "price_display": "€ 5.300,00",
           "title": "LIFE FITNESS LIFECYCLE CLUBSERIE HOMETRAINER",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428327128-life-fitness-lifecycle-clubserie-hometrainer"
+        },
+        "m2428351783": {
+          "first_seen_at": "2026-08-07T07:44:02.362492+00:00",
+          "price_display": "€ 2.000,00",
+          "title": "body solid fusion 600",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428351783-body-solid-fusion-600"
         }
       }
     },
@@ -30502,6 +30550,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "padel racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428221678-padel-racket"
+        },
+        "m2428353421": {
+          "first_seen_at": "2026-08-07T07:44:11.569676+00:00",
+          "price_display": "Bieden vanaf € 290,00",
+          "title": "18K X Hard Cybershape (NIEUW!!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428353421-18k-x-hard-cybershape-nieuw"
         }
       }
     },
@@ -34755,7 +34809,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T06:15:16.234281+00:00",
+    "last_checked_at": "2026-08-07T07:44:49.891626+00:00",
     "outage_alert_sent": false
   }
 }
