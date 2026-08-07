@@ -8833,6 +8833,18 @@
           "price_display": "Bieden vanaf € 715,00",
           "title": "20 Francs OR Genius 1895 A — 3e Republiek Frankrijk",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428607806-20-francs-or-genius-1895-a-3e-republiek-frankrijk"
+        },
+        "m2428623472": {
+          "first_seen_at": "2026-08-07T20:01:10.098744+00:00",
+          "price_display": "€ 2.100,00",
+          "title": "PAMP Suisse Fortuna Goudbaar - 20 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428623472-pamp-suisse-fortuna-goudbaar-20-gram"
+        },
+        "m2428623724": {
+          "first_seen_at": "2026-08-07T20:01:10.098744+00:00",
+          "price_display": "€ 2.100,00",
+          "title": "Pamp/Perth minth 20g goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428623724-pamp-perth-minth-20g-goud"
         }
       }
     },
@@ -28937,6 +28949,18 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "Semi professionele loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428608326-semi-professionele-loopband"
+        },
+        "m2428618277": {
+          "first_seen_at": "2026-08-07T20:00:35.471129+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Tunturi hg20 home gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428618277-tunturi-hg20-home-gym"
+        },
+        "m2428622325": {
+          "first_seen_at": "2026-08-07T20:00:35.471129+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vintage Seamco Super K78 Medicijnbal (15 lbs / 6,8 kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428622325-vintage-seamco-super-k78-medicijnbal-15-lbs-6-8-kg"
         }
       }
     },
@@ -35715,13 +35739,25 @@
           "price_display": "€ 8.500,00",
           "title": "Piano Yamahavleugel GB 1 K",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428586935-piano-yamahavleugel-gb-1-k"
+        },
+        "m2428619056": {
+          "first_seen_at": "2026-08-07T20:01:23.924812+00:00",
+          "price_display": "Gratis",
+          "title": "Gratis piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428619056-gratis-piano"
+        },
+        "m2428627858": {
+          "first_seen_at": "2026-08-07T20:01:23.924812+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "elektrische piano Fazley, wit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428627858-elektrische-piano-fazley-wit"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T19:13:34.798553+00:00",
+    "last_checked_at": "2026-08-07T20:01:34.412770+00:00",
     "outage_alert_sent": false
   }
 }
