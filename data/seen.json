@@ -6458,6 +6458,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Originele Ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428928300-originele-ukelele"
+        },
+        "m2428944634": {
+          "first_seen_at": "2026-08-08T17:49:07.587357+00:00",
+          "price_display": "€ 550,00",
+          "title": "Blueridge BR-43 B",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428944634-blueridge-br-43-b"
         }
       }
     },
@@ -13752,6 +13758,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "vintage Kettler Sport hometrainer (seventies)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428914931-vintage-kettler-sport-hometrainer-seventies"
+        },
+        "m2428938017": {
+          "first_seen_at": "2026-08-08T17:48:42.263871+00:00",
+          "price_display": "€ 500,00",
+          "title": "Virtufit Ergometer Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428938017-virtufit-ergometer-roeitrainer"
+        },
+        "m2428944556": {
+          "first_seen_at": "2026-08-08T17:48:42.263871+00:00",
+          "price_display": "€ 400,00",
+          "title": "Crosstrainer Fox 5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428944556-crosstrainer-fox-5"
         }
       }
     },
@@ -29999,6 +30017,36 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Te Koop Aangeboden",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428920021-te-koop-aangeboden"
+        },
+        "m2428934872": {
+          "first_seen_at": "2026-08-08T17:48:13.491979+00:00",
+          "price_display": "€ 85,00",
+          "title": "Schijf voor krachttraining van 2  25 kg en 30 mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428934872-schijf-voor-krachttraining-van-2-25-kg-en-30-mm"
+        },
+        "m2428936164": {
+          "first_seen_at": "2026-08-08T17:48:13.491979+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428936164-fitness-toestel"
+        },
+        "m2428936794": {
+          "first_seen_at": "2026-08-08T17:48:13.491979+00:00",
+          "price_display": "€ 50,00",
+          "title": "Disque musculation 2×15 kg 30 mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428936794-disque-musculation-2-15-kg-30-mm"
+        },
+        "m2428940466": {
+          "first_seen_at": "2026-08-08T17:48:13.491979+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Pull Up bar New in Box!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428940466-pull-up-bar-new-in-box"
+        },
+        "m2428940636": {
+          "first_seen_at": "2026-08-08T17:48:13.491979+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterschijven van 30 mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428940636-halterschijven-van-30-mm"
         }
       }
     },
@@ -37053,7 +37101,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T17:16:17.046814+00:00",
+    "last_checked_at": "2026-08-08T17:49:08.949959+00:00",
     "outage_alert_sent": false
   }
 }
