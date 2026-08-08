@@ -6326,6 +6326,36 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "semi akoestische gitaar RICHWOOD RD12CES + STAND + GIGBAG",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428792608-semi-akoestische-gitaar-richwood-rd12ces-stand-gigbag"
+        },
+        "m2428801672": {
+          "first_seen_at": "2026-08-08T11:46:19.911336+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "ACOUSTIC FOLK GUITAR",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428801672-acoustic-folk-guitar"
+        },
+        "m2428803846": {
+          "first_seen_at": "2026-08-08T11:46:19.911336+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Made in USA Silvertone 1966",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428803846-made-in-usa-silvertone-1966"
+        },
+        "m2428806094": {
+          "first_seen_at": "2026-08-08T11:46:19.911336+00:00",
+          "price_display": "€ 350,00",
+          "title": "Juan Salvador 6C Cadet klassieke gitaar+ draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428806094-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
+        },
+        "m2428806832": {
+          "first_seen_at": "2026-08-08T11:46:19.911336+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Cort AD810 Folkgitaar + standaard",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428806832-cort-ad810-folkgitaar-standaard"
+        },
+        "m2428807179": {
+          "first_seen_at": "2026-08-08T11:46:19.911336+00:00",
+          "price_display": "€ 100,00",
+          "title": "lot de deux guitares + ampli",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428807179-lot-de-deux-guitares-ampli"
         }
       }
     },
@@ -29537,6 +29567,12 @@
           "price_display": "Bieden vanaf € 680,00",
           "title": "haltersets 22.5-25-27.5-30kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428793079-haltersets-22-5-25-27-5-30kg"
+        },
+        "m2428807780": {
+          "first_seen_at": "2026-08-08T11:45:39.148723+00:00",
+          "price_display": "€ 120,00",
+          "title": "Strength Shop barbell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428807780-strength-shop-barbell"
         }
       }
     },
@@ -31972,6 +32008,18 @@
           "price_display": "€ 175,00",
           "title": "Babolat Air Viper 2.6 (2026) - Zo goed als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428794206-babolat-air-viper-2-6-2026-zo-goed-als-nieuw"
+        },
+        "m2428798342": {
+          "first_seen_at": "2026-08-08T11:45:49.484059+00:00",
+          "price_display": "€ 60,00",
+          "title": "Bullpadel hack 3 - brussels padel tour edition special",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428798342-bullpadel-hack-3-brussels-padel-tour-edition-special"
+        },
+        "m2428804929": {
+          "first_seen_at": "2026-08-08T11:45:49.484059+00:00",
+          "price_display": "€ 200,00",
+          "title": "siux pegasus pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428804929-siux-pegasus-pro"
         }
       }
     },
@@ -36465,7 +36513,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T11:13:33.293816+00:00",
+    "last_checked_at": "2026-08-08T11:46:24.935454+00:00",
     "outage_alert_sent": false
   }
 }
