@@ -13308,6 +13308,36 @@
           "price_display": "Bieden vanaf € 49,99",
           "title": "Kettler hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428703578-kettler-hometrainer"
+        },
+        "m2428712204": {
+          "first_seen_at": "2026-08-08T08:41:17.107971+00:00",
+          "price_display": "€ 100,00",
+          "title": "opvouwbare hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428712204-opvouwbare-hometrainer"
+        },
+        "m2428713969": {
+          "first_seen_at": "2026-08-08T08:41:17.107971+00:00",
+          "price_display": "€ 50,00",
+          "title": "Hometrainer - minibike - stoelfiets Tunturi cardio fit M35",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428713969-hometrainer-minibike-stoelfiets-tunturi-cardio-fit-m35"
+        },
+        "m2428722305": {
+          "first_seen_at": "2026-08-08T08:41:17.107971+00:00",
+          "price_display": "€ 699,00",
+          "title": "Air Bike Mars van professionele kwaliteit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428722305-air-bike-mars-van-professionele-kwaliteit"
+        },
+        "m2428723049": {
+          "first_seen_at": "2026-08-08T08:41:17.107971+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "spinning fiets Domyos 500",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428723049-spinning-fiets-domyos-500"
+        },
+        "m2428724404": {
+          "first_seen_at": "2026-08-08T08:41:17.107971+00:00",
+          "price_display": "Bieden vanaf € 890,00",
+          "title": "hometrainer technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428724404-hometrainer-technogym"
         }
       }
     },
@@ -29213,6 +29243,30 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Professionele Weight tree / plate tree 50mm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428700704-professionele-weight-tree-plate-tree-50mm"
+        },
+        "m2428714217": {
+          "first_seen_at": "2026-08-08T08:40:54.178283+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Fitness (3 voor 50 EUR)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428714217-fitness-3-voor-50-eur"
+        },
+        "m2428714976": {
+          "first_seen_at": "2026-08-08T08:40:54.178283+00:00",
+          "price_display": "€ 22,50",
+          "title": "Ab squat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428714976-ab-squat"
+        },
+        "m2428719845": {
+          "first_seen_at": "2026-08-08T08:40:54.178283+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428719845-fitness-toestel"
+        },
+        "m2428724140": {
+          "first_seen_at": "2026-08-08T08:40:54.178283+00:00",
+          "price_display": "€ 30,00",
+          "title": "Domyos halterset 20 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428724140-domyos-halterset-20-kg"
         }
       }
     },
@@ -36063,13 +36117,25 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Piano droit ancien",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428709709-piano-droit-ancien"
+        },
+        "m2428715740": {
+          "first_seen_at": "2026-08-08T08:41:40.093016+00:00",
+          "price_display": "Bieden vanaf € 11.900,00",
+          "title": "Piano Yamaha U1, trans Acoustic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428715740-piano-yamaha-u1-trans-acoustic"
+        },
+        "m2428724170": {
+          "first_seen_at": "2026-08-08T08:41:40.093016+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "staande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428724170-staande-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T07:58:16.851178+00:00",
+    "last_checked_at": "2026-08-08T08:41:52.144565+00:00",
     "outage_alert_sent": false
   }
 }
