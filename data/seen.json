@@ -6374,6 +6374,24 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Stoel om zittend gitaar te spelen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428846458-stoel-om-zittend-gitaar-te-spelen"
+        },
+        "m2428850859": {
+          "first_seen_at": "2026-08-08T13:59:50.873197+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "guitaar Yamaha C40",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428850859-guitaar-yamaha-c40"
+        },
+        "m2428851962": {
+          "first_seen_at": "2026-08-08T13:59:50.873197+00:00",
+          "price_display": "€ 60,00",
+          "title": "Gitaar grimshaw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428851962-gitaar-grimshaw"
+        },
+        "m2428858858": {
+          "first_seen_at": "2026-08-08T13:59:50.873197+00:00",
+          "price_display": "€ 40,00",
+          "title": "Guitare enfant",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428858858-guitare-enfant"
         }
       }
     },
@@ -13548,6 +13566,12 @@
           "price_display": "Zie omschrijving",
           "title": "Crosstrainer te koop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428848317-crosstrainer-te-koop"
+        },
+        "m2428854139": {
+          "first_seen_at": "2026-08-08T13:59:17.617666+00:00",
+          "price_display": "€ 30,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428854139-hometrainer"
         }
       }
     },
@@ -29681,6 +29705,36 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "SQMIZE verstelbare bank + halters + 70 kg gewicht",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428846618-sqmize-verstelbare-bank-halters-70-kg-gewicht"
+        },
+        "m2428849650": {
+          "first_seen_at": "2026-08-08T13:58:55.400385+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Fitness Bank voor krachttraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428849650-fitness-bank-voor-krachttraining"
+        },
+        "m2428854854": {
+          "first_seen_at": "2026-08-08T13:58:55.400385+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "SVEN fit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428854854-sven-fit"
+        },
+        "m2428859252": {
+          "first_seen_at": "2026-08-08T13:58:55.400385+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Chest press technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428859252-chest-press-technogym"
+        },
+        "m2428863758": {
+          "first_seen_at": "2026-08-08T13:58:55.400385+00:00",
+          "price_display": "€ 5,00",
+          "title": "bar de Traction pour porte",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428863758-bar-de-traction-pour-porte"
+        },
+        "m2428865665": {
+          "first_seen_at": "2026-08-08T13:58:55.400385+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Professionele Weight tree / plate tree 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428865665-professionele-weight-tree-plate-tree-50mm"
         }
       }
     },
@@ -36639,13 +36693,19 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Casio Privia PX-S7000 Noir satiné + Banc",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428846889-casio-privia-px-s7000-noir-satine-banc"
+        },
+        "m2428860378": {
+          "first_seen_at": "2026-08-08T13:59:39.213482+00:00",
+          "price_display": "€ 350,00",
+          "title": "Digitale piano kawai ca 5 en piano stoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428860378-digitale-piano-kawai-ca-5-en-piano-stoel"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T13:15:02.787926+00:00",
+    "last_checked_at": "2026-08-08T13:59:53.501612+00:00",
     "outage_alert_sent": false
   }
 }
