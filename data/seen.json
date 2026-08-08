@@ -6446,6 +6446,18 @@
           "price_display": "€ 4.200,00",
           "title": "Flamenco negra gitaar Jose Salinas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428920046-flamenco-negra-gitaar-jose-salinas"
+        },
+        "m2428927468": {
+          "first_seen_at": "2026-08-08T17:16:14.343590+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "yamaha apx500FM OV in koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428927468-yamaha-apx500fm-ov-in-koffer"
+        },
+        "m2428928300": {
+          "first_seen_at": "2026-08-08T17:16:14.343590+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Originele Ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428928300-originele-ukelele"
         }
       }
     },
@@ -32452,6 +32464,18 @@
           "price_display": "€ 40,00",
           "title": "Padel Racket -2024 Nox AT10 18k - 2024",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428884477-padel-racket-2024-nox-at10-18k-2024"
+        },
+        "m2428925100": {
+          "first_seen_at": "2026-08-08T17:15:31.634724+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Te koop: 2x Siux Trilogy Pro 5 – zwart/groen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428925100-te-koop-2x-siux-trilogy-pro-5-zwart-groen"
+        },
+        "m2428927544": {
+          "first_seen_at": "2026-08-08T17:15:31.634724+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Bullpadel Vertex lmtd!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428927544-bullpadel-vertex-lmtd"
         }
       }
     },
@@ -37017,13 +37041,19 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "Marantz",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428918340-marantz"
+        },
+        "m2428930255": {
+          "first_seen_at": "2026-08-08T17:16:02.672459+00:00",
+          "price_display": "Bieden vanaf € 1.350,00",
+          "title": "August Förster -  piano zwart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428930255-august-forster-piano-zwart"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T16:49:12.868960+00:00",
+    "last_checked_at": "2026-08-08T17:16:17.046814+00:00",
     "outage_alert_sent": false
   }
 }
