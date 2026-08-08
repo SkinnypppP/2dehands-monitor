@@ -6854,6 +6854,18 @@
           "title": "Verenigde Staten. 20 x 1 oz 2025 .999 Fine Titanium American",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165340667-verenigde-staten-20-x-1-oz-2025-999-fine-titanium-american"
         },
+        "a165350075": {
+          "first_seen_at": "2026-08-08T03:25:39.653571+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - Heracles - Met certificaat (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165350075-1-kilogram-koper-999-heracles-met-certificaat-zonder"
+        },
+        "a165350076": {
+          "first_seen_at": "2026-08-08T03:25:39.653571+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - Germania Mint (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165350076-1-kilogram-koper-999-germania-mint-zonder"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -35841,7 +35853,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T01:58:07.591098+00:00",
+    "last_checked_at": "2026-08-08T03:26:02.417775+00:00",
     "outage_alert_sent": false
   }
 }
