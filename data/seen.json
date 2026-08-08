@@ -30047,6 +30047,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Halterschijven van 30 mm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428940636-halterschijven-van-30-mm"
+        },
+        "m2428949772": {
+          "first_seen_at": "2026-08-08T18:15:23.587970+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428949772-halterbank"
+        },
+        "m2428951813": {
+          "first_seen_at": "2026-08-08T18:15:23.587970+00:00",
+          "price_display": "€ 150,00",
+          "title": "Focus Fitness Jet 2 - Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428951813-focus-fitness-jet-2-loopband"
         }
       }
     },
@@ -37095,13 +37107,19 @@
           "price_display": "Bieden vanaf € 1.350,00",
           "title": "August Förster -  piano zwart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428930255-august-forster-piano-zwart"
+        },
+        "m2428946827": {
+          "first_seen_at": "2026-08-08T18:16:02.508679+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Elektrische piano DP-6 digital piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428946827-elektrische-piano-dp-6-digital-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T17:49:08.949959+00:00",
+    "last_checked_at": "2026-08-08T18:16:10.307817+00:00",
     "outage_alert_sent": false
   }
 }
