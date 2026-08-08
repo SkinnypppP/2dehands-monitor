@@ -13680,6 +13680,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "wandelband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428891152-wandelband"
+        },
+        "m2428907071": {
+          "first_seen_at": "2026-08-08T16:01:22.846887+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Stepper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428907071-stepper"
         }
       }
     },
@@ -29891,6 +29897,12 @@
           "price_display": "€ 70,00",
           "title": "Fitness materialen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428899611-fitness-materialen"
+        },
+        "m2428908057": {
+          "first_seen_at": "2026-08-08T16:01:08.320557+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Cardiostep technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428908057-cardiostep-technogym"
         }
       }
     },
@@ -36903,13 +36915,19 @@
           "price_display": "Bieden vanaf € 2.000,00",
           "title": "Piano Bechstein 1886 noir - 2 m",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428889240-piano-bechstein-1886-noir-2-m"
+        },
+        "m2428907611": {
+          "first_seen_at": "2026-08-08T16:01:40.746883+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428907611-piano"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T15:41:01.082956+00:00",
+    "last_checked_at": "2026-08-08T16:01:51.328858+00:00",
     "outage_alert_sent": false
   }
 }
