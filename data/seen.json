@@ -35829,13 +35829,19 @@
           "price_display": "Bieden vanaf € 45,00",
           "title": "Piano électronique Casio SA-65",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428638902-piano-electronique-casio-sa-65"
+        },
+        "m2428659429": {
+          "first_seen_at": "2026-08-08T01:57:59.658046+00:00",
+          "price_display": "€ 20,00",
+          "title": "piano krukje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428659429-piano-krukje"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-07T23:28:57.433279+00:00",
+    "last_checked_at": "2026-08-08T01:58:07.591098+00:00",
     "outage_alert_sent": false
   }
 }
