@@ -8869,6 +8869,12 @@
           "price_display": "€ 165,00",
           "title": "Britannia 2026 zilver 1/10 ounce .999 BU kwaliteit nieuw",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428630351-britannia-2026-zilver-1-10-ounce-999-bu-kwaliteit-nieuw"
+        },
+        "m2428668160": {
+          "first_seen_at": "2026-08-08T04:34:21.307660+00:00",
+          "price_display": "€ 39,00",
+          "title": "#5 ounce #koperbaren #Germania Mint 999.9 fine #koper BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428668160-5-ounce-koperbaren-germania-mint-999-9-fine-koper-bu"
         }
       }
     },
@@ -35847,13 +35853,19 @@
           "price_display": "€ 20,00",
           "title": "piano krukje",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428659429-piano-krukje"
+        },
+        "m2428668797": {
+          "first_seen_at": "2026-08-08T04:34:33.811802+00:00",
+          "price_display": "€ 160,00",
+          "title": "Digitale piano Roland",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428668797-digitale-piano-roland"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T03:26:02.417775+00:00",
+    "last_checked_at": "2026-08-08T04:34:46.694408+00:00",
     "outage_alert_sent": false
   }
 }
