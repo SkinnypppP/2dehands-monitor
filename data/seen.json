@@ -32614,6 +32614,12 @@
           "price_display": "€ 95,00",
           "title": "padelracket adidas neuvortx",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428982334-padelracket-adidas-neuvortx"
+        },
+        "m2429003589": {
+          "first_seen_at": "2026-08-08T22:49:37.268978+00:00",
+          "price_display": "€ 100,00",
+          "title": "metalbone ctrl padelracket en Snauwaert racket te koop+ zak",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429003589-metalbone-ctrl-padelracket-en-snauwaert-racket-te-koop-zak"
         }
       }
     },
@@ -37215,7 +37221,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T22:12:33.665900+00:00",
+    "last_checked_at": "2026-08-08T22:50:10.795339+00:00",
     "outage_alert_sent": false
   }
 }
