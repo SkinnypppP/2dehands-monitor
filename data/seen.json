@@ -6254,6 +6254,18 @@
           "price_display": "€ 50,00",
           "title": "Ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428634609-ukelele"
+        },
+        "m2428683205": {
+          "first_seen_at": "2026-08-08T07:10:09.411614+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "Guitare acoustique OVATION made in USA",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428683205-guitare-acoustique-ovation-made-in-usa"
+        },
+        "m2428683265": {
+          "first_seen_at": "2026-08-08T07:10:09.411614+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Gitaar Yamaha G-225",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428683265-gitaar-yamaha-g-225"
         }
       }
     },
@@ -29141,6 +29153,48 @@
           "price_display": "Bieden vanaf € 195,00",
           "title": "Precor C846 - hometrainer - recumbent bike",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428680462-precor-c846-hometrainer-recumbent-bike"
+        },
+        "m2428681705": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "€ 25,00",
+          "title": "Halterstang 120cm en 16kg totaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428681705-halterstang-120cm-en-16kg-totaal"
+        },
+        "m2428681812": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "€ 45,00",
+          "title": "Halterset 20kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428681812-halterset-20kg"
+        },
+        "m2428685948": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Doos vol schoenen organiser",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428685948-doos-vol-schoenen-organiser"
+        },
+        "m2428686291": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "2 x Domyos 10kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428686291-2-x-domyos-10kg-halterschijven-2-8cm"
+        },
+        "m2428686762": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "2 x Domyos 5kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428686762-2-x-domyos-5kg-halterschijven-2-8cm"
+        },
+        "m2428687822": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "12 x Domyos 2kg & 2 x 2,5kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428687822-12-x-domyos-2kg-2-x-2-5kg-halterschijven-2-8cm"
+        },
+        "m2428694837": {
+          "first_seen_at": "2026-08-08T07:09:17.876371+00:00",
+          "price_display": "€ 39,00",
+          "title": "Pull up bar voor jouw outdoor gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428694837-pull-up-bar-voor-jouw-outdoor-gym"
         }
       }
     },
@@ -35979,7 +36033,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T06:05:15.868353+00:00",
+    "last_checked_at": "2026-08-08T07:10:10.680558+00:00",
     "outage_alert_sent": false
   }
 }
