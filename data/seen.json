@@ -6464,6 +6464,18 @@
           "price_display": "€ 550,00",
           "title": "Blueridge BR-43 B",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428944634-blueridge-br-43-b"
+        },
+        "m2428955320": {
+          "first_seen_at": "2026-08-08T19:01:26.199948+00:00",
+          "price_display": "€ 650,00",
+          "title": "Epiphone Goldtop 56 limited edtition",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428955320-epiphone-goldtop-56-limited-edtition"
+        },
+        "m2428958439": {
+          "first_seen_at": "2026-08-08T19:01:26.199948+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Fazley Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428958439-fazley-gitaar"
         }
       }
     },
@@ -9205,6 +9217,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "kookaburra 1999 munt van 2 oz",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428922542-kookaburra-1999-munt-van-2-oz"
+        },
+        "m2428955687": {
+          "first_seen_at": "2026-08-08T19:01:06.583818+00:00",
+          "price_display": "€ 695,00",
+          "title": "20 Francs OR Genius 1895 A Frankrijk",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428955687-20-francs-or-genius-1895-a-frankrijk"
         }
       }
     },
@@ -13770,6 +13788,12 @@
           "price_display": "€ 400,00",
           "title": "Crosstrainer Fox 5",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428944556-crosstrainer-fox-5"
+        },
+        "m2428956445": {
+          "first_seen_at": "2026-08-08T19:00:57.438467+00:00",
+          "price_display": "€ 300,00",
+          "title": "Crosstrainer Focus Fitness Fox 5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428956445-crosstrainer-focus-fitness-fox-5"
         }
       }
     },
@@ -30059,6 +30083,12 @@
           "price_display": "€ 150,00",
           "title": "Focus Fitness Jet 2 - Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428951813-focus-fitness-jet-2-loopband"
+        },
+        "m2428965123": {
+          "first_seen_at": "2026-08-08T19:00:39.583986+00:00",
+          "price_display": "€ 60,00",
+          "title": "benchpress, dibs en biceps curls",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428965123-benchpress-dibs-en-biceps-curls"
         }
       }
     },
@@ -37113,13 +37143,25 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Elektrische piano DP-6 digital piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428946827-elektrische-piano-dp-6-digital-piano"
+        },
+        "m2428955025": {
+          "first_seen_at": "2026-08-08T19:01:13.873912+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428955025-piano"
+        },
+        "m2428964804": {
+          "first_seen_at": "2026-08-08T19:01:13.873912+00:00",
+          "price_display": "€ 250,00",
+          "title": "Digitale piano Casio PX-150 WE (88 toetsen)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428964804-digitale-piano-casio-px-150-we-88-toetsen"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T18:16:10.307817+00:00",
+    "last_checked_at": "2026-08-08T19:01:27.625533+00:00",
     "outage_alert_sent": false
   }
 }
