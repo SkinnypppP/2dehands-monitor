@@ -30101,6 +30101,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Squatrek met lange stang",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428971388-squatrek-met-lange-stang"
+        },
+        "m2428976239": {
+          "first_seen_at": "2026-08-08T20:00:38.198736+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "1stuk  Lion Verstelbare Dumbell t/m 41,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428976239-1stuk-lion-verstelbare-dumbell-t-m-41-5kg"
         }
       }
     },
@@ -37167,13 +37173,19 @@
           "price_display": "€ 250,00",
           "title": "Digitale piano Casio PX-150 WE (88 toetsen)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428964804-digitale-piano-casio-px-150-we-88-toetsen"
+        },
+        "m2428979630": {
+          "first_seen_at": "2026-08-08T20:01:13.671229+00:00",
+          "price_display": "€ 350,00",
+          "title": "Digitale Piano Roland FP50",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428979630-digitale-piano-roland-fp50"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T19:39:56.175609+00:00",
+    "last_checked_at": "2026-08-08T20:01:26.527691+00:00",
     "outage_alert_sent": false
   }
 }
