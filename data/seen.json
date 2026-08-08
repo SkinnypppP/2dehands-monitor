@@ -6488,6 +6488,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Handmade Guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428984474-handmade-guitar"
+        },
+        "m2428999607": {
+          "first_seen_at": "2026-08-08T22:12:32.828572+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Draagtas voor gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428999607-draagtas-voor-gitaar"
         }
       }
     },
@@ -30119,6 +30125,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "1 ezz bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428981557-1-ezz-bar"
+        },
+        "m2428999817": {
+          "first_seen_at": "2026-08-08T22:11:51.322644+00:00",
+          "price_display": "€ 25,00",
+          "title": "Dumbell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428999817-dumbell"
         }
       }
     },
@@ -37203,7 +37215,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T20:44:49.080850+00:00",
+    "last_checked_at": "2026-08-08T22:12:33.665900+00:00",
     "outage_alert_sent": false
   }
 }
