@@ -6416,6 +6416,18 @@
           "price_display": "€ 40,00",
           "title": "vintage gitaar beschadigde doos  maar werkt perfec",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428884670-vintage-gitaar-beschadigde-doos-maar-werkt-perfec"
+        },
+        "m2428896213": {
+          "first_seen_at": "2026-08-08T15:40:59.066024+00:00",
+          "price_display": "€ 20,00",
+          "title": "Gitaar volwassene",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428896213-gitaar-volwassene"
+        },
+        "m2428900936": {
+          "first_seen_at": "2026-08-08T15:40:59.066024+00:00",
+          "price_display": "Bieden vanaf € 490,00",
+          "title": "Guitare electro acoustique Yamaha APX700",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428900936-guitare-electro-acoustique-yamaha-apx700"
         }
       }
     },
@@ -9127,6 +9139,12 @@
           "price_display": "€ 1.190,00",
           "title": "50* 100 frank Frans zilver (90%)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428889385-50-100-frank-frans-zilver-90"
+        },
+        "m2428894794": {
+          "first_seen_at": "2026-08-08T15:40:40.296219+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Goudbaartje 2,5 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428894794-goudbaartje-2-5-gram"
         }
       }
     },
@@ -13254,6 +13272,12 @@
           "price_display": "€ 750,00",
           "title": "Roeier Finnlo Aquon Competition",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427990727-roeier-finnlo-aquon-competition"
+        },
+        "m2427999111": {
+          "first_seen_at": "2026-08-08T15:40:30.974768+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Roeiapparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427999111-roeiapparaat"
         },
         "m2428009824": {
           "first_seen_at": "2026-08-06T09:48:49.205316+00:00",
@@ -29849,6 +29873,24 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Crosstrainer David Douillet",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428881843-crosstrainer-david-douillet"
+        },
+        "m2428893403": {
+          "first_seen_at": "2026-08-08T15:40:08.758602+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "300 kg aan gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428893403-300-kg-aan-gewichten"
+        },
+        "m2428895892": {
+          "first_seen_at": "2026-08-08T15:40:08.758602+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "benchpress",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428895892-benchpress"
+        },
+        "m2428899611": {
+          "first_seen_at": "2026-08-08T15:40:08.758602+00:00",
+          "price_display": "€ 70,00",
+          "title": "Fitness materialen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428899611-fitness-materialen"
         }
       }
     },
@@ -36867,7 +36909,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T15:02:11.276950+00:00",
+    "last_checked_at": "2026-08-08T15:41:01.082956+00:00",
     "outage_alert_sent": false
   }
 }
