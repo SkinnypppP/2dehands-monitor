@@ -6476,6 +6476,12 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Fazley Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428958439-fazley-gitaar"
+        },
+        "m2428973776": {
+          "first_seen_at": "2026-08-08T19:39:55.544857+00:00",
+          "price_display": "Gratis",
+          "title": "Heel goed gevecht",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428973776-heel-goed-gevecht"
         }
       }
     },
@@ -30089,6 +30095,12 @@
           "price_display": "€ 60,00",
           "title": "benchpress, dibs en biceps curls",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428965123-benchpress-dibs-en-biceps-curls"
+        },
+        "m2428971388": {
+          "first_seen_at": "2026-08-08T19:39:11.748586+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Squatrek met lange stang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428971388-squatrek-met-lange-stang"
         }
       }
     },
@@ -37161,7 +37173,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T19:01:27.625533+00:00",
+    "last_checked_at": "2026-08-08T19:39:56.175609+00:00",
     "outage_alert_sent": false
   }
 }
