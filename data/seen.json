@@ -597,6 +597,12 @@
           "title": "Guild M20 USA \"Nick Drake guitar\"",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2401000791-guild-m20-usa-nick-drake-guitar"
         },
+        "m2401135852": {
+          "first_seen_at": "2026-08-08T06:05:14.699635+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2401135852-gitaar"
+        },
         "m2407804844": {
           "first_seen_at": "2026-08-01T13:39:42.897643+00:00",
           "price_display": "Bieden vanaf € 200,00",
@@ -13272,6 +13278,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428629580-hometrainer"
+        },
+        "m2428679849": {
+          "first_seen_at": "2026-08-08T06:04:49.642444+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Vélo elliptique (cross trainer) decathlon domyos 100",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428679849-velo-elliptique-cross-trainer-decathlon-domyos-100"
         }
       }
     },
@@ -29111,6 +29123,24 @@
           "price_display": "€ 17,00",
           "title": "5 delige set weerstandsbanden van het merk Sanbo als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428673854-5-delige-set-weerstandsbanden-van-het-merk-sanbo-als-nieuw"
+        },
+        "m2428677379": {
+          "first_seen_at": "2026-08-08T06:04:30.479412+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Domyos BM490 complete fitnessbank + lat pull down, leg curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428677379-domyos-bm490-complete-fitnessbank-lat-pull-down-leg-curl"
+        },
+        "m2428680448": {
+          "first_seen_at": "2026-08-08T06:04:30.479412+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Home gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428680448-home-gym"
+        },
+        "m2428680462": {
+          "first_seen_at": "2026-08-08T06:04:30.479412+00:00",
+          "price_display": "Bieden vanaf € 195,00",
+          "title": "Precor C846 - hometrainer - recumbent bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428680462-precor-c846-hometrainer-recumbent-bike"
         }
       }
     },
@@ -31516,6 +31546,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Suix diablo Revolution II Sanyo Pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428521141-suix-diablo-revolution-ii-sanyo-pro"
+        },
+        "m2428678771": {
+          "first_seen_at": "2026-08-08T06:04:40.285388+00:00",
+          "price_display": "€ 35,00",
+          "title": "Pressurisateurs pour balles de padel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428678771-pressurisateurs-pour-balles-de-padel"
         }
       }
     },
@@ -35931,13 +35967,19 @@
           "price_display": "€ 160,00",
           "title": "Digitale piano Roland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428668797-digitale-piano-roland"
+        },
+        "m2428677043": {
+          "first_seen_at": "2026-08-08T06:05:04.488070+00:00",
+          "price_display": "€ 2.000,00",
+          "title": "Yamaha piano model C-113",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428677043-yamaha-piano-model-c-113"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T05:23:35.785300+00:00",
+    "last_checked_at": "2026-08-08T06:05:15.868353+00:00",
     "outage_alert_sent": false
   }
 }
