@@ -6296,6 +6296,18 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Klassieke gitaar Valencia VC103 3/4 + Boston gitaartas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428765225-klassieke-gitaar-valencia-vc103-3-4-boston-gitaartas"
+        },
+        "m2428767354": {
+          "first_seen_at": "2026-08-08T10:47:27.221627+00:00",
+          "price_display": "€ 350,00",
+          "title": "Juan Salvador 6C Cadet klassieke gitaar + draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428767354-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
+        },
+        "m2428774106": {
+          "first_seen_at": "2026-08-08T10:47:27.221627+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Chéri A-IM akoestische gitaar (Rarity)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428774106-cheri-a-im-akoestische-gitaar-rarity"
         }
       }
     },
@@ -13021,6 +13033,12 @@
           "title": "loopband tunturi t60",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427853284-loopband-tunturi-t60"
         },
+        "m2427861361": {
+          "first_seen_at": "2026-08-08T10:46:59.079591+00:00",
+          "price_display": "€ 350,00",
+          "title": "Waterroeier Virtufit Row 900 (Nieuw €700,00)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427861361-waterroeier-virtufit-row-900-nieuw-700-00"
+        },
         "m2427889607": {
           "first_seen_at": "2026-08-05T18:25:03.240122+00:00",
           "price_display": "Bieden vanaf € 175,00",
@@ -13775,6 +13793,12 @@
           "price_display": "€ 75,00",
           "title": "Cross-trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2400063920-cross-trainer"
+        },
+        "m2402694903": {
+          "first_seen_at": "2026-08-08T10:46:41.906179+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Powerplate personal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2402694903-powerplate-personal"
         },
         "m2403464763": {
           "first_seen_at": "2026-07-13T16:11:57.488897+00:00",
@@ -29447,6 +29471,24 @@
           "price_display": "€ 60,00",
           "title": "Trainingsbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428762742-trainingsbank"
+        },
+        "m2428768240": {
+          "first_seen_at": "2026-08-08T10:46:41.906179+00:00",
+          "price_display": "€ 200,00",
+          "title": "Chest Fly Machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428768240-chest-fly-machine"
+        },
+        "m2428770163": {
+          "first_seen_at": "2026-08-08T10:46:41.906179+00:00",
+          "price_display": "€ 350,00",
+          "title": "Hip Machine - Benen en Heupen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428770163-hip-machine-benen-en-heupen"
+        },
+        "m2428781820": {
+          "first_seen_at": "2026-08-08T10:46:41.906179+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "DOMYOS/CORENGTH COMPLETE KRACHTTRAININGSSET — 64 KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428781820-domyos-corength-complete-krachttrainingsset-64-kg"
         }
       }
     },
@@ -36333,13 +36375,31 @@
           "price_display": "Bieden vanaf € 1.300,00",
           "title": "Yamaha Clavinova CLP635  B Zwart gesatineerd",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428762106-yamaha-clavinova-clp635-b-zwart-gesatineerd"
+        },
+        "m2428774707": {
+          "first_seen_at": "2026-08-08T10:47:16.656334+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Roland KR-570 digital piano met bank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428774707-roland-kr-570-digital-piano-met-bank"
+        },
+        "m2428778943": {
+          "first_seen_at": "2026-08-08T10:47:16.656334+00:00",
+          "price_display": "€ 600,00",
+          "title": "Digitale piano Dynatone",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428778943-digitale-piano-dynatone"
+        },
+        "m2428781670": {
+          "first_seen_at": "2026-08-08T10:47:16.656334+00:00",
+          "price_display": "€ 65,00",
+          "title": "Pianobank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428781670-pianobank"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T10:02:49.896253+00:00",
+    "last_checked_at": "2026-08-08T10:47:29.109646+00:00",
     "outage_alert_sent": false
   }
 }
