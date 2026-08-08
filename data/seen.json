@@ -6482,6 +6482,12 @@
           "price_display": "Gratis",
           "title": "Heel goed gevecht",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428973776-heel-goed-gevecht"
+        },
+        "m2428984474": {
+          "first_seen_at": "2026-08-08T20:44:48.248598+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Handmade Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2428984474-handmade-guitar"
         }
       }
     },
@@ -30107,6 +30113,12 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "1stuk  Lion Verstelbare Dumbell t/m 41,5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428976239-1stuk-lion-verstelbare-dumbell-t-m-41-5kg"
+        },
+        "m2428981557": {
+          "first_seen_at": "2026-08-08T20:44:06.860148+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "1 ezz bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428981557-1-ezz-bar"
         }
       }
     },
@@ -32584,6 +32596,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Bullpadel Vertex lmtd!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428927544-bullpadel-vertex-lmtd"
+        },
+        "m2428982334": {
+          "first_seen_at": "2026-08-08T20:44:15.558954+00:00",
+          "price_display": "€ 95,00",
+          "title": "padelracket adidas neuvortx",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2428982334-padelracket-adidas-neuvortx"
         }
       }
     },
@@ -37185,7 +37203,7 @@
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T20:01:26.527691+00:00",
+    "last_checked_at": "2026-08-08T20:44:49.080850+00:00",
     "outage_alert_sent": false
   }
 }
