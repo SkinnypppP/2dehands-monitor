@@ -8911,6 +8911,12 @@
           "price_display": "€ 39,00",
           "title": "#5 ounce #koperbaren #Germania Mint 999.9 fine #koper BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428668160-5-ounce-koperbaren-germania-mint-999-9-fine-koper-bu"
+        },
+        "m2428706215": {
+          "first_seen_at": "2026-08-08T07:57:55.519277+00:00",
+          "price_display": "€ 123,00",
+          "title": "1/2 oz, oz silver.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428706215-1-2-oz-oz-silver"
         }
       }
     },
@@ -13296,6 +13302,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Vélo elliptique (cross trainer) decathlon domyos 100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428679849-velo-elliptique-cross-trainer-decathlon-domyos-100"
+        },
+        "m2428703578": {
+          "first_seen_at": "2026-08-08T07:57:45.610502+00:00",
+          "price_display": "Bieden vanaf € 49,99",
+          "title": "Kettler hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428703578-kettler-hometrainer"
         }
       }
     },
@@ -29195,6 +29207,12 @@
           "price_display": "€ 39,00",
           "title": "Pull up bar voor jouw outdoor gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428694837-pull-up-bar-voor-jouw-outdoor-gym"
+        },
+        "m2428700704": {
+          "first_seen_at": "2026-08-08T07:57:26.898187+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Professionele Weight tree / plate tree 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428700704-professionele-weight-tree-plate-tree-50mm"
         }
       }
     },
@@ -36027,13 +36045,31 @@
           "price_display": "€ 2.000,00",
           "title": "Yamaha piano model C-113",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428677043-yamaha-piano-model-c-113"
+        },
+        "m2428703356": {
+          "first_seen_at": "2026-08-08T07:58:06.518959+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "piano bank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428703356-piano-bank"
+        },
+        "m2428704859": {
+          "first_seen_at": "2026-08-08T07:58:06.518959+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "studiologic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428704859-studiologic"
+        },
+        "m2428709709": {
+          "first_seen_at": "2026-08-08T07:58:06.518959+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Piano droit ancien",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428709709-piano-droit-ancien"
         }
       }
     }
   },
   "monitor_state": {
     "consecutive_failed_cycles": 0,
-    "last_checked_at": "2026-08-08T07:10:10.680558+00:00",
+    "last_checked_at": "2026-08-08T07:58:16.851178+00:00",
     "outage_alert_sent": false
   }
 }
