@@ -6734,6 +6734,12 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "Gitaar almansa 401",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429314425-gitaar-almansa-401"
+        },
+        "m2429316270": {
+          "first_seen_at": "2026-08-09T19:59:56.166414+00:00",
+          "price_display": "Bieden vanaf € 170,00",
+          "title": "Gitaar cuenca 10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429316270-gitaar-cuenca-10"
         }
       }
     },
@@ -14274,6 +14280,12 @@
           "price_display": "€ 125,00",
           "title": "Fitnessbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429310880-fitnessbank"
+        },
+        "m2429321017": {
+          "first_seen_at": "2026-08-09T19:59:27.082119+00:00",
+          "price_display": "€ 175,00",
+          "title": "Hometrainer Virtufit iConsole HTR 2.1",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429321017-hometrainer-virtufit-iconsole-htr-2-1"
         }
       }
     },
@@ -31277,6 +31289,12 @@
           "price_display": "€ 350,00",
           "title": "Chrome Dumbells 1kg t/m 10kg + Technogym Opbergrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429311798-chrome-dumbells-1kg-t-m-10kg-technogym-opbergrek"
+        },
+        "m2429321781": {
+          "first_seen_at": "2026-08-09T19:59:09.487664+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429321781-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
         }
       }
     },
@@ -38679,6 +38697,12 @@
           "price_display": "Gratis",
           "title": "Piano gratis af te halen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429311910-piano-gratis-af-te-halen"
+        },
+        "m2429316787": {
+          "first_seen_at": "2026-08-09T19:59:48.111113+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Mooie piano met kruk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429316787-mooie-piano-met-kruk"
         }
       }
     }
@@ -38686,7 +38710,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T19:30:30.677868+00:00",
+    "last_checked_at": "2026-08-09T19:59:57.016202+00:00",
     "outage_alert_sent": false
   }
 }
