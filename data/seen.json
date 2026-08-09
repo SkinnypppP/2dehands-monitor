@@ -9379,6 +9379,12 @@
           "title": "Veiling - Multifunctionele Trainingsbank / Fitnessbank - Ver",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a165019383-veiling-multifunctionele-trainingsbank-fitnessbank-ver"
         },
+        "a165133112": {
+          "first_seen_at": "2026-08-09T06:00:17.119291+00:00",
+          "price_display": "€ 1.150,00",
+          "title": "Matrix - H5x Hybrid - Recumbent Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a165133112-matrix-h5x-hybrid-recumbent-bike"
+        },
         "m1929069366": {
           "first_seen_at": "2026-07-13T14:08:16.397730+00:00",
           "price_display": "€ 16,00",
@@ -37276,7 +37282,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
-    "last_checked_at": "2026-08-09T05:15:51.019278+00:00",
+    "last_checked_at": "2026-08-09T06:00:51.197956+00:00",
     "outage_alert_sent": false
   }
 }
