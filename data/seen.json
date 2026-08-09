@@ -31313,6 +31313,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Machine de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429330266-machine-de-musculation"
+        },
+        "m2429342709": {
+          "first_seen_at": "2026-08-09T22:11:37.730155+00:00",
+          "price_display": "€ 150,00",
+          "title": "barbell halterstang bumperplates gewichten fitness gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429342709-barbell-halterstang-bumperplates-gewichten-fitness-gym"
         }
       }
     },
@@ -38734,7 +38740,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T21:45:23.943405+00:00",
+    "last_checked_at": "2026-08-09T22:12:18.292781+00:00",
     "outage_alert_sent": false
   }
 }
