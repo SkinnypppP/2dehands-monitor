@@ -6542,6 +6542,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "semi akoestische gitaar RICHWOOD RD12CES + STAND+LUXE GIGBAG",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429050911-semi-akoestische-gitaar-richwood-rd12ces-stand-luxe-gigbag"
+        },
+        "m2429053616": {
+          "first_seen_at": "2026-08-09T08:44:59.537062+00:00",
+          "price_display": "€ 975,00",
+          "title": "Neuve: Yamaha  APX1000  RH Acoustic Electric/ Case",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429053616-neuve-yamaha-apx1000-rh-acoustic-electric-case"
+        },
+        "m2429056663": {
+          "first_seen_at": "2026-08-09T08:44:59.537062+00:00",
+          "price_display": "Bieden vanaf € 5.500,00",
+          "title": "Gibson J 185 Quilt Custom Shop 60th Anniversary",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429056663-gibson-j-185-quilt-custom-shop-60th-anniversary"
+        },
+        "m2429064444": {
+          "first_seen_at": "2026-08-09T08:44:59.537062+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429064444-guitare"
         }
       }
     },
@@ -9307,6 +9325,18 @@
           "price_display": "Bieden vanaf € 1.300,00",
           "title": "1 ounce .999 zilver munt 2$ NIUE - 20x",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429006819-1-ounce-999-zilver-munt-2-niue-20x"
+        },
+        "m2429056686": {
+          "first_seen_at": "2026-08-09T08:44:35.569612+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "1/2 oz zilver Lunar Horse 2014 Perth Mint BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429056686-1-2-oz-zilver-lunar-horse-2014-perth-mint-bu"
+        },
+        "m2429059361": {
+          "first_seen_at": "2026-08-09T08:44:35.569612+00:00",
+          "price_display": "Bieden vanaf € 42,00",
+          "title": "1/2 oz zilver Lunar Dragon 2012 Perth Mint BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429059361-1-2-oz-zilver-lunar-dragon-2012-perth-mint-bu"
         }
       }
     },
@@ -30353,6 +30383,24 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "spinning fiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429050039-spinning-fiets"
+        },
+        "m2429056875": {
+          "first_seen_at": "2026-08-09T08:44:07.568051+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "fitnessapparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429056875-fitnessapparaat"
+        },
+        "m2429058051": {
+          "first_seen_at": "2026-08-09T08:44:07.568051+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429058051-fitness"
+        },
+        "m2429062376": {
+          "first_seen_at": "2026-08-09T08:44:07.568051+00:00",
+          "price_display": "€ 10,00",
+          "title": "Stepper en biais",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429062376-stepper-en-biais"
         }
       }
     },
@@ -37479,6 +37527,18 @@
           "price_display": "€ 850,00",
           "title": "Yamaha Arius YDP-164 digitale piano - Zo goed als nieuw",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429051342-yamaha-arius-ydp-164-digitale-piano-zo-goed-als-nieuw"
+        },
+        "m2429053145": {
+          "first_seen_at": "2026-08-09T08:44:47.223856+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429053145-piano"
+        },
+        "m2429060415": {
+          "first_seen_at": "2026-08-09T08:44:47.223856+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Buffetpiano Werner",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429060415-buffetpiano-werner"
         }
       }
     }
@@ -37486,7 +37546,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
-    "last_checked_at": "2026-08-09T07:58:46.118804+00:00",
+    "last_checked_at": "2026-08-09T08:45:02.700310+00:00",
     "outage_alert_sent": false
   }
 }
