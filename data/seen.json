@@ -14148,6 +14148,12 @@
           "price_display": "€ 70,00",
           "title": "Tapis de course bon état de marque CARE",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429185665-tapis-de-course-bon-etat-de-marque-care"
+        },
+        "m2429237570": {
+          "first_seen_at": "2026-08-09T15:15:30.347776+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "crostrainer focus fitness senator",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429237570-crostrainer-focus-fitness-senator"
         }
       }
     },
@@ -30935,6 +30941,42 @@
           "price_display": "Bieden vanaf € 8,00",
           "title": "Gymbal",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429226020-gymbal"
+        },
+        "m2429228278": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "Bieden vanaf € 4,50",
+          "title": "Hand gripper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429228278-hand-gripper"
+        },
+        "m2429230724": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "Bieden vanaf € 490,00",
+          "title": "Technogym Synchro Excite 700iP TV – Prof-Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429230724-technogym-synchro-excite-700ip-tv-prof-crosstrainer"
+        },
+        "m2429233571": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "LifeFitness GS2 apparaat voor krachttraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429233571-lifefitness-gs2-apparaat-voor-krachttraining"
+        },
+        "m2429233709": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "€ 75,00",
+          "title": "fitness weerstand banden 25 doosjes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429233709-fitness-weerstand-banden-25-doosjes"
+        },
+        "m2429234207": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "€ 130,00",
+          "title": "Équipement de musculation basique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429234207-equipement-de-musculation-basique"
+        },
+        "m2429237271": {
+          "first_seen_at": "2026-08-09T15:15:08.698929+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Complete Home Gym Set – Barbell, Dumbbells, Gewichten & Bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429237271-complete-home-gym-set-barbell-dumbbells-gewichten-bank"
         }
       }
     },
@@ -38181,6 +38223,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Buffetpiano Fazer",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429209608-buffetpiano-fazer"
+        },
+        "m2429237094": {
+          "first_seen_at": "2026-08-09T15:15:49.775187+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vintage bed met ingewerkte nachtkastjes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429237094-vintage-bed-met-ingewerkte-nachtkastjes"
+        },
+        "m2429237528": {
+          "first_seen_at": "2026-08-09T15:15:49.775187+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Studiepiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429237528-studiepiano"
         }
       }
     }
@@ -38188,7 +38242,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T14:48:32.502133+00:00",
+    "last_checked_at": "2026-08-09T15:15:58.569779+00:00",
     "outage_alert_sent": false
   }
 }
