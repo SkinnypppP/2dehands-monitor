@@ -14286,6 +14286,12 @@
           "price_display": "€ 175,00",
           "title": "Hometrainer Virtufit iConsole HTR 2.1",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429321017-hometrainer-virtufit-iconsole-htr-2-1"
+        },
+        "m2429326514": {
+          "first_seen_at": "2026-08-09T20:38:22.533951+00:00",
+          "price_display": "€ 50,00",
+          "title": "️ Krachtmachine van Domyos — 50€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429326514-krachtmachine-van-domyos-50"
         }
       }
     },
@@ -31295,6 +31301,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429321781-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2429330266": {
+          "first_seen_at": "2026-08-09T20:38:01.689428+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Machine de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429330266-machine-de-musculation"
         }
       }
     },
@@ -38703,6 +38715,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Mooie piano met kruk",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429316787-mooie-piano-met-kruk"
+        },
+        "m2429325609": {
+          "first_seen_at": "2026-08-09T20:38:41.996105+00:00",
+          "price_display": "Bieden vanaf € 290,00",
+          "title": "Digitale piano Hemingway in nieuwstaat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429325609-digitale-piano-hemingway-in-nieuwstaat"
         }
       }
     }
@@ -38710,7 +38728,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T19:59:57.016202+00:00",
+    "last_checked_at": "2026-08-09T20:38:50.893024+00:00",
     "outage_alert_sent": false
   }
 }
