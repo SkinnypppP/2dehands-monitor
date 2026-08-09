@@ -9469,6 +9469,12 @@
           "price_display": "Zie omschrijving",
           "title": "Zilveren Lunar III munten (5 oz)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429150323-zilveren-lunar-iii-munten-5-oz"
+        },
+        "m2429199692": {
+          "first_seen_at": "2026-08-09T14:05:21.830358+00:00",
+          "price_display": "€ 15,00",
+          "title": "Bijbel Willibrord vertaling \nISBN 978-90-617",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429199692-bijbel-willibrord-vertaling-isbn-978-90-617"
         }
       }
     },
@@ -30833,6 +30839,24 @@
           "price_display": "€ 60,00",
           "title": "Disque musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429178101-disque-musculation"
+        },
+        "m2429193124": {
+          "first_seen_at": "2026-08-09T14:04:52.888190+00:00",
+          "price_display": "€ 5,00",
+          "title": "Set van 2x 5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429193124-set-van-2x-5kg"
+        },
+        "m2429204390": {
+          "first_seen_at": "2026-08-09T14:04:52.888190+00:00",
+          "price_display": "€ 40,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429204390-fitnessbank"
+        },
+        "m2429210375": {
+          "first_seen_at": "2026-08-09T14:04:52.888190+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Acero Sport Oldschool Borstpers",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429210375-acero-sport-oldschool-borstpers"
         }
       }
     },
@@ -38055,6 +38079,18 @@
           "price_display": "€ 130,00",
           "title": "Piano Numérique Yamaha PSR e413",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429175669-piano-numerique-yamaha-psr-e413"
+        },
+        "m2429199972": {
+          "first_seen_at": "2026-08-09T14:05:35.833468+00:00",
+          "price_display": "€ 5.500,00",
+          "title": "Prachtige Weber Aeolian Baby Grand Vleugelpiano (1920)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429199972-prachtige-weber-aeolian-baby-grand-vleugelpiano-1920"
+        },
+        "m2429209608": {
+          "first_seen_at": "2026-08-09T14:05:35.833468+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Buffetpiano Fazer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429209608-buffetpiano-fazer"
         }
       }
     }
@@ -38062,7 +38098,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T13:22:25.235515+00:00",
+    "last_checked_at": "2026-08-09T14:05:46.035523+00:00",
     "outage_alert_sent": false
   }
 }
