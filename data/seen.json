@@ -6704,6 +6704,18 @@
           "price_display": "Bieden vanaf € 399,00",
           "title": "Guitare neuve jamais utilisée",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429279377-guitare-neuve-jamais-utilisee"
+        },
+        "m2429290898": {
+          "first_seen_at": "2026-08-09T18:02:48.768191+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Sheeran by Lowden Equals Limited Edition gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429290898-sheeran-by-lowden-equals-limited-edition-gitaar"
+        },
+        "m2429292048": {
+          "first_seen_at": "2026-08-09T18:02:48.768191+00:00",
+          "price_display": "€ 6.000,00",
+          "title": "Martin OOO-42 bijna nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429292048-martin-ooo-42-bijna-nieuw"
         }
       }
     },
@@ -31163,6 +31175,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Kettler halterbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429281503-kettler-halterbank"
+        },
+        "m2429288582": {
+          "first_seen_at": "2026-08-09T18:02:00.878502+00:00",
+          "price_display": "Bieden vanaf € 880,00",
+          "title": "indoor Cycle GR7 Horizon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429288582-indoor-cycle-gr7-horizon"
         }
       }
     },
@@ -33766,6 +33784,12 @@
           "price_display": "Bieden vanaf € 5,00",
           "title": "Padel zolen Nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429282664-padel-zolen-nieuw"
+        },
+        "m2429283490": {
+          "first_seen_at": "2026-08-09T18:02:10.872249+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Padel Tassen Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429283490-padel-tassen-nieuw"
         }
       }
     },
@@ -38505,6 +38529,12 @@
           "price_display": "€ 75,00",
           "title": "Digitale piano Casio",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429268033-digitale-piano-casio"
+        },
+        "m2429287714": {
+          "first_seen_at": "2026-08-09T18:02:36.815752+00:00",
+          "price_display": "€ 850,00",
+          "title": "Piano Yamaha Clavinova CVP 701",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429287714-piano-yamaha-clavinova-cvp-701"
         }
       }
     }
@@ -38512,7 +38542,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T17:31:41.838561+00:00",
+    "last_checked_at": "2026-08-09T18:02:52.367593+00:00",
     "outage_alert_sent": false
   }
 }
