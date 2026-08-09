@@ -447,6 +447,12 @@
           "title": "Epiphone - Vivian Campbell Holy Diver Les Paul Outfit –",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165162644-epiphone-vivian-campbell-holy-diver-les-paul-outfit"
         },
+        "a165257848": {
+          "first_seen_at": "2026-08-09T05:15:48.135198+00:00",
+          "price_display": "€ 35,00",
+          "title": "Egmond - - 12-snarige akoestische gitaar - Nederland - 1960",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165257848-egmond-12-snarige-akoestische-gitaar-nederland-1960"
+        },
         "a165261907": {
           "first_seen_at": "2026-08-08T05:23:33.026061+00:00",
           "price_display": "€ 435,00",
@@ -458,6 +464,18 @@
           "price_display": "€ 61,00",
           "title": "Un - Look alike SRV - - Elektrische gitaar (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165263509-un-look-alike-srv-elektrische-gitaar-zonder"
+        },
+        "a165264490": {
+          "first_seen_at": "2026-08-09T05:15:48.135198+00:00",
+          "price_display": "€ 24,00",
+          "title": "Couesnon - Parlor - - Akoestische reisgitaar - Frankrijk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165264490-couesnon-parlor-akoestische-reisgitaar-frankrijk"
+        },
+        "a165264512": {
+          "first_seen_at": "2026-08-09T05:15:48.135198+00:00",
+          "price_display": "€ 330,00",
+          "title": "Yamaha - SG800 - - Elektrische gitaar - Japan - 1981 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165264512-yamaha-sg800-elektrische-gitaar-japan-1981-zonder"
         },
         "a165264528": {
           "first_seen_at": "2026-08-08T05:23:33.026061+00:00",
@@ -37245,6 +37263,12 @@
           "price_display": "€ 350,00",
           "title": "Digitale Piano Roland FP50",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2428979630-digitale-piano-roland-fp50"
+        },
+        "m2429015870": {
+          "first_seen_at": "2026-08-09T05:15:38.962367+00:00",
+          "price_display": "Gratis",
+          "title": "gratis piano uit 1885",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429015870-gratis-piano-uit-1885"
         }
       }
     }
@@ -37252,7 +37276,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
-    "last_checked_at": "2026-08-09T04:04:23.471037+00:00",
+    "last_checked_at": "2026-08-09T05:15:51.019278+00:00",
     "outage_alert_sent": false
   }
 }
