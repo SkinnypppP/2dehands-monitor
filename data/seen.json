@@ -9493,6 +9493,18 @@
           "price_display": "€ 76,50",
           "title": "Solomon Eilanden 1 oz 999 zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429218636-solomon-eilanden-1-oz-999-zilver"
+        },
+        "m2429249342": {
+          "first_seen_at": "2026-08-09T15:49:25.607071+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Koper 999 Heracles",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429249342-koper-999-heracles"
+        },
+        "m2429249466": {
+          "first_seen_at": "2026-08-09T15:49:25.607071+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Coca Cola, vintage 1oz speciale uitgave met Certificaat.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429249466-coca-cola-vintage-1oz-speciale-uitgave-met-certificaat"
         }
       }
     },
@@ -30977,6 +30989,18 @@
           "price_display": "Zie omschrijving",
           "title": "Complete Home Gym Set – Barbell, Dumbbells, Gewichten & Bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429237271-complete-home-gym-set-barbell-dumbbells-gewichten-bank"
+        },
+        "m2429245323": {
+          "first_seen_at": "2026-08-09T15:48:48.923427+00:00",
+          "price_display": "€ 750,00",
+          "title": "Banc de musculation - Portique semi-pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429245323-banc-de-musculation-portique-semi-pro"
+        },
+        "m2429245555": {
+          "first_seen_at": "2026-08-09T15:48:48.923427+00:00",
+          "price_display": "€ 50,00",
+          "title": "Walking Pad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429245555-walking-pad"
         }
       }
     },
@@ -33508,6 +33532,18 @@
           "price_display": "€ 80,00",
           "title": "Padel racket Nox AT10 pro cup soft",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429216970-padel-racket-nox-at10-pro-cup-soft"
+        },
+        "m2429240984": {
+          "first_seen_at": "2026-08-09T15:49:02.278379+00:00",
+          "price_display": "€ 35,00",
+          "title": "Padelracket Virtufit Hybrid",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429240984-padelracket-virtufit-hybrid"
+        },
+        "m2429251004": {
+          "first_seen_at": "2026-08-09T15:49:02.278379+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Ale Galan Metalbone 3.4 HRD+ 2025",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429251004-ale-galan-metalbone-3-4-hrd-2025"
         }
       }
     },
@@ -38235,6 +38271,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Studiepiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429237528-studiepiano"
+        },
+        "m2429249046": {
+          "first_seen_at": "2026-08-09T15:49:37.720508+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Yamaha P145BT Digitale Piano met toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429249046-yamaha-p145bt-digitale-piano-met-toebehoren"
         }
       }
     }
@@ -38242,7 +38284,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T15:15:58.569779+00:00",
+    "last_checked_at": "2026-08-09T15:49:47.264975+00:00",
     "outage_alert_sent": false
   }
 }
