@@ -6572,6 +6572,30 @@
           "price_display": "€ 150,00",
           "title": "Yamaha gitaarset nieuwstaat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429098566-yamaha-gitaarset-nieuwstaat"
+        },
+        "m2429112963": {
+          "first_seen_at": "2026-08-09T10:49:05.301775+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "juan salvador 1c",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429112963-juan-salvador-1c"
+        },
+        "m2429117096": {
+          "first_seen_at": "2026-08-09T10:49:05.301775+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Salvador Classical guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429117096-salvador-classical-guitar"
+        },
+        "m2429118728": {
+          "first_seen_at": "2026-08-09T10:49:05.301775+00:00",
+          "price_display": "€ 6.000,00",
+          "title": "klassieke gitaar Otto Vowinkel Concert Model 2012",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429118728-klassieke-gitaar-otto-vowinkel-concert-model-2012"
+        },
+        "m2429123491": {
+          "first_seen_at": "2026-08-09T10:49:05.301775+00:00",
+          "price_display": "€ 4.500,00",
+          "title": "Klassieke gitaar Jeronimo Pena 1985",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429123491-klassieke-gitaar-jeronimo-pena-1985"
         }
       }
     },
@@ -13968,6 +13992,12 @@
           "price_display": "€ 300,00",
           "title": "Fitbike race magnetic pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429083146-fitbike-race-magnetic-pro"
+        },
+        "m2429125836": {
+          "first_seen_at": "2026-08-09T10:48:34.800397+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Domyos t540c Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429125836-domyos-t540c-loopband"
         }
       }
     },
@@ -30503,6 +30533,42 @@
           "price_display": "€ 50,00",
           "title": "Halterschijven rek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429099032-halterschijven-rek"
+        },
+        "m2429107261": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Gewichtenstandaard / Weight tree / plate tree 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429107261-gewichtenstandaard-weight-tree-plate-tree-50mm"
+        },
+        "m2429107463": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "€ 5,00",
+          "title": "gewichtstaaf",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429107463-gewichtstaaf"
+        },
+        "m2429107647": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "Bieden vanaf € 925,00",
+          "title": "ATX Glute Ham Developer GHD-⁠820",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429107647-atx-glute-ham-developer-ghd-820"
+        },
+        "m2429112621": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429112621-hometrainer"
+        },
+        "m2429117678": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym pull up mate",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429117678-technogym-pull-up-mate"
+        },
+        "m2429123690": {
+          "first_seen_at": "2026-08-09T10:48:10.975731+00:00",
+          "price_display": "€ 33,00",
+          "title": "1 stuk gewicht 2 kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429123690-1-stuk-gewicht-2-kilo"
         }
       }
     },
@@ -37684,7 +37750,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T10:04:54.131725+00:00",
+    "last_checked_at": "2026-08-09T10:49:09.127351+00:00",
     "outage_alert_sent": false
   }
 }
