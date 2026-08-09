@@ -6620,6 +6620,12 @@
           "price_display": "Bieden vanaf € 119,00",
           "title": "PZeer mooie , goed bespeelbaar en mooi klinkende roundback",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429151511-pzeer-mooie-goed-bespeelbaar-en-mooi-klinkende-roundback"
+        },
+        "m2429159803": {
+          "first_seen_at": "2026-08-09T12:18:30.366829+00:00",
+          "price_display": "Bieden vanaf € 145,00",
+          "title": "EKO Ranger XII VR akoestische gitaar made in Italy 145 euro",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429159803-eko-ranger-xii-vr-akoestische-gitaar-made-in-italy-145-euro"
         }
       }
     },
@@ -14058,6 +14064,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Tunturi FitCross 50i Rear - elliptisch",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429144436-tunturi-fitcross-50i-rear-elliptisch"
+        },
+        "m2429156853": {
+          "first_seen_at": "2026-08-09T12:18:00.604594+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "loopband kleur zwart merk DOMYOS T520B",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429156853-loopband-kleur-zwart-merk-domyos-t520b"
+        },
+        "m2429158255": {
+          "first_seen_at": "2026-08-09T12:18:00.604594+00:00",
+          "price_display": "€ 750,00",
+          "title": "SOLE F85 - Hoogwaardige loopband - 4 pk - weinig gebruikt",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429158255-sole-f85-hoogwaardige-loopband-4-pk-weinig-gebruikt"
         }
       }
     },
@@ -30725,6 +30743,24 @@
           "price_display": "Gratis",
           "title": "gratis hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429150419-gratis-hometrainer"
+        },
+        "m2429152305": {
+          "first_seen_at": "2026-08-09T12:17:39.533339+00:00",
+          "price_display": "Bieden vanaf € 475,00",
+          "title": "Sin fiets ,home trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429152305-sin-fiets-home-trainer"
+        },
+        "m2429161131": {
+          "first_seen_at": "2026-08-09T12:17:39.533339+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Roeitoestel Domyos 900",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429161131-roeitoestel-domyos-900"
+        },
+        "m2429161350": {
+          "first_seen_at": "2026-08-09T12:17:39.533339+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Halterstang 175cm, 8,5kg (28mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429161350-halterstang-175cm-8-5kg-28mm"
         }
       }
     },
@@ -37917,6 +37953,12 @@
           "price_display": "€ 400,00",
           "title": "Piano Numérique - Roland FP-10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429146332-piano-numerique-roland-fp-10"
+        },
+        "m2429163286": {
+          "first_seen_at": "2026-08-09T12:18:20.107575+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Antieke piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429163286-antieke-piano"
         }
       }
     }
@@ -37924,7 +37966,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T11:48:11.628380+00:00",
+    "last_checked_at": "2026-08-09T12:18:31.303934+00:00",
     "outage_alert_sent": false
   }
 }
