@@ -6728,6 +6728,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Kindergitaar Morgan 1/2",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429298934-kindergitaar-morgan-1-2"
+        },
+        "m2429314425": {
+          "first_seen_at": "2026-08-09T19:30:29.579877+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Gitaar almansa 401",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429314425-gitaar-almansa-401"
         }
       }
     },
@@ -14256,6 +14262,18 @@
           "price_display": "Bieden vanaf € 290,00",
           "title": "Tunturi Cardio Fit T35 loopband te koop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429301147-tunturi-cardio-fit-t35-loopband-te-koop"
+        },
+        "m2429310832": {
+          "first_seen_at": "2026-08-09T19:29:59.494816+00:00",
+          "price_display": "€ 90,00",
+          "title": "Core trainer-fitness bank. Tunturi CT80 Core Trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429310832-core-trainer-fitness-bank-tunturi-ct80-core-trainer"
+        },
+        "m2429310880": {
+          "first_seen_at": "2026-08-09T19:29:59.494816+00:00",
+          "price_display": "€ 125,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429310880-fitnessbank"
         }
       }
     },
@@ -31241,6 +31259,24 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Dumbells + stevige rek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429298228-dumbells-stevige-rek"
+        },
+        "m2429308111": {
+          "first_seen_at": "2026-08-09T19:29:35.634712+00:00",
+          "price_display": "€ 375,00",
+          "title": "117,5kg Rubberen Olympische Gewichten + Olympische Barbell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429308111-117-5kg-rubberen-olympische-gewichten-olympische-barbell"
+        },
+        "m2429309497": {
+          "first_seen_at": "2026-08-09T19:29:35.634712+00:00",
+          "price_display": "€ 50,00",
+          "title": "dumbbel 2 sets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429309497-dumbbel-2-sets"
+        },
+        "m2429311798": {
+          "first_seen_at": "2026-08-09T19:29:35.634712+00:00",
+          "price_display": "€ 350,00",
+          "title": "Chrome Dumbells 1kg t/m 10kg + Technogym Opbergrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429311798-chrome-dumbells-1kg-t-m-10kg-technogym-opbergrek"
         }
       }
     },
@@ -33862,6 +33898,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Bullpadel padeltas",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429305878-bullpadel-padeltas"
+        },
+        "m2429308349": {
+          "first_seen_at": "2026-08-09T19:29:48.001605+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Wilson carbon padel racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429308349-wilson-carbon-padel-racket"
+        },
+        "m2429309305": {
+          "first_seen_at": "2026-08-09T19:29:48.001605+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Dunlop pro padelballen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429309305-dunlop-pro-padelballen"
         }
       }
     },
@@ -38619,6 +38667,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Piano droit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429305773-piano-droit"
+        },
+        "m2429307721": {
+          "first_seen_at": "2026-08-09T19:30:18.063030+00:00",
+          "price_display": "€ 4.500,00",
+          "title": "Silbermann babyvleugel G-152 + stoel – € 4.500",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429307721-silbermann-babyvleugel-g-152-stoel-4-500"
+        },
+        "m2429311910": {
+          "first_seen_at": "2026-08-09T19:30:18.063030+00:00",
+          "price_display": "Gratis",
+          "title": "Piano gratis af te halen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429311910-piano-gratis-af-te-halen"
         }
       }
     }
@@ -38626,7 +38686,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T18:57:07.513021+00:00",
+    "last_checked_at": "2026-08-09T19:30:30.677868+00:00",
     "outage_alert_sent": false
   }
 }
