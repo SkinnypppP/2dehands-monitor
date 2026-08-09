@@ -7130,6 +7130,18 @@
           "title": "1 kilogram - Koper .999 - Germania Mint (Zonder",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165350076-1-kilogram-koper-999-germania-mint-zonder"
         },
+        "a165373594": {
+          "first_seen_at": "2026-08-09T04:04:02.846909+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165373594-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
+        },
+        "a165381911": {
+          "first_seen_at": "2026-08-09T04:04:02.846909+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165381911-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
+        },
         "a165382894": {
           "first_seen_at": "2026-08-08T12:15:23.841896+00:00",
           "price_display": "€ 1,00",
@@ -37240,7 +37252,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
-    "last_checked_at": "2026-08-09T02:39:06.616634+00:00",
+    "last_checked_at": "2026-08-09T04:04:23.471037+00:00",
     "outage_alert_sent": false
   }
 }
