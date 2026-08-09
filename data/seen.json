@@ -14292,6 +14292,12 @@
           "price_display": "€ 50,00",
           "title": "️ Krachtmachine van Domyos — 50€",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429326514-krachtmachine-van-domyos-50"
+        },
+        "m2429340559": {
+          "first_seen_at": "2026-08-09T21:44:57.692849+00:00",
+          "price_display": "Bieden vanaf € 170,00",
+          "title": "Vélo d'appartement Heimtrainer Priority RBS - État impeccabl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429340559-velo-d-appartement-heimtrainer-priority-rbs-etat-impeccabl"
         }
       }
     },
@@ -38728,7 +38734,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T20:38:50.893024+00:00",
+    "last_checked_at": "2026-08-09T21:45:23.943405+00:00",
     "outage_alert_sent": false
   }
 }
