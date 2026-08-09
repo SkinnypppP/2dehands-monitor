@@ -37544,8 +37544,8 @@
     }
   },
   "monitor_state": {
-    "consecutive_failed_cycles": 0,
-    "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
+    "consecutive_failed_cycles": 1,
+    "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
     "last_checked_at": "2026-08-09T08:45:02.700310+00:00",
     "outage_alert_sent": false
   }
