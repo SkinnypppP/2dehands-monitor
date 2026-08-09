@@ -6668,6 +6668,12 @@
           "price_display": "€ 35,00",
           "title": "3/4e gitaar met tas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429223979-3-4e-gitaar-met-tas"
+        },
+        "m2429253567": {
+          "first_seen_at": "2026-08-09T16:16:24.798388+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Admira Sevilla 4/4 gitaar in goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429253567-admira-sevilla-4-4-gitaar-in-goede-staat"
         }
       }
     },
@@ -14166,6 +14172,12 @@
           "price_display": "Zie omschrijving",
           "title": "crostrainer focus fitness senator",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429237570-crostrainer-focus-fitness-senator"
+        },
+        "m2429254181": {
+          "first_seen_at": "2026-08-09T16:15:58.923180+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Hometrainer Kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429254181-hometrainer-kettler"
         }
       }
     },
@@ -31001,6 +31013,24 @@
           "price_display": "€ 50,00",
           "title": "Walking Pad",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429245555-walking-pad"
+        },
+        "m2429254151": {
+          "first_seen_at": "2026-08-09T16:15:34.105002+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Iron Gym optrekstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429254151-iron-gym-optrekstang"
+        },
+        "m2429257269": {
+          "first_seen_at": "2026-08-09T16:15:34.105002+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym cardiotoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429257269-technogym-cardiotoestel"
+        },
+        "m2429259037": {
+          "first_seen_at": "2026-08-09T16:15:34.105002+00:00",
+          "price_display": "Bieden vanaf € 8,00",
+          "title": "Roze fitnessbal / gymbal 55 cm - ook als zitbal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429259037-roze-fitnessbal-gymbal-55-cm-ook-als-zitbal"
         }
       }
     },
@@ -33544,6 +33574,12 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "Ale Galan Metalbone 3.4 HRD+ 2025",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429251004-ale-galan-metalbone-3-4-hrd-2025"
+        },
+        "m2429252060": {
+          "first_seen_at": "2026-08-09T16:15:47.216355+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Bullpadel Vertex Geo Premier Padel Limited Edition",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429252060-bullpadel-vertex-geo-premier-padel-limited-edition"
         }
       }
     },
@@ -38284,7 +38320,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-09T15:49:47.264975+00:00",
+    "last_checked_at": "2026-08-09T16:16:25.692735+00:00",
     "outage_alert_sent": false
   }
 }
