@@ -9241,6 +9241,12 @@
           "price_display": "€ 695,00",
           "title": "20 Francs OR Genius 1895 A Frankrijk",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2428955687-20-francs-or-genius-1895-a-frankrijk"
+        },
+        "m2429006819": {
+          "first_seen_at": "2026-08-09T00:35:58.986558+00:00",
+          "price_display": "Bieden vanaf € 1.300,00",
+          "title": "1 ounce .999 zilver munt 2$ NIUE - 20x",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429006819-1-ounce-999-zilver-munt-2-niue-20x"
         }
       }
     },
@@ -30131,6 +30137,12 @@
           "price_display": "€ 25,00",
           "title": "Dumbell",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2428999817-dumbell"
+        },
+        "m2429007939": {
+          "first_seen_at": "2026-08-09T00:35:34.769299+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Gewichtenstandaard / Weight tree / plate tree 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429007939-gewichtenstandaard-weight-tree-plate-tree-50mm"
         }
       }
     },
@@ -37220,9 +37232,9 @@
     }
   },
   "monitor_state": {
-    "consecutive_failed_cycles": 1,
+    "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-08T23:47:40.230980+00:00",
-    "last_checked_at": "2026-08-08T22:50:10.795339+00:00",
+    "last_checked_at": "2026-08-09T00:36:14.146245+00:00",
     "outage_alert_sent": false
   }
 }
