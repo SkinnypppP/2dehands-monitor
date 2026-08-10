@@ -7730,6 +7730,12 @@
           "title": "Verenigde Staten. 5 x 1 oz Lincoln Wheat Penny 999 Fine",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382892-verenigde-staten-5-x-1-oz-lincoln-wheat-penny-999-fine"
         },
+        "a165382893": {
+          "first_seen_at": "2026-08-10T21:54:15.891651+00:00",
+          "price_display": "€ 2,00",
+          "title": "Niue. 2 Dollars 10 x 2023 1oz $2 NZD Niue Lucky Clover",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382893-niue-2-dollars-10-x-2023-1oz-2-nzd-niue-lucky-clover"
+        },
         "a165382894": {
           "first_seen_at": "2026-08-08T12:15:23.841896+00:00",
           "price_display": "€ 1,00",
@@ -9973,6 +9979,12 @@
           "price_display": "€ 65,00",
           "title": "Silver panda 2022 30gr",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429677203-silver-panda-2022-30gr"
+        },
+        "m2429688838": {
+          "first_seen_at": "2026-08-10T21:54:15.891651+00:00",
+          "price_display": "€ 67,00",
+          "title": "Maple leaf tube zilveren munt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429688838-maple-leaf-tube-zilveren-munt"
         }
       }
     },
@@ -32447,6 +32459,12 @@
           "price_display": "€ 1.490,00",
           "title": "Technogym Vario Excite+ 1000 Unity LIVE Crosstrainer / Step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429677113-technogym-vario-excite-1000-unity-live-crosstrainer-step"
+        },
+        "m2429686412": {
+          "first_seen_at": "2026-08-10T21:53:47.634396+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Crosstrainer en/of shape twister",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429686412-crosstrainer-en-of-shape-twister"
         }
       }
     },
@@ -40216,7 +40234,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T21:06:46.452808+00:00",
+    "last_checked_at": "2026-08-10T21:54:34.765852+00:00",
     "outage_alert_sent": false
   }
 }
