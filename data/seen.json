@@ -14484,6 +14484,18 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "FYTTER Redmium indoorfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429446171-fytter-redmium-indoorfiets"
+        },
+        "m2429470335": {
+          "first_seen_at": "2026-08-10T11:36:17.786825+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Hometrainer Domyos 140",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429470335-hometrainer-domyos-140"
+        },
+        "m2429471044": {
+          "first_seen_at": "2026-08-10T11:36:17.786825+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Hometrainer Kettler Polo M",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429471044-hometrainer-kettler-polo-m"
         }
       }
     },
@@ -31703,6 +31715,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Fitness bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429459945-fitness-bank"
+        },
+        "m2429472891": {
+          "first_seen_at": "2026-08-10T11:35:59.752719+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halter gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429472891-halter-gewichten"
         }
       }
     },
@@ -34414,6 +34432,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Padelracket NOX At10 Pro Cup Hard",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429415225-padelracket-nox-at10-pro-cup-hard"
+        },
+        "m2429470889": {
+          "first_seen_at": "2026-08-10T11:36:08.764896+00:00",
+          "price_display": "€ 100,00",
+          "title": "Joma Blast Pro HRD",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429470889-joma-blast-pro-hrd"
         }
       }
     },
@@ -39279,6 +39303,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "roland kr570",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429449048-roland-kr570"
+        },
+        "m2429475663": {
+          "first_seen_at": "2026-08-10T11:36:39.564361+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "piano bank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429475663-piano-bank"
+        },
+        "m2429477129": {
+          "first_seen_at": "2026-08-10T11:36:39.564361+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429477129-piano"
+        },
+        "m2429477623": {
+          "first_seen_at": "2026-08-10T11:36:39.564361+00:00",
+          "price_display": "Gratis",
+          "title": "oude buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429477623-oude-buffetpiano"
         }
       }
     }
@@ -39286,7 +39328,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T10:49:52.678419+00:00",
+    "last_checked_at": "2026-08-10T11:36:49.292241+00:00",
     "outage_alert_sent": false
   }
 }
