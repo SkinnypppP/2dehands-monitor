@@ -489,6 +489,12 @@
           "title": "Höfner - - Elektrische basgitaar - Duitsland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165264528-hofner-elektrische-basgitaar-duitsland"
         },
+        "a165266001": {
+          "first_seen_at": "2026-08-10T22:31:29.432701+00:00",
+          "price_display": "€ 34,00",
+          "title": "Egmond - Toledo S2Z - - Akoestische gitaar - Nederland -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165266001-egmond-toledo-s2z-akoestische-gitaar-nederland"
+        },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
           "price_display": "€ 1.400,00",
@@ -7040,6 +7046,12 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Fazley akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429681694-fazley-akoestische-gitaar"
+        },
+        "m2429696428": {
+          "first_seen_at": "2026-08-10T22:31:29.432701+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Maton FG100 1970",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429696428-maton-fg100-1970"
         }
       }
     },
@@ -15059,6 +15071,12 @@
           "price_display": "€ 2.250,00",
           "title": "Technogym - Selection - Cable Crossover Station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165041343-technogym-selection-cable-crossover-station"
+        },
+        "a165041383": {
+          "first_seen_at": "2026-08-10T22:30:42.919998+00:00",
+          "price_display": "€ 950,00",
+          "title": "Grün Sport - Leg Press",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165041383-grun-sport-leg-press"
         },
         "a165074626": {
           "first_seen_at": "2026-08-08T05:22:41.005032+00:00",
@@ -32465,6 +32483,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Crosstrainer en/of shape twister",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429686412-crosstrainer-en-of-shape-twister"
+        },
+        "m2429696980": {
+          "first_seen_at": "2026-08-10T22:30:42.919998+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "HomeGym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429696980-homegym"
         }
       }
     },
@@ -35265,6 +35289,12 @@
           "price_display": "€ 14.500,00",
           "title": "Schimmel 174T vleugelpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165181038-schimmel-174t-vleugelpiano"
+        },
+        "a165362848": {
+          "first_seen_at": "2026-08-10T22:31:21.581077+00:00",
+          "price_display": "€ 4.500,00",
+          "title": "Yamaha B1 piano met silent system",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165362848-yamaha-b1-piano-met-silent-system"
         },
         "a61268743": {
           "first_seen_at": "2026-08-08T05:23:24.735486+00:00",
@@ -40234,7 +40264,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T21:54:34.765852+00:00",
+    "last_checked_at": "2026-08-10T22:31:31.712090+00:00",
     "outage_alert_sent": false
   }
 }
