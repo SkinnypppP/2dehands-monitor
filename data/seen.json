@@ -7388,6 +7388,18 @@
           "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165381911-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
         },
+        "a165382689": {
+          "first_seen_at": "2026-08-10T05:06:17.951718+00:00",
+          "price_display": "€ 4,00",
+          "title": "Verenigde Staten. 2027 1 oz Titanium Shahada Mosque Round BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382689-verenigde-staten-2027-1-oz-titanium-shahada-mosque-round-bu"
+        },
+        "a165382855": {
+          "first_seen_at": "2026-08-10T05:06:17.951718+00:00",
+          "price_display": "€ 45,00",
+          "title": "Malta. 10 Euro 2023 2 oz Malta Copernicus 10 Euro Silver BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382855-malta-10-euro-2023-2-oz-malta-copernicus-10-euro-silver-bu"
+        },
         "a165382894": {
           "first_seen_at": "2026-08-08T12:15:23.841896+00:00",
           "price_display": "€ 1,00",
@@ -31319,6 +31331,24 @@
           "price_display": "€ 150,00",
           "title": "barbell halterstang bumperplates gewichten fitness gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429342709-barbell-halterstang-bumperplates-gewichten-fitness-gym"
+        },
+        "m2429360663": {
+          "first_seen_at": "2026-08-10T05:05:48.856723+00:00",
+          "price_display": "€ 850,00",
+          "title": "Technogym Dumbells Set + Technogym Dumbellrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429360663-technogym-dumbells-set-technogym-dumbellrek"
+        },
+        "m2429360679": {
+          "first_seen_at": "2026-08-10T05:05:48.856723+00:00",
+          "price_display": "€ 750,00",
+          "title": "Megatec Adjustable Bench  +  Attachments",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429360679-megatec-adjustable-bench-attachments"
+        },
+        "m2429362613": {
+          "first_seen_at": "2026-08-10T05:05:48.856723+00:00",
+          "price_display": "€ 280,00",
+          "title": "Verstelbare Dumbell nieuw in doos! 4 - 41 kg.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429362613-verstelbare-dumbell-nieuw-in-doos-4-41-kg"
         }
       }
     },
@@ -38745,6 +38775,12 @@
           "price_display": "Bieden vanaf € 3.000,00",
           "title": "Piano samick",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429359387-piano-samick"
+        },
+        "m2429362929": {
+          "first_seen_at": "2026-08-10T05:06:29.295778+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Yamaha Clavinova CLP820",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429362929-yamaha-clavinova-clp820"
         }
       }
     }
@@ -38752,7 +38788,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T03:27:28.191968+00:00",
+    "last_checked_at": "2026-08-10T05:06:36.569329+00:00",
     "outage_alert_sent": false
   }
 }
