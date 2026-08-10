@@ -38739,6 +38739,12 @@
           "price_display": "Gratis",
           "title": "piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429353567-piano"
+        },
+        "m2429359387": {
+          "first_seen_at": "2026-08-10T03:27:18.607569+00:00",
+          "price_display": "Bieden vanaf € 3.000,00",
+          "title": "Piano samick",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429359387-piano-samick"
         }
       }
     }
@@ -38746,7 +38752,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T01:28:32.872389+00:00",
+    "last_checked_at": "2026-08-10T03:27:28.191968+00:00",
     "outage_alert_sent": false
   }
 }
