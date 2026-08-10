@@ -7034,6 +7034,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Richwood RD-12L-BK Artist Series - linkshandige gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429670815-richwood-rd-12l-bk-artist-series-linkshandige-gitaar"
+        },
+        "m2429681694": {
+          "first_seen_at": "2026-08-10T21:06:45.291983+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Fazley akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429681694-fazley-akoestische-gitaar"
         }
       }
     },
@@ -35188,6 +35194,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Babolat viper lebron 2025",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429660270-babolat-viper-lebron-2025"
+        },
+        "m2429679485": {
+          "first_seen_at": "2026-08-10T21:06:06.821855+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Siux Electra Pro 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2429679485-siux-electra-pro-2026"
         }
       }
     },
@@ -40204,7 +40216,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T20:20:41.864304+00:00",
+    "last_checked_at": "2026-08-10T21:06:46.452808+00:00",
     "outage_alert_sent": false
   }
 }
