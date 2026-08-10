@@ -453,6 +453,12 @@
           "title": "Egmond - - 12-snarige akoestische gitaar - Nederland - 1960",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165257848-egmond-12-snarige-akoestische-gitaar-nederland-1960"
         },
+        "a165261896": {
+          "first_seen_at": "2026-08-10T20:20:39.581836+00:00",
+          "price_display": "€ 80,00",
+          "title": "Höfner - - Akoestische gitaar - Duitsland - 1955 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165261896-hofner-akoestische-gitaar-duitsland-1955-zonder"
+        },
         "a165261907": {
           "first_seen_at": "2026-08-08T05:23:33.026061+00:00",
           "price_display": "€ 435,00",
@@ -7022,6 +7028,12 @@
           "price_display": "€ 100,00",
           "title": "Ovation gitaarkoffer",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429664821-ovation-gitaarkoffer"
+        },
+        "m2429670815": {
+          "first_seen_at": "2026-08-10T20:20:39.581836+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Richwood RD-12L-BK Artist Series - linkshandige gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429670815-richwood-rd-12l-bk-artist-series-linkshandige-gitaar"
         }
       }
     },
@@ -9949,6 +9961,12 @@
           "price_display": "€ 59,95",
           "title": "#1 kilogram #Germania Mint #Koperbaren BU kwaliteit 999.9%",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429633339-1-kilogram-germania-mint-koperbaren-bu-kwaliteit-999-9"
+        },
+        "m2429677203": {
+          "first_seen_at": "2026-08-10T20:20:23.473514+00:00",
+          "price_display": "€ 65,00",
+          "title": "Silver panda 2022 30gr",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429677203-silver-panda-2022-30gr"
         }
       }
     },
@@ -14802,6 +14820,12 @@
           "price_display": "€ 150,00",
           "title": "loopband in goede staat want amper gebruikt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429666744-loopband-in-goede-staat-want-amper-gebruikt"
+        },
+        "m2429671190": {
+          "first_seen_at": "2026-08-10T20:20:13.728039+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "CardioStrong crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429671190-cardiostrong-crosstrainer"
         }
       }
     },
@@ -32405,6 +32429,18 @@
           "price_display": "€ 50,00",
           "title": "Dumbbels",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429668572-dumbbels"
+        },
+        "m2429673096": {
+          "first_seen_at": "2026-08-10T20:19:52.111977+00:00",
+          "price_display": "Bieden vanaf € 425,00",
+          "title": "Olympische halterset 110kg / bumperplates / gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429673096-olympische-halterset-110kg-bumperplates-gewichten"
+        },
+        "m2429677113": {
+          "first_seen_at": "2026-08-10T20:19:52.111977+00:00",
+          "price_display": "€ 1.490,00",
+          "title": "Technogym Vario Excite+ 1000 Unity LIVE Crosstrainer / Step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429677113-technogym-vario-excite-1000-unity-live-crosstrainer-step"
         }
       }
     },
@@ -40149,6 +40185,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Piano O.Hainaut médaille d'or La Louvière",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429658994-piano-o-hainaut-medaille-d-or-la-louviere"
+        },
+        "m2429671020": {
+          "first_seen_at": "2026-08-10T20:20:31.355808+00:00",
+          "price_display": "€ 300,00",
+          "title": "Yamaha P-35 piano numérique",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429671020-yamaha-p-35-piano-numerique"
+        },
+        "m2429675587": {
+          "first_seen_at": "2026-08-10T20:20:31.355808+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Yamaha B3 akoestische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429675587-yamaha-b3-akoestische-piano"
         }
       }
     }
@@ -40156,7 +40204,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T19:38:21.512619+00:00",
+    "last_checked_at": "2026-08-10T20:20:41.864304+00:00",
     "outage_alert_sent": false
   }
 }
