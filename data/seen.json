@@ -7400,6 +7400,12 @@
           "title": "Malta. 10 Euro 2023 2 oz Malta Copernicus 10 Euro Silver BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382855-malta-10-euro-2023-2-oz-malta-copernicus-10-euro-silver-bu"
         },
+        "a165382873": {
+          "first_seen_at": "2026-08-10T06:20:00.119483+00:00",
+          "price_display": "€ 1,00",
+          "title": "Verenigde Staten. 2026 1 oz Titanium Buffalo Round BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382873-verenigde-staten-2026-1-oz-titanium-buffalo-round-bu"
+        },
         "a165382894": {
           "first_seen_at": "2026-08-08T12:15:23.841896+00:00",
           "price_display": "€ 1,00",
@@ -14310,6 +14316,12 @@
           "price_display": "Bieden vanaf € 170,00",
           "title": "Vélo d'appartement Heimtrainer Priority RBS - État impeccabl",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429340559-velo-d-appartement-heimtrainer-priority-rbs-etat-impeccabl"
+        },
+        "m2429365567": {
+          "first_seen_at": "2026-08-10T06:19:47.955738+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429365567-hometrainer"
         }
       }
     },
@@ -31349,6 +31361,36 @@
           "price_display": "€ 280,00",
           "title": "Verstelbare Dumbell nieuw in doos! 4 - 41 kg.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429362613-verstelbare-dumbell-nieuw-in-doos-4-41-kg"
+        },
+        "m2429365938": {
+          "first_seen_at": "2026-08-10T06:19:25.867280+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Fitness bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429365938-fitness-bank"
+        },
+        "m2429367430": {
+          "first_seen_at": "2026-08-10T06:19:25.867280+00:00",
+          "price_display": "€ 190,00",
+          "title": "Roze loopband citysports opvoubaar met helling led bluethoot",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429367430-roze-loopband-citysports-opvoubaar-met-helling-led-bluethoot"
+        },
+        "m2429368261": {
+          "first_seen_at": "2026-08-10T06:19:25.867280+00:00",
+          "price_display": "€ 39,00",
+          "title": "Calisthenics pull up bar voor buiten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429368261-calisthenics-pull-up-bar-voor-buiten"
+        },
+        "m2429368660": {
+          "first_seen_at": "2026-08-10T06:19:25.867280+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Livista fitness bank nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429368660-livista-fitness-bank-nieuw"
+        },
+        "m2429372330": {
+          "first_seen_at": "2026-08-10T06:19:25.867280+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Domyos RBR910 Squat rack + Bench press. (Gebruikte staat).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429372330-domyos-rbr910-squat-rack-bench-press-gebruikte-staat"
         }
       }
     },
@@ -38781,6 +38823,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Yamaha Clavinova CLP820",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429362929-yamaha-clavinova-clp820"
+        },
+        "m2429368563": {
+          "first_seen_at": "2026-08-10T06:20:12.065304+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429368563-piano"
         }
       }
     }
@@ -38788,7 +38836,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T05:06:36.569329+00:00",
+    "last_checked_at": "2026-08-10T06:20:20.059559+00:00",
     "outage_alert_sent": false
   }
 }
