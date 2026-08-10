@@ -9997,6 +9997,18 @@
           "price_display": "€ 67,00",
           "title": "Maple leaf tube zilveren munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429688838-maple-leaf-tube-zilveren-munt"
+        },
+        "m2429704731": {
+          "first_seen_at": "2026-08-10T23:50:08.960702+00:00",
+          "price_display": "Bieden vanaf € 710,00",
+          "title": "20 Francs OR Genie 1895A",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429704731-20-francs-or-genie-1895a"
+        },
+        "m2429704745": {
+          "first_seen_at": "2026-08-10T23:50:08.960702+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "(Set van 2 Gouden Munten Tsjaad (1/200 Oz puur Goud,)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429704745-set-van-2-gouden-munten-tsjaad-1-200-oz-puur-goud"
         }
       }
     },
@@ -40264,7 +40276,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-10T22:31:31.712090+00:00",
+    "last_checked_at": "2026-08-10T23:50:30.077529+00:00",
     "outage_alert_sent": false
   }
 }
