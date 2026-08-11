@@ -10177,6 +10177,12 @@
           "title": "Kettler Mondeo crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2372548612-kettler-mondeo-crosstrainer"
         },
+        "m2386961278": {
+          "first_seen_at": "2026-08-11T06:09:31.137823+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Lot sport, vélo dunlop, rameur kettler, abdo care,keys,tbe",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2386961278-lot-sport-velo-dunlop-rameur-kettler-abdo-care-keys-tbe"
+        },
         "m2388308196": {
           "first_seen_at": "2026-07-13T14:08:16.397737+00:00",
           "price_display": "Bieden vanaf € 0,00",
@@ -12258,6 +12264,12 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Loopband BH rx07",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423014330-loopband-bh-rx07"
+        },
+        "m2423022417": {
+          "first_seen_at": "2026-08-11T06:09:31.137823+00:00",
+          "price_display": "Bieden vanaf € 190,00",
+          "title": "Crosstrainer Life Fitness X1",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423022417-crosstrainer-life-fitness-x1"
         },
         "m2423060835": {
           "first_seen_at": "2026-07-23T09:39:13.812615+00:00",
@@ -32537,6 +32549,18 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "HomeGym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429696980-homegym"
+        },
+        "m2429719312": {
+          "first_seen_at": "2026-08-11T06:09:08.009852+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "vibrerend platform",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429719312-vibrerend-platform"
+        },
+        "m2429721407": {
+          "first_seen_at": "2026-08-11T06:09:08.009852+00:00",
+          "price_display": "€ 15,00",
+          "title": "Rockerz Fitness yoga bal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429721407-rockerz-fitness-yoga-bal"
         }
       }
     },
@@ -35445,6 +35469,12 @@
           "price_display": "€ 1.099,00",
           "title": "Piano Yamaha Clavinova CLP-330 met pedalen - perfecte staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2383143489-piano-yamaha-clavinova-clp-330-met-pedalen-perfecte-staat"
+        },
+        "m2385534702": {
+          "first_seen_at": "2026-08-11T06:09:50.212737+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Piano pneumatique Lucien Oor Phonola",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2385534702-piano-pneumatique-lucien-oor-phonola"
         },
         "m2386274708": {
           "first_seen_at": "2026-07-13T14:08:29.176372+00:00",
@@ -40305,6 +40335,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Yamaha B3 akoestische piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429675587-yamaha-b3-akoestische-piano"
+        },
+        "m2429720348": {
+          "first_seen_at": "2026-08-11T06:09:50.212737+00:00",
+          "price_display": "€ 450,00",
+          "title": "Piano Roland FP-30X Neuf",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429720348-piano-roland-fp-30x-neuf"
+        },
+        "m2429725060": {
+          "first_seen_at": "2026-08-11T06:09:50.212737+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Yamaha Electone HS-7 vintage orgel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429725060-yamaha-electone-hs-7-vintage-orgel"
         }
       }
     }
@@ -40312,7 +40354,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T05:20:28.033830+00:00",
+    "last_checked_at": "2026-08-11T06:10:00.530156+00:00",
     "outage_alert_sent": false
   }
 }
