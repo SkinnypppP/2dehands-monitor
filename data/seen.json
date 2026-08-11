@@ -10369,6 +10369,18 @@
           "price_display": "€ 650,00",
           "title": "10 oz zilveren Kookaburra munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429986939-10-oz-zilveren-kookaburra-munt"
+        },
+        "m2430044672": {
+          "first_seen_at": "2026-08-11T23:43:26.324739+00:00",
+          "price_display": "Bieden vanaf € 205,00",
+          "title": "Gouden valuta Dos Pesos 1945 Mexico",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430044672-gouden-valuta-dos-pesos-1945-mexico"
+        },
+        "m2430044928": {
+          "first_seen_at": "2026-08-11T23:43:26.324739+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Gouden munt 2,5 Pesos 1945 Mexico",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430044928-gouden-munt-2-5-pesos-1945-mexico"
         }
       }
     },
@@ -41542,7 +41554,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T22:59:27.163608+00:00",
+    "last_checked_at": "2026-08-11T23:43:46.112053+00:00",
     "outage_alert_sent": false
   }
 }
