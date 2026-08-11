@@ -7262,6 +7262,18 @@
           "price_display": "€ 180,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429952107-gitaar"
+        },
+        "m2429969475": {
+          "first_seen_at": "2026-08-11T17:38:01.150614+00:00",
+          "price_display": "€ 120,00",
+          "title": "kindergitaar Morgan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429969475-kindergitaar-morgan"
+        },
+        "m2429973047": {
+          "first_seen_at": "2026-08-11T17:38:01.150614+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429973047-gitaar"
         }
       }
     },
@@ -15306,6 +15318,12 @@
           "price_display": "Bieden vanaf € 18.350,00",
           "title": "Complete Panatta Fitness Set (22 toestellen)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429929547-complete-panatta-fitness-set-22-toestellen"
+        },
+        "m2429969801": {
+          "first_seen_at": "2026-08-11T17:37:39.018163+00:00",
+          "price_display": "€ 50,00",
+          "title": "Hometrainer Christopeit AL 2 zilver",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429969801-hometrainer-christopeit-al-2-zilver"
         }
       }
     },
@@ -33299,6 +33317,36 @@
           "price_display": "€ 250,00",
           "title": "Homcom Sport",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429942291-homcom-sport"
+        },
+        "m2429956606": {
+          "first_seen_at": "2026-08-11T17:37:15.338778+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Gym set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429956606-gym-set"
+        },
+        "m2429958257": {
+          "first_seen_at": "2026-08-11T17:37:15.338778+00:00",
+          "price_display": "€ 70,00",
+          "title": "Opvouwbare halterbank met halters en een gewicht van 30 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429958257-opvouwbare-halterbank-met-halters-en-een-gewicht-van-30-kg"
+        },
+        "m2429958900": {
+          "first_seen_at": "2026-08-11T17:37:15.338778+00:00",
+          "price_display": "Bieden vanaf € 380,00",
+          "title": "Tapis de course Focus Fitness Jet 9 - modèle 2015",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429958900-tapis-de-course-focus-fitness-jet-9-modele-2015"
+        },
+        "m2429961834": {
+          "first_seen_at": "2026-08-11T17:37:15.338778+00:00",
+          "price_display": "€ 55,00",
+          "title": "Roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429961834-roeimachine"
+        },
+        "m2429963630": {
+          "first_seen_at": "2026-08-11T17:37:15.338778+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Multi bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429963630-multi-bankje"
         }
       }
     },
@@ -41290,7 +41338,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T16:39:44.157773+00:00",
+    "last_checked_at": "2026-08-11T17:38:03.322709+00:00",
     "outage_alert_sent": false
   }
 }
