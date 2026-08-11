@@ -7766,6 +7766,18 @@
           "title": "Verenigde Staten. 2023 1 oz American Silver Buffalo Round BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165382895-verenigde-staten-2023-1-oz-american-silver-buffalo-round-bu"
         },
+        "a165419649": {
+          "first_seen_at": "2026-08-11T04:07:40.537596+00:00",
+          "price_display": "€ 414,00",
+          "title": "1 kilogram - Zilver .999 - BANK OF MALTA",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165419649-1-kilogram-zilver-999-bank-of-malta"
+        },
+        "a165419650": {
+          "first_seen_at": "2026-08-11T04:07:40.537596+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Zilver .999 - The Outback 2026 - 31,1 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165419650-1-troy-ounce-zilver-999-the-outback-2026-31-1-gram"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -40282,7 +40294,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T02:50:41.878931+00:00",
+    "last_checked_at": "2026-08-11T04:07:58.140746+00:00",
     "outage_alert_sent": false
   }
 }
