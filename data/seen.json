@@ -7130,6 +7130,24 @@
           "price_display": "€ 35,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429811406-gitaar"
+        },
+        "m2429821478": {
+          "first_seen_at": "2026-08-11T11:23:24.762873+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Francisco Esteve 4 + hardcase",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429821478-francisco-esteve-4-hardcase"
+        },
+        "m2429823167": {
+          "first_seen_at": "2026-08-11T11:23:24.762873+00:00",
+          "price_display": "Gratis",
+          "title": "Houten kindergitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429823167-houten-kindergitaar"
+        },
+        "m2429829919": {
+          "first_seen_at": "2026-08-11T11:23:24.762873+00:00",
+          "price_display": "€ 8,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429829919-gitaar"
         }
       }
     },
@@ -40803,6 +40821,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429791471-piano"
+        },
+        "m2429812772": {
+          "first_seen_at": "2026-08-11T11:23:12.642886+00:00",
+          "price_display": "€ 110,00",
+          "title": "Piano voor kinderen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429812772-piano-voor-kinderen"
+        },
+        "m2429818798": {
+          "first_seen_at": "2026-08-11T11:23:12.642886+00:00",
+          "price_display": "Bieden vanaf € 285,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429818798-piano"
         }
       }
     }
@@ -40810,7 +40840,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T10:30:42.880147+00:00",
+    "last_checked_at": "2026-08-11T11:23:27.264782+00:00",
     "outage_alert_sent": false
   }
 }
