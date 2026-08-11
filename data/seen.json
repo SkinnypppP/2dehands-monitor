@@ -429,6 +429,12 @@
           "title": "Fender - Stratocaster - - Elektrische gitaar - Verenigde",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156380-fender-stratocaster-elektrische-gitaar-verenigde"
         },
+        "a165156459": {
+          "first_seen_at": "2026-08-11T05:20:25.908337+00:00",
+          "price_display": "€ 975,00",
+          "title": "Gioacchino Giussani - Celebrindal - - Klassieke gitaar -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156459-gioacchino-giussani-celebrindal-klassieke-gitaar"
+        },
         "a165157622": {
           "first_seen_at": "2026-08-07T05:04:57.319226+00:00",
           "price_display": "€ 6.500,00",
@@ -488,6 +494,12 @@
           "price_display": "€ 400,00",
           "title": "Höfner - - Elektrische basgitaar - Duitsland",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165264528-hofner-elektrische-basgitaar-duitsland"
+        },
+        "a165264882": {
+          "first_seen_at": "2026-08-11T05:20:25.908337+00:00",
+          "price_display": "€ 650,00",
+          "title": "Höfner, Brigsby - Höfner Verithin Standard with Original",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165264882-hofner-brigsby-hofner-verithin-standard-with-original"
         },
         "a165266001": {
           "first_seen_at": "2026-08-10T22:31:29.432701+00:00",
@@ -10027,6 +10039,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "(Set van 2 Gouden Munten Tsjaad (1/200 Oz puur Goud,)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429704745-set-van-2-gouden-munten-tsjaad-1-200-oz-puur-goud"
+        },
+        "m2429717954": {
+          "first_seen_at": "2026-08-11T05:20:05.916264+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Koperen bar 5 kg",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2429717954-koperen-bar-5-kg"
         }
       }
     },
@@ -40294,7 +40312,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T04:07:58.140746+00:00",
+    "last_checked_at": "2026-08-11T05:20:28.033830+00:00",
     "outage_alert_sent": false
   }
 }
