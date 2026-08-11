@@ -7298,6 +7298,12 @@
           "price_display": "€ 50,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2429991148-gitaar"
+        },
+        "m2430013407": {
+          "first_seen_at": "2026-08-11T19:41:54.280198+00:00",
+          "price_display": "€ 3.150,00",
+          "title": "Vicente CARRILLO Flamenco gitaar 2006",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430013407-vicente-carrillo-flamenco-gitaar-2006"
         }
       }
     },
@@ -15360,6 +15366,18 @@
           "price_display": "€ 50,00",
           "title": "Hometrainer Christopeit AL 2 zilver",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429969801-hometrainer-christopeit-al-2-zilver"
+        },
+        "m2429996924": {
+          "first_seen_at": "2026-08-11T19:41:24.408145+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vélo elliptique domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2429996924-velo-elliptique-domyos"
+        },
+        "m2430001448": {
+          "first_seen_at": "2026-08-11T19:41:24.408145+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "Technogym Arm Ergometer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430001448-technogym-arm-ergometer"
         }
       }
     },
@@ -33419,6 +33437,36 @@
           "price_display": "Zie omschrijving",
           "title": "GYM Ball  Swiss Ball Basic Medium Bordeaux",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429991202-gym-ball-swiss-ball-basic-medium-bordeaux"
+        },
+        "m2429995495": {
+          "first_seen_at": "2026-08-11T19:41:03.659394+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Poids musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429995495-poids-musculation"
+        },
+        "m2429998304": {
+          "first_seen_at": "2026-08-11T19:41:03.659394+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "FLAT BENCH TECHNOGYM ISOTONIC LINE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429998304-flat-bench-technogym-isotonic-line"
+        },
+        "m2429998993": {
+          "first_seen_at": "2026-08-11T19:41:03.659394+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Domyos PA350 halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429998993-domyos-pa350-halterbank"
+        },
+        "m2429999155": {
+          "first_seen_at": "2026-08-11T19:41:03.659394+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Fitnestoestel met 100KG gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2429999155-fitnestoestel-met-100kg-gewichten"
+        },
+        "m2430000194": {
+          "first_seen_at": "2026-08-11T19:41:03.659394+00:00",
+          "price_display": "Bieden vanaf € 12,00",
+          "title": "Lat pulldown baar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430000194-lat-pulldown-baar"
         }
       }
     },
@@ -41415,6 +41463,30 @@
           "price_display": "€ 200,00",
           "title": "Witgeschilderde buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429976156-witgeschilderde-buffetpiano"
+        },
+        "m2429994914": {
+          "first_seen_at": "2026-08-11T19:41:42.182478+00:00",
+          "price_display": "€ 75,00",
+          "title": "Guide-chant Kasriel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429994914-guide-chant-kasriel"
+        },
+        "m2429995643": {
+          "first_seen_at": "2026-08-11T19:41:42.182478+00:00",
+          "price_display": "€ 65,00",
+          "title": "Guide-chant",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429995643-guide-chant"
+        },
+        "m2429998517": {
+          "first_seen_at": "2026-08-11T19:41:42.182478+00:00",
+          "price_display": "€ 25,00",
+          "title": "Chorus / orgel vintage piano vogelconcert",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2429998517-chorus-orgel-vintage-piano-vogelconcert"
+        },
+        "m2430000270": {
+          "first_seen_at": "2026-08-11T19:41:42.182478+00:00",
+          "price_display": "Bieden vanaf € 895,00",
+          "title": "electronische piano Yamaha Clavinova CPL121S",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430000270-electronische-piano-yamaha-clavinova-cpl121s"
         }
       }
     }
@@ -41422,7 +41494,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-11T18:32:05.030078+00:00",
+    "last_checked_at": "2026-08-11T19:41:55.352527+00:00",
     "outage_alert_sent": false
   }
 }
