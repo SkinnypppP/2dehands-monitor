@@ -7322,6 +7322,12 @@
           "price_display": "€ 275,00",
           "title": "Yamaha APX500 elektro-akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430056055-yamaha-apx500-elektro-akoestische-gitaar"
+        },
+        "m2430064908": {
+          "first_seen_at": "2026-08-12T06:25:01.474012+00:00",
+          "price_display": "€ 250,00",
+          "title": "Semi akoestische gitaar Samick + gigbag (LEFTY & als nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430064908-semi-akoestische-gitaar-samick-gigbag-lefty-als-nieuw"
         }
       }
     },
@@ -10405,6 +10411,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "2 euro Asterix, Obelix en Idefix coincard 2019 - Frankrijk",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430052448-2-euro-asterix-obelix-en-idefix-coincard-2019-frankrijk"
+        },
+        "m2430062584": {
+          "first_seen_at": "2026-08-12T06:24:43.921158+00:00",
+          "price_display": "Bieden vanaf € 58,00",
+          "title": "1kg koper 999 van Heracles",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430062584-1kg-koper-999-van-heracles"
         }
       }
     },
@@ -15432,6 +15444,12 @@
           "price_display": "Bieden vanaf € 1.000,00",
           "title": "Technogym Arm Ergometer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430001448-technogym-arm-ergometer"
+        },
+        "m2430061226": {
+          "first_seen_at": "2026-08-12T06:24:34.397147+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430061226-hometrainer"
         }
       }
     },
@@ -33569,6 +33587,12 @@
           "price_display": "€ 40,00",
           "title": "domyos curl bar en gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430056599-domyos-curl-bar-en-gewichten"
+        },
+        "m2430059556": {
+          "first_seen_at": "2026-08-12T06:24:12.505521+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Life Fitness IC7 spinningfiets - absolute nieuwstaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430059556-life-fitness-ic7-spinningfiets-absolute-nieuwstaat"
         }
       }
     },
@@ -41602,7 +41626,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T05:06:30.104082+00:00",
+    "last_checked_at": "2026-08-12T06:25:03.565377+00:00",
     "outage_alert_sent": false
   }
 }
