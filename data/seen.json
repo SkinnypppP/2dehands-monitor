@@ -34457,6 +34457,12 @@
           "price_display": "€ 300,00",
           "title": "2 massief houten leibomen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430348152-2-massief-houten-leibomen"
+        },
+        "m2430359370": {
+          "first_seen_at": "2026-08-12T22:04:55.668021+00:00",
+          "price_display": "€ 40,00",
+          "title": "Gloednieuwe optrekstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430359370-gloednieuwe-optrekstang"
         }
       }
     },
@@ -42676,7 +42682,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T21:12:29.271534+00:00",
+    "last_checked_at": "2026-08-12T22:05:42.080841+00:00",
     "outage_alert_sent": false
   }
 }
