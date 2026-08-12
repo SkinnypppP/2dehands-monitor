@@ -7460,6 +7460,12 @@
           "price_display": "€ 10,00",
           "title": "Sac transport guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430224068-sac-transport-guitare"
+        },
+        "m2430233627": {
+          "first_seen_at": "2026-08-12T14:45:56.141023+00:00",
+          "price_display": "€ 60,00",
+          "title": "Guitare acoustique Harley Benton Delta Blues T",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430233627-guitare-acoustique-harley-benton-delta-blues-t"
         }
       }
     },
@@ -15750,6 +15756,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Kettler Combi Trainer Axos - zeer goede staat!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430224104-kettler-combi-trainer-axos-zeer-goede-staat"
+        },
+        "m2430246756": {
+          "first_seen_at": "2026-08-12T14:45:27.783519+00:00",
+          "price_display": "€ 2.450,00",
+          "title": "Technogym MyRun",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430246756-technogym-myrun"
         }
       }
     },
@@ -34109,6 +34121,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "CORENGTH - Optrekstang",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430225772-corength-optrekstang"
+        },
+        "m2430227555": {
+          "first_seen_at": "2026-08-12T14:45:08.986993+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Sterktetabel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430227555-sterktetabel"
+        },
+        "m2430252996": {
+          "first_seen_at": "2026-08-12T14:45:08.986993+00:00",
+          "price_display": "€ 40,00",
+          "title": "Brede roeigreep zwart rubber – fitness kabelmachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430252996-brede-roeigreep-zwart-rubber-fitness-kabelmachine"
         }
       }
     },
@@ -36988,6 +37012,24 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Padeltas head rugzak",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430205527-padeltas-head-rugzak"
+        },
+        "m2430235030": {
+          "first_seen_at": "2026-08-12T14:45:17.259108+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Padelzak Dunlop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430235030-padelzak-dunlop"
+        },
+        "m2430238958": {
+          "first_seen_at": "2026-08-12T14:45:17.259108+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Raquette padel indigo power",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430238958-raquette-padel-indigo-power"
+        },
+        "m2430245950": {
+          "first_seen_at": "2026-08-12T14:45:17.259108+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Padelracket Head Speed Motion",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430245950-padelracket-head-speed-motion"
         }
       }
     },
@@ -42213,6 +42255,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430191834-piano"
+        },
+        "m2430230582": {
+          "first_seen_at": "2026-08-12T14:45:45.527688+00:00",
+          "price_display": "€ 100,00",
+          "title": "Piano A.Hanlet Bruxelles",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430230582-piano-a-hanlet-bruxelles"
         }
       }
     }
@@ -42220,7 +42268,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T13:41:37.881954+00:00",
+    "last_checked_at": "2026-08-12T14:45:57.099081+00:00",
     "outage_alert_sent": false
   }
 }
