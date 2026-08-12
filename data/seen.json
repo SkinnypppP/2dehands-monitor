@@ -7508,6 +7508,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Spaanse klassieke gitaar (Camps)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430306533-spaanse-klassieke-gitaar-camps"
+        },
+        "m2430320445": {
+          "first_seen_at": "2026-08-12T18:33:55.902719+00:00",
+          "price_display": "€ 2.950,00",
+          "title": "Handgemaakte contrabas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430320445-handgemaakte-contrabas"
         }
       }
     },
@@ -10687,6 +10693,24 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Hereaus 1 oz zilver.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430311991-hereaus-1-oz-zilver"
+        },
+        "m2430313150": {
+          "first_seen_at": "2026-08-12T18:33:36.845973+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Cook Islands 1oz zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430313150-cook-islands-1oz-zilver"
+        },
+        "m2430314223": {
+          "first_seen_at": "2026-08-12T18:33:36.845973+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Starfish cook islands 1 oz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430314223-starfish-cook-islands-1-oz"
+        },
+        "m2430315646": {
+          "first_seen_at": "2026-08-12T18:33:36.845973+00:00",
+          "price_display": "€ 650,00",
+          "title": "Noah's arc 10 oz zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430315646-noah-s-arc-10-oz-zilver"
         }
       }
     },
@@ -15846,6 +15870,12 @@
           "price_display": "Bieden vanaf € 1.000,00",
           "title": "Roeitoestel Concept 2",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430305185-roeitoestel-concept-2"
+        },
+        "m2430321228": {
+          "first_seen_at": "2026-08-12T18:33:26.957648+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vélo appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430321228-velo-appartement"
         }
       }
     },
@@ -34343,6 +34373,12 @@
           "price_display": "€ 40,00",
           "title": "Domyos Trainingsstation 100/ Barres de dips",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430306632-domyos-trainingsstation-100-barres-de-dips"
+        },
+        "m2430315165": {
+          "first_seen_at": "2026-08-12T18:33:10.047341+00:00",
+          "price_display": "€ 40,00",
+          "title": "Verzwaarde vest en gewogen polsbandjes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430315165-verzwaarde-vest-en-gewogen-polsbandjes"
         }
       }
     },
@@ -37264,6 +37300,18 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Adidas Elevation Light",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430305039-adidas-elevation-light"
+        },
+        "m2430315354": {
+          "first_seen_at": "2026-08-12T18:33:17.907140+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Head extreme motion",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430315354-head-extreme-motion"
+        },
+        "m2430315581": {
+          "first_seen_at": "2026-08-12T18:33:17.907140+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Bullpadel Hack 04",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430315581-bullpadel-hack-04"
         }
       }
     },
@@ -42526,7 +42574,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T17:39:39.867509+00:00",
+    "last_checked_at": "2026-08-12T18:33:56.854190+00:00",
     "outage_alert_sent": false
   }
 }
