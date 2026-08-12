@@ -525,6 +525,12 @@
           "title": "Nieuwe professionele Arabische oud",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2283920065-nieuwe-professionele-arabische-oud"
         },
+        "m2343514806": {
+          "first_seen_at": "2026-08-12T12:08:12.266393+00:00",
+          "price_display": "Bieden vanaf € 2.000,00",
+          "title": "Guild F-20 1976 Natuurlijk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2343514806-guild-f-20-1976-natuurlijk"
+        },
         "m2343998288": {
           "first_seen_at": "2026-07-23T15:25:02.460108+00:00",
           "price_display": "Bieden vanaf € 5.250,00",
@@ -7418,6 +7424,18 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Fazley ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430153009-fazley-ukelele"
+        },
+        "m2430170049": {
+          "first_seen_at": "2026-08-12T12:08:12.266393+00:00",
+          "price_display": "€ 1,00",
+          "title": "Gucci-petten",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430170049-gucci-petten"
+        },
+        "m2430178911": {
+          "first_seen_at": "2026-08-12T12:08:12.266393+00:00",
+          "price_display": "€ 75,00",
+          "title": "Vintage klassieke / Spaanse gitaar FARNOT – oud model",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430178911-vintage-klassieke-spaanse-gitaar-farnot-oud-model"
         }
       }
     },
@@ -10543,6 +10561,18 @@
           "price_display": "€ 67,25",
           "title": "Britannia 1 oz 999 zilver 2026",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430143204-britannia-1-oz-999-zilver-2026"
+        },
+        "m2430173256": {
+          "first_seen_at": "2026-08-12T12:07:48.593049+00:00",
+          "price_display": "€ 3,00",
+          "title": "herdenkingsmunt Michael Jackson",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430173256-herdenkingsmunt-michael-jackson"
+        },
+        "m2430181164": {
+          "first_seen_at": "2026-08-12T12:07:48.593049+00:00",
+          "price_display": "€ 20,00",
+          "title": "Eclipse / zonsverduistering brillen",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430181164-eclipse-zonsverduistering-brillen"
         }
       }
     },
@@ -33911,6 +33941,24 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "6 yoga/sportmatten te koop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430164983-6-yoga-sportmatten-te-koop"
+        },
+        "m2430172009": {
+          "first_seen_at": "2026-08-12T12:07:15.351683+00:00",
+          "price_display": "€ 200,00",
+          "title": "Decathlon Compact Gym 900 – Zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430172009-decathlon-compact-gym-900-zeer-goede-staat"
+        },
+        "m2430173293": {
+          "first_seen_at": "2026-08-12T12:07:15.351683+00:00",
+          "price_display": "€ 39,00",
+          "title": "Pull up bar voor jouw outdoor gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430173293-pull-up-bar-voor-jouw-outdoor-gym"
+        },
+        "m2430186283": {
+          "first_seen_at": "2026-08-12T12:07:15.351683+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "roeiapparaat christopeit cambridge",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430186283-roeiapparaat-christopeit-cambridge"
         }
       }
     },
@@ -36772,6 +36820,12 @@
           "price_display": "€ 90,00",
           "title": "Bullpadel Ionic Power 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430142501-bullpadel-ionic-power-2026"
+        },
+        "m2430179840": {
+          "first_seen_at": "2026-08-12T12:07:28.324545+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Babolat Technical viper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430179840-babolat-technical-viper"
         }
       }
     },
@@ -41998,7 +42052,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T11:23:41.159332+00:00",
+    "last_checked_at": "2026-08-12T12:08:16.374508+00:00",
     "outage_alert_sent": false
   }
 }
