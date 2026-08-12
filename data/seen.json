@@ -8030,6 +8030,12 @@
           "title": "1 Troy Ounce - Zilver .999 - The Outback 2026 - 31,1 gram -",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165419650-1-troy-ounce-zilver-999-the-outback-2026-31-1-gram"
         },
+        "a165439823": {
+          "first_seen_at": "2026-08-12T03:12:54.266364+00:00",
+          "price_display": "€ 1,00",
+          "title": "Verenigd Koninkrijk. 2011 British Gold Half Sovereign",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165439823-verenigd-koninkrijk-2011-british-gold-half-sovereign"
+        },
         "a165439824": {
           "first_seen_at": "2026-08-11T13:37:19.389359+00:00",
           "price_display": "€ 1,00",
@@ -10381,6 +10387,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Gouden munt 2,5 Pesos 1945 Mexico",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430044928-gouden-munt-2-5-pesos-1945-mexico"
+        },
+        "m2430052448": {
+          "first_seen_at": "2026-08-12T03:12:54.266364+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "2 euro Asterix, Obelix en Idefix coincard 2019 - Frankrijk",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430052448-2-euro-asterix-obelix-en-idefix-coincard-2019-frankrijk"
         }
       }
     },
@@ -33527,6 +33539,12 @@
           "price_display": "Gratis",
           "title": "Krachtstation / machine de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430039968-krachtstation-machine-de-musculation"
+        },
+        "m2430049457": {
+          "first_seen_at": "2026-08-12T03:12:27.186870+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "2 halters van 10 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430049457-2-halters-van-10-kg"
         }
       }
     },
@@ -41560,7 +41578,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T00:44:23.095441+00:00",
+    "last_checked_at": "2026-08-12T03:13:13.553094+00:00",
     "outage_alert_sent": false
   }
 }
