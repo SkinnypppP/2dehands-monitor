@@ -7514,6 +7514,12 @@
           "price_display": "€ 2.950,00",
           "title": "Handgemaakte contrabas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430320445-handgemaakte-contrabas"
+        },
+        "m2430335824": {
+          "first_seen_at": "2026-08-12T19:44:33.329635+00:00",
+          "price_display": "€ 2.800,00",
+          "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430335824-gibson-hummingbird-standard-gibson-strap-thalia-capo"
         }
       }
     },
@@ -16199,6 +16205,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Halterrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2316112266-halterrek"
+        },
+        "m2352831308": {
+          "first_seen_at": "2026-08-12T19:43:42.551508+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Trilplaat: Fitness, versteviging, verbetering bloedsomloop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2352831308-trilplaat-fitness-versteviging-verbetering-bloedsomloop"
         },
         "m2383343565": {
           "first_seen_at": "2026-07-22T11:31:25.970949+00:00",
@@ -34379,6 +34391,18 @@
           "price_display": "€ 40,00",
           "title": "Verzwaarde vest en gewogen polsbandjes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430315165-verzwaarde-vest-en-gewogen-polsbandjes"
+        },
+        "m2430333185": {
+          "first_seen_at": "2026-08-12T19:43:42.551508+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gorilla Sports Dumbbells - 4x 2.5KG, 2x 1.25KG met stangen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430333185-gorilla-sports-dumbbells-4x-2-5kg-2x-1-25kg-met-stangen"
+        },
+        "m2430337315": {
+          "first_seen_at": "2026-08-12T19:43:42.551508+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Domyos TC450 Loopband (Decathlon) – In zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430337315-domyos-tc450-loopband-decathlon-in-zeer-goede-staat"
         }
       }
     },
@@ -42567,6 +42591,18 @@
           "price_display": "Bieden vanaf € 2.500,00",
           "title": "Piano Kimball",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430304763-piano-kimball"
+        },
+        "m2430327762": {
+          "first_seen_at": "2026-08-12T19:44:21.210932+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano met bank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430327762-piano-met-bank"
+        },
+        "m2430339873": {
+          "first_seen_at": "2026-08-12T19:44:21.210932+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano Rossler",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430339873-piano-rossler"
         }
       }
     }
@@ -42574,7 +42610,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T18:33:56.854190+00:00",
+    "last_checked_at": "2026-08-12T19:44:34.581913+00:00",
     "outage_alert_sent": false
   }
 }
