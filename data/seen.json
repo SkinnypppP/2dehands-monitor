@@ -7520,6 +7520,12 @@
           "price_display": "€ 2.800,00",
           "title": "Gibson Hummingbird standard + Gibson strap + Thalia capo",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430335824-gibson-hummingbird-standard-gibson-strap-thalia-capo"
+        },
+        "m2430351469": {
+          "first_seen_at": "2026-08-12T21:12:28.414446+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Guitare classique Artesano Estudiante XA + accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430351469-guitare-classique-artesano-estudiante-xa-accessoires"
         }
       }
     },
@@ -10723,6 +10729,12 @@
           "price_display": "€ 130,00",
           "title": "Prachtige Zilveren Muntbaar Cook Islands 50g (.9999 Fijn Zil",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430348356-prachtige-zilveren-muntbaar-cook-islands-50g-9999-fijn-zil"
+        },
+        "m2430348868": {
+          "first_seen_at": "2026-08-12T21:12:10.928027+00:00",
+          "price_display": "€ 250,00",
+          "title": "Prachtige Zilveren Muntbaar Cook Islands 100g (.9999 Fijn Zi",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430348868-prachtige-zilveren-muntbaar-cook-islands-100g-9999-fijn-zi"
         }
       }
     },
@@ -15888,6 +15900,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430321228-velo-appartement"
+        },
+        "m2430349109": {
+          "first_seen_at": "2026-08-12T21:11:59.673124+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "draagbare loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430349109-draagbare-loopband"
         }
       }
     },
@@ -42658,7 +42676,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T20:25:33.955693+00:00",
+    "last_checked_at": "2026-08-12T21:12:29.271534+00:00",
     "outage_alert_sent": false
   }
 }
