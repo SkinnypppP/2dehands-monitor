@@ -465,6 +465,12 @@
           "title": "Höfner - - Akoestische gitaar - Duitsland - 1955 (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165261896-hofner-akoestische-gitaar-duitsland-1955-zonder"
         },
+        "a165261904": {
+          "first_seen_at": "2026-08-12T05:06:28.510607+00:00",
+          "price_display": "€ 215,00",
+          "title": "Klira - - Elektrische gitaar - Duitsland - 1970",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165261904-klira-elektrische-gitaar-duitsland-1970"
+        },
         "a165261907": {
           "first_seen_at": "2026-08-08T05:23:33.026061+00:00",
           "price_display": "€ 435,00",
@@ -7310,6 +7316,12 @@
           "price_display": "€ 7.500,00",
           "title": "T.Saric Esdoorn/Wenge Klassieke Concert Gitaar Handgemaakt",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430019079-t-saric-esdoorn-wenge-klassieke-concert-gitaar-handgemaakt"
+        },
+        "m2430056055": {
+          "first_seen_at": "2026-08-12T05:06:28.510607+00:00",
+          "price_display": "€ 275,00",
+          "title": "Yamaha APX500 elektro-akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430056055-yamaha-apx500-elektro-akoestische-gitaar"
         }
       }
     },
@@ -33545,6 +33557,18 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "2 halters van 10 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430049457-2-halters-van-10-kg"
+        },
+        "m2430054919": {
+          "first_seen_at": "2026-08-12T05:05:48.717498+00:00",
+          "price_display": "€ 100,00",
+          "title": "Instelbare optrekbar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430054919-instelbare-optrekbar"
+        },
+        "m2430056599": {
+          "first_seen_at": "2026-08-12T05:05:48.717498+00:00",
+          "price_display": "€ 40,00",
+          "title": "domyos curl bar en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430056599-domyos-curl-bar-en-gewichten"
         }
       }
     },
@@ -41578,7 +41602,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T03:13:13.553094+00:00",
+    "last_checked_at": "2026-08-12T05:06:30.104082+00:00",
     "outage_alert_sent": false
   }
 }
