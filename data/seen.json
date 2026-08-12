@@ -10717,6 +10717,12 @@
           "price_display": "€ 650,00",
           "title": "Noah's arc 10 oz zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430315646-noah-s-arc-10-oz-zilver"
+        },
+        "m2430348356": {
+          "first_seen_at": "2026-08-12T20:25:19.156627+00:00",
+          "price_display": "€ 130,00",
+          "title": "Prachtige Zilveren Muntbaar Cook Islands 50g (.9999 Fijn Zil",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430348356-prachtige-zilveren-muntbaar-cook-islands-50g-9999-fijn-zil"
         }
       }
     },
@@ -34403,6 +34409,36 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Domyos TC450 Loopband (Decathlon) – In zeer goede staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430337315-domyos-tc450-loopband-decathlon-in-zeer-goede-staat"
+        },
+        "m2430341338": {
+          "first_seen_at": "2026-08-12T20:24:45.030382+00:00",
+          "price_display": "€ 350,00",
+          "title": "Fitnessbank + gewichten (93kg) NIEUW",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430341338-fitnessbank-gewichten-93kg-nieuw"
+        },
+        "m2430342623": {
+          "first_seen_at": "2026-08-12T20:24:45.030382+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Buikspier toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430342623-buikspier-toestel"
+        },
+        "m2430343755": {
+          "first_seen_at": "2026-08-12T20:24:45.030382+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "DOMYOS Power tower Training Station 900 (Decathlon)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430343755-domyos-power-tower-training-station-900-decathlon"
+        },
+        "m2430347243": {
+          "first_seen_at": "2026-08-12T20:24:45.030382+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Body-Solid Bi-Angular Gym G10B",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430347243-body-solid-bi-angular-gym-g10b"
+        },
+        "m2430348152": {
+          "first_seen_at": "2026-08-12T20:24:45.030382+00:00",
+          "price_display": "€ 300,00",
+          "title": "2 massief houten leibomen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430348152-2-massief-houten-leibomen"
         }
       }
     },
@@ -37336,6 +37372,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Bullpadel Hack 04",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430315581-bullpadel-hack-04"
+        },
+        "m2430345419": {
+          "first_seen_at": "2026-08-12T20:24:58.864196+00:00",
+          "price_display": "€ 75,00",
+          "title": "Varlion padel racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430345419-varlion-padel-racket"
+        },
+        "m2430346237": {
+          "first_seen_at": "2026-08-12T20:24:58.864196+00:00",
+          "price_display": "€ 100,00",
+          "title": "Addidas metalbone hrd+ racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430346237-addidas-metalbone-hrd-racket"
         }
       }
     },
@@ -42610,7 +42658,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T19:44:34.581913+00:00",
+    "last_checked_at": "2026-08-12T20:25:33.955693+00:00",
     "outage_alert_sent": false
   }
 }
