@@ -10735,6 +10735,12 @@
           "price_display": "€ 250,00",
           "title": "Prachtige Zilveren Muntbaar Cook Islands 100g (.9999 Fijn Zi",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430348868-prachtige-zilveren-muntbaar-cook-islands-100g-9999-fijn-zi"
+        },
+        "m2430367360": {
+          "first_seen_at": "2026-08-12T23:36:07.976351+00:00",
+          "price_display": "Bieden vanaf € 710,00",
+          "title": "20 Francs OR Genie 1895A (Frankrijk)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430367360-20-francs-or-genie-1895a-frankrijk"
         }
       }
     },
@@ -42682,7 +42688,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T22:05:42.080841+00:00",
+    "last_checked_at": "2026-08-12T23:36:28.403535+00:00",
     "outage_alert_sent": false
   }
 }
