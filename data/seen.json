@@ -7724,6 +7724,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "YAMAHA gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430635206-yamaha-gitaar"
+        },
+        "m2430657501": {
+          "first_seen_at": "2026-08-13T20:19:18.318978+00:00",
+          "price_display": "€ 3.500,00",
+          "title": "Huss&Dalton D-RH",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430657501-huss-dalton-d-rh"
         }
       }
     },
@@ -11047,6 +11053,12 @@
           "price_display": "Bieden vanaf € 549,50",
           "title": "Muntbaar  250 gram .999 zilver st Helena 2021",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430634720-muntbaar-250-gram-999-zilver-st-helena-2021"
+        },
+        "m2430654892": {
+          "first_seen_at": "2026-08-13T20:19:02.829414+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Pokemon kaarten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430654892-pokemon-kaarten"
         }
       }
     },
@@ -43611,6 +43623,12 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Kaiwa piano CA63 R",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430605939-kaiwa-piano-ca63-r"
+        },
+        "m2430656631": {
+          "first_seen_at": "2026-08-13T20:19:10.359594+00:00",
+          "price_display": "€ 650,00",
+          "title": "Digitale piano Roland FP-30X wit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430656631-digitale-piano-roland-fp-30x-wit"
         }
       }
     }
@@ -43618,7 +43636,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T19:40:18.215954+00:00",
+    "last_checked_at": "2026-08-13T20:19:19.257496+00:00",
     "outage_alert_sent": false
   }
 }
