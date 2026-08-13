@@ -7544,6 +7544,30 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Yamaha APX 700II",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430367841-yamaha-apx-700ii"
+        },
+        "m2430389981": {
+          "first_seen_at": "2026-08-13T06:44:04.504976+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Saz - Bağlama Pro",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430389981-saz-baglama-pro"
+        },
+        "m2430392957": {
+          "first_seen_at": "2026-08-13T06:44:04.504976+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Epiphone akoestische gitaar AJ 220S/VS",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430392957-epiphone-akoestische-gitaar-aj-220s-vs"
+        },
+        "m2430393087": {
+          "first_seen_at": "2026-08-13T06:44:04.504976+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Juan Salvador 6C Cadet klassieke gitaar + draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430393087-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
+        },
+        "m2430393422": {
+          "first_seen_at": "2026-08-13T06:44:04.504976+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Juan Salvador 6C Cadet klassieke gitaar+ draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430393422-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
         }
       }
     },
@@ -15954,6 +15978,12 @@
           "price_display": "€ 170,00",
           "title": "Spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430378708-spinningfiets"
+        },
+        "m2430392431": {
+          "first_seen_at": "2026-08-13T06:43:37.718968+00:00",
+          "price_display": "Bieden vanaf € 299,00",
+          "title": "FitBike Magnetic Pro – hometrainer/spi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430392431-fitbike-magnetic-pro-hometrainer-spi"
         }
       }
     },
@@ -34529,6 +34559,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "2 stuks",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430377072-2-stuks"
+        },
+        "m2430385762": {
+          "first_seen_at": "2026-08-13T06:43:18.094436+00:00",
+          "price_display": "€ 150,00",
+          "title": "bumperplates met barbell halterstang gewichten schijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430385762-bumperplates-met-barbell-halterstang-gewichten-schijven"
+        },
+        "m2430387553": {
+          "first_seen_at": "2026-08-13T06:43:18.094436+00:00",
+          "price_display": "€ 39,00",
+          "title": "Calisthenics pull up bar voor buiten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430387553-calisthenics-pull-up-bar-voor-buiten"
+        },
+        "m2430392905": {
+          "first_seen_at": "2026-08-13T06:43:18.094436+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness bank en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430392905-fitness-bank-en-gewichten"
         }
       }
     },
@@ -37474,6 +37522,12 @@
           "price_display": "€ 100,00",
           "title": "Addidas metalbone hrd+ racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430346237-addidas-metalbone-hrd-racket"
+        },
+        "m2430381625": {
+          "first_seen_at": "2026-08-13T06:43:29.916442+00:00",
+          "price_display": "Bieden vanaf € 155,00",
+          "title": "bullpadel vertex 05 hybrid",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430381625-bullpadel-vertex-05-hybrid"
         }
       }
     },
@@ -42747,6 +42801,12 @@
           "price_display": "Gratis",
           "title": "gratis piano 1885",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430374894-gratis-piano-1885"
+        },
+        "m2430393632": {
+          "first_seen_at": "2026-08-13T06:43:55.314611+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "buffet piano GRATIS",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430393632-buffet-piano-gratis"
         }
       }
     }
@@ -42754,7 +42814,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T05:10:39.333691+00:00",
+    "last_checked_at": "2026-08-13T06:44:09.149667+00:00",
     "outage_alert_sent": false
   }
 }
