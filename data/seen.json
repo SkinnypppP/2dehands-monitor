@@ -7718,6 +7718,12 @@
           "price_display": "€ 170,00",
           "title": "Akoestische gitaar Guitarras Almansa",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430614123-akoestische-gitaar-guitarras-almansa"
+        },
+        "m2430635206": {
+          "first_seen_at": "2026-08-13T18:34:43.674157+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "YAMAHA gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430635206-yamaha-gitaar"
         }
       }
     },
@@ -11035,6 +11041,12 @@
           "price_display": "€ 650,00",
           "title": "10 x 1 oz Philharmoniker zilveren munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430601405-10-x-1-oz-philharmoniker-zilveren-munt"
+        },
+        "m2430634720": {
+          "first_seen_at": "2026-08-13T18:34:25.070977+00:00",
+          "price_display": "Bieden vanaf € 549,50",
+          "title": "Muntbaar  250 gram .999 zilver st Helena 2021",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430634720-muntbaar-250-gram-999-zilver-st-helena-2021"
         }
       }
     },
@@ -35147,6 +35159,54 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Dumbbells Set 34kg t/m 40kg + Opbergrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430618811-dumbbells-set-34kg-t-m-40kg-opbergrek"
+        },
+        "m2430620420": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Spinning fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430620420-spinning-fiets"
+        },
+        "m2430620930": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "€ 24,00",
+          "title": "stretch board",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430620930-stretch-board"
+        },
+        "m2430621887": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "€ 9,00",
+          "title": "fitness DOMYOS arm- en schouderspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430621887-fitness-domyos-arm-en-schouderspieren"
+        },
+        "m2430621901": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Buikspiertrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430621901-buikspiertrainer"
+        },
+        "m2430627193": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "Bieden vanaf € 1.100,00",
+          "title": "Professionele Lexco LS-201 Smith Machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430627193-professionele-lexco-ls-201-smith-machine"
+        },
+        "m2430627452": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Automatische cocktail shaker",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430627452-automatische-cocktail-shaker"
+        },
+        "m2430629157": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "€ 15,00",
+          "title": "Kettlebells / gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430629157-kettlebells-gewichten"
+        },
+        "m2430634512": {
+          "first_seen_at": "2026-08-13T18:33:47.352896+00:00",
+          "price_display": "Bieden vanaf € 155,00",
+          "title": "Squat rack gorilla sports",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430634512-squat-rack-gorilla-sports"
         }
       }
     },
@@ -43480,7 +43540,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T17:38:48.431191+00:00",
+    "last_checked_at": "2026-08-13T18:34:44.254083+00:00",
     "outage_alert_sent": false
   }
 }
