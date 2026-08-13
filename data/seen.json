@@ -7526,6 +7526,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Guitare classique Artesano Estudiante XA + accessoires",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430351469-guitare-classique-artesano-estudiante-xa-accessoires"
+        },
+        "m2430367841": {
+          "first_seen_at": "2026-08-13T00:42:32.052965+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Yamaha APX 700II",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430367841-yamaha-apx-700ii"
         }
       }
     },
@@ -42688,7 +42694,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-12T23:36:28.403535+00:00",
+    "last_checked_at": "2026-08-13T00:42:33.086822+00:00",
     "outage_alert_sent": false
   }
 }
