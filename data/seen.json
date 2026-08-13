@@ -35279,6 +35279,12 @@
           "price_display": "€ 30,00",
           "title": "9x 60x60cm fitness vloermat, puzzelmat, geluidsdempend, foam",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430649361-9x-60x60cm-fitness-vloermat-puzzelmat-geluidsdempend-foam"
+        },
+        "m2430666812": {
+          "first_seen_at": "2026-08-13T21:07:27.791187+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gezocht: smithmachine, gewichten, bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430666812-gezocht-smithmachine-gewichten-bankje"
         }
       }
     },
@@ -43636,7 +43642,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T20:19:19.257496+00:00",
+    "last_checked_at": "2026-08-13T21:08:17.770499+00:00",
     "outage_alert_sent": false
   }
 }
