@@ -7706,6 +7706,18 @@
           "price_display": "Zie omschrijving",
           "title": "3/4de klassieke gitaar Angel Lopez handmade solid top",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430575301-3-4de-klassieke-gitaar-angel-lopez-handmade-solid-top"
+        },
+        "m2430607155": {
+          "first_seen_at": "2026-08-13T17:38:46.884901+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Gitaar kind",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430607155-gitaar-kind"
+        },
+        "m2430614123": {
+          "first_seen_at": "2026-08-13T17:38:46.884901+00:00",
+          "price_display": "€ 170,00",
+          "title": "Akoestische gitaar Guitarras Almansa",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430614123-akoestische-gitaar-guitarras-almansa"
         }
       }
     },
@@ -35099,6 +35111,42 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Dumbell 5 kg Gorilla Sports (NIEUW!)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430595355-dumbell-5-kg-gorilla-sports-nieuw"
+        },
+        "m2430608110": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430608110-fitness-toestel"
+        },
+        "m2430611544": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "€ 2.999,00",
+          "title": "Technogym Skillmill Console / Connect Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430611544-technogym-skillmill-console-connect-loopband"
+        },
+        "m2430611801": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "€ 500,00",
+          "title": "fitnessapparatuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430611801-fitnessapparatuur"
+        },
+        "m2430612671": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "€ 150,00",
+          "title": "roeimachine domyos 120",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430612671-roeimachine-domyos-120"
+        },
+        "m2430615823": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "€ 111.111,00",
+          "title": "Fitness en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430615823-fitness-en-gewichten"
+        },
+        "m2430618811": {
+          "first_seen_at": "2026-08-13T17:37:55.712692+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Dumbbells Set 34kg t/m 40kg + Opbergrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430618811-dumbbells-set-34kg-t-m-40kg-opbergrek"
         }
       }
     },
@@ -43419,6 +43467,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano droit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430573434-piano-droit"
+        },
+        "m2430605939": {
+          "first_seen_at": "2026-08-13T17:38:38.004174+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Kaiwa piano CA63 R",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430605939-kaiwa-piano-ca63-r"
         }
       }
     }
@@ -43426,7 +43480,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T16:38:28.152452+00:00",
+    "last_checked_at": "2026-08-13T17:38:48.431191+00:00",
     "outage_alert_sent": false
   }
 }
