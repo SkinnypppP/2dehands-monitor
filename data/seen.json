@@ -7586,6 +7586,18 @@
           "price_display": "Bieden vanaf € 850,00",
           "title": "Taylor 217e Plus SB",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430415997-taylor-217e-plus-sb"
+        },
+        "m2430433227": {
+          "first_seen_at": "2026-08-13T09:22:24.519428+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Akoestische en semi-akoestische gitaren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430433227-akoestische-en-semi-akoestische-gitaren"
+        },
+        "m2430442224": {
+          "first_seen_at": "2026-08-13T09:22:24.519428+00:00",
+          "price_display": "€ 280,00",
+          "title": "Angel Lopez EC3000 Maho N\nNieuw.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430442224-angel-lopez-ec3000-maho-n-nieuw"
         }
       }
     },
@@ -10813,6 +10825,12 @@
           "price_display": "€ 160,00",
           "title": "Lot once argent",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430397160-lot-once-argent"
+        },
+        "m2430421647": {
+          "first_seen_at": "2026-08-13T09:22:09.087344+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zilveren 500 gram gegoten muntbaar Fiji 2018",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430421647-zilveren-500-gram-gegoten-muntbaar-fiji-2018"
         }
       }
     },
@@ -16026,6 +16044,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "2 Kettlebell 36kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430410493-2-kettlebell-36kg"
+        },
+        "m2430421705": {
+          "first_seen_at": "2026-08-13T09:21:56.838452+00:00",
+          "price_display": "Bieden vanaf € 290,00",
+          "title": "Moovv Smartstep Pro v3 incline loopband in perfecte staat!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430421705-moovv-smartstep-pro-v3-incline-loopband-in-perfecte-staat"
+        },
+        "m2430424085": {
+          "first_seen_at": "2026-08-13T09:21:56.838452+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Tenturi loopband competance T10",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430424085-tenturi-loopband-competance-t10"
         }
       }
     },
@@ -34619,6 +34649,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "fitness bank en gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430392905-fitness-bank-en-gewichten"
+        },
+        "m2430424120": {
+          "first_seen_at": "2026-08-13T09:21:38.496855+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "rameur utilise",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430424120-rameur-utilise"
         }
       }
     },
@@ -37570,6 +37606,12 @@
           "price_display": "Bieden vanaf € 155,00",
           "title": "bullpadel vertex 05 hybrid",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430381625-bullpadel-vertex-05-hybrid"
+        },
+        "m2430425705": {
+          "first_seen_at": "2026-08-13T09:21:49.121609+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "raquette padel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430425705-raquette-padel"
         }
       }
     },
@@ -42867,6 +42909,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "vintage piano - Bontempi -- kleine piano - jaren 80",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430412795-vintage-piano-bontempi-kleine-piano-jaren-80"
+        },
+        "m2430437249": {
+          "first_seen_at": "2026-08-13T09:22:17.028747+00:00",
+          "price_display": "€ 395,00",
+          "title": "Keyboard 7 octaven zoals vleugelpiano\nVolwaardig 1:1 pianist",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430437249-keyboard-7-octaven-zoals-vleugelpiano-volwaardig-1-1-pianist"
         }
       }
     }
@@ -42874,7 +42922,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T08:07:20.349418+00:00",
+    "last_checked_at": "2026-08-13T09:22:26.519807+00:00",
     "outage_alert_sent": false
   }
 }
