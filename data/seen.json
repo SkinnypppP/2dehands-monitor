@@ -35309,6 +35309,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gezocht: smithmachine, gewichten, bankje",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430666812-gezocht-smithmachine-gewichten-bankje"
+        },
+        "m2430674584": {
+          "first_seen_at": "2026-08-13T22:44:41.667537+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "FINNLO MULTI LAT-TAWER a vendre en très bon état",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430674584-finnlo-multi-lat-tawer-a-vendre-en-tres-bon-etat"
+        },
+        "m2430675957": {
+          "first_seen_at": "2026-08-13T22:44:41.667537+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness bank met gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430675957-fitness-bank-met-gewichten"
         }
       }
     },
@@ -43678,7 +43690,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T21:59:16.176485+00:00",
+    "last_checked_at": "2026-08-13T22:45:27.387038+00:00",
     "outage_alert_sent": false
   }
 }
