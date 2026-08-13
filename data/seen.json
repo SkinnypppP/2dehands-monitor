@@ -7628,6 +7628,18 @@
           "price_display": "€ 550,00",
           "title": "Blueridge BR-43 B akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430461707-blueridge-br-43-b-akoestische-gitaar"
+        },
+        "m2430476178": {
+          "first_seen_at": "2026-08-13T11:25:24.266012+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Kleine klassieke gitaar van Yamaha, die visueel past",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430476178-kleine-klassieke-gitaar-van-yamaha-die-visueel-past"
+        },
+        "m2430479402": {
+          "first_seen_at": "2026-08-13T11:25:24.266012+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Akoestische gitaar van richwood.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430479402-akoestische-gitaar-van-richwood"
         }
       }
     },
@@ -34703,6 +34715,42 @@
           "price_display": "€ 80,00",
           "title": "Curlbar & halterstang + 4x5kg schijven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430463727-curlbar-halterstang-4x5kg-schijven"
+        },
+        "m2430470094": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430470094-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2430473112": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Fitness banken",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430473112-fitness-banken"
+        },
+        "m2430481076": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Pull ups bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430481076-pull-ups-bar"
+        },
+        "m2430484514": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "MyProtein Essential Whey Protein | 6x 1kg (nieuw, ongeopend)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430484514-myprotein-essential-whey-protein-6x-1kg-nieuw-ongeopend"
+        },
+        "m2430484843": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "kettlerbank samen schijvenstandaard en set halters 24kgs",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430484843-kettlerbank-samen-schijvenstandaard-en-set-halters-24kgs"
+        },
+        "m2430486034": {
+          "first_seen_at": "2026-08-13T11:24:33.002954+00:00",
+          "price_display": "€ 20,00",
+          "title": "Grande planche Step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430486034-grande-planche-step"
         }
       }
     },
@@ -42994,7 +43042,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T10:35:25.970350+00:00",
+    "last_checked_at": "2026-08-13T11:25:25.557917+00:00",
     "outage_alert_sent": false
   }
 }
