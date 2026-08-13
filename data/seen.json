@@ -7730,6 +7730,18 @@
           "price_display": "€ 3.500,00",
           "title": "Huss&Dalton D-RH",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430657501-huss-dalton-d-rh"
+        },
+        "m2430669574": {
+          "first_seen_at": "2026-08-13T21:59:14.653808+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Klassieke gitaar Cort",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430669574-klassieke-gitaar-cort"
+        },
+        "m2430673248": {
+          "first_seen_at": "2026-08-13T21:59:14.653808+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Epiphone Everly Brothers 1990",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430673248-epiphone-everly-brothers-1990"
         }
       }
     },
@@ -13321,6 +13333,12 @@
           "title": "Crosstrainer Life Fitness X1",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423022417-crosstrainer-life-fitness-x1"
         },
+        "m2423041330": {
+          "first_seen_at": "2026-08-13T21:58:45.536827+00:00",
+          "price_display": "€ 100,00",
+          "title": "Domyos e-shape+ 09 crosstrainer – Bluetooth / 9 programma’s",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2423041330-domyos-e-shape-09-crosstrainer-bluetooth-9-programma-s"
+        },
         "m2423060835": {
           "first_seen_at": "2026-07-23T09:39:13.812615+00:00",
           "price_display": "Bieden vanaf € 425,00",
@@ -16314,6 +16332,12 @@
           "price_display": "Zie omschrijving",
           "title": "Yesoul spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430587455-yesoul-spinningfiets"
+        },
+        "m2430673006": {
+          "first_seen_at": "2026-08-13T21:58:45.536827+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Cross training",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430673006-cross-training"
         }
       }
     },
@@ -43635,6 +43659,18 @@
           "price_display": "€ 650,00",
           "title": "Digitale piano Roland FP-30X wit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430656631-digitale-piano-roland-fp-30x-wit"
+        },
+        "m2430669704": {
+          "first_seen_at": "2026-08-13T21:59:02.990186+00:00",
+          "price_display": "€ 800,00",
+          "title": "Functionele rechtopstaande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430669704-functionele-rechtopstaande-piano"
+        },
+        "m2430669826": {
+          "first_seen_at": "2026-08-13T21:59:02.990186+00:00",
+          "price_display": "€ 800,00",
+          "title": "Functionele rechtopstaande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430669826-functionele-rechtopstaande-piano"
         }
       }
     }
@@ -43642,7 +43678,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T21:08:17.770499+00:00",
+    "last_checked_at": "2026-08-13T21:59:16.176485+00:00",
     "outage_alert_sent": false
   }
 }
