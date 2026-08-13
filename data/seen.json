@@ -11017,6 +11017,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "The Glendronach Grandeur",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430579663-the-glendronach-grandeur"
+        },
+        "m2430601405": {
+          "first_seen_at": "2026-08-13T16:38:06.600982+00:00",
+          "price_display": "€ 650,00",
+          "title": "10 x 1 oz Philharmoniker zilveren munt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430601405-10-x-1-oz-philharmoniker-zilveren-munt"
         }
       }
     },
@@ -16266,6 +16272,12 @@
           "price_display": "€ 590,00",
           "title": "Powerrack | Barbell | Dumbells met gewichten en vloermatten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430560832-powerrack-barbell-dumbells-met-gewichten-en-vloermatten"
+        },
+        "m2430587455": {
+          "first_seen_at": "2026-08-13T16:37:55.236745+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Yesoul spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430587455-yesoul-spinningfiets"
         }
       }
     },
@@ -16698,11 +16710,23 @@
           "title": "Rogue S-2 Squat Stand (Crossfit) Manage",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2404488766-rogue-s-2-squat-stand-crossfit-manage"
         },
+        "m2404493111": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Cible Wall Ball Tout Assemblée (Rogue - Crossfit) à Manage",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2404493111-cible-wall-ball-tout-assemblee-rogue-crossfit-a-manage"
+        },
         "m2404495922": {
           "first_seen_at": "2026-07-29T16:02:02.093580+00:00",
           "price_display": "Bieden vanaf € 270,00",
           "title": "Glute Ham Dev.V2 Machine (bilspieren, hamstrings) Manage",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2404495922-glute-ham-dev-v2-machine-bilspieren-hamstrings-manage"
+        },
+        "m2404503333": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Rogue Farmers Walk (Crossfit) à Manage (ville)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2404503333-rogue-farmers-walk-crossfit-a-manage-ville"
         },
         "m2404560318": {
           "first_seen_at": "2026-07-13T18:11:00.623814+00:00",
@@ -35051,6 +35075,30 @@
           "price_display": "€ 40,00",
           "title": "Verstelbare dumbbells – 2 x 15 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430585658-verstelbare-dumbbells-2-x-15-kg"
+        },
+        "m2430587344": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Complete krachttrainingsset - 127,5 kg gewicht + 3 bars",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430587344-complete-krachttrainingsset-127-5-kg-gewicht-3-bars"
+        },
+        "m2430587560": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "€ 350,00",
+          "title": "bellicon trampoline 112 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430587560-bellicon-trampoline-112-cm"
+        },
+        "m2430591038": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank zeer solide nieuw Prijs 40€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430591038-schitterende-fitnessbank-zeer-solide-nieuw-prijs-40"
+        },
+        "m2430595355": {
+          "first_seen_at": "2026-08-13T16:37:33.149274+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Dumbell 5 kg Gorilla Sports (NIEUW!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430595355-dumbell-5-kg-gorilla-sports-nieuw"
         }
       }
     },
@@ -43378,7 +43426,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T15:42:17.395617+00:00",
+    "last_checked_at": "2026-08-13T16:38:28.152452+00:00",
     "outage_alert_sent": false
   }
 }
