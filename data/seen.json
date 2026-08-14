@@ -36617,6 +36617,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Dumbbells – 2x 2,5 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430993843-dumbbells-2x-2-5-kg"
+        },
+        "m2430997082": {
+          "first_seen_at": "2026-08-14T21:35:39.322356+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Panatta shoulder press oldschool met easy start",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430997082-panatta-shoulder-press-oldschool-met-easy-start"
+        },
+        "m2430997432": {
+          "first_seen_at": "2026-08-14T21:35:39.322356+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Vps staande kuitenmachine 100kg stack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430997432-vps-staande-kuitenmachine-100kg-stack"
         }
       }
     },
@@ -45202,7 +45214,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T21:02:25.373862+00:00",
+    "last_checked_at": "2026-08-14T21:36:22.514584+00:00",
     "outage_alert_sent": false
   }
 }
