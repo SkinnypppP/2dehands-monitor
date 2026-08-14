@@ -7976,6 +7976,12 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Paramount Tricone Resonatorgitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430989382-paramount-tricone-resonatorgitaar"
+        },
+        "m2431008823": {
+          "first_seen_at": "2026-08-14T22:43:56.662850+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Tanglewood TW-40",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431008823-tanglewood-tw-40"
         }
       }
     },
@@ -45214,7 +45220,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T21:36:22.514584+00:00",
+    "last_checked_at": "2026-08-14T22:43:58.303671+00:00",
     "outage_alert_sent": false
   }
 }
