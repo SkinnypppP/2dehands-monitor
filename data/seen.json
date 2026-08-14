@@ -7796,6 +7796,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Cuenca 10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430747670-cuenca-10"
+        },
+        "m2430755887": {
+          "first_seen_at": "2026-08-14T09:46:51.298032+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Guitare Flamenca a vendre",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430755887-guitare-flamenca-a-vendre"
         }
       }
     },
@@ -16446,6 +16452,18 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Tapis de marche achzt fevrier 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430739585-tapis-de-marche-achzt-fevrier-2026"
+        },
+        "m2430750734": {
+          "first_seen_at": "2026-08-14T09:46:14.148512+00:00",
+          "price_display": "€ 75,00",
+          "title": "Hometrainer luxari",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430750734-hometrainer-luxari"
+        },
+        "m2430754878": {
+          "first_seen_at": "2026-08-14T09:46:14.148512+00:00",
+          "price_display": "Bieden vanaf € 1.100,00",
+          "title": "COMPEX SP 8.0 WOD / Spier versterker/ revalidatie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430754878-compex-sp-8-0-wod-spier-versterker-revalidatie"
         }
       }
     },
@@ -35513,6 +35531,24 @@
           "price_display": "€ 60,00",
           "title": "Poids et barre de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430742265-poids-et-barre-de-musculation"
+        },
+        "m2430751251": {
+          "first_seen_at": "2026-08-14T09:45:47.527472+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Dumbbells Virtufit anti-slip grip Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430751251-dumbbells-virtufit-anti-slip-grip-nieuw"
+        },
+        "m2430762153": {
+          "first_seen_at": "2026-08-14T09:45:47.527472+00:00",
+          "price_display": "€ 40,00",
+          "title": "Mini trampoline de fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430762153-mini-trampoline-de-fitness"
+        },
+        "m2430764295": {
+          "first_seen_at": "2026-08-14T09:45:47.527472+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430764295-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
         }
       }
     },
@@ -43917,6 +43953,36 @@
           "price_display": "Bieden vanaf € 475,00",
           "title": "Piano Roland Fp 30x zwart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430715782-piano-roland-fp-30x-zwart"
+        },
+        "m2430752929": {
+          "first_seen_at": "2026-08-14T09:46:36.260401+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roland digitale piano HP-4000S",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430752929-roland-digitale-piano-hp-4000s"
+        },
+        "m2430754161": {
+          "first_seen_at": "2026-08-14T09:46:36.260401+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430754161-piano"
+        },
+        "m2430757552": {
+          "first_seen_at": "2026-08-14T09:46:36.260401+00:00",
+          "price_display": "Bieden vanaf € 2.500,00",
+          "title": "Piano droit Yamaha C113 – Noir laqué",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430757552-piano-droit-yamaha-c113-noir-laque"
+        },
+        "m2430768703": {
+          "first_seen_at": "2026-08-14T09:46:36.260401+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "PIANNO ACCORDABLE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430768703-pianno-accordable"
+        },
+        "m2430769786": {
+          "first_seen_at": "2026-08-14T09:46:36.260401+00:00",
+          "price_display": "€ 8.500,00",
+          "title": "Grotrian Steinweg Carat 118",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430769786-grotrian-steinweg-carat-118"
         }
       }
     }
@@ -43924,7 +43990,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T08:48:28.909993+00:00",
+    "last_checked_at": "2026-08-14T09:46:52.862808+00:00",
     "outage_alert_sent": false
   }
 }
