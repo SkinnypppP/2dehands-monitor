@@ -7922,6 +7922,24 @@
           "price_display": "€ 250,00",
           "title": "LÂG Sauvage Auditorium",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430923187-lag-sauvage-auditorium"
+        },
+        "m2430931732": {
+          "first_seen_at": "2026-08-14T17:30:06.003929+00:00",
+          "price_display": "Bieden vanaf € 320,00",
+          "title": "Washburn D-28S/N Perfect afgesteld",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430931732-washburn-d-28s-n-perfect-afgesteld"
+        },
+        "m2430937790": {
+          "first_seen_at": "2026-08-14T17:30:06.003929+00:00",
+          "price_display": "€ 200,00",
+          "title": "Guitare Azahar Etimoe 102 4/4 + housse + repose-pieds + 2 li",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430937790-guitare-azahar-etimoe-102-4-4-housse-repose-pieds-2-li"
+        },
+        "m2430938972": {
+          "first_seen_at": "2026-08-14T17:30:06.003929+00:00",
+          "price_display": "€ 50,00",
+          "title": "Ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430938972-ukelele"
         }
       }
     },
@@ -36353,6 +36371,36 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Trampoline",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430927949-trampoline"
+        },
+        "m2430931522": {
+          "first_seen_at": "2026-08-14T17:29:17.607269+00:00",
+          "price_display": "€ 39,00",
+          "title": "Modulaire outdoor gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430931522-modulaire-outdoor-gym"
+        },
+        "m2430932083": {
+          "first_seen_at": "2026-08-14T17:29:17.607269+00:00",
+          "price_display": "€ 75,00",
+          "title": "halterschijven (4 x 20 kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430932083-halterschijven-4-x-20-kg"
+        },
+        "m2430936647": {
+          "first_seen_at": "2026-08-14T17:29:17.607269+00:00",
+          "price_display": "€ 40,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430936647-gewichten"
+        },
+        "m2430938248": {
+          "first_seen_at": "2026-08-14T17:29:17.607269+00:00",
+          "price_display": "€ 25,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430938248-gewichten"
+        },
+        "m2430942693": {
+          "first_seen_at": "2026-08-14T17:29:17.607269+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Halterstang aerobic&fietnes 30 mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430942693-halterstang-aerobic-fietnes-30-mm"
         }
       }
     },
@@ -39394,6 +39442,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Padel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430920940-padel"
+        },
+        "m2430945017": {
+          "first_seen_at": "2026-08-14T17:29:32.859810+00:00",
+          "price_display": "€ 500,00",
+          "title": "Padeltennisbalwerper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430945017-padeltennisbalwerper"
         }
       }
     },
@@ -44883,6 +44937,12 @@
           "price_display": "€ 250,00",
           "title": "Digitale piano kawai ca 5 met bijpassende pianostoel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430894959-digitale-piano-kawai-ca-5-met-bijpassende-pianostoel"
+        },
+        "m2430934084": {
+          "first_seen_at": "2026-08-14T17:29:55.304227+00:00",
+          "price_display": "Bieden vanaf € 8.000,00",
+          "title": "piano Roland zwart lak",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430934084-piano-roland-zwart-lak"
         }
       }
     }
@@ -44890,7 +44950,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T16:29:22.005603+00:00",
+    "last_checked_at": "2026-08-14T17:30:09.435669+00:00",
     "outage_alert_sent": false
   }
 }
