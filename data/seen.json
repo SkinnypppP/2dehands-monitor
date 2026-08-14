@@ -417,11 +417,23 @@
           "title": "Marshall - Aantal items: 2 - Gitaarversterker - 1971",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165154564-marshall-aantal-items-2-gitaarversterker-1971"
         },
+        "a165154566": {
+          "first_seen_at": "2026-08-14T04:30:42.898493+00:00",
+          "price_display": "€ 1.425,00",
+          "title": "Sail Guitars - Mod. Goletta - - Klassieke gitaar - Italië -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165154566-sail-guitars-mod-goletta-klassieke-gitaar-italie"
+        },
         "a165156361": {
           "first_seen_at": "2026-08-07T03:13:51.960275+00:00",
           "price_display": "€ 160,00",
           "title": "M.G Contreras - - Klassieke gitaar - Spanje - 1970 (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156361-m-g-contreras-klassieke-gitaar-spanje-1970-zonder"
+        },
+        "a165156376": {
+          "first_seen_at": "2026-08-14T04:30:42.898493+00:00",
+          "price_display": "€ 625,00",
+          "title": "J.Castellucia - 4/4 - - Klassieke gitaar - Frankrijk - 1972",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165156376-j-castellucia-4-4-klassieke-gitaar-frankrijk-1972"
         },
         "a165156380": {
           "first_seen_at": "2026-08-07T03:13:51.960275+00:00",
@@ -8515,6 +8527,24 @@
           "price_display": "€ 400,00",
           "title": "1 Troy Ounce - Zilver .999 - 2022 1 oz $2 NZD Niue Silver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165477716-1-troy-ounce-zilver-999-2022-1-oz-2-nzd-niue-silver"
+        },
+        "a165495988": {
+          "first_seen_at": "2026-08-14T04:30:23.542774+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Zilver .999 - Philharmonique 2026 - 31,1 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165495988-1-troy-ounce-zilver-999-philharmonique-2026-31-1-gram"
+        },
+        "a165495990": {
+          "first_seen_at": "2026-08-14T04:30:23.542774+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Zilver .999 - Grogu Baby Yoda - Star Wars",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165495990-1-troy-ounce-zilver-999-grogu-baby-yoda-star-wars"
+        },
+        "a165495992": {
+          "first_seen_at": "2026-08-14T04:30:23.542774+00:00",
+          "price_display": "€ 1,00",
+          "title": "6,45 grams - Goud .900 - 20 Francs Napoleon III",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165495992-6-45-grams-goud-900-20-francs-napoleon-iii"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -38302,6 +38332,12 @@
           "price_display": "€ 50,00",
           "title": "PADL PRETTY: Padelracket vr volwassenen nieuw (voorkeur Vr)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430640858-padl-pretty-padelracket-vr-volwassenen-nieuw-voorkeur-vr"
+        },
+        "m2430688673": {
+          "first_seen_at": "2026-08-14T04:30:05.019643+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Babolat padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2430688673-babolat-padelracket"
         }
       }
     },
@@ -43689,6 +43725,12 @@
           "price_display": "Bieden vanaf € 275,00",
           "title": "Studiologic SL88 Studio Hammer Action MIDI Keyboard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430685824-studiologic-sl88-studio-hammer-action-midi-keyboard"
+        },
+        "m2430691062": {
+          "first_seen_at": "2026-08-14T04:30:32.608901+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Digitale piano Yamaha Clavinova",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430691062-digitale-piano-yamaha-clavinova"
         }
       }
     }
@@ -43696,7 +43738,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T02:41:20.148466+00:00",
+    "last_checked_at": "2026-08-14T04:30:44.251737+00:00",
     "outage_alert_sent": false
   }
 }
