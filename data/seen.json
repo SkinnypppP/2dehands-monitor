@@ -7958,6 +7958,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "gibson les paul custom",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430974058-gibson-les-paul-custom"
+        },
+        "m2430980123": {
+          "first_seen_at": "2026-08-14T20:03:55.101423+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Ibanez SGE Electro-akoestische gitaar met versterker.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430980123-ibanez-sge-electro-akoestische-gitaar-met-versterker"
         }
       }
     },
@@ -36533,6 +36539,42 @@
           "price_display": "€ 300,00",
           "title": "REFURBISHED PH Fitness DZ113 Krachtstation 100KG",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430973750-refurbished-ph-fitness-dz113-krachtstation-100kg"
+        },
+        "m2430975755": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 200,00",
+          "title": "REFURBISHED PH Fitness Krachtstation - Compact Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430975755-refurbished-ph-fitness-krachtstation-compact-home-gym"
+        },
+        "m2430975822": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 110,00",
+          "title": "REFURBISHED PH Fitness Verstelbare Dumbbells 24KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430975822-refurbished-ph-fitness-verstelbare-dumbbells-24kg"
+        },
+        "m2430976756": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 600,00",
+          "title": "REFURBISHED PH Fitness V-Frame Cable - Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430976756-refurbished-ph-fitness-v-frame-cable-home-gym"
+        },
+        "m2430976804": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 300,00",
+          "title": "REFURBISHED PH Fitness Verstelbare Dumbbells 40KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430976804-refurbished-ph-fitness-verstelbare-dumbbells-40kg"
+        },
+        "m2430977679": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 400,00",
+          "title": "REFURBISHED PH Fitness Ski Trainer - Ski Erg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430977679-refurbished-ph-fitness-ski-trainer-ski-erg"
+        },
+        "m2430977717": {
+          "first_seen_at": "2026-08-14T20:02:59.200004+00:00",
+          "price_display": "€ 75,00",
+          "title": "REFURBISHED PH Fitness Loopbanden - Diverse Modellen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430977717-refurbished-ph-fitness-loopbanden-diverse-modellen"
         }
       }
     },
@@ -45118,7 +45160,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T19:28:51.999347+00:00",
+    "last_checked_at": "2026-08-14T20:03:56.612154+00:00",
     "outage_alert_sent": false
   }
 }
