@@ -43683,6 +43683,12 @@
           "price_display": "€ 800,00",
           "title": "Functionele rechtopstaande piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430669826-functionele-rechtopstaande-piano"
+        },
+        "m2430685824": {
+          "first_seen_at": "2026-08-14T02:41:11.171324+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Studiologic SL88 Studio Hammer Action MIDI Keyboard",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430685824-studiologic-sl88-studio-hammer-action-midi-keyboard"
         }
       }
     }
@@ -43690,7 +43696,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-13T22:45:27.387038+00:00",
+    "last_checked_at": "2026-08-14T02:41:20.148466+00:00",
     "outage_alert_sent": false
   }
 }
