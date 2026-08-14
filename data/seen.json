@@ -7820,6 +7820,12 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "Guitare classique marque FRAMUS modèle Barcelona",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430789291-guitare-classique-marque-framus-modele-barcelona"
+        },
+        "m2430809206": {
+          "first_seen_at": "2026-08-14T11:31:11.354908+00:00",
+          "price_display": "€ 20,00",
+          "title": "Burswood kindergitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430809206-burswood-kindergitaar"
         }
       }
     },
@@ -16482,6 +16488,18 @@
           "price_display": "Bieden vanaf € 1.100,00",
           "title": "COMPEX SP 8.0 WOD / Spier versterker/ revalidatie",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430754878-compex-sp-8-0-wod-spier-versterker-revalidatie"
+        },
+        "m2430797405": {
+          "first_seen_at": "2026-08-14T11:30:40.224604+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "Rogue Echo bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430797405-rogue-echo-bike"
+        },
+        "m2430805035": {
+          "first_seen_at": "2026-08-14T11:30:40.224604+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Tirage vertical",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430805035-tirage-vertical"
         }
       }
     },
@@ -35597,6 +35615,18 @@
           "price_display": "Bieden vanaf € 8,00",
           "title": "houten balansbord",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430790810-houten-balansbord"
+        },
+        "m2430796671": {
+          "first_seen_at": "2026-08-14T11:30:21.888741+00:00",
+          "price_display": "€ 1.449,95",
+          "title": "All-in-One Home Gym Power Rack - 160KG Weight Stack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430796671-all-in-one-home-gym-power-rack-160kg-weight-stack"
+        },
+        "m2430800442": {
+          "first_seen_at": "2026-08-14T11:30:21.888741+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "D.C. Athletics Performance 1.0 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430800442-d-c-athletics-performance-1-0-loopband"
         }
       }
     },
@@ -44055,6 +44085,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Yamaha YDP‑162B digitale piano in uitstekende staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430782069-yamaha-ydp-162b-digitale-piano-in-uitstekende-staat"
+        },
+        "m2430794934": {
+          "first_seen_at": "2026-08-14T11:30:59.796948+00:00",
+          "price_display": "€ 200,00",
+          "title": "Piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2430794934-piano-yamaha"
         }
       }
     }
@@ -44062,7 +44098,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T10:42:52.598619+00:00",
+    "last_checked_at": "2026-08-14T11:31:12.361587+00:00",
     "outage_alert_sent": false
   }
 }
