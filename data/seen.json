@@ -11395,6 +11395,18 @@
           "price_display": "€ 140,00",
           "title": "1/200 oz goudbaar uit Tsjaad",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430974554-1-200-oz-goudbaar-uit-tsjaad"
+        },
+        "m2430993881": {
+          "first_seen_at": "2026-08-14T21:02:06.763689+00:00",
+          "price_display": "Bieden vanaf € 1.285,00",
+          "title": "20x 1oz .999 zilver u s Silver Eagle",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430993881-20x-1oz-999-zilver-u-s-silver-eagle"
+        },
+        "m2430993906": {
+          "first_seen_at": "2026-08-14T21:02:06.763689+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Olympische Spelen Los Angel",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430993906-olympische-spelen-los-angel"
         }
       }
     },
@@ -36599,6 +36611,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "gietijzeren kettlebell van 16 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430985767-gietijzeren-kettlebell-van-16-kg"
+        },
+        "m2430993843": {
+          "first_seen_at": "2026-08-14T21:01:34.680918+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Dumbbells – 2x 2,5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430993843-dumbbells-2x-2-5-kg"
         }
       }
     },
@@ -45184,7 +45202,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T20:40:47.967721+00:00",
+    "last_checked_at": "2026-08-14T21:02:25.373862+00:00",
     "outage_alert_sent": false
   }
 }
