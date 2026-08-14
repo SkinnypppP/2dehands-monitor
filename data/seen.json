@@ -7964,6 +7964,18 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Ibanez SGE Electro-akoestische gitaar met versterker.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430980123-ibanez-sge-electro-akoestische-gitaar-met-versterker"
+        },
+        "m2430987757": {
+          "first_seen_at": "2026-08-14T20:40:46.172704+00:00",
+          "price_display": "€ 250,00",
+          "title": "Gitaar Fender 1989",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430987757-gitaar-fender-1989"
+        },
+        "m2430989382": {
+          "first_seen_at": "2026-08-14T20:40:46.172704+00:00",
+          "price_display": "Bieden vanaf € 800,00",
+          "title": "Paramount Tricone Resonatorgitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2430989382-paramount-tricone-resonatorgitaar"
         }
       }
     },
@@ -16758,6 +16770,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Rameur Shark",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430966219-rameur-shark"
+        },
+        "m2430988621": {
+          "first_seen_at": "2026-08-14T20:40:19.084614+00:00",
+          "price_display": "€ 37,00",
+          "title": "Domyos essential",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2430988621-domyos-essential"
         }
       }
     },
@@ -36575,6 +36593,12 @@
           "price_display": "€ 75,00",
           "title": "REFURBISHED PH Fitness Loopbanden - Diverse Modellen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430977717-refurbished-ph-fitness-loopbanden-diverse-modellen"
+        },
+        "m2430985767": {
+          "first_seen_at": "2026-08-14T20:40:03.346853+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "gietijzeren kettlebell van 16 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430985767-gietijzeren-kettlebell-van-16-kg"
         }
       }
     },
@@ -45160,7 +45184,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T20:03:56.612154+00:00",
+    "last_checked_at": "2026-08-14T20:40:47.967721+00:00",
     "outage_alert_sent": false
   }
 }
