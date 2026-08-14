@@ -11101,6 +11101,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Pokemon kaarten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430654892-pokemon-kaarten"
+        },
+        "m2430696356": {
+          "first_seen_at": "2026-08-14T05:59:39.759833+00:00",
+          "price_display": "€ 530,00",
+          "title": "Zilverstaaf van 250 g",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430696356-zilverstaaf-van-250-g"
         }
       }
     },
@@ -14779,6 +14785,12 @@
           "title": "Sport",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426685272-sport"
         },
+        "m2426699823": {
+          "first_seen_at": "2026-08-14T05:59:32.454905+00:00",
+          "price_display": "€ 280,00",
+          "title": "Krachttrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2426699823-krachttrainer"
+        },
         "m2426709231": {
           "first_seen_at": "2026-08-02T13:49:14.792930+00:00",
           "price_display": "Bieden vanaf € 125,00",
@@ -16602,6 +16614,12 @@
           "title": "Concept 2 - Indoor Rower Model C - Roeier",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165442739-concept-2-indoor-rower-model-c-roeier"
         },
+        "a165481538": {
+          "first_seen_at": "2026-08-14T05:59:11.388274+00:00",
+          "price_display": "€ 5,00",
+          "title": "Veiling - 2kg schijf - Set van 2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165481538-veiling-2kg-schijf-set-van-2"
+        },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
           "price_display": "€ 645,84",
@@ -16613,6 +16631,12 @@
           "price_display": "Prijs op aanvraag",
           "title": "Fitnessvloer, fitnesstegels en crossfitvloeren groothandel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a70536983-fitnessvloer-fitnesstegels-en-crossfitvloeren-groothandel"
+        },
+        "a76334503": {
+          "first_seen_at": "2026-08-14T05:59:11.388274+00:00",
+          "price_display": "€ 1.049,00",
+          "title": "Dumbbellset 12 t/m 20 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a76334503-dumbbellset-12-t-m-20-kg"
         },
         "a80188444": {
           "first_seen_at": "2026-08-11T10:29:36.505458+00:00",
@@ -35351,6 +35375,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fitness bank met gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430675957-fitness-bank-met-gewichten"
+        },
+        "m2430697492": {
+          "first_seen_at": "2026-08-14T05:59:11.388274+00:00",
+          "price_display": "€ 1.250,00",
+          "title": "TECHNOGYM EXCITE 700 VARIO CROSSTRAINER / STEP IN 1",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2430697492-technogym-excite-700-vario-crosstrainer-step-in-1"
         }
       }
     },
@@ -43738,7 +43768,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T04:30:44.251737+00:00",
+    "last_checked_at": "2026-08-14T05:59:55.567464+00:00",
     "outage_alert_sent": false
   }
 }
