@@ -8084,6 +8084,12 @@
           "price_display": "€ 150,00",
           "title": "Naderman gran classico gitaar voor beginners",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431165154-naderman-gran-classico-gitaar-voor-beginners"
+        },
+        "m2431173230": {
+          "first_seen_at": "2026-08-15T11:53:08.232403+00:00",
+          "price_display": "€ 150,00",
+          "title": "alvaro gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431173230-alvaro-gitaar"
         }
       }
     },
@@ -11551,6 +11557,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "1 Oz Sztabka srebra Ag.999 Silver & Trade + certificaat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431167672-1-oz-sztabka-srebra-ag-999-silver-trade-certificaat"
+        },
+        "m2431171855": {
+          "first_seen_at": "2026-08-15T11:52:49.038149+00:00",
+          "price_display": "Bieden vanaf € 155,00",
+          "title": "50 Gram IGR Zilverbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431171855-50-gram-igr-zilverbaar"
         }
       }
     },
@@ -17010,6 +17022,12 @@
           "price_display": "€ 400,00",
           "title": "loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431158078-loopband"
+        },
+        "m2431175243": {
+          "first_seen_at": "2026-08-15T11:52:40.443158+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Hometrainer Zipro vision",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431175243-hometrainer-zipro-vision"
         }
       }
     },
@@ -37133,6 +37151,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431165579-loopband"
+        },
+        "m2431168648": {
+          "first_seen_at": "2026-08-15T11:52:18.885638+00:00",
+          "price_display": "€ 150,00",
+          "title": "175 kg Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431168648-175-kg-gewichten"
         }
       }
     },
@@ -45832,7 +45856,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T11:37:06.137159+00:00",
+    "last_checked_at": "2026-08-15T11:53:08.611517+00:00",
     "outage_alert_sent": false
   }
 }
