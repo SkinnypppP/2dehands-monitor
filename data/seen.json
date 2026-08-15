@@ -16968,6 +16968,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo elliptique",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431134286-velo-elliptique"
+        },
+        "m2431140794": {
+          "first_seen_at": "2026-08-15T10:53:50.112508+00:00",
+          "price_display": "Bieden vanaf € 425,00",
+          "title": "rofessionele Domyos T900C loopband – zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431140794-rofessionele-domyos-t900c-loopband-zeer-goede-staat"
+        },
+        "m2431142800": {
+          "first_seen_at": "2026-08-15T10:53:50.112508+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Hometrainer Active Touch",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431142800-hometrainer-active-touch"
         }
       }
     },
@@ -37055,6 +37067,18 @@
           "price_display": "€ 125,00",
           "title": "Technogym plate rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431138678-technogym-plate-rack"
+        },
+        "m2431139871": {
+          "first_seen_at": "2026-08-15T10:53:31.483779+00:00",
+          "price_display": "€ 55,00",
+          "title": "Rebounding trampoline",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431139871-rebounding-trampoline"
+        },
+        "m2431143029": {
+          "first_seen_at": "2026-08-15T10:53:31.483779+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Fitnessbankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431143029-fitnessbankje"
         }
       }
     },
@@ -45723,6 +45747,18 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Piano Roland HP 237 Re",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431138004-piano-roland-hp-237-re"
+        },
+        "m2431143551": {
+          "first_seen_at": "2026-08-15T10:54:10.613964+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Casio elektrische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431143551-casio-elektrische-piano"
+        },
+        "m2431144199": {
+          "first_seen_at": "2026-08-15T10:54:10.613964+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vleugel piano samick",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431144199-vleugel-piano-samick"
         }
       }
     }
@@ -45730,7 +45766,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T10:34:51.338191+00:00",
+    "last_checked_at": "2026-08-15T10:54:21.748198+00:00",
     "outage_alert_sent": false
   }
 }
