@@ -8060,6 +8060,18 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431105853-gitaar"
+        },
+        "m2431119788": {
+          "first_seen_at": "2026-08-15T10:01:15.872752+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Framus- en Hofner 3-gitaren worden gerestaureerd",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431119788-framus-en-hofner-3-gitaren-worden-gerestaureerd"
+        },
+        "m2431120590": {
+          "first_seen_at": "2026-08-15T10:01:15.872752+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar Fratelli Indelicato",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431120590-gitaar-fratelli-indelicato"
         }
       }
     },
@@ -16932,6 +16944,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431111223-loopband"
+        },
+        "m2431117407": {
+          "first_seen_at": "2026-08-15T10:00:50.787606+00:00",
+          "price_display": "€ 250,00",
+          "title": "Focus Fitness Unit 4 – Krachtstation / Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431117407-focus-fitness-unit-4-krachtstation-home-gym"
+        },
+        "m2431120296": {
+          "first_seen_at": "2026-08-15T10:00:50.787606+00:00",
+          "price_display": "€ 200,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431120296-fitness-toestel"
         }
       }
     },
@@ -36983,6 +37007,24 @@
           "price_display": "€ 20,00",
           "title": "fitness optrekstang voor in deurkader",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431109900-fitness-optrekstang-voor-in-deurkader"
+        },
+        "m2431116549": {
+          "first_seen_at": "2026-08-15T10:00:32.481914+00:00",
+          "price_display": "Bieden vanaf € 1.300,00",
+          "title": "Smithmachine ( OPTIONEEL MET GEWICHTEN )",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431116549-smithmachine-optioneel-met-gewichten"
+        },
+        "m2431117218": {
+          "first_seen_at": "2026-08-15T10:00:32.481914+00:00",
+          "price_display": "Bieden vanaf € 9,00",
+          "title": "roulette abdominale evolutive",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431117218-roulette-abdominale-evolutive"
+        },
+        "m2431117866": {
+          "first_seen_at": "2026-08-15T10:00:32.481914+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "500 Rubber tegels 100x100x2 = SLECHTS 3 DAGEN GEBRUIKT",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431117866-500-rubber-tegels-100x100x2-slechts-3-dagen-gebruikt"
         }
       }
     },
@@ -45628,7 +45670,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T09:43:53.891253+00:00",
+    "last_checked_at": "2026-08-15T10:01:18.007162+00:00",
     "outage_alert_sent": false
   }
 }
