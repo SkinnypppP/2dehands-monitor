@@ -8024,6 +8024,12 @@
           "price_display": "Zie omschrijving",
           "title": "acoustische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431059637-acoustische-gitaar"
+        },
+        "m2431075551": {
+          "first_seen_at": "2026-08-15T08:20:49.988333+00:00",
+          "price_display": "Bieden vanaf € 3.250,00",
+          "title": "Martin D35 reimagined met K&K Pure mini Pickup",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431075551-martin-d35-reimagined-met-k-k-pure-mini-pickup"
         }
       }
     },
@@ -11455,6 +11461,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Olympische Spelen Los Angel",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2430993906-olympische-spelen-los-angel"
+        },
+        "m2431067620": {
+          "first_seen_at": "2026-08-15T08:20:28.381719+00:00",
+          "price_display": "Bieden vanaf € 2.300,00",
+          "title": "Zilver baar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431067620-zilver-baar"
+        },
+        "m2431067815": {
+          "first_seen_at": "2026-08-15T08:20:28.381719+00:00",
+          "price_display": "Bieden vanaf € 2.300,00",
+          "title": "Tony goetz zilverbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431067815-tony-goetz-zilverbaar"
         }
       }
     },
@@ -16848,6 +16866,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "velo zipro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431045333-velo-zipro"
+        },
+        "m2431073861": {
+          "first_seen_at": "2026-08-15T08:20:17.929151+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Machine de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431073861-machine-de-musculation"
+        },
+        "m2431075737": {
+          "first_seen_at": "2026-08-15T08:20:17.929151+00:00",
+          "price_display": "€ 30,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431075737-hometrainer"
         }
       }
     },
@@ -36797,6 +36827,24 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "2 x 15kg Halterschijven (30mm).",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431066310-2-x-15kg-halterschijven-30mm"
+        },
+        "m2431068341": {
+          "first_seen_at": "2026-08-15T08:19:52.077575+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "EZ Curl bar 120cm (30mm). In goede staat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431068341-ez-curl-bar-120cm-30mm-in-goede-staat"
+        },
+        "m2431068944": {
+          "first_seen_at": "2026-08-15T08:19:52.077575+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Tunturi halterstang 180cm, 10kg (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431068944-tunturi-halterstang-180cm-10kg-30mm"
+        },
+        "m2431069660": {
+          "first_seen_at": "2026-08-15T08:19:52.077575+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Squat rack/ bench press/ dipstation/ push up bars",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431069660-squat-rack-bench-press-dipstation-push-up-bars"
         }
       }
     },
@@ -45393,6 +45441,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431043100-piano"
+        },
+        "m2431071250": {
+          "first_seen_at": "2026-08-15T08:20:38.470577+00:00",
+          "price_display": "€ 3.400,00",
+          "title": "Yamaha buffet piano E110 OP DW",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431071250-yamaha-buffet-piano-e110-op-dw"
         }
       }
     }
@@ -45400,7 +45454,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T07:51:16.031659+00:00",
+    "last_checked_at": "2026-08-15T08:20:51.218208+00:00",
     "outage_alert_sent": false
   }
 }
