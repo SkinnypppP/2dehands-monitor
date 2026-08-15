@@ -11509,6 +11509,12 @@
           "title": "Skierg - Origin Storm Ski Trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a160302350-skierg-origin-storm-ski-trainer"
         },
+        "a163902294": {
+          "first_seen_at": "2026-08-15T05:45:55.212470+00:00",
+          "price_display": "€ 84,96",
+          "title": "Halterset Thuis | 50kg | Laatste Stuks!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/a163902294-halterset-thuis-50kg-laatste-stuks"
+        },
         "a164292817": {
           "first_seen_at": "2026-07-21T07:06:56.634389+00:00",
           "price_display": "€ 89,95",
@@ -45244,7 +45250,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T04:56:11.629044+00:00",
+    "last_checked_at": "2026-08-15T05:46:22.024349+00:00",
     "outage_alert_sent": false
   }
 }
