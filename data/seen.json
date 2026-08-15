@@ -8216,6 +8216,12 @@
           "price_display": "€ 60,00",
           "title": "Guitare classique enfant Kapok Brand neuve + accessoires",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431340671-guitare-classique-enfant-kapok-brand-neuve-accessoires"
+        },
+        "m2431364060": {
+          "first_seen_at": "2026-08-15T20:41:43.208790+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "YaMartin&Go D100 deluxe",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431364060-yamartin-go-d100-deluxe"
         }
       }
     },
@@ -37823,6 +37829,12 @@
           "price_display": "Bieden vanaf € 115,00",
           "title": "Domyos Power Tower – krachtstation van Decathlon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431362093-domyos-power-tower-krachtstation-van-decathlon"
+        },
+        "m2431363064": {
+          "first_seen_at": "2026-08-15T20:40:54.370577+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Halterrek en bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431363064-halterrek-en-bank"
         }
       }
     },
@@ -46588,7 +46600,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T20:16:12.814353+00:00",
+    "last_checked_at": "2026-08-15T20:41:44.218631+00:00",
     "outage_alert_sent": false
   }
 }
