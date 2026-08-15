@@ -8162,6 +8162,12 @@
           "price_display": "Bieden vanaf € 275,00",
           "title": "Kremona Soloist S65C klassieke gitaar + Morgan gitaartas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431284703-kremona-soloist-s65c-klassieke-gitaar-morgan-gitaartas"
+        },
+        "m2431292600": {
+          "first_seen_at": "2026-08-15T16:17:42.994698+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431292600-guitare"
         }
       }
     },
@@ -37511,6 +37517,60 @@
           "price_display": "€ 110,00",
           "title": "Poids et barre de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431281458-poids-et-barre-de-musculation"
+        },
+        "m2431289219": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "€ 35,00",
+          "title": "Core power bal 6 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431289219-core-power-bal-6-kg"
+        },
+        "m2431291290": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Halters - dumbells 52,5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431291290-halters-dumbells-52-5-kg"
+        },
+        "m2431291647": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Halters - dumbells 25 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431291647-halters-dumbells-25-kg"
+        },
+        "m2431292135": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Halters - dumbells 10 kg rogue",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431292135-halters-dumbells-10-kg-rogue"
+        },
+        "m2431292728": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Halters - dumbells 5 kg rogue",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431292728-halters-dumbells-5-kg-rogue"
+        },
+        "m2431293325": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Halters - dumbells 3 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431293325-halters-dumbells-3-kg"
+        },
+        "m2431294685": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Multifunctionele swiss bar van ATX",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431294685-multifunctionele-swiss-bar-van-atx"
+        },
+        "m2431294890": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Olympic bar halterstang Wall houders 30€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431294890-olympic-bar-halterstang-wall-houders-30"
+        },
+        "m2431295340": {
+          "first_seen_at": "2026-08-15T16:16:48.357340+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Goed staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431295340-goed-staat"
         }
       }
     },
@@ -46258,7 +46318,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T15:53:16.233282+00:00",
+    "last_checked_at": "2026-08-15T16:17:43.906444+00:00",
     "outage_alert_sent": false
   }
 }
