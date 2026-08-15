@@ -11659,6 +11659,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "kookaburra 1993, zilver 2 oz",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431201484-kookaburra-1993-zilver-2-oz"
+        },
+        "m2431266072": {
+          "first_seen_at": "2026-08-15T15:01:23.755244+00:00",
+          "price_display": "€ 2.300,00",
+          "title": "zilvermunt 1kg",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431266072-zilvermunt-1kg"
         }
       }
     },
@@ -17184,6 +17190,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "VELO APPARTEMENT SEMI ALLONGE HEUBOZEN",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431241784-velo-appartement-semi-allonge-heubozen"
+        },
+        "m2431261741": {
+          "first_seen_at": "2026-08-15T15:01:14.263399+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431261741-crosstrainer"
+        },
+        "m2431265172": {
+          "first_seen_at": "2026-08-15T15:01:14.263399+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "rowerg concept2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431265172-rowerg-concept2"
         }
       }
     },
@@ -37433,6 +37451,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Buikspiertrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431242177-buikspiertrainer"
+        },
+        "m2431263210": {
+          "first_seen_at": "2026-08-15T15:00:51.154724+00:00",
+          "price_display": "€ 250,00",
+          "title": "TECHNOGYM PURE STRENGHT BENCH OLYMPIC",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431263210-technogym-pure-strenght-bench-olympic"
+        },
+        "m2431265914": {
+          "first_seen_at": "2026-08-15T15:00:51.154724+00:00",
+          "price_display": "€ 50,00",
+          "title": "Twist & Shape",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431265914-twist-shape"
         }
       }
     },
@@ -46180,7 +46210,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T14:46:58.463292+00:00",
+    "last_checked_at": "2026-08-15T15:01:43.681732+00:00",
     "outage_alert_sent": false
   }
 }
