@@ -8132,6 +8132,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Celebrity by Ovation",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431235847-celebrity-by-ovation"
+        },
+        "m2431242884": {
+          "first_seen_at": "2026-08-15T14:22:33.564257+00:00",
+          "price_display": "€ 20,00",
+          "title": "Mahalo Rainbow ukelele-set",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431242884-mahalo-rainbow-ukelele-set"
+        },
+        "m2431245446": {
+          "first_seen_at": "2026-08-15T14:22:33.564257+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Stagg Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431245446-stagg-akoestische-gitaar"
         }
       }
     },
@@ -13315,6 +13327,12 @@
           "title": "Krachtstation Tunturi HG20",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421670197-krachtstation-tunturi-hg20"
         },
+        "m2421673899": {
+          "first_seen_at": "2026-08-15T14:22:00.906577+00:00",
+          "price_display": "€ 75,00",
+          "title": "MEENEEMPRUS: MERACH S38B2 Magnetische Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421673899-meeneemprus-merach-s38b2-magnetische-hometrainer"
+        },
         "m2421679072": {
           "first_seen_at": "2026-07-19T08:37:25.916563+00:00",
           "price_display": "€ 695,00",
@@ -17148,6 +17166,24 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "loopband opvouwbaar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431238388-loopband-opvouwbaar"
+        },
+        "m2431240408": {
+          "first_seen_at": "2026-08-15T14:22:00.906577+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Crosstrainer VE 530",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431240408-crosstrainer-ve-530"
+        },
+        "m2431240852": {
+          "first_seen_at": "2026-08-15T14:22:00.906577+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "muscle squad training",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431240852-muscle-squad-training"
+        },
+        "m2431241784": {
+          "first_seen_at": "2026-08-15T14:22:00.906577+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "VELO APPARTEMENT SEMI ALLONGE HEUBOZEN",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431241784-velo-appartement-semi-allonge-heubozen"
         }
       }
     },
@@ -37385,6 +37421,18 @@
           "price_display": "€ 90,00",
           "title": "Banc de musculation abdos.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431229507-banc-de-musculation-abdos"
+        },
+        "m2431238880": {
+          "first_seen_at": "2026-08-15T14:21:39.792549+00:00",
+          "price_display": "€ 75,00",
+          "title": "Squat-rek + bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431238880-squat-rek-bench"
+        },
+        "m2431242177": {
+          "first_seen_at": "2026-08-15T14:21:39.792549+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Buikspiertrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431242177-buikspiertrainer"
         }
       }
     },
@@ -46126,7 +46174,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T13:58:19.820813+00:00",
+    "last_checked_at": "2026-08-15T14:22:35.294512+00:00",
     "outage_alert_sent": false
   }
 }
