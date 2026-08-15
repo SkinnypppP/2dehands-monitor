@@ -8168,6 +8168,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431292600-guitare"
+        },
+        "m2431305489": {
+          "first_seen_at": "2026-08-15T17:02:54.629819+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Guitare Folk de marque Cort",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431305489-guitare-folk-de-marque-cort"
         }
       }
     },
@@ -37607,6 +37613,36 @@
           "price_display": "€ 65,00",
           "title": "Mini trapoline",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431301832-mini-trapoline"
+        },
+        "m2431306918": {
+          "first_seen_at": "2026-08-15T17:02:06.019333+00:00",
+          "price_display": "€ 30,00",
+          "title": "Barre EZ 120cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431306918-barre-ez-120cm"
+        },
+        "m2431307846": {
+          "first_seen_at": "2026-08-15T17:02:06.019333+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "climber",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431307846-climber"
+        },
+        "m2431308303": {
+          "first_seen_at": "2026-08-15T17:02:06.019333+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "old school dummbell 14.5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431308303-old-school-dummbell-14-5kg"
+        },
+        "m2431308666": {
+          "first_seen_at": "2026-08-15T17:02:06.019333+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "2x hexa 4kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431308666-2x-hexa-4kg"
+        },
+        "m2431309027": {
+          "first_seen_at": "2026-08-15T17:02:06.019333+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "2 x hexa 7.5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431309027-2-x-hexa-7-5kg"
         }
       }
     },
@@ -46354,7 +46390,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T16:44:27.213234+00:00",
+    "last_checked_at": "2026-08-15T17:02:56.233409+00:00",
     "outage_alert_sent": false
   }
 }
