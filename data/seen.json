@@ -8192,6 +8192,12 @@
           "price_display": "€ 200,00",
           "title": "Gipsy jazz gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431323447-gipsy-jazz-gitaar"
+        },
+        "m2431325227": {
+          "first_seen_at": "2026-08-15T18:19:42.414046+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Mandoline",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431325227-mandoline"
         }
       }
     },
@@ -46467,6 +46473,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano digital Yamaha Clavinova CLP 930",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431237837-piano-digital-yamaha-clavinova-clp-930"
+        },
+        "m2431331576": {
+          "first_seen_at": "2026-08-15T18:19:31.912618+00:00",
+          "price_display": "Bieden vanaf € 379,00",
+          "title": "Mooie 100 jaar oude piano Gebroeders Kölski",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431331576-mooie-100-jaar-oude-piano-gebroeders-kolski"
         }
       }
     }
@@ -46474,7 +46486,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T17:53:48.971777+00:00",
+    "last_checked_at": "2026-08-15T18:19:43.108531+00:00",
     "outage_alert_sent": false
   }
 }
