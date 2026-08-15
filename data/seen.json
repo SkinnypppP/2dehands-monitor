@@ -8012,6 +8012,12 @@
           "price_display": "Bieden vanaf € 225,00",
           "title": "Corth earth 200",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431050837-corth-earth-200"
+        },
+        "m2431052898": {
+          "first_seen_at": "2026-08-15T07:25:51.067960+00:00",
+          "price_display": "€ 280,00",
+          "title": "Cuenca 10 studiegitaar + draagzak & voetsteun",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431052898-cuenca-10-studiegitaar-draagzak-voetsteun"
         }
       }
     },
@@ -36731,6 +36737,18 @@
           "price_display": "€ 375,00",
           "title": "Fietsrollen tacx",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431050303-fietsrollen-tacx"
+        },
+        "m2431053843": {
+          "first_seen_at": "2026-08-15T07:25:03.788936+00:00",
+          "price_display": "€ 15,00",
+          "title": "Skateboard active touch nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431053843-skateboard-active-touch-nieuw"
+        },
+        "m2431058044": {
+          "first_seen_at": "2026-08-15T07:25:03.788936+00:00",
+          "price_display": "€ 117,00",
+          "title": "Pull up bar en dipstation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431058044-pull-up-bar-en-dipstation"
         }
       }
     },
@@ -45334,7 +45352,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T06:54:58.230498+00:00",
+    "last_checked_at": "2026-08-15T07:25:52.309926+00:00",
     "outage_alert_sent": false
   }
 }
