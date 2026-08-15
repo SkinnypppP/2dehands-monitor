@@ -16956,6 +16956,18 @@
           "price_display": "€ 200,00",
           "title": "Fitness toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431120296-fitness-toestel"
+        },
+        "m2431126761": {
+          "first_seen_at": "2026-08-15T10:34:15.736175+00:00",
+          "price_display": "€ 700,00",
+          "title": "Virtufit roeitrainer water weerstand ROW 1000",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431126761-virtufit-roeitrainer-water-weerstand-row-1000"
+        },
+        "m2431134286": {
+          "first_seen_at": "2026-08-15T10:34:15.736175+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vélo elliptique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431134286-velo-elliptique"
         }
       }
     },
@@ -37025,6 +37037,24 @@
           "price_display": "Zie omschrijving",
           "title": "500 Rubber tegels 100x100x2 = SLECHTS 3 DAGEN GEBRUIKT",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431117866-500-rubber-tegels-100x100x2-slechts-3-dagen-gebruikt"
+        },
+        "m2431126475": {
+          "first_seen_at": "2026-08-15T10:33:55.225263+00:00",
+          "price_display": "€ 500,00",
+          "title": "Universele halterbank gorilla sports",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431126475-universele-halterbank-gorilla-sports"
+        },
+        "m2431132374": {
+          "first_seen_at": "2026-08-15T10:33:55.225263+00:00",
+          "price_display": "€ 800,00",
+          "title": "fitness megatec toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431132374-fitness-megatec-toestel"
+        },
+        "m2431138678": {
+          "first_seen_at": "2026-08-15T10:33:55.225263+00:00",
+          "price_display": "€ 125,00",
+          "title": "Technogym plate rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431138678-technogym-plate-rack"
         }
       }
     },
@@ -45663,6 +45693,36 @@
           "price_display": "€ 4.500,00",
           "title": "Yamaha B2 2017 + verstelbare piano stoel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431104117-yamaha-b2-2017-verstelbare-piano-stoel"
+        },
+        "m2431127024": {
+          "first_seen_at": "2026-08-15T10:34:37.120029+00:00",
+          "price_display": "€ 500,00",
+          "title": "Roland FP-30 piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431127024-roland-fp-30-piano"
+        },
+        "m2431128977": {
+          "first_seen_at": "2026-08-15T10:34:37.120029+00:00",
+          "price_display": "€ 100,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431128977-piano"
+        },
+        "m2431132968": {
+          "first_seen_at": "2026-08-15T10:34:37.120029+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Buffetpiano Werner",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431132968-buffetpiano-werner"
+        },
+        "m2431137582": {
+          "first_seen_at": "2026-08-15T10:34:37.120029+00:00",
+          "price_display": "€ 600,00",
+          "title": "stage piano Roland FP-30x",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431137582-stage-piano-roland-fp-30x"
+        },
+        "m2431138004": {
+          "first_seen_at": "2026-08-15T10:34:37.120029+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Piano Roland HP 237 Re",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431138004-piano-roland-hp-237-re"
         }
       }
     }
@@ -45670,7 +45730,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T10:01:18.007162+00:00",
+    "last_checked_at": "2026-08-15T10:34:51.338191+00:00",
     "outage_alert_sent": false
   }
 }
