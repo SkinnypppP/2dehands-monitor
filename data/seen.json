@@ -8222,6 +8222,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "YaMartin&Go D100 deluxe",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431364060-yamartin-go-d100-deluxe"
+        },
+        "m2431372699": {
+          "first_seen_at": "2026-08-15T21:31:51.009796+00:00",
+          "price_display": "€ 15,00",
+          "title": "Ukelele Mahalo (+ tuner)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431372699-ukelele-mahalo-tuner"
         }
       }
     },
@@ -46600,7 +46606,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T20:41:44.218631+00:00",
+    "last_checked_at": "2026-08-15T21:31:51.968044+00:00",
     "outage_alert_sent": false
   }
 }
