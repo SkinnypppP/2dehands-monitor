@@ -537,6 +537,24 @@
           "title": "Egmond - Toledo S2Z - - Akoestische gitaar - Nederland -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165266001-egmond-toledo-s2z-akoestische-gitaar-nederland"
         },
+        "a165475634": {
+          "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
+          "price_display": "€ 511,00",
+          "title": "Fender - Telecaster TL52-75 - - Elektrische gitaar - Japan -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475634-fender-telecaster-tl52-75-elektrische-gitaar-japan"
+        },
+        "a165475642": {
+          "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
+          "price_display": "€ 111,00",
+          "title": "Yamaha - Dynamic Guitar No. 10 - - Akoestische gitaar -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475642-yamaha-dynamic-guitar-no-10-akoestische-gitaar"
+        },
+        "a165478640": {
+          "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
+          "price_display": "€ 511,00",
+          "title": "Fender - Telecaster TL52-75 - - Guitare électrique - Japon -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165478640-fender-telecaster-tl52-75-guitare-electrique-japon"
+        },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
           "price_display": "€ 1.400,00",
@@ -17021,6 +17039,12 @@
           "price_display": "€ 25,00",
           "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165074626-diverse-schijven-platen-olympische-schijven-bumper"
+        },
+        "a165393427": {
+          "first_seen_at": "2026-08-15T04:55:18.808066+00:00",
+          "price_display": "€ 25,00",
+          "title": "Halterstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165393427-halterstang"
         },
         "a165442739": {
           "first_seen_at": "2026-08-13T05:09:55.027493+00:00",
@@ -45220,7 +45244,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-14T22:43:58.303671+00:00",
+    "last_checked_at": "2026-08-15T04:56:11.629044+00:00",
     "outage_alert_sent": false
   }
 }
