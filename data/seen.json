@@ -8150,6 +8150,18 @@
           "price_display": "€ 200,00",
           "title": "Prachtige vintage akoestische gitaar AVORA 1960/1970 in uits",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431279655-prachtige-vintage-akoestische-gitaar-avora-1960-1970-in-uits"
+        },
+        "m2431281699": {
+          "first_seen_at": "2026-08-15T15:53:14.508511+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Klassieke gitaar Alhamsa 401",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431281699-klassieke-gitaar-alhamsa-401"
+        },
+        "m2431284703": {
+          "first_seen_at": "2026-08-15T15:53:14.508511+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Kremona Soloist S65C klassieke gitaar + Morgan gitaartas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431284703-kremona-soloist-s65c-klassieke-gitaar-morgan-gitaartas"
         }
       }
     },
@@ -37487,6 +37499,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Zumba set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431279539-zumba-set"
+        },
+        "m2431281351": {
+          "first_seen_at": "2026-08-15T15:52:34.366853+00:00",
+          "price_display": "Bieden vanaf € 7,50",
+          "title": "Casall balans trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431281351-casall-balans-trainer"
+        },
+        "m2431281458": {
+          "first_seen_at": "2026-08-15T15:52:34.366853+00:00",
+          "price_display": "€ 110,00",
+          "title": "Poids et barre de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431281458-poids-et-barre-de-musculation"
         }
       }
     },
@@ -46234,7 +46258,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T15:32:18.002255+00:00",
+    "last_checked_at": "2026-08-15T15:53:16.233282+00:00",
     "outage_alert_sent": false
   }
 }
