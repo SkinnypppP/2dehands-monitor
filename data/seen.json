@@ -17304,6 +17304,18 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431344965-crosstrainer"
+        },
+        "m2431351450": {
+          "first_seen_at": "2026-08-15T19:38:36.759961+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Loopband DC Athletics Performance 1.0 inklapbaar 2 pk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431351450-loopband-dc-athletics-performance-1-0-inklapbaar-2-pk"
+        },
+        "m2431351977": {
+          "first_seen_at": "2026-08-15T19:38:36.759961+00:00",
+          "price_display": "€ 280,00",
+          "title": "Clover Fitness Smart A8 loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431351977-clover-fitness-smart-a8-loopband"
         }
       }
     },
@@ -46540,7 +46552,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T19:17:38.023012+00:00",
+    "last_checked_at": "2026-08-15T19:39:06.318783+00:00",
     "outage_alert_sent": false
   }
 }
