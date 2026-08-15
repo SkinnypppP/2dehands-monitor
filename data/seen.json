@@ -8072,6 +8072,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar Fratelli Indelicato",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431120590-gitaar-fratelli-indelicato"
+        },
+        "m2431148489": {
+          "first_seen_at": "2026-08-15T11:14:47.310359+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Hudson akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431148489-hudson-akoestische-gitaar"
         }
       }
     },
@@ -16980,6 +16986,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Hometrainer Active Touch",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431142800-hometrainer-active-touch"
+        },
+        "m2431156511": {
+          "first_seen_at": "2026-08-15T11:14:18.701262+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Ellipse LegXercise - elektrische pedalboardpoten - NIEUW",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431156511-ellipse-legxercise-elektrische-pedalboardpoten-nieuw"
         }
       }
     },
@@ -37079,6 +37091,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Fitnessbankje",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431143029-fitnessbankje"
+        },
+        "m2431149640": {
+          "first_seen_at": "2026-08-15T11:13:56.657521+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessmateriaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431149640-fitnessmateriaal"
+        },
+        "m2431150029": {
+          "first_seen_at": "2026-08-15T11:13:56.657521+00:00",
+          "price_display": "€ 90,00",
+          "title": "Hometrainer - VirtuFit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431150029-hometrainer-virtufit"
         }
       }
     },
@@ -45759,6 +45783,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vleugel piano samick",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431144199-vleugel-piano-samick"
+        },
+        "m2431149288": {
+          "first_seen_at": "2026-08-15T11:14:35.353840+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Roland FP-10 digitale piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431149288-roland-fp-10-digitale-piano"
         }
       }
     }
@@ -45766,7 +45796,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T10:54:21.748198+00:00",
+    "last_checked_at": "2026-08-15T11:14:47.998747+00:00",
     "outage_alert_sent": false
   }
 }
