@@ -8180,6 +8180,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "(semi》akoestise gitaat.met zak en steming toestel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431316577-semi-akoestise-gitaat-met-zak-en-steming-toestel"
+        },
+        "m2431319835": {
+          "first_seen_at": "2026-08-15T17:53:46.902254+00:00",
+          "price_display": "€ 15,00",
+          "title": "Mooie kindergitaar Cherrystone",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431319835-mooie-kindergitaar-cherrystone"
+        },
+        "m2431323447": {
+          "first_seen_at": "2026-08-15T17:53:46.902254+00:00",
+          "price_display": "€ 200,00",
+          "title": "Gipsy jazz gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431323447-gipsy-jazz-gitaar"
         }
       }
     },
@@ -17262,6 +17274,12 @@
           "price_display": "Bieden vanaf € 140,00",
           "title": "vélo elliptique adultes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431314070-velo-elliptique-adultes"
+        },
+        "m2431322297": {
+          "first_seen_at": "2026-08-15T17:53:22.005995+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431322297-roeimachine"
         }
       }
     },
@@ -37697,6 +37715,18 @@
           "price_display": "€ 120,00",
           "title": "Domyos halterbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431317871-domyos-halterbank"
+        },
+        "m2431323930": {
+          "first_seen_at": "2026-08-15T17:52:59.766773+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "dumbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431323930-dumbells"
+        },
+        "m2431323939": {
+          "first_seen_at": "2026-08-15T17:52:59.766773+00:00",
+          "price_display": "€ 100,00",
+          "title": "elliptical cross trainer/een crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431323939-elliptical-cross-trainer-een-crosstrainer"
         }
       }
     },
@@ -46444,7 +46474,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T17:31:57.849970+00:00",
+    "last_checked_at": "2026-08-15T17:53:48.971777+00:00",
     "outage_alert_sent": false
   }
 }
