@@ -8018,6 +8018,12 @@
           "price_display": "€ 280,00",
           "title": "Cuenca 10 studiegitaar + draagzak & voetsteun",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431052898-cuenca-10-studiegitaar-draagzak-voetsteun"
+        },
+        "m2431059637": {
+          "first_seen_at": "2026-08-15T07:51:15.480545+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "acoustische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431059637-acoustische-gitaar"
         }
       }
     },
@@ -36749,6 +36755,48 @@
           "price_display": "€ 117,00",
           "title": "Pull up bar en dipstation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431058044-pull-up-bar-en-dipstation"
+        },
+        "m2431061684": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "€ 120,00",
+          "title": "sports fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431061684-sports-fitness"
+        },
+        "m2431062572": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Squat rack/ bench press van Focus Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431062572-squat-rack-bench-press-van-focus-fitness"
+        },
+        "m2431064025": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "30kg Halterset van SVEN (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431064025-30kg-halterset-van-sven-30mm"
+        },
+        "m2431064985": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "6 x 4kg Halterschijven van SVEN (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431064985-6-x-4kg-halterschijven-van-sven-30mm"
+        },
+        "m2431065608": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "2 x 10kg Halterschijven (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431065608-2-x-10kg-halterschijven-30mm"
+        },
+        "m2431065641": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "€ 5,00",
+          "title": "fitness matten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431065641-fitness-matten"
+        },
+        "m2431066310": {
+          "first_seen_at": "2026-08-15T07:50:21.726114+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "2 x 15kg Halterschijven (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431066310-2-x-15kg-halterschijven-30mm"
         }
       }
     },
@@ -45352,7 +45400,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T07:25:52.309926+00:00",
+    "last_checked_at": "2026-08-15T07:51:16.031659+00:00",
     "outage_alert_sent": false
   }
 }
