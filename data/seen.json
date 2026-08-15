@@ -11737,6 +11737,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Wilde cigarillos doosje",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431299492-wilde-cigarillos-doosje"
+        },
+        "m2431357480": {
+          "first_seen_at": "2026-08-15T19:53:15.190203+00:00",
+          "price_display": "€ 50,00",
+          "title": "Mythical Fire Dragon (Cracked Egg Series)Gewicht: 5 Troy Oz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431357480-mythical-fire-dragon-cracked-egg-series-gewicht-5-troy-oz"
         }
       }
     },
@@ -17316,6 +17322,12 @@
           "price_display": "€ 280,00",
           "title": "Clover Fitness Smart A8 loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431351977-clover-fitness-smart-a8-loopband"
+        },
+        "m2431355658": {
+          "first_seen_at": "2026-08-15T19:53:03.253226+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "VirtuFit Row 600i-Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431355658-virtufit-row-600i-roeitrainer"
         }
       }
     },
@@ -46552,7 +46564,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T19:39:06.318783+00:00",
+    "last_checked_at": "2026-08-15T19:53:35.005749+00:00",
     "outage_alert_sent": false
   }
 }
