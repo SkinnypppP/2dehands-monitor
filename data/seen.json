@@ -8120,6 +8120,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "di giorgo acoustic guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431221229-di-giorgo-acoustic-guitar"
+        },
+        "m2431232294": {
+          "first_seen_at": "2026-08-15T13:58:17.922638+00:00",
+          "price_display": "€ 160,00",
+          "title": "Alhambra Mod. 1C klassieke gitaar + accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431232294-alhambra-mod-1c-klassieke-gitaar-accessoires"
+        },
+        "m2431235847": {
+          "first_seen_at": "2026-08-15T13:58:17.922638+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Celebrity by Ovation",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431235847-celebrity-by-ovation"
         }
       }
     },
@@ -17124,6 +17136,18 @@
           "price_display": "€ 120,00",
           "title": "Fitness pro at100b fitness toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431224104-fitness-pro-at100b-fitness-toestel"
+        },
+        "m2431231771": {
+          "first_seen_at": "2026-08-15T13:57:41.270855+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431231771-spinningfiets"
+        },
+        "m2431238388": {
+          "first_seen_at": "2026-08-15T13:57:41.270855+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "loopband opvouwbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431238388-loopband-opvouwbaar"
         }
       }
     },
@@ -46077,6 +46101,24 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Yamaha GT1 Grantouch elektrische vleugel piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431224556-yamaha-gt1-grantouch-elektrische-vleugel-piano"
+        },
+        "m2431230409": {
+          "first_seen_at": "2026-08-15T13:58:02.774163+00:00",
+          "price_display": "€ 700,00",
+          "title": "Piano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431230409-piano-te-koop"
+        },
+        "m2431234906": {
+          "first_seen_at": "2026-08-15T13:58:02.774163+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Yamaha YPT-255 keyboard in perfecte staat + Sustainpedaal",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431234906-yamaha-ypt-255-keyboard-in-perfecte-staat-sustainpedaal"
+        },
+        "m2431237837": {
+          "first_seen_at": "2026-08-15T13:58:02.774163+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano digital Yamaha Clavinova CLP 930",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431237837-piano-digital-yamaha-clavinova-clp-930"
         }
       }
     }
@@ -46084,7 +46126,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T13:40:18.792840+00:00",
+    "last_checked_at": "2026-08-15T13:58:19.820813+00:00",
     "outage_alert_sent": false
   }
 }
