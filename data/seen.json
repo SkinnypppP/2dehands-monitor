@@ -8048,6 +8048,12 @@
           "price_display": "€ 150,00",
           "title": "Akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431086572-akoestische-gitaar"
+        },
+        "m2431095523": {
+          "first_seen_at": "2026-08-15T09:12:53.490135+00:00",
+          "price_display": "€ 235,00",
+          "title": "Akoestische gitaat Tanglewood TRD HR - nieuwstaat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431095523-akoestische-gitaat-tanglewood-trd-hr-nieuwstaat"
         }
       }
     },
@@ -8947,6 +8953,12 @@
           "price_display": "€ 65,00",
           "title": "Zilveren munten Bull and Bear 1oz per stuk te koop",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2409877080-zilveren-munten-bull-and-bear-1oz-per-stuk-te-koop"
+        },
+        "m2411486910": {
+          "first_seen_at": "2026-08-15T09:12:32.620982+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zilveren munten Krugerrand 1oz per stuk te koop",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2411486910-zilveren-munten-krugerrand-1oz-per-stuk-te-koop"
         },
         "m2416083208": {
           "first_seen_at": "2026-07-13T14:08:23.179413+00:00",
@@ -11491,6 +11503,18 @@
           "price_display": "Bieden vanaf € 2.300,00",
           "title": "Tony goetz zilverbaar",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431067815-tony-goetz-zilverbaar"
+        },
+        "m2431095895": {
+          "first_seen_at": "2026-08-15T09:12:32.620982+00:00",
+          "price_display": "€ 59,00",
+          "title": "#1 kilogram #Koperbaren #Heimerle en Meule #BU .999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431095895-1-kilogram-koperbaren-heimerle-en-meule-bu-999"
+        },
+        "m2431097453": {
+          "first_seen_at": "2026-08-15T09:12:32.620982+00:00",
+          "price_display": "€ 1.690,00",
+          "title": "Tube 25 stuks zilveren Maple Leaf 1oz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431097453-tube-25-stuks-zilveren-maple-leaf-1oz"
         }
       }
     },
@@ -36905,6 +36929,36 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Casall balans trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431088253-casall-balans-trainer"
+        },
+        "m2431092182": {
+          "first_seen_at": "2026-08-15T09:12:01.917082+00:00",
+          "price_display": "€ 45,00",
+          "title": "Domyos vm700",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431092182-domyos-vm700"
+        },
+        "m2431092210": {
+          "first_seen_at": "2026-08-15T09:12:01.917082+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessapparaat \"Christopeit Sport\"",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431092210-fitnessapparaat-christopeit-sport"
+        },
+        "m2431093206": {
+          "first_seen_at": "2026-08-15T09:12:01.917082+00:00",
+          "price_display": "€ 100,00",
+          "title": "Fitness bank - marbo sport",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431093206-fitness-bank-marbo-sport"
+        },
+        "m2431094637": {
+          "first_seen_at": "2026-08-15T09:12:01.917082+00:00",
+          "price_display": "€ 250,00",
+          "title": "Fitness rubberen vloermat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431094637-fitness-rubberen-vloermat"
+        },
+        "m2431096410": {
+          "first_seen_at": "2026-08-15T09:12:01.917082+00:00",
+          "price_display": "€ 250,00",
+          "title": "Plateforme vibrante (contre les douleurs dorsales)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431096410-plateforme-vibrante-contre-les-douleurs-dorsales"
         }
       }
     },
@@ -45532,7 +45586,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T08:50:26.164775+00:00",
+    "last_checked_at": "2026-08-15T09:12:54.220795+00:00",
     "outage_alert_sent": false
   }
 }
