@@ -8198,6 +8198,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Mandoline",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431325227-mandoline"
+        },
+        "m2431333437": {
+          "first_seen_at": "2026-08-15T18:51:49.058333+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Akoestische gitaar Amada",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431333437-akoestische-gitaar-amada"
+        },
+        "m2431340671": {
+          "first_seen_at": "2026-08-15T18:51:49.058333+00:00",
+          "price_display": "€ 60,00",
+          "title": "Guitare classique enfant Kapok Brand neuve + accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431340671-guitare-classique-enfant-kapok-brand-neuve-accessoires"
         }
       }
     },
@@ -37733,6 +37745,24 @@
           "price_display": "€ 100,00",
           "title": "elliptical cross trainer/een crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431323939-elliptical-cross-trainer-een-crosstrainer"
+        },
+        "m2431337333": {
+          "first_seen_at": "2026-08-15T18:50:58.737514+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Hexa Dumbbells - 2 x 6 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431337333-hexa-dumbbells-2-x-6-kg"
+        },
+        "m2431339457": {
+          "first_seen_at": "2026-08-15T18:50:58.737514+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Rameur decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431339457-rameur-decathlon"
+        },
+        "m2431339786": {
+          "first_seen_at": "2026-08-15T18:50:58.737514+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Alles-in-één Krachttraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431339786-alles-in-een-krachttraining"
         }
       }
     },
@@ -46479,6 +46509,12 @@
           "price_display": "Bieden vanaf € 379,00",
           "title": "Mooie 100 jaar oude piano Gebroeders Kölski",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431331576-mooie-100-jaar-oude-piano-gebroeders-kolski"
+        },
+        "m2431334194": {
+          "first_seen_at": "2026-08-15T18:51:39.031438+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Elektrische piano Yamaha Clavinova CLP-440 voor onderdelen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431334194-elektrische-piano-yamaha-clavinova-clp-440-voor-onderdelen"
         }
       }
     }
@@ -46486,7 +46522,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T18:19:43.108531+00:00",
+    "last_checked_at": "2026-08-15T18:51:51.598578+00:00",
     "outage_alert_sent": false
   }
 }
