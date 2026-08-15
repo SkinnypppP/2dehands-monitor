@@ -8078,6 +8078,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Hudson akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431148489-hudson-akoestische-gitaar"
+        },
+        "m2431165154": {
+          "first_seen_at": "2026-08-15T11:37:05.479865+00:00",
+          "price_display": "€ 150,00",
+          "title": "Naderman gran classico gitaar voor beginners",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431165154-naderman-gran-classico-gitaar-voor-beginners"
         }
       }
     },
@@ -11539,6 +11545,12 @@
           "price_display": "€ 1.690,00",
           "title": "Tube 25 stuks zilveren Maple Leaf 1oz",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431097453-tube-25-stuks-zilveren-maple-leaf-1oz"
+        },
+        "m2431167672": {
+          "first_seen_at": "2026-08-15T11:36:47.954295+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "1 Oz Sztabka srebra Ag.999 Silver & Trade + certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431167672-1-oz-sztabka-srebra-ag-999-silver-trade-certificaat"
         }
       }
     },
@@ -16992,6 +17004,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Ellipse LegXercise - elektrische pedalboardpoten - NIEUW",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431156511-ellipse-legxercise-elektrische-pedalboardpoten-nieuw"
+        },
+        "m2431158078": {
+          "first_seen_at": "2026-08-15T11:36:37.186734+00:00",
+          "price_display": "€ 400,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431158078-loopband"
         }
       }
     },
@@ -37103,6 +37121,18 @@
           "price_display": "€ 90,00",
           "title": "Hometrainer - VirtuFit",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431150029-hometrainer-virtufit"
+        },
+        "m2431162526": {
+          "first_seen_at": "2026-08-15T11:36:14.683648+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Complete homegym set – 170 kg bumper plates",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431162526-complete-homegym-set-170-kg-bumper-plates"
+        },
+        "m2431165579": {
+          "first_seen_at": "2026-08-15T11:36:14.683648+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431165579-loopband"
         }
       }
     },
@@ -45789,6 +45819,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Roland FP-10 digitale piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431149288-roland-fp-10-digitale-piano"
+        },
+        "m2431165191": {
+          "first_seen_at": "2026-08-15T11:36:58.602509+00:00",
+          "price_display": "€ 250,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431165191-piano"
         }
       }
     }
@@ -45796,7 +45832,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T11:14:47.998747+00:00",
+    "last_checked_at": "2026-08-15T11:37:06.137159+00:00",
     "outage_alert_sent": false
   }
 }
