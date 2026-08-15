@@ -11689,6 +11689,12 @@
           "price_display": "€ 2.300,00",
           "title": "zilvermunt 1kg",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431266072-zilvermunt-1kg"
+        },
+        "m2431299492": {
+          "first_seen_at": "2026-08-15T16:44:10.829085+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Wilde cigarillos doosje",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431299492-wilde-cigarillos-doosje"
         }
       }
     },
@@ -17226,6 +17232,18 @@
           "price_display": "€ 1.000,00",
           "title": "rowerg concept2",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431265172-rowerg-concept2"
+        },
+        "m2431295990": {
+          "first_seen_at": "2026-08-15T16:43:59.002342+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Wandelband / loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431295990-wandelband-loopband"
+        },
+        "m2431303589": {
+          "first_seen_at": "2026-08-15T16:43:59.002342+00:00",
+          "price_display": "€ 50,00",
+          "title": "Kettler Golf S hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431303589-kettler-golf-s-hometrainer"
         }
       }
     },
@@ -37571,6 +37589,24 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Goed staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431295340-goed-staat"
+        },
+        "m2431296455": {
+          "first_seen_at": "2026-08-15T16:43:42.005157+00:00",
+          "price_display": "€ 10,00",
+          "title": "fitness-yoga-pilates bal met handmatige pomp",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431296455-fitness-yoga-pilates-bal-met-handmatige-pomp"
+        },
+        "m2431300340": {
+          "first_seen_at": "2026-08-15T16:43:42.005157+00:00",
+          "price_display": "€ 100,00",
+          "title": "Trampoline de fitness Cross Jump HAMMER ...NEUF !",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431300340-trampoline-de-fitness-cross-jump-hammer-neuf"
+        },
+        "m2431301832": {
+          "first_seen_at": "2026-08-15T16:43:42.005157+00:00",
+          "price_display": "€ 65,00",
+          "title": "Mini trapoline",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431301832-mini-trapoline"
         }
       }
     },
@@ -46318,7 +46354,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T16:17:43.906444+00:00",
+    "last_checked_at": "2026-08-15T16:44:27.213234+00:00",
     "outage_alert_sent": false
   }
 }
