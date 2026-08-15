@@ -8174,6 +8174,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Guitare Folk de marque Cort",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431305489-guitare-folk-de-marque-cort"
+        },
+        "m2431316577": {
+          "first_seen_at": "2026-08-15T17:31:57.080240+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "(semi》akoestise gitaat.met zak en steming toestel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431316577-semi-akoestise-gitaat-met-zak-en-steming-toestel"
         }
       }
     },
@@ -17250,6 +17256,12 @@
           "price_display": "€ 50,00",
           "title": "Kettler Golf S hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431303589-kettler-golf-s-hometrainer"
+        },
+        "m2431314070": {
+          "first_seen_at": "2026-08-15T17:31:26.770601+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "vélo elliptique adultes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431314070-velo-elliptique-adultes"
         }
       }
     },
@@ -37643,6 +37655,48 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "2 x hexa 7.5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431309027-2-x-hexa-7-5kg"
+        },
+        "m2431309418": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "1x hexa 22.5kg             nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431309418-1x-hexa-22-5kg-nieuw"
+        },
+        "m2431309918": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness materialen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431309918-fitness-materialen"
+        },
+        "m2431310138": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Homegym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431310138-homegym"
+        },
+        "m2431310240": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "triceps baar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431310240-triceps-baar"
+        },
+        "m2431310990": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "bankdruk bank zgan",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431310990-bankdruk-bank-zgan"
+        },
+        "m2431312363": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "160kg aan dummbells + technogym rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431312363-160kg-aan-dummbells-technogym-rek"
+        },
+        "m2431317871": {
+          "first_seen_at": "2026-08-15T17:30:58.525434+00:00",
+          "price_display": "€ 120,00",
+          "title": "Domyos halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431317871-domyos-halterbank"
         }
       }
     },
@@ -46390,7 +46444,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T17:02:56.233409+00:00",
+    "last_checked_at": "2026-08-15T17:31:57.849970+00:00",
     "outage_alert_sent": false
   }
 }
