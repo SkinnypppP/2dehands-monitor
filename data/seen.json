@@ -8054,6 +8054,12 @@
           "price_display": "€ 235,00",
           "title": "Akoestische gitaat Tanglewood TRD HR - nieuwstaat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431095523-akoestische-gitaat-tanglewood-trd-hr-nieuwstaat"
+        },
+        "m2431105853": {
+          "first_seen_at": "2026-08-15T09:43:53.561597+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431105853-gitaar"
         }
       }
     },
@@ -16920,6 +16926,12 @@
           "price_display": "€ 30,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431075737-hometrainer"
+        },
+        "m2431111223": {
+          "first_seen_at": "2026-08-15T09:43:25.404888+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431111223-loopband"
         }
       }
     },
@@ -36959,6 +36971,18 @@
           "price_display": "€ 250,00",
           "title": "Plateforme vibrante (contre les douleurs dorsales)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431096410-plateforme-vibrante-contre-les-douleurs-dorsales"
+        },
+        "m2431104278": {
+          "first_seen_at": "2026-08-15T09:43:01.524069+00:00",
+          "price_display": "€ 395,00",
+          "title": "Body Solid heavy duty verstelbare bank - bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431104278-body-solid-heavy-duty-verstelbare-bank-bench"
+        },
+        "m2431109900": {
+          "first_seen_at": "2026-08-15T09:43:01.524069+00:00",
+          "price_display": "€ 20,00",
+          "title": "fitness optrekstang voor in deurkader",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431109900-fitness-optrekstang-voor-in-deurkader"
         }
       }
     },
@@ -40036,6 +40060,18 @@
           "price_display": "€ 120,00",
           "title": "Bullpadel neuron edge 2 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431041168-bullpadel-neuron-edge-2-2026"
+        },
+        "m2431100683": {
+          "first_seen_at": "2026-08-15T09:43:12.867925+00:00",
+          "price_display": "€ 150,00",
+          "title": "Babolat Technical Viper 3.0 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431100683-babolat-technical-viper-3-0-2026"
+        },
+        "m2431102117": {
+          "first_seen_at": "2026-08-15T09:43:12.867925+00:00",
+          "price_display": "€ 95,00",
+          "title": "Chaussures padel neuve",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431102117-chaussures-padel-neuve"
         }
       }
     },
@@ -45579,6 +45615,12 @@
           "price_display": "€ 150,00",
           "title": "Casio CDP-100",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431086232-casio-cdp-100"
+        },
+        "m2431104117": {
+          "first_seen_at": "2026-08-15T09:43:46.326376+00:00",
+          "price_display": "€ 4.500,00",
+          "title": "Yamaha B2 2017 + verstelbare piano stoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431104117-yamaha-b2-2017-verstelbare-piano-stoel"
         }
       }
     }
@@ -45586,7 +45628,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T09:12:54.220795+00:00",
+    "last_checked_at": "2026-08-15T09:43:53.891253+00:00",
     "outage_alert_sent": false
   }
 }
