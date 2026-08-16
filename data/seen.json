@@ -8498,6 +8498,12 @@
           "price_display": "€ 50,00",
           "title": "Ukelele Sopraan , Stagg US-TIKI AH Tiki-serie Nieuw !!!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431717380-ukelele-sopraan-stagg-us-tiki-ah-tiki-serie-nieuw"
+        },
+        "m2431734781": {
+          "first_seen_at": "2026-08-16T19:58:30.314529+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Suzuki Flamengo gitaar 1974 made in Japan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431734781-suzuki-flamengo-gitaar-1974-made-in-japan"
         }
       }
     },
@@ -47980,7 +47986,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T19:43:23.969426+00:00",
+    "last_checked_at": "2026-08-16T19:58:32.390643+00:00",
     "outage_alert_sent": false
   }
 }
