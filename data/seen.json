@@ -8438,6 +8438,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Simon & Patrick Woodland Pro Spruce SG",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431654524-simon-patrick-woodland-pro-spruce-sg"
+        },
+        "m2431663212": {
+          "first_seen_at": "2026-08-16T16:18:25.477052+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Fender acoustische gitaar junior 3/4",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431663212-fender-acoustische-gitaar-junior-3-4"
         }
       }
     },
@@ -38771,6 +38777,12 @@
           "price_display": "€ 79,95",
           "title": "Domyos Thuisgym pakket (Halters, halterschijven, kttlebell",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431657992-domyos-thuisgym-pakket-halters-halterschijven-kttlebell"
+        },
+        "m2431659089": {
+          "first_seen_at": "2026-08-16T16:17:32.554337+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Twist & Shape",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431659089-twist-shape"
         }
       }
     },
@@ -47649,6 +47661,18 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "digitale piano Fasley FSP-200",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431619043-digitale-piano-fasley-fsp-200"
+        },
+        "m2431659332": {
+          "first_seen_at": "2026-08-16T16:18:13.736120+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Digitale piano Roland KR 4500",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431659332-digitale-piano-roland-kr-4500"
+        },
+        "m2431666147": {
+          "first_seen_at": "2026-08-16T16:18:13.736120+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Wersi Prisma DX5 Elektronisch Orgel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431666147-wersi-prisma-dx5-elektronisch-orgel"
         }
       }
     }
@@ -47656,7 +47680,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T15:56:02.834284+00:00",
+    "last_checked_at": "2026-08-16T16:18:26.165370+00:00",
     "outage_alert_sent": false
   }
 }
