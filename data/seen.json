@@ -8414,6 +8414,12 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Gitaar + gitaartas + startersboekje",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431616413-gitaar-gitaartas-startersboekje"
+        },
+        "m2431633017": {
+          "first_seen_at": "2026-08-16T14:55:41.611392+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431633017-gitaar"
         }
       }
     },
@@ -12031,6 +12037,12 @@
           "price_display": "€ 55,00",
           "title": "Gouden Munt Rwanda 10 FRW 2018 Panda – 1/100 oz 999,9 Goud",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431579720-gouden-munt-rwanda-10-frw-2018-panda-1-100-oz-999-9-goud"
+        },
+        "m2431630277": {
+          "first_seen_at": "2026-08-16T14:55:22.071469+00:00",
+          "price_display": "€ 120,00",
+          "title": "SSD M2",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431630277-ssd-m2"
         }
       }
     },
@@ -38645,6 +38657,18 @@
           "price_display": "€ 80,00",
           "title": "DOMYOS Rack de musculation 120 kg pliable",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431622914-domyos-rack-de-musculation-120-kg-pliable"
+        },
+        "m2431624408": {
+          "first_seen_at": "2026-08-16T14:54:40.846209+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Gewichtjes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431624408-gewichtjes"
+        },
+        "m2431632823": {
+          "first_seen_at": "2026-08-16T14:54:40.846209+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Schijvenrek, verchroomd, voor dumbbells en langere stangen.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431632823-schijvenrek-verchroomd-voor-dumbbells-en-langere-stangen"
         }
       }
     },
@@ -47518,7 +47542,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T14:35:27.842775+00:00",
+    "last_checked_at": "2026-08-16T14:55:43.135036+00:00",
     "outage_alert_sent": false
   }
 }
