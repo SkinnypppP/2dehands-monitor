@@ -39035,6 +39035,12 @@
           "price_display": "Bieden vanaf € 140,00",
           "title": "Hex bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431725923-hex-bar"
+        },
+        "m2431731115": {
+          "first_seen_at": "2026-08-16T19:42:40.598769+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431731115-hometrainer"
         }
       }
     },
@@ -47961,6 +47967,12 @@
           "price_display": "Zie omschrijving",
           "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431728212-digitale-roland-bk-5-backing-keyboard-nieuw"
+        },
+        "m2431732259": {
+          "first_seen_at": "2026-08-16T19:43:13.055971+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431732259-piano"
         }
       }
     }
@@ -47968,7 +47980,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T19:26:26.734646+00:00",
+    "last_checked_at": "2026-08-16T19:43:23.969426+00:00",
     "outage_alert_sent": false
   }
 }
