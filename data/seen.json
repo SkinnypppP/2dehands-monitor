@@ -8336,6 +8336,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "richwood gypsy gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431506877-richwood-gypsy-gitaar"
+        },
+        "m2431511807": {
+          "first_seen_at": "2026-08-16T11:02:28.709953+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Klassieke gitaar - Valeriano Bernal 1993",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431511807-klassieke-gitaar-valeriano-bernal-1993"
         }
       }
     },
@@ -17532,6 +17538,12 @@
           "price_display": "Bieden vanaf € 165,00",
           "title": "loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431507127-loopband"
+        },
+        "m2431510578": {
+          "first_seen_at": "2026-08-16T11:01:50.226860+00:00",
+          "price_display": "€ 100,00",
+          "title": "Domyos Biking VS930 spinning",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431510578-domyos-biking-vs930-spinning"
         }
       }
     },
@@ -38255,6 +38267,30 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Ninebot zt3 pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431502734-ninebot-zt3-pro"
+        },
+        "m2431511490": {
+          "first_seen_at": "2026-08-16T11:01:27.718081+00:00",
+          "price_display": "€ 50,00",
+          "title": "Verkoop 20kg kettlebel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431511490-verkoop-20kg-kettlebel"
+        },
+        "m2431511769": {
+          "first_seen_at": "2026-08-16T11:01:27.718081+00:00",
+          "price_display": "€ 39,00",
+          "title": "Pull up bar voor jouw outdoor gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431511769-pull-up-bar-voor-jouw-outdoor-gym"
+        },
+        "m2431512514": {
+          "first_seen_at": "2026-08-16T11:01:27.718081+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "bench press met dumbells (alles voor fitness)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431512514-bench-press-met-dumbells-alles-voor-fitness"
+        },
+        "m2431514141": {
+          "first_seen_at": "2026-08-16T11:01:27.718081+00:00",
+          "price_display": "€ 100,00",
+          "title": "Gym materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431514141-gym-materiaal"
         }
       }
     },
@@ -41368,6 +41404,12 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "Bullpadel Vertex 05 hybrid 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431478940-bullpadel-vertex-05-hybrid-2026"
+        },
+        "m2431508789": {
+          "first_seen_at": "2026-08-16T11:01:38.735962+00:00",
+          "price_display": "€ 150,00",
+          "title": "Nox at10 genius 18k alu",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431508789-nox-at10-genius-18k-alu"
         }
       }
     },
@@ -47068,7 +47110,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T10:47:40.484760+00:00",
+    "last_checked_at": "2026-08-16T11:02:30.179425+00:00",
     "outage_alert_sent": false
   }
 }
