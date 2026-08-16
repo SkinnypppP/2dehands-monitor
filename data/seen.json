@@ -8282,6 +8282,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Cuenca 10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431426423-cuenca-10"
+        },
+        "m2431454208": {
+          "first_seen_at": "2026-08-16T09:10:21.580730+00:00",
+          "price_display": "€ 550,00",
+          "title": "Francisco Esteve 4 + hardcase",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431454208-francisco-esteve-4-hardcase"
+        },
+        "m2431456295": {
+          "first_seen_at": "2026-08-16T09:10:21.580730+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "martin smith akoestisch gitaar te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431456295-martin-smith-akoestisch-gitaar-te-koop"
         }
       }
     },
@@ -17430,6 +17442,18 @@
           "price_display": "€ 120,00",
           "title": "Crosstrainer Infinity",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431438483-crosstrainer-infinity"
+        },
+        "m2431447995": {
+          "first_seen_at": "2026-08-16T09:09:39.668851+00:00",
+          "price_display": "€ 350,00",
+          "title": "Tapis de course",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431447995-tapis-de-course"
+        },
+        "m2431455744": {
+          "first_seen_at": "2026-08-16T09:09:39.668851+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "TUNTURI SIGNATURE E40 HOMETRAINER",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431455744-tunturi-signature-e40-hometrainer"
         }
       }
     },
@@ -46821,6 +46845,12 @@
           "price_display": "€ 129,00",
           "title": "Yamaha NP-12 Portable Grand",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431438278-yamaha-np-12-portable-grand"
+        },
+        "m2431452091": {
+          "first_seen_at": "2026-08-16T09:10:09.932028+00:00",
+          "price_display": "€ 15.000,00",
+          "title": "Yamaha C3 E vleugel uit 1991 – zeer mooie staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431452091-yamaha-c3-e-vleugel-uit-1991-zeer-mooie-staat"
         }
       }
     }
@@ -46828,7 +46858,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T08:43:04.526132+00:00",
+    "last_checked_at": "2026-08-16T09:10:23.562634+00:00",
     "outage_alert_sent": false
   }
 }
