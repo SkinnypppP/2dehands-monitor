@@ -8324,6 +8324,18 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Archtop van Egmont",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431494193-archtop-van-egmont"
+        },
+        "m2431500296": {
+          "first_seen_at": "2026-08-16T10:47:36.265846+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Red Hill Resonator Guitar (Dobro) - In goede staat!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431500296-red-hill-resonator-guitar-dobro-in-goede-staat"
+        },
+        "m2431506877": {
+          "first_seen_at": "2026-08-16T10:47:36.265846+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "richwood gypsy gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431506877-richwood-gypsy-gitaar"
         }
       }
     },
@@ -11863,6 +11875,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "pièces or 40fr",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431406110-pieces-or-40fr"
+        },
+        "m2431504174": {
+          "first_seen_at": "2026-08-16T10:47:16.742573+00:00",
+          "price_display": "€ 157,00",
+          "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431504174-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
         }
       }
     },
@@ -17502,6 +17520,18 @@
           "price_display": "€ 250,00",
           "title": "Fit Bike Ride 5 hometrainer – zo goed als nieuw – bieden mag",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431494932-fit-bike-ride-5-hometrainer-zo-goed-als-nieuw-bieden-mag"
+        },
+        "m2431503671": {
+          "first_seen_at": "2026-08-16T10:47:06.913729+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Roeitoestel christopeit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431503671-roeitoestel-christopeit"
+        },
+        "m2431507127": {
+          "first_seen_at": "2026-08-16T10:47:06.913729+00:00",
+          "price_display": "Bieden vanaf € 165,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431507127-loopband"
         }
       }
     },
@@ -38207,6 +38237,24 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "ATX schijven te koop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431492489-atx-schijven-te-koop"
+        },
+        "m2431495012": {
+          "first_seen_at": "2026-08-16T10:46:44.315017+00:00",
+          "price_display": "€ 135,00",
+          "title": "dumbells 2 x 24 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431495012-dumbells-2-x-24-kg"
+        },
+        "m2431502149": {
+          "first_seen_at": "2026-08-16T10:46:44.315017+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitnessmateriaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431502149-fitnessmateriaal"
+        },
+        "m2431502734": {
+          "first_seen_at": "2026-08-16T10:46:44.315017+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Ninebot zt3 pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431502734-ninebot-zt3-pro"
         }
       }
     },
@@ -47020,7 +47068,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T10:22:17.194075+00:00",
+    "last_checked_at": "2026-08-16T10:47:40.484760+00:00",
     "outage_alert_sent": false
   }
 }
