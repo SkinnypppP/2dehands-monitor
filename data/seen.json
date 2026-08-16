@@ -8474,6 +8474,12 @@
           "price_display": "Bieden vanaf € 260,00",
           "title": "Sigma DM15 mahoniehouten gitaar + tas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431687349-sigma-dm15-mahoniehouten-gitaar-tas"
+        },
+        "m2431706484": {
+          "first_seen_at": "2026-08-16T18:38:28.365729+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Sologitarist  blues soul",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431706484-sologitarist-blues-soul"
         }
       }
     },
@@ -12115,6 +12121,12 @@
           "price_display": "€ 950,00",
           "title": "gouden tientje koningin Wilhelmina 1912 aan goud hanger",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431697670-gouden-tientje-koningin-wilhelmina-1912-aan-goud-hanger"
+        },
+        "m2431709006": {
+          "first_seen_at": "2026-08-16T18:38:07.152449+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Germania mint 1 oz (in seal)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431709006-germania-mint-1-oz-in-seal"
         }
       }
     },
@@ -38915,6 +38927,36 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Technogym loopband Run Forma van 2006",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431697887-technogym-loopband-run-forma-van-2006"
+        },
+        "m2431705409": {
+          "first_seen_at": "2026-08-16T18:37:30.725420+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "benchpress",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431705409-benchpress"
+        },
+        "m2431706982": {
+          "first_seen_at": "2026-08-16T18:37:30.725420+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "volledige halterset bestaande uit 2x moer, 4x 5kg en 30mm st",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431706982-volledige-halterset-bestaande-uit-2x-moer-4x-5kg-en-30mm-st"
+        },
+        "m2431709145": {
+          "first_seen_at": "2026-08-16T18:37:30.725420+00:00",
+          "price_display": "€ 190,00",
+          "title": "2 x 24 kg verstelbare bumbels bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431709145-2-x-24-kg-verstelbare-bumbels-bankje"
+        },
+        "m2431709263": {
+          "first_seen_at": "2026-08-16T18:37:30.725420+00:00",
+          "price_display": "€ 25,00",
+          "title": "Domyos BI 460 - verstelbare fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431709263-domyos-bi-460-verstelbare-fitnessbank"
+        },
+        "m2431709658": {
+          "first_seen_at": "2026-08-16T18:37:30.725420+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Rameur Domyos 100",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431709658-rameur-domyos-100"
         }
       }
     },
@@ -47836,7 +47878,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T18:00:36.860390+00:00",
+    "last_checked_at": "2026-08-16T18:38:29.015001+00:00",
     "outage_alert_sent": false
   }
 }
