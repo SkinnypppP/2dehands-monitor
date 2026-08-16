@@ -8372,6 +8372,18 @@
           "price_display": "€ 250,00",
           "title": "Alhambra 1C Klassieke Gitaar–Complete Set Koffer + Voetsteun",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431533558-alhambra-1c-klassieke-gitaar-complete-set-koffer-voetsteun"
+        },
+        "m2431544602": {
+          "first_seen_at": "2026-08-16T12:27:52.937429+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "Taylor 214ce-SB DLX Gaucher (Sunburst)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431544602-taylor-214ce-sb-dlx-gaucher-sunburst"
+        },
+        "m2431549240": {
+          "first_seen_at": "2026-08-16T12:27:52.937429+00:00",
+          "price_display": "€ 65,00",
+          "title": "Gitaar Nashville",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431549240-gitaar-nashville"
         }
       }
     },
@@ -17640,6 +17652,30 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Vertical climber Gorilla Sports",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431527800-vertical-climber-gorilla-sports"
+        },
+        "m2431545416": {
+          "first_seen_at": "2026-08-16T12:27:19.132109+00:00",
+          "price_display": "€ 310,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431545416-crosstrainer"
+        },
+        "m2431553653": {
+          "first_seen_at": "2026-08-16T12:27:19.132109+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Fitness Kracht Station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431553653-fitness-kracht-station"
+        },
+        "m2431554681": {
+          "first_seen_at": "2026-08-16T12:27:19.132109+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Spinfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431554681-spinfiets"
+        },
+        "m2431559940": {
+          "first_seen_at": "2026-08-16T12:27:19.132109+00:00",
+          "price_display": "Bieden vanaf € 800,00",
+          "title": "Virtufit loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431559940-virtufit-loopband"
         }
       }
     },
@@ -38441,6 +38477,36 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "Krachtstation / fitnesstoestel.Body Solid",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431539924-krachtstation-fitnesstoestel-body-solid"
+        },
+        "m2431543330": {
+          "first_seen_at": "2026-08-16T12:26:48.825378+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "chest press te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431543330-chest-press-te-koop"
+        },
+        "m2431543748": {
+          "first_seen_at": "2026-08-16T12:26:48.825378+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Bumperplates",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431543748-bumperplates"
+        },
+        "m2431547272": {
+          "first_seen_at": "2026-08-16T12:26:48.825378+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Back extension/ hyper extension",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431547272-back-extension-hyper-extension"
+        },
+        "m2431547812": {
+          "first_seen_at": "2026-08-16T12:26:48.825378+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Loopband klarfit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431547812-loopband-klarfit"
+        },
+        "m2431559344": {
+          "first_seen_at": "2026-08-16T12:26:48.825378+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "U-vormige Twister arm- en borsttrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431559344-u-vormige-twister-arm-en-borsttrainer"
         }
       }
     },
@@ -47278,7 +47344,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T11:53:42.876410+00:00",
+    "last_checked_at": "2026-08-16T12:27:55.638058+00:00",
     "outage_alert_sent": false
   }
 }
