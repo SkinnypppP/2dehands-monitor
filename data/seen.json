@@ -37967,6 +37967,18 @@
           "price_display": "€ 425,00",
           "title": "Professioneel opbergrek met accesoires",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431412099-professioneel-opbergrek-met-accesoires"
+        },
+        "m2431421612": {
+          "first_seen_at": "2026-08-16T07:43:49.567775+00:00",
+          "price_display": "€ 45,00",
+          "title": "Haltères réglables 15 Kg x 2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431421612-halteres-reglables-15-kg-x-2"
+        },
+        "m2431421911": {
+          "first_seen_at": "2026-08-16T07:43:49.567775+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Bowflex Type Verstelbare Dumbbells 2x 24 kg - Als Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431421911-bowflex-type-verstelbare-dumbbells-2x-24-kg-als-nieuw"
         }
       }
     },
@@ -46744,7 +46756,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T07:10:55.240814+00:00",
+    "last_checked_at": "2026-08-16T07:44:43.980582+00:00",
     "outage_alert_sent": false
   }
 }
