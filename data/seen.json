@@ -8444,6 +8444,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Fender acoustische gitaar junior 3/4",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431663212-fender-acoustische-gitaar-junior-3-4"
+        },
+        "m2431669107": {
+          "first_seen_at": "2026-08-16T16:45:26.611776+00:00",
+          "price_display": "Bieden vanaf € 525,00",
+          "title": "Akoestische gitaar Seagull S6 original QIT",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431669107-akoestische-gitaar-seagull-s6-original-qit"
+        },
+        "m2431671166": {
+          "first_seen_at": "2026-08-16T16:45:26.611776+00:00",
+          "price_display": "Bieden vanaf € 490,00",
+          "title": "Eastman - PCH3-GACE-TBK - Elektro-akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431671166-eastman-pch3-gace-tbk-elektro-akoestische-gitaar"
         }
       }
     },
@@ -12067,6 +12079,18 @@
           "price_display": "€ 120,00",
           "title": "SSD M2",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431630277-ssd-m2"
+        },
+        "m2431668832": {
+          "first_seen_at": "2026-08-16T16:45:06.769690+00:00",
+          "price_display": "€ 250,00",
+          "title": "Umicore 100 g zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431668832-umicore-100-g-zilver"
+        },
+        "m2431669910": {
+          "first_seen_at": "2026-08-16T16:45:06.769690+00:00",
+          "price_display": "€ 150,00",
+          "title": "50 g Umicore Degussa Ingot",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431669910-50-g-umicore-degussa-ingot"
         }
       }
     },
@@ -17808,6 +17832,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo appartement Domyos FC50",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431656757-velo-appartement-domyos-fc50"
+        },
+        "m2431670970": {
+          "first_seen_at": "2026-08-16T16:44:57.483004+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Keiser M3 indoor cycle",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431670970-keiser-m3-indoor-cycle"
         }
       }
     },
@@ -38783,6 +38813,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Twist & Shape",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431659089-twist-shape"
+        },
+        "m2431666380": {
+          "first_seen_at": "2026-08-16T16:44:33.211537+00:00",
+          "price_display": "€ 180,00",
+          "title": "Abb / buikspier trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431666380-abb-buikspier-trainer"
+        },
+        "m2431669108": {
+          "first_seen_at": "2026-08-16T16:44:33.211537+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431669108-loopband"
         }
       }
     },
@@ -47673,6 +47715,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Wersi Prisma DX5 Elektronisch Orgel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431666147-wersi-prisma-dx5-elektronisch-orgel"
+        },
+        "m2431669704": {
+          "first_seen_at": "2026-08-16T16:45:17.608598+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431669704-piano"
         }
       }
     }
@@ -47680,7 +47728,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T16:18:26.165370+00:00",
+    "last_checked_at": "2026-08-16T16:45:29.318629+00:00",
     "outage_alert_sent": false
   }
 }
