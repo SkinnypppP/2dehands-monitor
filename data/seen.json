@@ -17856,6 +17856,12 @@
           "price_display": "Bieden vanaf € 950,00",
           "title": "Keiser M3 indoor cycle",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431670970-keiser-m3-indoor-cycle"
+        },
+        "m2431692733": {
+          "first_seen_at": "2026-08-16T17:48:38.020563+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Vélo d’appartement Domyos Essential 03",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431692733-velo-d-appartement-domyos-essential-03"
         }
       }
     },
@@ -38873,6 +38879,12 @@
           "price_display": "€ 20,00",
           "title": "Krachtbal Everlast 5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431689122-krachtbal-everlast-5kg"
+        },
+        "m2431696281": {
+          "first_seen_at": "2026-08-16T17:48:21.240993+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Gewichtheffen/halterstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431696281-gewichtheffen-halterstang"
         }
       }
     },
@@ -47775,6 +47787,18 @@
           "price_display": "€ 120,00",
           "title": "Thomann SP 320",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431689297-thomann-sp-320"
+        },
+        "m2431690867": {
+          "first_seen_at": "2026-08-16T17:48:59.487838+00:00",
+          "price_display": "€ 650,00",
+          "title": "Digitale (stage)piano(set) - Yamaha P-255B",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431690867-digitale-stage-piano-set-yamaha-p-255b"
+        },
+        "m2431693607": {
+          "first_seen_at": "2026-08-16T17:48:59.487838+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Piano d'éveil musical Vtec",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431693607-piano-d-eveil-musical-vtec"
         }
       }
     }
@@ -47782,7 +47806,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T17:30:42.673913+00:00",
+    "last_checked_at": "2026-08-16T17:49:08.207491+00:00",
     "outage_alert_sent": false
   }
 }
