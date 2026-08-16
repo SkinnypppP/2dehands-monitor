@@ -8390,6 +8390,24 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Red Hill elektro-akoestisch",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431573747-red-hill-elektro-akoestisch"
+        },
+        "m2431586568": {
+          "first_seen_at": "2026-08-16T13:43:43.270460+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Guild OM-150 Westerly Collection + pickup",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431586568-guild-om-150-westerly-collection-pickup"
+        },
+        "m2431589832": {
+          "first_seen_at": "2026-08-16T13:43:43.270460+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "gitaar alhambra mod. 1C",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431589832-gitaar-alhambra-mod-1c"
+        },
+        "m2431590313": {
+          "first_seen_at": "2026-08-16T13:43:43.270460+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431590313-gitaar"
         }
       }
     },
@@ -38555,6 +38573,18 @@
           "price_display": "€ 20,00",
           "title": "TOGU MyBall fitnessbal",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431574153-togu-myball-fitnessbal"
+        },
+        "m2431585990": {
+          "first_seen_at": "2026-08-16T13:42:55.543147+00:00",
+          "price_display": "€ 80,00",
+          "title": "Barre de traction",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431585990-barre-de-traction"
+        },
+        "m2431591408": {
+          "first_seen_at": "2026-08-16T13:42:55.543147+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Halterstangen en -schijven / pakket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431591408-halterstangen-en-schijven-pakket"
         }
       }
     },
@@ -47385,6 +47415,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431540556-piano"
+        },
+        "m2431587294": {
+          "first_seen_at": "2026-08-16T13:43:35.203100+00:00",
+          "price_display": "Bieden vanaf € 699,00",
+          "title": "buffet piano, mahonie hout,",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431587294-buffet-piano-mahonie-hout"
         }
       }
     }
@@ -47392,7 +47428,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T13:10:25.100106+00:00",
+    "last_checked_at": "2026-08-16T13:43:45.789523+00:00",
     "outage_alert_sent": false
   }
 }
