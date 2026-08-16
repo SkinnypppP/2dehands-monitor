@@ -8432,6 +8432,12 @@
           "price_display": "€ 250,00",
           "title": "Esteve-gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431648794-esteve-gitaar"
+        },
+        "m2431654524": {
+          "first_seen_at": "2026-08-16T15:56:01.607495+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Simon & Patrick Woodland Pro Spruce SG",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431654524-simon-patrick-woodland-pro-spruce-sg"
         }
       }
     },
@@ -17784,6 +17790,18 @@
           "price_display": "€ 50,00",
           "title": "hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431645271-hometrainer"
+        },
+        "m2431656754": {
+          "first_seen_at": "2026-08-16T15:55:35.186279+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "vélo d'appartement -- home trainer Decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431656754-velo-d-appartement-home-trainer-decathlon"
+        },
+        "m2431656757": {
+          "first_seen_at": "2026-08-16T15:55:35.186279+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vélo appartement Domyos FC50",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431656757-velo-appartement-domyos-fc50"
         }
       }
     },
@@ -38741,6 +38759,18 @@
           "price_display": "€ 5,00",
           "title": "Nike push up handles + abbs roller",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431651181-nike-push-up-handles-abbs-roller"
+        },
+        "m2431655155": {
+          "first_seen_at": "2026-08-16T15:55:13.592041+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank, zeer degelijk, nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431655155-schitterende-fitnessbank-zeer-degelijk-nieuw"
+        },
+        "m2431657992": {
+          "first_seen_at": "2026-08-16T15:55:13.592041+00:00",
+          "price_display": "€ 79,95",
+          "title": "Domyos Thuisgym pakket (Halters, halterschijven, kttlebell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431657992-domyos-thuisgym-pakket-halters-halterschijven-kttlebell"
         }
       }
     },
@@ -42183,6 +42213,12 @@
           "price_display": "€ 59.500,00",
           "title": "Piano, Vleugel Steinway & Sons B 1973",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2410674498-piano-vleugel-steinway-sons-b-1973"
+        },
+        "m2410965773": {
+          "first_seen_at": "2026-08-16T15:55:53.977195+00:00",
+          "price_display": "€ 500,00",
+          "title": "Piano droit Van Hyfte (Gand) avec tabouret – 1940",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2410965773-piano-droit-van-hyfte-gand-avec-tabouret-1940"
         },
         "m2411624538": {
           "first_seen_at": "2026-07-28T21:18:51.258692+00:00",
@@ -47620,7 +47656,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T15:39:35.500392+00:00",
+    "last_checked_at": "2026-08-16T15:56:02.834284+00:00",
     "outage_alert_sent": false
   }
 }
