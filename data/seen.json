@@ -8312,6 +8312,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fender Paramount PM-3 Triple-0 All Mahogany",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431482426-fender-paramount-pm-3-triple-0-all-mahogany"
+        },
+        "m2431492547": {
+          "first_seen_at": "2026-08-16T10:22:14.894482+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Klassieke gitaar ( Korea ) met koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431492547-klassieke-gitaar-korea-met-koffer"
+        },
+        "m2431494193": {
+          "first_seen_at": "2026-08-16T10:22:14.894482+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Archtop van Egmont",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431494193-archtop-van-egmont"
         }
       }
     },
@@ -17484,6 +17496,12 @@
           "price_display": "€ 240,00",
           "title": "Rameur à eau Merach R28",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431469842-rameur-a-eau-merach-r28"
+        },
+        "m2431494932": {
+          "first_seen_at": "2026-08-16T10:21:47.317548+00:00",
+          "price_display": "€ 250,00",
+          "title": "Fit Bike Ride 5 hometrainer – zo goed als nieuw – bieden mag",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431494932-fit-bike-ride-5-hometrainer-zo-goed-als-nieuw-bieden-mag"
         }
       }
     },
@@ -38165,6 +38183,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Technogym elliptical home",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431464181-technogym-elliptical-home"
+        },
+        "m2431486497": {
+          "first_seen_at": "2026-08-16T10:21:24.854272+00:00",
+          "price_display": "€ 1.399,99",
+          "title": "Dualix Montaro Stair Climber Trappenloper Stairmaster Climb",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431486497-dualix-montaro-stair-climber-trappenloper-stairmaster-climb"
+        },
+        "m2431487752": {
+          "first_seen_at": "2026-08-16T10:21:24.854272+00:00",
+          "price_display": "€ 1.484,00",
+          "title": "Dualix all-in-one Dual Krachtstation Multistation 200kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431487752-dualix-all-in-one-dual-krachtstation-multistation-200kg"
+        },
+        "m2431491686": {
+          "first_seen_at": "2026-08-16T10:21:24.854272+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness pedalen exerciser",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431491686-fitness-pedalen-exerciser"
+        },
+        "m2431492489": {
+          "first_seen_at": "2026-08-16T10:21:24.854272+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "ATX schijven te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431492489-atx-schijven-te-koop"
         }
       }
     },
@@ -46978,7 +47020,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T09:57:56.203349+00:00",
+    "last_checked_at": "2026-08-16T10:22:17.194075+00:00",
     "outage_alert_sent": false
   }
 }
