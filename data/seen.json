@@ -37907,6 +37907,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Powerline smithmachine PSM144X",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431398931-powerline-smithmachine-psm144x"
+        },
+        "m2431402629": {
+          "first_seen_at": "2026-08-16T06:29:32.518194+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431402629-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
         }
       }
     },
@@ -46684,7 +46690,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T05:52:28.582257+00:00",
+    "last_checked_at": "2026-08-16T06:30:18.475723+00:00",
     "outage_alert_sent": false
   }
 }
