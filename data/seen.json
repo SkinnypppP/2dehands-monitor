@@ -8456,6 +8456,24 @@
           "price_display": "Bieden vanaf € 490,00",
           "title": "Eastman - PCH3-GACE-TBK - Elektro-akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431671166-eastman-pch3-gace-tbk-elektro-akoestische-gitaar"
+        },
+        "m2431685750": {
+          "first_seen_at": "2026-08-16T17:30:38.996789+00:00",
+          "price_display": "Bieden vanaf € 3.150,00",
+          "title": "Atkin OM-H",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431685750-atkin-om-h"
+        },
+        "m2431685830": {
+          "first_seen_at": "2026-08-16T17:30:38.996789+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Guitare enfant 1/2",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431685830-guitare-enfant-1-2"
+        },
+        "m2431687349": {
+          "first_seen_at": "2026-08-16T17:30:38.996789+00:00",
+          "price_display": "Bieden vanaf € 260,00",
+          "title": "Sigma DM15 mahoniehouten gitaar + tas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431687349-sigma-dm15-mahoniehouten-gitaar-tas"
         }
       }
     },
@@ -38849,6 +38867,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Banc de musculation Domyos plus barre et 2 fois 10kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431680125-banc-de-musculation-domyos-plus-barre-et-2-fois-10kg"
+        },
+        "m2431689122": {
+          "first_seen_at": "2026-08-16T17:29:50.432025+00:00",
+          "price_display": "€ 20,00",
+          "title": "Krachtbal Everlast 5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431689122-krachtbal-everlast-5kg"
         }
       }
     },
@@ -47745,6 +47769,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431669704-piano"
+        },
+        "m2431689297": {
+          "first_seen_at": "2026-08-16T17:30:28.052820+00:00",
+          "price_display": "€ 120,00",
+          "title": "Thomann SP 320",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431689297-thomann-sp-320"
         }
       }
     }
@@ -47752,7 +47782,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T17:02:58.429022+00:00",
+    "last_checked_at": "2026-08-16T17:30:42.673913+00:00",
     "outage_alert_sent": false
   }
 }
