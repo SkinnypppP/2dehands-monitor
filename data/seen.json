@@ -8480,6 +8480,24 @@
           "price_display": "Zie omschrijving",
           "title": "Sologitarist  blues soul",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431706484-sologitarist-blues-soul"
+        },
+        "m2431714755": {
+          "first_seen_at": "2026-08-16T19:00:36.416849+00:00",
+          "price_display": "€ 180,00",
+          "title": "Semi - Akoestische hollow body gitaar Fazley nieuw !",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431714755-semi-akoestische-hollow-body-gitaar-fazley-nieuw"
+        },
+        "m2431714839": {
+          "first_seen_at": "2026-08-16T19:00:36.416849+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Fender CD-60S All Mahogany",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431714839-fender-cd-60s-all-mahogany"
+        },
+        "m2431717380": {
+          "first_seen_at": "2026-08-16T19:00:36.416849+00:00",
+          "price_display": "€ 50,00",
+          "title": "Ukelele Sopraan , Stagg US-TIKI AH Tiki-serie Nieuw !!!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431717380-ukelele-sopraan-stagg-us-tiki-ah-tiki-serie-nieuw"
         }
       }
     },
@@ -12127,6 +12145,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Germania mint 1 oz (in seal)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431709006-germania-mint-1-oz-in-seal"
+        },
+        "m2431719482": {
+          "first_seen_at": "2026-08-16T19:00:20.710871+00:00",
+          "price_display": "Bieden vanaf € 2.050,00",
+          "title": "Zilverbaren emeko",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431719482-zilverbaren-emeko"
         }
       }
     },
@@ -17880,6 +17904,18 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "Vélo d’appartement Domyos Essential 03",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431692733-velo-d-appartement-domyos-essential-03"
+        },
+        "m2431715681": {
+          "first_seen_at": "2026-08-16T19:00:07.622075+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Hometrainer DKN",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431715681-hometrainer-dkn"
+        },
+        "m2431720935": {
+          "first_seen_at": "2026-08-16T19:00:07.622075+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Sven Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431720935-sven-crosstrainer"
         }
       }
     },
@@ -38957,6 +38993,24 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Rameur Domyos 100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431709658-rameur-domyos-100"
+        },
+        "m2431719565": {
+          "first_seen_at": "2026-08-16T18:59:47.325148+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Powerblock Sport EXP 5-90 Loadable Dumbbell Set 2-41 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431719565-powerblock-sport-exp-5-90-loadable-dumbbell-set-2-41-kg"
+        },
+        "m2431719666": {
+          "first_seen_at": "2026-08-16T18:59:47.325148+00:00",
+          "price_display": "€ 195,00",
+          "title": "XTERRA SB2.5 ligfiets / hometrainer – goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431719666-xterra-sb2-5-ligfiets-hometrainer-goede-staat"
+        },
+        "m2431720304": {
+          "first_seen_at": "2026-08-16T18:59:47.325148+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "vintage tummy trimmer - buikspiertrainer en weerstandsveer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431720304-vintage-tummy-trimmer-buikspiertrainer-en-weerstandsveer"
         }
       }
     },
@@ -47878,7 +47932,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T18:38:29.015001+00:00",
+    "last_checked_at": "2026-08-16T19:00:41.188289+00:00",
     "outage_alert_sent": false
   }
 }
