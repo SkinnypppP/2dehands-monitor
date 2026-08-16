@@ -8426,6 +8426,12 @@
           "price_display": "Bieden vanaf € 599,00",
           "title": "Simon & Patrick Woodland Pro Parlor Guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431637601-simon-patrick-woodland-pro-parlor-guitar"
+        },
+        "m2431648794": {
+          "first_seen_at": "2026-08-16T15:39:34.374761+00:00",
+          "price_display": "€ 250,00",
+          "title": "Esteve-gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431648794-esteve-gitaar"
         }
       }
     },
@@ -17772,6 +17778,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Schuine buikspierentrainer twist & shape",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431627626-schuine-buikspierentrainer-twist-shape"
+        },
+        "m2431645271": {
+          "first_seen_at": "2026-08-16T15:39:07.158983+00:00",
+          "price_display": "€ 50,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431645271-hometrainer"
         }
       }
     },
@@ -38717,6 +38729,18 @@
           "price_display": "€ 399,00",
           "title": "Home Trainer connecté ELITE DIRETO XR – Excellent état",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431642156-home-trainer-connecte-elite-direto-xr-excellent-etat"
+        },
+        "m2431648131": {
+          "first_seen_at": "2026-08-16T15:38:48.534970+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Kit de musculation pour la maison",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431648131-kit-de-musculation-pour-la-maison"
+        },
+        "m2431651181": {
+          "first_seen_at": "2026-08-16T15:38:48.534970+00:00",
+          "price_display": "€ 5,00",
+          "title": "Nike push up handles + abbs roller",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431651181-nike-push-up-handles-abbs-roller"
         }
       }
     },
@@ -47596,7 +47620,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T15:15:52.527329+00:00",
+    "last_checked_at": "2026-08-16T15:39:35.500392+00:00",
     "outage_alert_sent": false
   }
 }
