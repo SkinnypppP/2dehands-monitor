@@ -46617,6 +46617,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Elektrische piano Yamaha Clavinova CLP-440 voor onderdelen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431334194-elektrische-piano-yamaha-clavinova-clp-440-voor-onderdelen"
+        },
+        "m2431392350": {
+          "first_seen_at": "2026-08-16T04:18:30.639295+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Digitale piano Yamaha Clavinova CLP-430",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431392350-digitale-piano-yamaha-clavinova-clp-430"
         }
       }
     }
@@ -46624,7 +46630,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-15T22:40:57.694790+00:00",
+    "last_checked_at": "2026-08-16T04:18:37.790848+00:00",
     "outage_alert_sent": false
   }
 }
