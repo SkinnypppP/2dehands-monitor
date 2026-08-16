@@ -8504,6 +8504,18 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Suzuki Flamengo gitaar 1974 made in Japan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431734781-suzuki-flamengo-gitaar-1974-made-in-japan"
+        },
+        "m2431742664": {
+          "first_seen_at": "2026-08-16T20:46:02.512005+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Staanders voor gitaar, boek, voetensteun en metronoom",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431742664-staanders-voor-gitaar-boek-voetensteun-en-metronoom"
+        },
+        "m2431745383": {
+          "first_seen_at": "2026-08-16T20:46:02.512005+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar - beginner",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431745383-gitaar-beginner"
         }
       }
     },
@@ -48028,7 +48040,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T20:23:11.589127+00:00",
+    "last_checked_at": "2026-08-16T20:46:04.429547+00:00",
     "outage_alert_sent": false
   }
 }
