@@ -8384,6 +8384,12 @@
           "price_display": "€ 65,00",
           "title": "Gitaar Nashville",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431549240-gitaar-nashville"
+        },
+        "m2431573747": {
+          "first_seen_at": "2026-08-16T13:10:23.625460+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Red Hill elektro-akoestisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431573747-red-hill-elektro-akoestisch"
         }
       }
     },
@@ -11983,6 +11989,24 @@
           "price_display": "€ 1.350,00",
           "title": "#Lunar Horse 2026 zilver 1 ounce tube 20 munten BU",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431534882-lunar-horse-2026-zilver-1-ounce-tube-20-munten-bu"
+        },
+        "m2431565535": {
+          "first_seen_at": "2026-08-16T13:10:03.234530+00:00",
+          "price_display": "€ 65,00",
+          "title": "20x 1oz Wiener Philharmoniker",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431565535-20x-1oz-wiener-philharmoniker"
+        },
+        "m2431578545": {
+          "first_seen_at": "2026-08-16T13:10:03.234530+00:00",
+          "price_display": "€ 650,00",
+          "title": "Goud Umicore 5 gram, origineel sealed met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431578545-goud-umicore-5-gram-origineel-sealed-met-certificaat"
+        },
+        "m2431579720": {
+          "first_seen_at": "2026-08-16T13:10:03.234530+00:00",
+          "price_display": "€ 55,00",
+          "title": "Gouden Munt Rwanda 10 FRW 2018 Panda – 1/100 oz 999,9 Goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431579720-gouden-munt-rwanda-10-frw-2018-panda-1-100-oz-999-9-goud"
         }
       }
     },
@@ -17676,6 +17700,12 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Virtufit loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431559940-virtufit-loopband"
+        },
+        "m2431569162": {
+          "first_seen_at": "2026-08-16T13:09:53.414819+00:00",
+          "price_display": "Bieden vanaf € 299,00",
+          "title": "Hometrainer Fit Bike indoor cycles -  ride 6 i plus",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431569162-hometrainer-fit-bike-indoor-cycles-ride-6-i-plus"
         }
       }
     },
@@ -38507,6 +38537,24 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "U-vormige Twister arm- en borsttrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431559344-u-vormige-twister-arm-en-borsttrainer"
+        },
+        "m2431566459": {
+          "first_seen_at": "2026-08-16T13:09:30.105090+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Squat rack, bar en 90 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431566459-squat-rack-bar-en-90-kg"
+        },
+        "m2431573144": {
+          "first_seen_at": "2026-08-16T13:09:30.105090+00:00",
+          "price_display": "€ 20,00",
+          "title": "Buikbeugel Pro - Zwart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431573144-buikbeugel-pro-zwart"
+        },
+        "m2431574153": {
+          "first_seen_at": "2026-08-16T13:09:30.105090+00:00",
+          "price_display": "€ 20,00",
+          "title": "TOGU MyBall fitnessbal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431574153-togu-myball-fitnessbal"
         }
       }
     },
@@ -47344,7 +47392,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T12:27:55.638058+00:00",
+    "last_checked_at": "2026-08-16T13:10:25.100106+00:00",
     "outage_alert_sent": false
   }
 }
