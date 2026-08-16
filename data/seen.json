@@ -39137,6 +39137,12 @@
           "price_display": "€ 20,00",
           "title": "Halters en gewichten Domyos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431755651-halters-en-gewichten-domyos"
+        },
+        "m2431757627": {
+          "first_seen_at": "2026-08-16T22:14:25.229042+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Haltergewichtset met toevoeging van nieuwe schijven mogelijk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431757627-haltergewichtset-met-toevoeging-van-nieuwe-schijven-mogelijk"
         }
       }
     },
@@ -48088,7 +48094,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T21:55:19.967932+00:00",
+    "last_checked_at": "2026-08-16T22:15:10.542974+00:00",
     "outage_alert_sent": false
   }
 }
