@@ -17724,6 +17724,12 @@
           "price_display": "Bieden vanaf € 299,00",
           "title": "Hometrainer Fit Bike indoor cycles -  ride 6 i plus",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431569162-hometrainer-fit-bike-indoor-cycles-ride-6-i-plus"
+        },
+        "m2431603976": {
+          "first_seen_at": "2026-08-16T14:01:57.364079+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Spinningfiets Kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431603976-spinningfiets-kettler"
         }
       }
     },
@@ -38585,6 +38591,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Halterstangen en -schijven / pakket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431591408-halterstangen-en-schijven-pakket"
+        },
+        "m2431600128": {
+          "first_seen_at": "2026-08-16T14:01:36.113499+00:00",
+          "price_display": "€ 350,00",
+          "title": "Machine met 100kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431600128-machine-met-100kg"
         }
       }
     },
@@ -47421,6 +47433,12 @@
           "price_display": "Bieden vanaf € 699,00",
           "title": "buffet piano, mahonie hout,",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431587294-buffet-piano-mahonie-hout"
+        },
+        "m2431603320": {
+          "first_seen_at": "2026-08-16T14:02:14.443207+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roland Digital Piano HP 207e",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431603320-roland-digital-piano-hp-207e"
         }
       }
     }
@@ -47428,7 +47446,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T13:43:45.789523+00:00",
+    "last_checked_at": "2026-08-16T14:02:27.252414+00:00",
     "outage_alert_sent": false
   }
 }
