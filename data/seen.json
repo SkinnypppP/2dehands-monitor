@@ -8300,6 +8300,18 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Kindergitaar stagg",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431464509-kindergitaar-stagg"
+        },
+        "m2431475668": {
+          "first_seen_at": "2026-08-16T09:57:49.668574+00:00",
+          "price_display": "€ 250,00",
+          "title": "Célébrity by Ovation cc57",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431475668-celebrity-by-ovation-cc57"
+        },
+        "m2431482426": {
+          "first_seen_at": "2026-08-16T09:57:49.668574+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fender Paramount PM-3 Triple-0 All Mahogany",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431482426-fender-paramount-pm-3-triple-0-all-mahogany"
         }
       }
     },
@@ -41260,6 +41272,12 @@
           "price_display": "Bieden vanaf € 130,00",
           "title": "Padel spullen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431467578-padel-spullen"
+        },
+        "m2431478940": {
+          "first_seen_at": "2026-08-16T09:57:11.009893+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Bullpadel Vertex 05 hybrid 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431478940-bullpadel-vertex-05-hybrid-2026"
         }
       }
     },
@@ -46960,7 +46978,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T09:39:55.965353+00:00",
+    "last_checked_at": "2026-08-16T09:57:56.203349+00:00",
     "outage_alert_sent": false
   }
 }
