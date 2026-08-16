@@ -543,17 +543,35 @@
           "title": "Fender - Telecaster TL52-75 - - Elektrische gitaar - Japan -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475634-fender-telecaster-tl52-75-elektrische-gitaar-japan"
         },
+        "a165475636": {
+          "first_seen_at": "2026-08-16T04:54:07.408602+00:00",
+          "price_display": "€ 380,00",
+          "title": "Epiphone - Limited Edition Casino Coupe Inverness Green - -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475636-epiphone-limited-edition-casino-coupe-inverness-green"
+        },
         "a165475642": {
           "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
           "price_display": "€ 111,00",
           "title": "Yamaha - Dynamic Guitar No. 10 - - Akoestische gitaar -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475642-yamaha-dynamic-guitar-no-10-akoestische-gitaar"
         },
+        "a165476666": {
+          "first_seen_at": "2026-08-16T04:54:07.408602+00:00",
+          "price_display": "€ 347,00",
+          "title": "Yamaha - SA-15D - - Elektrische gitaar - Japan - 1969",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165476666-yamaha-sa-15d-elektrische-gitaar-japan-1969"
+        },
         "a165478640": {
           "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
           "price_display": "€ 511,00",
           "title": "Fender - Telecaster TL52-75 - - Guitare électrique - Japon -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165478640-fender-telecaster-tl52-75-guitare-electrique-japon"
+        },
+        "a165489762": {
+          "first_seen_at": "2026-08-16T04:54:07.408602+00:00",
+          "price_display": "€ 40,00",
+          "title": "Gear4Music - - Elektrische gitaar - 2000 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165489762-gear4music-elektrische-gitaar-2000-zonder"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -17591,6 +17609,18 @@
           "price_display": "€ 900,00",
           "title": "Concept 2 - Indoor Rower Model C - Roeier",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165442739-concept-2-indoor-rower-model-c-roeier"
+        },
+        "a165481515": {
+          "first_seen_at": "2026-08-16T04:53:18.771138+00:00",
+          "price_display": "€ 8,00",
+          "title": "Veiling - 5kg schijf - Set van 2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165481515-veiling-5kg-schijf-set-van-2"
+        },
+        "a165481519": {
+          "first_seen_at": "2026-08-16T04:53:18.771138+00:00",
+          "price_display": "€ 28,00",
+          "title": "Veiling - Dip Bars - In hoogte verstelbaar - Zwart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165481519-veiling-dip-bars-in-hoogte-verstelbaar-zwart"
         },
         "a165481538": {
           "first_seen_at": "2026-08-14T05:59:11.388274+00:00",
@@ -37859,6 +37889,12 @@
           "price_display": "€ 350,00",
           "title": "ATX Calibrated plates 4 x 25KG",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431379998-atx-calibrated-plates-4-x-25kg"
+        },
+        "m2431393740": {
+          "first_seen_at": "2026-08-16T04:53:18.771138+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Gewichtenset - fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431393740-gewichtenset-fitnessbank"
         }
       }
     },
@@ -46623,6 +46659,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Digitale piano Yamaha Clavinova CLP-430",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431392350-digitale-piano-yamaha-clavinova-clp-430"
+        },
+        "m2431393058": {
+          "first_seen_at": "2026-08-16T04:53:58.450969+00:00",
+          "price_display": "€ 1.190,00",
+          "title": "Yamaha cvp 701",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431393058-yamaha-cvp-701"
         }
       }
     }
@@ -46630,7 +46672,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T04:18:37.790848+00:00",
+    "last_checked_at": "2026-08-16T04:54:10.008767+00:00",
     "outage_alert_sent": false
   }
 }
