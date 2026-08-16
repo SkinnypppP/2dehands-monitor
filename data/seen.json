@@ -39149,6 +39149,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Haltergewichtset met toevoeging van nieuwe schijven mogelijk",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431757627-haltergewichtset-met-toevoeging-van-nieuwe-schijven-mogelijk"
+        },
+        "m2431760191": {
+          "first_seen_at": "2026-08-16T22:56:07.683647+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "dambel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431760191-dambel"
         }
       }
     },
@@ -48100,7 +48106,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T22:40:28.409732+00:00",
+    "last_checked_at": "2026-08-16T22:56:47.588101+00:00",
     "outage_alert_sent": false
   }
 }
