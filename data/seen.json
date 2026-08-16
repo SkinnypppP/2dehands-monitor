@@ -8516,6 +8516,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar - beginner",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431745383-gitaar-beginner"
+        },
+        "m2431747249": {
+          "first_seen_at": "2026-08-16T21:01:13.130595+00:00",
+          "price_display": "€ 80,00",
+          "title": "Guitare Ibanez PF15",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431747249-guitare-ibanez-pf15"
         }
       }
     },
@@ -39089,6 +39095,12 @@
           "price_display": "Bieden vanaf € 950,00",
           "title": "Panatta incline chest press convergent met easy start",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431739986-panatta-incline-chest-press-convergent-met-easy-start"
+        },
+        "m2431746679": {
+          "first_seen_at": "2026-08-16T21:00:28.002274+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym cardiostep",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431746679-technogym-cardiostep"
         }
       }
     },
@@ -48040,7 +48052,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T20:46:04.429547+00:00",
+    "last_checked_at": "2026-08-16T21:01:14.363257+00:00",
     "outage_alert_sent": false
   }
 }
