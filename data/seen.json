@@ -8522,6 +8522,12 @@
           "price_display": "€ 80,00",
           "title": "Guitare Ibanez PF15",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431747249-guitare-ibanez-pf15"
+        },
+        "m2431750964": {
+          "first_seen_at": "2026-08-16T21:31:25.927324+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Acus 5t",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431750964-acus-5t"
         }
       }
     },
@@ -17958,6 +17964,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Sven Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431720935-sven-crosstrainer"
+        },
+        "m2431750874": {
+          "first_seen_at": "2026-08-16T21:31:01.371943+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Hometrainer Flow Fitness Stelvio Bluetooth en iConsole",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431750874-hometrainer-flow-fitness-stelvio-bluetooth-en-iconsole"
         }
       }
     },
@@ -39101,6 +39113,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Technogym cardiostep",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431746679-technogym-cardiostep"
+        },
+        "m2431748974": {
+          "first_seen_at": "2026-08-16T21:30:41.165739+00:00",
+          "price_display": "Bieden vanaf € 12,00",
+          "title": "blauwe zitbal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431748974-blauwe-zitbal"
+        },
+        "m2431750974": {
+          "first_seen_at": "2026-08-16T21:30:41.165739+00:00",
+          "price_display": "Bieden vanaf € 49,00",
+          "title": "2 kettlebells te koop van 12 en 16 kilogram",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431750974-2-kettlebells-te-koop-van-12-en-16-kilogram"
         }
       }
     },
@@ -48052,7 +48076,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T21:01:14.363257+00:00",
+    "last_checked_at": "2026-08-16T21:31:26.565328+00:00",
     "outage_alert_sent": false
   }
 }
