@@ -8246,6 +8246,18 @@
           "price_display": "€ 15,00",
           "title": "Ukelele Mahalo (+ tuner)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431372699-ukelele-mahalo-tuner"
+        },
+        "m2431412945": {
+          "first_seen_at": "2026-08-16T07:10:47.065842+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Norman B-20 1997",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431412945-norman-b-20-1997"
+        },
+        "m2431413650": {
+          "first_seen_at": "2026-08-16T07:10:47.065842+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Eastman E1D (helemaal stevig)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431413650-eastman-e1d-helemaal-stevig"
         }
       }
     },
@@ -11779,6 +11791,12 @@
           "price_display": "€ 50,00",
           "title": "Mythical Fire Dragon (Cracked Egg Series)Gewicht: 5 Troy Oz",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431357480-mythical-fire-dragon-cracked-egg-series-gewicht-5-troy-oz"
+        },
+        "m2431406110": {
+          "first_seen_at": "2026-08-16T07:10:18.129300+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "pièces or 40fr",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431406110-pieces-or-40fr"
         }
       }
     },
@@ -37913,6 +37931,42 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431402629-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
+        },
+        "m2431410744": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 19,00",
+          "title": "Fitnessriem lifting belt leer hoge kwaliteit squat deadlift",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431410744-fitnessriem-lifting-belt-leer-hoge-kwaliteit-squat-deadlift"
+        },
+        "m2431410915": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 15,90",
+          "title": "Halterstang kussen Barbell squat pad foamkussen voor halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431410915-halterstang-kussen-barbell-squat-pad-foamkussen-voor-halters"
+        },
+        "m2431411004": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 85,00",
+          "title": "Opbergrek voor gewichtschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431411004-opbergrek-voor-gewichtschijven"
+        },
+        "m2431411158": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 12,90",
+          "title": "Lifting straps til ondersteuning deadlift hulp",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431411158-lifting-straps-til-ondersteuning-deadlift-hulp"
+        },
+        "m2431411340": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 20,00",
+          "title": "Bicep Blaster arm trainer bicep curl hammer curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431411340-bicep-blaster-arm-trainer-bicep-curl-hammer-curl"
+        },
+        "m2431412099": {
+          "first_seen_at": "2026-08-16T07:09:43.143121+00:00",
+          "price_display": "€ 425,00",
+          "title": "Professioneel opbergrek met accesoires",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431412099-professioneel-opbergrek-met-accesoires"
         }
       }
     },
@@ -46690,7 +46744,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T06:30:18.475723+00:00",
+    "last_checked_at": "2026-08-16T07:10:55.240814+00:00",
     "outage_alert_sent": false
   }
 }
