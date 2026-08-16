@@ -8420,6 +8420,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431633017-gitaar"
+        },
+        "m2431637601": {
+          "first_seen_at": "2026-08-16T15:15:51.345976+00:00",
+          "price_display": "Bieden vanaf € 599,00",
+          "title": "Simon & Patrick Woodland Pro Parlor Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431637601-simon-patrick-woodland-pro-parlor-guitar"
         }
       }
     },
@@ -17754,6 +17760,18 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431609005-crosstrainer"
+        },
+        "m2431624992": {
+          "first_seen_at": "2026-08-16T15:15:25.873033+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431624992-spinningfiets"
+        },
+        "m2431627626": {
+          "first_seen_at": "2026-08-16T15:15:25.873033+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Schuine buikspierentrainer twist & shape",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431627626-schuine-buikspierentrainer-twist-shape"
         }
       }
     },
@@ -38669,6 +38687,36 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Schijvenrek, verchroomd, voor dumbbells en langere stangen.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431632823-schijvenrek-verchroomd-voor-dumbbells-en-langere-stangen"
+        },
+        "m2431634265": {
+          "first_seen_at": "2026-08-16T15:14:53.740823+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431634265-loopband"
+        },
+        "m2431636693": {
+          "first_seen_at": "2026-08-16T15:14:53.740823+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "chaise romaine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431636693-chaise-romaine"
+        },
+        "m2431638620": {
+          "first_seen_at": "2026-08-16T15:14:53.740823+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Abdo Rider, pour abdominal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431638620-abdo-rider-pour-abdominal"
+        },
+        "m2431640940": {
+          "first_seen_at": "2026-08-16T15:14:53.740823+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Corenght powercage in gebruikte maar goede staat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431640940-corenght-powercage-in-gebruikte-maar-goede-staat"
+        },
+        "m2431642156": {
+          "first_seen_at": "2026-08-16T15:14:53.740823+00:00",
+          "price_display": "€ 399,00",
+          "title": "Home Trainer connecté ELITE DIRETO XR – Excellent état",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431642156-home-trainer-connecte-elite-direto-xr-excellent-etat"
         }
       }
     },
@@ -41800,6 +41848,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Raquette padel NOX tempo WPT",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431622752-raquette-padel-nox-tempo-wpt"
+        },
+        "m2431637240": {
+          "first_seen_at": "2026-08-16T15:15:14.771553+00:00",
+          "price_display": "Bieden vanaf € 190,00",
+          "title": "Veron Juan Lebron 2026 technisch padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431637240-veron-juan-lebron-2026-technisch-padelracket"
         }
       }
     },
@@ -47542,7 +47596,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T14:55:43.135036+00:00",
+    "last_checked_at": "2026-08-16T15:15:52.527329+00:00",
     "outage_alert_sent": false
   }
 }
