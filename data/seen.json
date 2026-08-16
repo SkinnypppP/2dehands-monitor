@@ -8258,6 +8258,30 @@
           "price_display": "Bieden vanaf € 500,00",
           "title": "Eastman E1D (helemaal stevig)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431413650-eastman-e1d-helemaal-stevig"
+        },
+        "m2431419691": {
+          "first_seen_at": "2026-08-16T08:03:11.208956+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Yamaha C-40 akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431419691-yamaha-c-40-akoestische-gitaar"
+        },
+        "m2431422846": {
+          "first_seen_at": "2026-08-16T08:03:11.208956+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Gitaar Esteve Cedro",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431422846-gitaar-esteve-cedro"
+        },
+        "m2431423733": {
+          "first_seen_at": "2026-08-16T08:03:11.208956+00:00",
+          "price_display": "€ 69,00",
+          "title": "Stagg C542 + hoes zgan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431423733-stagg-c542-hoes-zgan"
+        },
+        "m2431426423": {
+          "first_seen_at": "2026-08-16T08:03:11.208956+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Cuenca 10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431426423-cuenca-10"
         }
       }
     },
@@ -17388,6 +17412,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Velo elliptique DKN Technology",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431377660-velo-elliptique-dkn-technology"
+        },
+        "m2431415660": {
+          "first_seen_at": "2026-08-16T08:02:39.656093+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431415660-hometrainer"
         }
       }
     },
@@ -37979,6 +38009,24 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Bowflex Type Verstelbare Dumbbells 2x 24 kg - Als Nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431421911-bowflex-type-verstelbare-dumbbells-2x-24-kg-als-nieuw"
+        },
+        "m2431426803": {
+          "first_seen_at": "2026-08-16T08:02:06.460834+00:00",
+          "price_display": "€ 50,00",
+          "title": "SQMIZE verstelbare bank + halters + 70 kg gewicht",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431426803-sqmize-verstelbare-bank-halters-70-kg-gewicht"
+        },
+        "m2431427023": {
+          "first_seen_at": "2026-08-16T08:02:06.460834+00:00",
+          "price_display": "€ 1.190,00",
+          "title": "Technogym Recline Recumbent Bike Excite+ 700 UNITY BLACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431427023-technogym-recline-recumbent-bike-excite-700-unity-black"
+        },
+        "m2431428760": {
+          "first_seen_at": "2026-08-16T08:02:06.460834+00:00",
+          "price_display": "€ 330,00",
+          "title": "Hexa Dumbbells 2,5 T/M 20 KG 180 kg Dualix Hex Hexagon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431428760-hexa-dumbbells-2-5-t-m-20-kg-180-kg-dualix-hex-hexagon"
         }
       }
     },
@@ -46756,7 +46804,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T07:44:43.980582+00:00",
+    "last_checked_at": "2026-08-16T08:03:24.925909+00:00",
     "outage_alert_sent": false
   }
 }
