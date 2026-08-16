@@ -39011,6 +39011,30 @@
           "price_display": "Zie omschrijving",
           "title": "vintage tummy trimmer - buikspiertrainer en weerstandsveer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431720304-vintage-tummy-trimmer-buikspiertrainer-en-weerstandsveer"
+        },
+        "m2431721808": {
+          "first_seen_at": "2026-08-16T19:25:38.476601+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Baseblocks B-Bar (dip bar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431721808-baseblocks-b-bar-dip-bar"
+        },
+        "m2431722702": {
+          "first_seen_at": "2026-08-16T19:25:38.476601+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Death lift + squad rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431722702-death-lift-squad-rek"
+        },
+        "m2431723334": {
+          "first_seen_at": "2026-08-16T19:25:38.476601+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "ATX Dip bar (muurbevestiging)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431723334-atx-dip-bar-muurbevestiging"
+        },
+        "m2431725923": {
+          "first_seen_at": "2026-08-16T19:25:38.476601+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Hex bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431725923-hex-bar"
         }
       }
     },
@@ -42148,6 +42172,12 @@
           "price_display": "Bieden vanaf € 190,00",
           "title": "Veron Juan Lebron 2026 technisch padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431637240-veron-juan-lebron-2026-technisch-padelracket"
+        },
+        "m2431724324": {
+          "first_seen_at": "2026-08-16T19:25:52.522508+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "BABOLAT TECHNICAL VERTUO ZGAN",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431724324-babolat-technical-vertuo-zgan"
         }
       }
     },
@@ -47925,6 +47955,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Piano d'éveil musical Vtec",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431693607-piano-d-eveil-musical-vtec"
+        },
+        "m2431728212": {
+          "first_seen_at": "2026-08-16T19:26:18.891847+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431728212-digitale-roland-bk-5-backing-keyboard-nieuw"
         }
       }
     }
@@ -47932,7 +47968,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T19:00:41.188289+00:00",
+    "last_checked_at": "2026-08-16T19:26:26.734646+00:00",
     "outage_alert_sent": false
   }
 }
