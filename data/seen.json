@@ -38825,6 +38825,30 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431669108-loopband"
+        },
+        "m2431677614": {
+          "first_seen_at": "2026-08-16T17:02:03.072458+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "2 halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431677614-2-halters"
+        },
+        "m2431678127": {
+          "first_seen_at": "2026-08-16T17:02:03.072458+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Technogym Group Cycle Connect Indoorfiets (2021))",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431678127-technogym-group-cycle-connect-indoorfiets-2021"
+        },
+        "m2431679111": {
+          "first_seen_at": "2026-08-16T17:02:03.072458+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Summer Shred Stack | Fat Loss, Cut, Recomp & Muscle Gain",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431679111-summer-shred-stack-fat-loss-cut-recomp-muscle-gain"
+        },
+        "m2431680125": {
+          "first_seen_at": "2026-08-16T17:02:03.072458+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Banc de musculation Domyos plus barre et 2 fois 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431680125-banc-de-musculation-domyos-plus-barre-et-2-fois-10kg"
         }
       }
     },
@@ -47728,7 +47752,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T16:45:29.318629+00:00",
+    "last_checked_at": "2026-08-16T17:02:58.429022+00:00",
     "outage_alert_sent": false
   }
 }
