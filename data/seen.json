@@ -17418,6 +17418,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431415660-hometrainer"
+        },
+        "m2431438436": {
+          "first_seen_at": "2026-08-16T08:42:33.078083+00:00",
+          "price_display": "€ 120,00",
+          "title": "Walking pad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431438436-walking-pad"
+        },
+        "m2431438483": {
+          "first_seen_at": "2026-08-16T08:42:33.078083+00:00",
+          "price_display": "€ 120,00",
+          "title": "Crosstrainer Infinity",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431438483-crosstrainer-infinity"
         }
       }
     },
@@ -46797,6 +46809,18 @@
           "price_display": "€ 1.190,00",
           "title": "Yamaha cvp 701",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431393058-yamaha-cvp-701"
+        },
+        "m2431435874": {
+          "first_seen_at": "2026-08-16T08:42:51.760625+00:00",
+          "price_display": "€ 40,00",
+          "title": "Pianostoeltje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431435874-pianostoeltje"
+        },
+        "m2431438278": {
+          "first_seen_at": "2026-08-16T08:42:51.760625+00:00",
+          "price_display": "€ 129,00",
+          "title": "Yamaha NP-12 Portable Grand",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431438278-yamaha-np-12-portable-grand"
         }
       }
     }
@@ -46804,7 +46828,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T08:03:24.925909+00:00",
+    "last_checked_at": "2026-08-16T08:43:04.526132+00:00",
     "outage_alert_sent": false
   }
 }
