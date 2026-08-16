@@ -37895,6 +37895,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Gewichtenset - fitnessbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431393740-gewichtenset-fitnessbank"
+        },
+        "m2431398258": {
+          "first_seen_at": "2026-08-16T05:51:42.980881+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "loopband start 2 run",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431398258-loopband-start-2-run"
+        },
+        "m2431398931": {
+          "first_seen_at": "2026-08-16T05:51:42.980881+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Powerline smithmachine PSM144X",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431398931-powerline-smithmachine-psm144x"
         }
       }
     },
@@ -46672,7 +46684,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-16T04:54:10.008767+00:00",
+    "last_checked_at": "2026-08-16T05:52:28.582257+00:00",
     "outage_alert_sent": false
   }
 }
