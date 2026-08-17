@@ -8816,6 +8816,12 @@
           "price_display": "Bieden vanaf € 3.000,00",
           "title": "Gibson USA Gary Moore Signature 2013",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432110856-gibson-usa-gary-moore-signature-2013"
+        },
+        "m2432126468": {
+          "first_seen_at": "2026-08-17T22:45:14.402960+00:00",
+          "price_display": "€ 450,00",
+          "title": "Ibanez AEF37E Sunset Gold + Originele Koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432126468-ibanez-aef37e-sunset-gold-originele-koffer"
         }
       }
     },
@@ -49606,7 +49612,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T21:35:59.282223+00:00",
+    "last_checked_at": "2026-08-17T22:45:16.092759+00:00",
     "outage_alert_sent": false
   }
 }
