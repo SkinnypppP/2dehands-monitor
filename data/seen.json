@@ -789,6 +789,12 @@
           "title": "Guitare Électro-classic Estève 1",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2410995353-guitare-electro-classic-esteve-1"
         },
+        "m2411219875": {
+          "first_seen_at": "2026-08-17T08:57:02.940638+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Sigma 000M-1ST",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2411219875-sigma-000m-1st"
+        },
         "m2412111865": {
           "first_seen_at": "2026-07-14T11:53:06.255780+00:00",
           "price_display": "Bieden vanaf € 1.500,00",
@@ -8576,6 +8582,18 @@
           "price_display": "€ 250,00",
           "title": "Semi akoestische gitaar Samick + gigbag (LEFTY & als nieuw)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431801115-semi-akoestische-gitaar-samick-gigbag-lefty-als-nieuw"
+        },
+        "m2431809613": {
+          "first_seen_at": "2026-08-17T08:57:02.940638+00:00",
+          "price_display": "Bieden vanaf € 1.450,00",
+          "title": "Folk gitaar Eastman AC630CE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431809613-folk-gitaar-eastman-ac630ce"
+        },
+        "m2431819537": {
+          "first_seen_at": "2026-08-17T08:57:02.940638+00:00",
+          "price_display": "Gratis",
+          "title": "klassieke gitaar YAMAHA CG-100",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431819537-klassieke-gitaar-yamaha-cg-100"
         }
       }
     },
@@ -12265,6 +12283,12 @@
           "price_display": "€ 50,00",
           "title": "Heimerle en Meule 1 kilogram koperbaren",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431738590-heimerle-en-meule-1-kilogram-koperbaren"
+        },
+        "m2431821606": {
+          "first_seen_at": "2026-08-17T08:56:40.961625+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "eerste slag euromunten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431821606-eerste-slag-euromunten"
         }
       }
     },
@@ -18078,6 +18102,12 @@
           "price_display": "€ 70,00",
           "title": "Trainingsbank Hop-Sport HS-1055 Pro met curlpult + 50kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431795571-trainingsbank-hop-sport-hs-1055-pro-met-curlpult-50kg"
+        },
+        "m2431821218": {
+          "first_seen_at": "2026-08-17T08:56:32.180014+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431821218-hometrainer"
         }
       }
     },
@@ -48291,6 +48321,24 @@
           "price_display": "€ 1.200,00",
           "title": "Piano droit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431779713-piano-droit"
+        },
+        "m2431812345": {
+          "first_seen_at": "2026-08-17T08:56:50.866556+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Vintage Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431812345-vintage-piano"
+        },
+        "m2431825553": {
+          "first_seen_at": "2026-08-17T08:56:50.866556+00:00",
+          "price_display": "€ 650,00",
+          "title": "Zwart gelakte rechtopstaande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431825553-zwart-gelakte-rechtopstaande-piano"
+        },
+        "m2431826203": {
+          "first_seen_at": "2026-08-17T08:56:50.866556+00:00",
+          "price_display": "€ 650,00",
+          "title": "Zwart gelakte rechtopstaande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431826203-zwart-gelakte-rechtopstaande-piano"
         }
       }
     }
@@ -48298,7 +48346,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T08:03:08.708481+00:00",
+    "last_checked_at": "2026-08-17T08:57:05.795660+00:00",
     "outage_alert_sent": false
   }
 }
