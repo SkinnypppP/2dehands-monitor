@@ -40391,6 +40391,18 @@
           "price_display": "€ 50,00",
           "title": "Banc musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432110457-banc-musculation"
+        },
+        "m2432118997": {
+          "first_seen_at": "2026-08-17T21:35:17.896128+00:00",
+          "price_display": "€ 150,00",
+          "title": "Hip en benen machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432118997-hip-en-benen-machine"
+        },
+        "m2432119406": {
+          "first_seen_at": "2026-08-17T21:35:17.896128+00:00",
+          "price_display": "€ 100,00",
+          "title": "Chest Fly Machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432119406-chest-fly-machine"
         }
       }
     },
@@ -43576,6 +43588,12 @@
           "price_display": "Bieden vanaf € 184,99",
           "title": "Padel racket Babolat Technical Viper 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432097114-padel-racket-babolat-technical-viper-2026"
+        },
+        "m2432118045": {
+          "first_seen_at": "2026-08-17T21:35:24.543936+00:00",
+          "price_display": "€ 200,00",
+          "title": "Babolat Air Viper 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432118045-babolat-air-viper-2026"
         }
       }
     },
@@ -49588,7 +49606,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T21:05:46.073178+00:00",
+    "last_checked_at": "2026-08-17T21:35:59.282223+00:00",
     "outage_alert_sent": false
   }
 }
