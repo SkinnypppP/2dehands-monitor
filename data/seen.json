@@ -9344,6 +9344,18 @@
           "title": "Verenigd Koninkrijk. 1 Sovereign - Elizabeth II (1st",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165547942-verenigd-koninkrijk-1-sovereign-elizabeth-ii-1st"
         },
+        "a165567223": {
+          "first_seen_at": "2026-08-17T04:05:34.681000+00:00",
+          "price_display": "€ 6,00",
+          "title": "États-Unis. 5 x 2027 1 oz Canadian Maple Leaf Copper Round",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165567223-etats-unis-5-x-2027-1-oz-canadian-maple-leaf-copper-round"
+        },
+        "a165582808": {
+          "first_seen_at": "2026-08-17T04:05:34.681000+00:00",
+          "price_display": "€ 7,00",
+          "title": "Tchad. 3000 Francs 1/1000 oz 999 Fine Gold Coca-Cola Polar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165582808-tchad-3000-francs-1-1000-oz-999-fine-gold-coca-cola-polar"
+        },
         "a165590343": {
           "first_seen_at": "2026-08-15T12:25:38.858187+00:00",
           "price_display": "€ 1,00",
@@ -48124,7 +48136,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T03:16:02.153220+00:00",
+    "last_checked_at": "2026-08-17T04:05:56.458868+00:00",
     "outage_alert_sent": false
   }
 }
