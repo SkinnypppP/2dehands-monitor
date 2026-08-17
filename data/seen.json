@@ -8654,6 +8654,12 @@
           "price_display": "€ 40,00",
           "title": "gitaat special edition classic",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431878647-gitaat-special-edition-classic"
+        },
+        "m2431896549": {
+          "first_seen_at": "2026-08-17T11:37:12.245042+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Takamine GX18CENS 3/4 format électro-acoustique",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431896549-takamine-gx18cens-3-4-format-electro-acoustique"
         }
       }
     },
@@ -39665,6 +39671,36 @@
           "price_display": "€ 15,00",
           "title": "Halterschijf 1,25 kg Gripper Gietijzer Zilver – 30/31 mm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431870051-halterschijf-1-25-kg-gripper-gietijzer-zilver-30-31-mm"
+        },
+        "m2431884976": {
+          "first_seen_at": "2026-08-17T11:36:19.921580+00:00",
+          "price_display": "€ 30,00",
+          "title": "Wonder Core 2 Fitnesstoestel (met Roeisysteem & Draaistoel)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431884976-wonder-core-2-fitnesstoestel-met-roeisysteem-draaistoel"
+        },
+        "m2431889134": {
+          "first_seen_at": "2026-08-17T11:36:19.921580+00:00",
+          "price_display": "€ 60,00",
+          "title": "Banc musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431889134-banc-musculation"
+        },
+        "m2431889773": {
+          "first_seen_at": "2026-08-17T11:36:19.921580+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Haltersets 22.5-25-27.5-30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431889773-haltersets-22-5-25-27-5-30kg"
+        },
+        "m2431894645": {
+          "first_seen_at": "2026-08-17T11:36:19.921580+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Precor AMT Professionele Crosstrainer – Fitness Toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431894645-precor-amt-professionele-crosstrainer-fitness-toestel"
+        },
+        "m2431895298": {
+          "first_seen_at": "2026-08-17T11:36:19.921580+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Buikspierbank.. als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431895298-buikspierbank-als-nieuw"
         }
       }
     },
@@ -48669,6 +48705,18 @@
           "price_display": "€ 600,00",
           "title": "Roland RP401R digitale piano + zitplaats — Zeer goede staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431875087-roland-rp401r-digitale-piano-zitplaats-zeer-goede-staat"
+        },
+        "m2431885499": {
+          "first_seen_at": "2026-08-17T11:37:02.019334+00:00",
+          "price_display": "Bieden vanaf € 1.600,00",
+          "title": "Young Chang Buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431885499-young-chang-buffetpiano"
+        },
+        "m2431891038": {
+          "first_seen_at": "2026-08-17T11:37:02.019334+00:00",
+          "price_display": "Bieden vanaf € 800,00",
+          "title": "Piano casio AP470 black elektrisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431891038-piano-casio-ap470-black-elektrisch"
         }
       }
     }
@@ -48676,7 +48724,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T11:08:28.840125+00:00",
+    "last_checked_at": "2026-08-17T11:37:12.934857+00:00",
     "outage_alert_sent": false
   }
 }
