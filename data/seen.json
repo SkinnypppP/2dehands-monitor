@@ -8804,6 +8804,12 @@
           "price_display": "€ 150,00",
           "title": "Vintage Japanse Iris Klassieke Gitaar + Accessoires",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432099174-vintage-japanse-iris-klassieke-gitaar-accessoires"
+        },
+        "m2432104945": {
+          "first_seen_at": "2026-08-17T20:10:22.237981+00:00",
+          "price_display": "€ 120,00",
+          "title": "Akoestische gitaar YAMAHA model 3/4",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432104945-akoestische-gitaar-yamaha-model-3-4"
         }
       }
     },
@@ -12583,6 +12589,12 @@
           "price_display": "€ 90,00",
           "title": "Zilveren Verzamelmunt 1 oz – Snowy Style: Pompom Pup (Met CO",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432072197-zilveren-verzamelmunt-1-oz-snowy-style-pompom-pup-met-co"
+        },
+        "m2432104500": {
+          "first_seen_at": "2026-08-17T20:10:02.434182+00:00",
+          "price_display": "€ 750,00",
+          "title": "gouden tientje inc hanger ook goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432104500-gouden-tientje-inc-hanger-ook-goud"
         }
       }
     },
@@ -40319,6 +40331,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Vélo elliptique Norditrack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432097888-velo-elliptique-norditrack"
+        },
+        "m2432103909": {
+          "first_seen_at": "2026-08-17T20:09:36.231247+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Fitness gewichten tot 40kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432103909-fitness-gewichten-tot-40kg"
+        },
+        "m2432104091": {
+          "first_seen_at": "2026-08-17T20:09:36.231247+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Fitness bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432104091-fitness-bankje"
         }
       }
     },
@@ -49497,6 +49521,12 @@
           "price_display": "€ 250,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432098310-piano"
+        },
+        "m2432104135": {
+          "first_seen_at": "2026-08-17T20:10:12.087046+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432104135-buffetpiano"
         }
       }
     }
@@ -49504,7 +49534,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T19:50:13.651015+00:00",
+    "last_checked_at": "2026-08-17T20:10:22.568779+00:00",
     "outage_alert_sent": false
   }
 }
