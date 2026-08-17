@@ -8720,6 +8720,12 @@
           "price_display": "€ 95,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431980042-gitaar"
+        },
+        "m2431983504": {
+          "first_seen_at": "2026-08-17T14:57:40.840969+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "elektro-akoestische gitaar - Segovia",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431983504-elektro-akoestische-gitaar-segovia"
         }
       }
     },
@@ -12445,6 +12451,12 @@
           "price_display": "Bieden vanaf € 185,00",
           "title": "3 x 1 kilo koper baren Germania en Geiger 999,9",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431974015-3-x-1-kilo-koper-baren-germania-en-geiger-999-9"
+        },
+        "m2431986393": {
+          "first_seen_at": "2026-08-17T14:57:21.707478+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Germania  Mint 100gr baartje",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2431986393-germania-mint-100gr-baartje"
         }
       }
     },
@@ -18324,6 +18336,12 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "moovyoo loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431976728-moovyoo-loopband"
+        },
+        "m2431984610": {
+          "first_seen_at": "2026-08-17T14:57:13.690475+00:00",
+          "price_display": "€ 150,00",
+          "title": "Darwin Fitness verstelbare halterbank en dumbbels gorilla's",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431984610-darwin-fitness-verstelbare-halterbank-en-dumbbels-gorilla-s"
         }
       }
     },
@@ -39947,6 +39965,18 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Crossfit",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431979080-crossfit"
+        },
+        "m2431982467": {
+          "first_seen_at": "2026-08-17T14:56:53.750508+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "kabeltoren krachttraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431982467-kabeltoren-krachttraining"
+        },
+        "m2431983189": {
+          "first_seen_at": "2026-08-17T14:56:53.750508+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "bench Press",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431983189-bench-press"
         }
       }
     },
@@ -49000,7 +49030,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T14:35:17.626754+00:00",
+    "last_checked_at": "2026-08-17T14:57:41.547443+00:00",
     "outage_alert_sent": false
   }
 }
