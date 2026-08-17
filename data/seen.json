@@ -8768,6 +8768,12 @@
           "price_display": "€ 325,00",
           "title": "guitare folk sigma",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432026270-guitare-folk-sigma"
+        },
+        "m2432051878": {
+          "first_seen_at": "2026-08-17T17:40:00.255482+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Concertgitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432051878-concertgitaar"
         }
       }
     },
@@ -12529,6 +12535,12 @@
           "price_display": "€ 70,00",
           "title": "Gelimiteerde Zilveren Munt 1 oz - Cartoon  \"Cin",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432038625-gelimiteerde-zilveren-munt-1-oz-cartoon-cin"
+        },
+        "m2432051658": {
+          "first_seen_at": "2026-08-17T17:39:37.304022+00:00",
+          "price_display": "€ 60,00",
+          "title": "Gouden Coca-Cola Truck Munt - Tsjaad 3000 Francs (In Assay)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432051658-gouden-coca-cola-truck-munt-tsjaad-3000-francs-in-assay"
         }
       }
     },
@@ -18450,6 +18462,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "velo elliptique",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432025679-velo-elliptique"
+        },
+        "m2432050025": {
+          "first_seen_at": "2026-08-17T17:39:28.573027+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Rogue deadlift jack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432050025-rogue-deadlift-jack"
         }
       }
     },
@@ -40169,6 +40187,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Benchpress",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432029533-benchpress"
+        },
+        "m2432045953": {
+          "first_seen_at": "2026-08-17T17:39:10.025022+00:00",
+          "price_display": "€ 40,00",
+          "title": "Veelzijdig trainingsapparaat Wonder Corei",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432045953-veelzijdig-trainingsapparaat-wonder-corei"
+        },
+        "m2432048371": {
+          "first_seen_at": "2026-08-17T17:39:10.025022+00:00",
+          "price_display": "€ 350,00",
+          "title": "Bicep Curl machine Body Solid",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432048371-bicep-curl-machine-body-solid"
         }
       }
     },
@@ -49270,7 +49300,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T17:01:57.264086+00:00",
+    "last_checked_at": "2026-08-17T17:40:01.354735+00:00",
     "outage_alert_sent": false
   }
 }
