@@ -8696,6 +8696,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Harley Benton Custom Line HBCG-45 N Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431923507-harley-benton-custom-line-hbcg-45-n-gitaar"
+        },
+        "m2431927452": {
+          "first_seen_at": "2026-08-17T13:24:47.883887+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Gitaar Craftman",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431927452-gitaar-craftman"
         }
       }
     },
@@ -18228,6 +18234,18 @@
           "price_display": "Gratis",
           "title": "Gratis spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431915073-gratis-spinningfiets"
+        },
+        "m2431927646": {
+          "first_seen_at": "2026-08-17T13:24:16.522797+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Zelfaandrijvende crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431927646-zelfaandrijvende-crosstrainer"
+        },
+        "m2431934576": {
+          "first_seen_at": "2026-08-17T13:24:16.522797+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Hometrainer Optimum",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431934576-hometrainer-optimum"
         }
       }
     },
@@ -39779,6 +39797,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Hex Dumbbells 17,5 kg 2 stuks",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431919874-hex-dumbbells-17-5-kg-2-stuks"
+        },
+        "m2431928661": {
+          "first_seen_at": "2026-08-17T13:23:54.402750+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Houten leiband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431928661-houten-leiband"
+        },
+        "m2431928854": {
+          "first_seen_at": "2026-08-17T13:23:54.402750+00:00",
+          "price_display": "€ 670,00",
+          "title": "Dumbels met stevige rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431928854-dumbels-met-stevige-rek"
         }
       }
     },
@@ -48795,6 +48825,12 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Piano casio AP470 black elektrisch",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431891038-piano-casio-ap470-black-elektrisch"
+        },
+        "m2431933794": {
+          "first_seen_at": "2026-08-17T13:24:40.483454+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vleugel piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2431933794-vleugel-piano"
         }
       }
     }
@@ -48802,7 +48838,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T12:33:46.457330+00:00",
+    "last_checked_at": "2026-08-17T13:24:49.145678+00:00",
     "outage_alert_sent": false
   }
 }
