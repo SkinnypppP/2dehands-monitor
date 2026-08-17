@@ -8798,6 +8798,12 @@
           "price_display": "€ 1.600,00",
           "title": "Gibson J-45 Special Satin Vintage Burst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432088149-gibson-j-45-special-satin-vintage-burst"
+        },
+        "m2432099174": {
+          "first_seen_at": "2026-08-17T19:50:12.552568+00:00",
+          "price_display": "€ 150,00",
+          "title": "Vintage Japanse Iris Klassieke Gitaar + Accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432099174-vintage-japanse-iris-klassieke-gitaar-accessoires"
         }
       }
     },
@@ -40295,6 +40301,24 @@
           "price_display": "€ 40,00",
           "title": "Gymbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432086185-gymbank"
+        },
+        "m2432095198": {
+          "first_seen_at": "2026-08-17T19:49:20.603924+00:00",
+          "price_display": "€ 65,00",
+          "title": "hip Trust platform",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432095198-hip-trust-platform"
+        },
+        "m2432096867": {
+          "first_seen_at": "2026-08-17T19:49:20.603924+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Sportuitrusting",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432096867-sportuitrusting"
+        },
+        "m2432097888": {
+          "first_seen_at": "2026-08-17T19:49:20.603924+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Vélo elliptique Norditrack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432097888-velo-elliptique-norditrack"
         }
       }
     },
@@ -43474,6 +43498,12 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "Adidas Metalbone Control Carbon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432090742-adidas-metalbone-control-carbon"
+        },
+        "m2432097114": {
+          "first_seen_at": "2026-08-17T19:49:33.962978+00:00",
+          "price_display": "Bieden vanaf € 184,99",
+          "title": "Padel racket Babolat Technical Viper 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432097114-padel-racket-babolat-technical-viper-2026"
         }
       }
     },
@@ -49461,6 +49491,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Kwalitatieve kinderpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432083460-kwalitatieve-kinderpiano"
+        },
+        "m2432098310": {
+          "first_seen_at": "2026-08-17T19:50:03.178005+00:00",
+          "price_display": "€ 250,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432098310-piano"
         }
       }
     }
@@ -49468,7 +49504,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T19:23:31.668569+00:00",
+    "last_checked_at": "2026-08-17T19:50:13.651015+00:00",
     "outage_alert_sent": false
   }
 }
