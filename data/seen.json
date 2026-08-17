@@ -8564,6 +8564,18 @@
           "price_display": "€ 450,00",
           "title": "Prudencio Saez MODEL 132",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431782710-prudencio-saez-model-132"
+        },
+        "m2431800107": {
+          "first_seen_at": "2026-08-17T08:03:06.961335+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Cuenca 10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431800107-cuenca-10"
+        },
+        "m2431801115": {
+          "first_seen_at": "2026-08-17T08:03:06.961335+00:00",
+          "price_display": "€ 250,00",
+          "title": "Semi akoestische gitaar Samick + gigbag (LEFTY & als nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431801115-semi-akoestische-gitaar-samick-gigbag-lefty-als-nieuw"
         }
       }
     },
@@ -13957,6 +13969,12 @@
           "title": "Tunturi b35 hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421708280-tunturi-b35-hometrainer"
         },
+        "m2421719107": {
+          "first_seen_at": "2026-08-17T08:02:39.615932+00:00",
+          "price_display": "Bieden vanaf € 775,00",
+          "title": "Power cage / Fitness rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2421719107-power-cage-fitness-rack"
+        },
         "m2421721610": {
           "first_seen_at": "2026-07-19T10:12:04.719902+00:00",
           "price_display": "€ 550,00",
@@ -18054,6 +18072,12 @@
           "price_display": "€ 220,00",
           "title": "Hometrainer TUNTURI FitCycle 50i",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431785977-hometrainer-tunturi-fitcycle-50i"
+        },
+        "m2431795571": {
+          "first_seen_at": "2026-08-17T08:02:39.615932+00:00",
+          "price_display": "€ 70,00",
+          "title": "Trainingsbank Hop-Sport HS-1055 Pro met curlpult + 50kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431795571-trainingsbank-hop-sport-hs-1055-pro-met-curlpult-50kg"
         }
       }
     },
@@ -39293,6 +39317,18 @@
           "price_display": "€ 19,00",
           "title": "Onderarm trainer Wrist Twister",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431792228-onderarm-trainer-wrist-twister"
+        },
+        "m2431792429": {
+          "first_seen_at": "2026-08-17T08:02:18.579833+00:00",
+          "price_display": "€ 15,90",
+          "title": "Weerstandsbanden set met accessoires starterset beginners",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431792429-weerstandsbanden-set-met-accessoires-starterset-beginners"
+        },
+        "m2431792637": {
+          "first_seen_at": "2026-08-17T08:02:18.579833+00:00",
+          "price_display": "€ 12,90",
+          "title": "Wrist straps polsbeschermers voor krachttraining nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431792637-wrist-straps-polsbeschermers-voor-krachttraining-nieuw"
         }
       }
     },
@@ -48262,7 +48298,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T07:13:16.523674+00:00",
+    "last_checked_at": "2026-08-17T08:03:08.708481+00:00",
     "outage_alert_sent": false
   }
 }
