@@ -8792,6 +8792,12 @@
           "price_display": "€ 30,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432083691-gitaar"
+        },
+        "m2432088149": {
+          "first_seen_at": "2026-08-17T19:23:30.462176+00:00",
+          "price_display": "€ 1.600,00",
+          "title": "Gibson J-45 Special Satin Vintage Burst",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432088149-gibson-j-45-special-satin-vintage-burst"
         }
       }
     },
@@ -40277,6 +40283,18 @@
           "price_display": "€ 25,00",
           "title": "kettlebell 16kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432077700-kettlebell-16kg"
+        },
+        "m2432084633": {
+          "first_seen_at": "2026-08-17T19:22:38.180388+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "accessoires musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432084633-accessoires-musculation"
+        },
+        "m2432086185": {
+          "first_seen_at": "2026-08-17T19:22:38.180388+00:00",
+          "price_display": "€ 40,00",
+          "title": "Gymbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432086185-gymbank"
         }
       }
     },
@@ -43450,6 +43468,12 @@
           "price_display": "€ 169,00",
           "title": "Raquette de Padel Babolat Technical Viper Lebron",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432059080-raquette-de-padel-babolat-technical-viper-lebron"
+        },
+        "m2432090742": {
+          "first_seen_at": "2026-08-17T19:22:47.778565+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Adidas Metalbone Control Carbon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432090742-adidas-metalbone-control-carbon"
         }
       }
     },
@@ -49444,7 +49468,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T18:54:36.594878+00:00",
+    "last_checked_at": "2026-08-17T19:23:31.668569+00:00",
     "outage_alert_sent": false
   }
 }
