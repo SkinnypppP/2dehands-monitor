@@ -8666,6 +8666,36 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Fazley gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431902015-fazley-gitaar"
+        },
+        "m2431906022": {
+          "first_seen_at": "2026-08-17T12:33:40.015364+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Suzuki Nagoya mod. 700 made in Japan 1974",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431906022-suzuki-nagoya-mod-700-made-in-japan-1974"
+        },
+        "m2431907701": {
+          "first_seen_at": "2026-08-17T12:33:40.015364+00:00",
+          "price_display": "€ 10,00",
+          "title": "kindergitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431907701-kindergitaar"
+        },
+        "m2431913625": {
+          "first_seen_at": "2026-08-17T12:33:40.015364+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Morris electrische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431913625-morris-electrische-gitaar"
+        },
+        "m2431913696": {
+          "first_seen_at": "2026-08-17T12:33:40.015364+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Electrische gitaar Subzero met accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431913696-electrische-gitaar-subzero-met-accessoires"
+        },
+        "m2431923507": {
+          "first_seen_at": "2026-08-17T12:33:40.015364+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Harley Benton Custom Line HBCG-45 N Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431923507-harley-benton-custom-line-hbcg-45-n-gitaar"
         }
       }
     },
@@ -18192,6 +18222,12 @@
           "price_display": "Bieden vanaf € 850,00",
           "title": "Finnlo Bio Force krachtstation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431844612-finnlo-bio-force-krachtstation"
+        },
+        "m2431915073": {
+          "first_seen_at": "2026-08-17T12:33:14.314997+00:00",
+          "price_display": "Gratis",
+          "title": "Gratis spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431915073-gratis-spinningfiets"
         }
       }
     },
@@ -39719,6 +39755,30 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Kit d halteres",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431905397-kit-d-halteres"
+        },
+        "m2431909341": {
+          "first_seen_at": "2026-08-17T12:32:55.082986+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Leg Press / Hack Squat Machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431909341-leg-press-hack-squat-machine"
+        },
+        "m2431918922": {
+          "first_seen_at": "2026-08-17T12:32:55.082986+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Kit de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431918922-kit-de-musculation"
+        },
+        "m2431919021": {
+          "first_seen_at": "2026-08-17T12:32:55.082986+00:00",
+          "price_display": "€ 280,00",
+          "title": "Gewichten met stevige kettler rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431919021-gewichten-met-stevige-kettler-rek"
+        },
+        "m2431919874": {
+          "first_seen_at": "2026-08-17T12:32:55.082986+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Hex Dumbbells 17,5 kg 2 stuks",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431919874-hex-dumbbells-17-5-kg-2-stuks"
         }
       }
     },
@@ -48742,7 +48802,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T11:56:10.270551+00:00",
+    "last_checked_at": "2026-08-17T12:33:46.457330+00:00",
     "outage_alert_sent": false
   }
 }
