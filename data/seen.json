@@ -12601,6 +12601,18 @@
           "price_display": "€ 750,00",
           "title": "gouden tientje inc hanger ook goud",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432104500-gouden-tientje-inc-hanger-ook-goud"
+        },
+        "m2432114425": {
+          "first_seen_at": "2026-08-17T21:05:24.194837+00:00",
+          "price_display": "€ 470,00",
+          "title": "Zilveren munten (3 x 5 oz)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432114425-zilveren-munten-3-x-5-oz"
+        },
+        "m2432114963": {
+          "first_seen_at": "2026-08-17T21:05:24.194837+00:00",
+          "price_display": "€ 1.650,00",
+          "title": "Gouden muntje (ZEER ZELDZAAM)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432114963-gouden-muntje-zeer-zeldzaam"
         }
       }
     },
@@ -49576,7 +49588,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T20:42:09.834346+00:00",
+    "last_checked_at": "2026-08-17T21:05:46.073178+00:00",
     "outage_alert_sent": false
   }
 }
