@@ -12511,6 +12511,24 @@
           "price_display": "€ 530,00",
           "title": "1/10 ounce American eagle U.S.A 3.11 gram gouden munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432015982-1-10-ounce-american-eagle-u-s-a-3-11-gram-gouden-munt"
+        },
+        "m2432035484": {
+          "first_seen_at": "2026-08-17T17:01:34.177634+00:00",
+          "price_display": "€ 70,00",
+          "title": "Gelimiteerde Zilveren Munt 1 oz - Whistler's Mother (2020) -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432035484-gelimiteerde-zilveren-munt-1-oz-whistler-s-mother-2020"
+        },
+        "m2432037360": {
+          "first_seen_at": "2026-08-17T17:01:34.177634+00:00",
+          "price_display": "€ 70,00",
+          "title": "Gelimiteerde Zilveren Munt 1 oz - Cartoon  \"Puc",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432037360-gelimiteerde-zilveren-munt-1-oz-cartoon-puc"
+        },
+        "m2432038625": {
+          "first_seen_at": "2026-08-17T17:01:34.177634+00:00",
+          "price_display": "€ 70,00",
+          "title": "Gelimiteerde Zilveren Munt 1 oz - Cartoon  \"Cin",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432038625-gelimiteerde-zilveren-munt-1-oz-cartoon-cin"
         }
       }
     },
@@ -49233,6 +49251,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano Rosenberg",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432030835-piano-rosenberg"
+        },
+        "m2432034324": {
+          "first_seen_at": "2026-08-17T17:01:47.421800+00:00",
+          "price_display": "Bieden vanaf € 1,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432034324-piano"
+        },
+        "m2432035812": {
+          "first_seen_at": "2026-08-17T17:01:47.421800+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Digitale piano 88 toetsen Fame DP7000",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432035812-digitale-piano-88-toetsen-fame-dp7000"
         }
       }
     }
@@ -49240,7 +49270,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T16:40:12.450327+00:00",
+    "last_checked_at": "2026-08-17T17:01:57.264086+00:00",
     "outage_alert_sent": false
   }
 }
