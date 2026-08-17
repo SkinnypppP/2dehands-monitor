@@ -8762,6 +8762,12 @@
           "price_display": "€ 475,00",
           "title": "Musima antieke gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432012062-musima-antieke-gitaar"
+        },
+        "m2432026270": {
+          "first_seen_at": "2026-08-17T16:40:11.973611+00:00",
+          "price_display": "€ 325,00",
+          "title": "guitare folk sigma",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432026270-guitare-folk-sigma"
         }
       }
     },
@@ -15589,6 +15595,12 @@
           "title": "Concept2 RowErg roeimachine - slechts 261km, als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2424994214-concept2-rowerg-roeimachine-slechts-261km-als-nieuw"
         },
+        "m2425013029": {
+          "first_seen_at": "2026-08-17T16:39:42.919933+00:00",
+          "price_display": "€ 519,00",
+          "title": "Tunturi crosstrainer Centuri C100-F Limited Edition Goud",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2425013029-tunturi-crosstrainer-centuri-c100-f-limited-edition-goud"
+        },
         "m2425016223": {
           "first_seen_at": "2026-07-28T13:16:43.858103+00:00",
           "price_display": "Bieden vanaf € 0,00",
@@ -18408,6 +18420,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432012604-velo-d-appartement"
+        },
+        "m2432021945": {
+          "first_seen_at": "2026-08-17T16:39:42.919933+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Home spinnings fiets domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432021945-home-spinnings-fiets-domyos"
+        },
+        "m2432025679": {
+          "first_seen_at": "2026-08-17T16:39:42.919933+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "velo elliptique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432025679-velo-elliptique"
         }
       }
     },
@@ -40103,6 +40127,30 @@
           "price_display": "Bieden vanaf € 5,00",
           "title": "Buikspier toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432014546-buikspier-toestel"
+        },
+        "m2432020532": {
+          "first_seen_at": "2026-08-17T16:39:23.062420+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Meerdere fitnessapparatuur te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432020532-meerdere-fitnessapparatuur-te-koop"
+        },
+        "m2432026759": {
+          "first_seen_at": "2026-08-17T16:39:23.062420+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "a vendre batton a sautter",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432026759-a-vendre-batton-a-sautter"
+        },
+        "m2432027877": {
+          "first_seen_at": "2026-08-17T16:39:23.062420+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Pull up station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432027877-pull-up-station"
+        },
+        "m2432029533": {
+          "first_seen_at": "2026-08-17T16:39:23.062420+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Benchpress",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432029533-benchpress"
         }
       }
     },
@@ -49173,6 +49221,18 @@
           "price_display": "Bieden vanaf € 975,00",
           "title": "Roland digitale piano - nieuwstaat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432008946-roland-digitale-piano-nieuwstaat"
+        },
+        "m2432022039": {
+          "first_seen_at": "2026-08-17T16:40:02.880036+00:00",
+          "price_display": "€ 390,00",
+          "title": "Korg D1 Digital Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432022039-korg-d1-digital-piano"
+        },
+        "m2432030835": {
+          "first_seen_at": "2026-08-17T16:40:02.880036+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano Rosenberg",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432030835-piano-rosenberg"
         }
       }
     }
@@ -49180,7 +49240,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T16:04:07.004371+00:00",
+    "last_checked_at": "2026-08-17T16:40:12.450327+00:00",
     "outage_alert_sent": false
   }
 }
