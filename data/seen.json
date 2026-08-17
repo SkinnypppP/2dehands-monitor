@@ -8660,6 +8660,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Takamine GX18CENS 3/4 format électro-acoustique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431896549-takamine-gx18cens-3-4-format-electro-acoustique"
+        },
+        "m2431902015": {
+          "first_seen_at": "2026-08-17T11:56:08.987986+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Fazley gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431902015-fazley-gitaar"
         }
       }
     },
@@ -39701,6 +39707,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Buikspierbank.. als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431895298-buikspierbank-als-nieuw"
+        },
+        "m2431896937": {
+          "first_seen_at": "2026-08-17T11:55:25.678745+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Set kettlebells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431896937-set-kettlebells"
+        },
+        "m2431905397": {
+          "first_seen_at": "2026-08-17T11:55:25.678745+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Kit d halteres",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431905397-kit-d-halteres"
         }
       }
     },
@@ -48724,7 +48742,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T11:37:12.934857+00:00",
+    "last_checked_at": "2026-08-17T11:56:10.270551+00:00",
     "outage_alert_sent": false
   }
 }
