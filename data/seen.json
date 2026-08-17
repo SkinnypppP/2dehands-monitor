@@ -8810,6 +8810,12 @@
           "price_display": "€ 120,00",
           "title": "Akoestische gitaar YAMAHA model 3/4",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432104945-akoestische-gitaar-yamaha-model-3-4"
+        },
+        "m2432110856": {
+          "first_seen_at": "2026-08-17T20:42:08.730033+00:00",
+          "price_display": "Bieden vanaf € 3.000,00",
+          "title": "Gibson USA Gary Moore Signature 2013",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432110856-gibson-usa-gary-moore-signature-2013"
         }
       }
     },
@@ -18546,6 +18552,12 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "Kettler Giro Stoelfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432064854-kettler-giro-stoelfiets"
+        },
+        "m2432111072": {
+          "first_seen_at": "2026-08-17T20:41:41.910406+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "fitnesstoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432111072-fitnesstoestel"
         }
       }
     },
@@ -40343,6 +40355,30 @@
           "price_display": "Bieden vanaf € 45,00",
           "title": "Fitness bankje",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432104091-fitness-bankje"
+        },
+        "m2432107722": {
+          "first_seen_at": "2026-08-17T20:41:22.900623+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Crosstrainer domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432107722-crosstrainer-domyos"
+        },
+        "m2432108442": {
+          "first_seen_at": "2026-08-17T20:41:22.900623+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "cardiostep technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432108442-cardiostep-technogym"
+        },
+        "m2432109320": {
+          "first_seen_at": "2026-08-17T20:41:22.900623+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "dumbells 2x 24 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432109320-dumbells-2x-24-kg"
+        },
+        "m2432110457": {
+          "first_seen_at": "2026-08-17T20:41:22.900623+00:00",
+          "price_display": "€ 50,00",
+          "title": "Banc musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432110457-banc-musculation"
         }
       }
     },
@@ -49527,6 +49563,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432104135-buffetpiano"
+        },
+        "m2432112520": {
+          "first_seen_at": "2026-08-17T20:42:01.566850+00:00",
+          "price_display": "€ 7.750,00",
+          "title": "Wilhelm schimmel piano w114 tradition",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432112520-wilhelm-schimmel-piano-w114-tradition"
         }
       }
     }
@@ -49534,7 +49576,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T20:10:22.568779+00:00",
+    "last_checked_at": "2026-08-17T20:42:09.834346+00:00",
     "outage_alert_sent": false
   }
 }
