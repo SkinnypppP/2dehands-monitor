@@ -12499,6 +12499,12 @@
           "price_display": "€ 700,00",
           "title": "Krugerrand 1oz zilver (10 stuks)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432003445-krugerrand-1oz-zilver-10-stuks"
+        },
+        "m2432015982": {
+          "first_seen_at": "2026-08-17T16:03:45.924667+00:00",
+          "price_display": "€ 530,00",
+          "title": "1/10 ounce American eagle U.S.A 3.11 gram gouden munt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432015982-1-10-ounce-american-eagle-u-s-a-3-11-gram-gouden-munt"
         }
       }
     },
@@ -40091,6 +40097,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "50mm schijven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432012697-50mm-schijven"
+        },
+        "m2432014546": {
+          "first_seen_at": "2026-08-17T16:03:13.135234+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Buikspier toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432014546-buikspier-toestel"
         }
       }
     },
@@ -49168,7 +49180,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T15:49:26.528400+00:00",
+    "last_checked_at": "2026-08-17T16:04:07.004371+00:00",
     "outage_alert_sent": false
   }
 }
