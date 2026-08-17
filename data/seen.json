@@ -8648,6 +8648,12 @@
           "price_display": "€ 70,00",
           "title": "Sheffield akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431862904-sheffield-akoestische-gitaar"
+        },
+        "m2431878647": {
+          "first_seen_at": "2026-08-17T11:08:26.871916+00:00",
+          "price_display": "€ 40,00",
+          "title": "gitaat special edition classic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431878647-gitaat-special-edition-classic"
         }
       }
     },
@@ -48670,7 +48676,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T10:47:15.059288+00:00",
+    "last_checked_at": "2026-08-17T11:08:28.840125+00:00",
     "outage_alert_sent": false
   }
 }
