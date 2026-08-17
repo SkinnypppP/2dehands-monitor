@@ -8546,6 +8546,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Acus 5t",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431750964-acus-5t"
+        },
+        "m2431773685": {
+          "first_seen_at": "2026-08-17T05:30:26.882132+00:00",
+          "price_display": "€ 250,00",
+          "title": "Yamaha APX500 gitaar + harde koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2431773685-yamaha-apx500-gitaar-harde-koffer"
         }
       }
     },
@@ -39221,6 +39227,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Set de sport",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431771631-set-de-sport"
+        },
+        "m2431773326": {
+          "first_seen_at": "2026-08-17T05:29:42.701472+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Halterstang met gewichten + kettlebell.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431773326-halterstang-met-gewichten-kettlebell"
         }
       }
     },
@@ -42370,6 +42382,12 @@
           "price_display": "€ 129,00",
           "title": "Bullpadel hack 04",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431740790-bullpadel-hack-04"
+        },
+        "m2431775052": {
+          "first_seen_at": "2026-08-17T05:29:52.604409+00:00",
+          "price_display": "€ 75,00",
+          "title": "Padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2431775052-padelracket"
         }
       }
     },
@@ -48172,7 +48190,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T04:54:30.196339+00:00",
+    "last_checked_at": "2026-08-17T05:30:27.490371+00:00",
     "outage_alert_sent": false
   }
 }
