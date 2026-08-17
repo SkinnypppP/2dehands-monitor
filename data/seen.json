@@ -39233,6 +39233,30 @@
           "price_display": "Zie omschrijving",
           "title": "Halterstang met gewichten + kettlebell.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431773326-halterstang-met-gewichten-kettlebell"
+        },
+        "m2431776641": {
+          "first_seen_at": "2026-08-17T06:01:46.691142+00:00",
+          "price_display": "€ 400,00",
+          "title": "fitnessbank en toebehoren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431776641-fitnessbank-en-toebehoren"
+        },
+        "m2431777945": {
+          "first_seen_at": "2026-08-17T06:01:46.691142+00:00",
+          "price_display": "€ 98,00",
+          "title": "Pull up en dipstation - Bouw jouw eigen outdoor gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431777945-pull-up-en-dipstation-bouw-jouw-eigen-outdoor-gym"
+        },
+        "m2431778954": {
+          "first_seen_at": "2026-08-17T06:01:46.691142+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Spinning fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431778954-spinning-fiets"
+        },
+        "m2431779375": {
+          "first_seen_at": "2026-08-17T06:01:46.691142+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "vivibo trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2431779375-vivibo-trilplaat"
         }
       }
     },
@@ -48190,7 +48214,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-17T05:30:27.490371+00:00",
+    "last_checked_at": "2026-08-17T06:02:38.167052+00:00",
     "outage_alert_sent": false
   }
 }
