@@ -18594,6 +18594,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "fitnesstoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432111072-fitnesstoestel"
+        },
+        "m2432137516": {
+          "first_seen_at": "2026-08-18T04:00:12.533873+00:00",
+          "price_display": "€ 120,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432137516-hometrainer"
         }
       }
     },
@@ -49630,7 +49636,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T03:11:12.105330+00:00",
+    "last_checked_at": "2026-08-18T04:00:41.165664+00:00",
     "outage_alert_sent": false
   }
 }
