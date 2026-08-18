@@ -9086,6 +9086,12 @@
           "price_display": "€ 95,00",
           "title": "Akoestische gitaar voor kinderen Fender",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432487263-akoestische-gitaar-voor-kinderen-fender"
+        },
+        "m2432495280": {
+          "first_seen_at": "2026-08-18T23:54:29.985258+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Perfecte nieuwe gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432495280-perfecte-nieuwe-gitaar"
         }
       }
     },
@@ -41561,6 +41567,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Zipro Bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432487234-zipro-bench"
+        },
+        "m2432494617": {
+          "first_seen_at": "2026-08-18T23:53:45.582251+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Pro taper gashendel handvaten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432494617-pro-taper-gashendel-handvaten"
         }
       }
     },
@@ -51058,7 +51070,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T23:32:43.595555+00:00",
+    "last_checked_at": "2026-08-18T23:54:30.530919+00:00",
     "outage_alert_sent": false
   }
 }
