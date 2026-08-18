@@ -8864,6 +8864,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "ukelele zo goed al nieuw",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432158890-ukelele-zo-goed-al-nieuw"
+        },
+        "m2432183418": {
+          "first_seen_at": "2026-08-18T08:57:52.771249+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar Salvador Cortez CC 60 + flightcase",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432183418-gitaar-salvador-cortez-cc-60-flightcase"
+        },
+        "m2432193530": {
+          "first_seen_at": "2026-08-18T08:57:52.771249+00:00",
+          "price_display": "€ 450,00",
+          "title": "Klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432193530-klassieke-gitaar"
+        },
+        "m2432195567": {
+          "first_seen_at": "2026-08-18T08:57:52.771249+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "3/4  fender gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432195567-3-4-fender-gitaar"
         }
       }
     },
@@ -18666,6 +18684,12 @@
           "price_display": "€ 150,00",
           "title": "Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432148625-velo-d-appartement"
+        },
+        "m2432192968": {
+          "first_seen_at": "2026-08-18T08:57:23.836465+00:00",
+          "price_display": "Bieden vanaf € 995,00",
+          "title": "TUNTURI loopband T60 Performance",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432192968-tunturi-loopband-t60-performance"
         }
       }
     },
@@ -40577,6 +40601,30 @@
           "price_display": "Bieden vanaf € 650,00",
           "title": "Squatrek + 150kg aan Olympisch gewicht",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432181808-squatrek-150kg-aan-olympisch-gewicht"
+        },
+        "m2432186341": {
+          "first_seen_at": "2026-08-18T08:57:00.982116+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Bank + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432186341-bank-gewichten"
+        },
+        "m2432188069": {
+          "first_seen_at": "2026-08-18T08:57:00.982116+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432188069-roeimachine"
+        },
+        "m2432188211": {
+          "first_seen_at": "2026-08-18T08:57:00.982116+00:00",
+          "price_display": "€ 275,00",
+          "title": "90kg - Olympic barbell + Bumperplates + Clips",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432188211-90kg-olympic-barbell-bumperplates-clips"
+        },
+        "m2432188627": {
+          "first_seen_at": "2026-08-18T08:57:00.982116+00:00",
+          "price_display": "€ 175,00",
+          "title": "60kg - Bumperplates",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432188627-60kg-bumperplates"
         }
       }
     },
@@ -49785,6 +49833,12 @@
           "price_display": "€ 250,00",
           "title": "digitale piano Steinfort 110",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432164694-digitale-piano-steinfort-110"
+        },
+        "m2432186940": {
+          "first_seen_at": "2026-08-18T08:57:43.709106+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Art nouveau piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432186940-art-nouveau-piano"
         }
       }
     }
@@ -49792,7 +49846,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T08:18:23.490862+00:00",
+    "last_checked_at": "2026-08-18T08:57:56.522156+00:00",
     "outage_alert_sent": false
   }
 }
