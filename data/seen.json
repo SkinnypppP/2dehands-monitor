@@ -9038,6 +9038,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Dreadnought Cort Earth E100Ns",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432405354-dreadnought-cort-earth-e100ns"
+        },
+        "m2432415573": {
+          "first_seen_at": "2026-08-18T17:53:15.904931+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fender akoestisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432415573-fender-akoestisch"
+        },
+        "m2432419542": {
+          "first_seen_at": "2026-08-18T17:53:15.904931+00:00",
+          "price_display": "€ 275,00",
+          "title": "Spaanse Klassieke Gitaar (Jorge Banús López) – Complete Set",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432419542-spaanse-klassieke-gitaar-jorge-banus-lopez-complete-set"
         }
       }
     },
@@ -12949,6 +12961,12 @@
           "price_display": "Zie omschrijving",
           "title": "20x 1 oz .999 zilver Wiener philharmoniker",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432357669-20x-1-oz-999-zilver-wiener-philharmoniker"
+        },
+        "m2432423858": {
+          "first_seen_at": "2026-08-18T17:52:54.212209+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "American Silver Eagles 20 x 1 oz 999 zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432423858-american-silver-eagles-20-x-1-oz-999-zilver"
         }
       }
     },
@@ -19050,6 +19068,12 @@
           "price_display": "€ 275,00",
           "title": "Domyos TC-5 loopband – goede staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432406957-domyos-tc-5-loopband-goede-staat"
+        },
+        "m2432413871": {
+          "first_seen_at": "2026-08-18T17:52:46.749252+00:00",
+          "price_display": "€ 50,00",
+          "title": "Domyos 120 Cross trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432413871-domyos-120-cross-trainer"
         }
       }
     },
@@ -41279,6 +41303,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "pull up bar, power station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432412025-pull-up-bar-power-station"
+        },
+        "m2432419984": {
+          "first_seen_at": "2026-08-18T17:52:31.684111+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Trampoline",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432419984-trampoline"
         }
       }
     },
@@ -50667,6 +50697,24 @@
           "price_display": "€ 200,00",
           "title": "Alesis Recital Pro + hamermechanisme (Hammer Action)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432401215-alesis-recital-pro-hamermechanisme-hammer-action"
+        },
+        "m2432418238": {
+          "first_seen_at": "2026-08-18T17:53:04.686369+00:00",
+          "price_display": "Bieden vanaf € 800,00",
+          "title": "Roland HP 3e RW piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432418238-roland-hp-3e-rw-piano"
+        },
+        "m2432418710": {
+          "first_seen_at": "2026-08-18T17:53:04.686369+00:00",
+          "price_display": "Bieden vanaf € 2.800,00",
+          "title": "Piano droit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432418710-piano-droit"
+        },
+        "m2432420804": {
+          "first_seen_at": "2026-08-18T17:53:04.686369+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Buffetpiano Boyd of London met verstelbaar krukje - Vintage",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432420804-buffetpiano-boyd-of-london-met-verstelbaar-krukje-vintage"
         }
       }
     }
@@ -50674,7 +50722,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T17:22:08.859253+00:00",
+    "last_checked_at": "2026-08-18T17:53:18.146553+00:00",
     "outage_alert_sent": false
   }
 }
