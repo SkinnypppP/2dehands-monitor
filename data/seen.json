@@ -19026,6 +19026,18 @@
           "price_display": "€ 120,00",
           "title": "Kettler Ergometer E5 hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432384036-kettler-ergometer-e5-hometrainer"
+        },
+        "m2432392098": {
+          "first_seen_at": "2026-08-18T16:50:51.129120+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "cross-trainer Domyos 900",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432392098-cross-trainer-domyos-900"
+        },
+        "m2432399003": {
+          "first_seen_at": "2026-08-18T16:50:51.129120+00:00",
+          "price_display": "€ 180,00",
+          "title": "Rameur Domyos Decathlon RTC690",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432399003-rameur-domyos-decathlon-rtc690"
         }
       }
     },
@@ -41165,6 +41177,24 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Fitness bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432377731-fitness-bank"
+        },
+        "m2432390982": {
+          "first_seen_at": "2026-08-18T16:50:28.089287+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "gilet de sport lesté",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432390982-gilet-de-sport-leste"
+        },
+        "m2432390989": {
+          "first_seen_at": "2026-08-18T16:50:28.089287+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Domyos Fit Trampo 500 avec barre – jamais utilisé",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432390989-domyos-fit-trampo-500-avec-barre-jamais-utilise"
+        },
+        "m2432399783": {
+          "first_seen_at": "2026-08-18T16:50:28.089287+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Olympischebar 180 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432399783-olympischebar-180-cm"
         }
       }
     },
@@ -44374,6 +44404,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Padel raket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432322478-padel-raket"
+        },
+        "m2432393338": {
+          "first_seen_at": "2026-08-18T16:50:41.602967+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Nox AT10 Genius Limited Edition",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432393338-nox-at10-genius-limited-edition"
         }
       }
     },
@@ -50517,6 +50553,36 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano marque Hautrive",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432382142-piano-marque-hautrive"
+        },
+        "m2432391223": {
+          "first_seen_at": "2026-08-18T16:51:08.595291+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Roland F-140R",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432391223-roland-f-140r"
+        },
+        "m2432393965": {
+          "first_seen_at": "2026-08-18T16:51:08.595291+00:00",
+          "price_display": "€ 3.000,00",
+          "title": "Yamaha AvantGrand N1 piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432393965-yamaha-avantgrand-n1-piano"
+        },
+        "m2432400012": {
+          "first_seen_at": "2026-08-18T16:51:08.595291+00:00",
+          "price_display": "€ 690,00",
+          "title": "Digitale piano Yamaha YDP161",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432400012-digitale-piano-yamaha-ydp161"
+        },
+        "m2432400186": {
+          "first_seen_at": "2026-08-18T16:51:08.595291+00:00",
+          "price_display": "€ 100,00",
+          "title": "Decoratieve houten piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432400186-decoratieve-houten-piano"
+        },
+        "m2432401215": {
+          "first_seen_at": "2026-08-18T16:51:08.595291+00:00",
+          "price_display": "€ 200,00",
+          "title": "Alesis Recital Pro + hamermechanisme (Hammer Action)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432401215-alesis-recital-pro-hamermechanisme-hammer-action"
         }
       }
     }
@@ -50524,7 +50590,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T16:13:38.770199+00:00",
+    "last_checked_at": "2026-08-18T16:51:23.229166+00:00",
     "outage_alert_sent": false
   }
 }
