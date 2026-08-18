@@ -9668,6 +9668,18 @@
           "title": "1 kilogramme - Cuivre .999 - 1 Kilo 999 Fine Copper Walking",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165590357-1-kilogramme-cuivre-999-1-kilo-999-fine-copper-walking"
         },
+        "a165620426": {
+          "first_seen_at": "2026-08-18T03:10:50.319025+00:00",
+          "price_display": "€ 1,00",
+          "title": "5 Troy Ounce - Argent .999 - Philharmonique 2026 - 155,5",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620426-5-troy-ounce-argent-999-philharmonique-2026-155-5"
+        },
+        "a165620427": {
+          "first_seen_at": "2026-08-18T03:10:50.319025+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Argent .999 - Chinese Dragon 2026 - 31,1 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620427-1-troy-ounce-argent-999-chinese-dragon-2026-31-1-gram"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -49618,7 +49630,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T02:13:14.056198+00:00",
+    "last_checked_at": "2026-08-18T03:11:12.105330+00:00",
     "outage_alert_sent": false
   }
 }
