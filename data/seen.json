@@ -9002,6 +9002,12 @@
           "price_display": "€ 275,00",
           "title": "Akoestische gitaar: Richwood Master Series D 50 CE",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432352976-akoestische-gitaar-richwood-master-series-d-50-ce"
+        },
+        "m2432359530": {
+          "first_seen_at": "2026-08-18T15:16:20.238196+00:00",
+          "price_display": "€ 100,00",
+          "title": "Klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432359530-klassieke-gitaar"
         }
       }
     },
@@ -12907,6 +12913,12 @@
           "price_display": "Bieden vanaf € 32,00",
           "title": "Gouden munt 1/200 Togo-1500 fr-202-nine",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432314834-gouden-munt-1-200-togo-1500-fr-202-nine"
+        },
+        "m2432357669": {
+          "first_seen_at": "2026-08-18T15:16:01.057051+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "20x 1 oz .999 zilver Wiener philharmoniker",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432357669-20x-1-oz-999-zilver-wiener-philharmoniker"
         }
       }
     },
@@ -18966,6 +18978,18 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Wandelband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432350563-wandelband"
+        },
+        "m2432359939": {
+          "first_seen_at": "2026-08-18T15:15:50.909047+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Powakaddy C2i extended battery",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432359939-powakaddy-c2i-extended-battery"
+        },
+        "m2432364064": {
+          "first_seen_at": "2026-08-18T15:15:50.909047+00:00",
+          "price_display": "€ 40,00",
+          "title": "Wonder core smart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432364064-wonder-core-smart"
         }
       }
     },
@@ -41057,6 +41081,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Bench press bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432349399-bench-press-bank"
+        },
+        "m2432358741": {
+          "first_seen_at": "2026-08-18T15:15:30.700576+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Professionele fitnessmat/ judomat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432358741-professionele-fitnessmat-judomat"
+        },
+        "m2432364073": {
+          "first_seen_at": "2026-08-18T15:15:30.700576+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Hexa Dumbbells – 2 x 6 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432364073-hexa-dumbbells-2-x-6-kg"
         }
       }
     },
@@ -50398,7 +50434,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T14:48:25.951682+00:00",
+    "last_checked_at": "2026-08-18T15:16:21.151189+00:00",
     "outage_alert_sent": false
   }
 }
