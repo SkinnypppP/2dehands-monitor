@@ -8858,6 +8858,12 @@
           "price_display": "€ 1.675,00",
           "title": "Gibson L-OO Standard VSB Acoustic guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432147908-gibson-l-oo-standard-vsb-acoustic-guitar"
+        },
+        "m2432158890": {
+          "first_seen_at": "2026-08-18T07:08:23.943589+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "ukelele zo goed al nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432158890-ukelele-zo-goed-al-nieuw"
         }
       }
     },
@@ -40493,6 +40499,48 @@
           "price_display": "€ 195,00",
           "title": "Spinning fiets / indoor cycle €195",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432143378-spinning-fiets-indoor-cycle-195"
+        },
+        "m2432154961": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "1 x lange halterstang (120cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432154961-1-x-lange-halterstang-120cm-2-8cm"
+        },
+        "m2432155304": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "1 x lange halterstang (155cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432155304-1-x-lange-halterstang-155cm-2-8cm"
+        },
+        "m2432156009": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "1 x lange halterstang (175cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432156009-1-x-lange-halterstang-175cm-2-8cm"
+        },
+        "m2432156788": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "1 x lange halterstang (200cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432156788-1-x-lange-halterstang-200cm-2-8cm"
+        },
+        "m2432157193": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Barbell pad/ Nekbeschermer voor je baar. (Goede staat!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432157193-barbell-pad-nekbeschermer-voor-je-baar-goede-staat"
+        },
+        "m2432157735": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 12,00",
+          "title": "Corength ABwheel buikspierwiel met elastiek (Goede staat!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432157735-corength-abwheel-buikspierwiel-met-elastiek-goede-staat"
+        },
+        "m2432158757": {
+          "first_seen_at": "2026-08-18T07:07:27.460894+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "12 x 2kg & 2 x 2,5kg Domyos halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432158757-12-x-2kg-2-x-2-5kg-domyos-halterschijven-2-8cm"
         }
       }
     },
@@ -49702,7 +49750,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T06:16:56.721105+00:00",
+    "last_checked_at": "2026-08-18T07:08:25.205675+00:00",
     "outage_alert_sent": false
   }
 }
