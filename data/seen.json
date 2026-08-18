@@ -41309,6 +41309,36 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Trampoline",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432419984-trampoline"
+        },
+        "m2432427542": {
+          "first_seen_at": "2026-08-18T18:28:45.009273+00:00",
+          "price_display": "Bieden vanaf € 325,00",
+          "title": "Les Mills bodypump stang + 20kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432427542-les-mills-bodypump-stang-20kg"
+        },
+        "m2432428638": {
+          "first_seen_at": "2026-08-18T18:28:45.009273+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "ATX multigrip bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432428638-atx-multigrip-bar"
+        },
+        "m2432430511": {
+          "first_seen_at": "2026-08-18T18:28:45.009273+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Halterschijven standaard/ rek.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432430511-halterschijven-standaard-rek"
+        },
+        "m2432435885": {
+          "first_seen_at": "2026-08-18T18:28:45.009273+00:00",
+          "price_display": "€ 110,00",
+          "title": "krachttrainingsset met halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432435885-krachttrainingsset-met-halterbank"
+        },
+        "m2432436402": {
+          "first_seen_at": "2026-08-18T18:28:45.009273+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Fitness trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432436402-fitness-trilplaat"
         }
       }
     },
@@ -50715,6 +50745,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Buffetpiano Boyd of London met verstelbaar krukje - Vintage",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432420804-buffetpiano-boyd-of-london-met-verstelbaar-krukje-vintage"
+        },
+        "m2432425827": {
+          "first_seen_at": "2026-08-18T18:29:28.069735+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "Piano zoekt creatieve knutselaar!!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432425827-piano-zoekt-creatieve-knutselaar"
         }
       }
     }
@@ -50722,7 +50758,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T17:53:18.146553+00:00",
+    "last_checked_at": "2026-08-18T18:29:36.822574+00:00",
     "outage_alert_sent": false
   }
 }
