@@ -9008,6 +9008,30 @@
           "price_display": "€ 100,00",
           "title": "Klassieke gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432359530-klassieke-gitaar"
+        },
+        "m2432368139": {
+          "first_seen_at": "2026-08-18T15:49:19.725146+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432368139-gitaar"
+        },
+        "m2432369860": {
+          "first_seen_at": "2026-08-18T15:49:19.725146+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432369860-gitaar"
+        },
+        "m2432372339": {
+          "first_seen_at": "2026-08-18T15:49:19.725146+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432372339-gitaar"
+        },
+        "m2432378837": {
+          "first_seen_at": "2026-08-18T15:49:19.725146+00:00",
+          "price_display": "Bieden vanaf € 89,00",
+          "title": "ARIA AK-20 N klassieke gitaar 6 snaren ideaal voor beginners",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432378837-aria-ak-20-n-klassieke-gitaar-6-snaren-ideaal-voor-beginners"
         }
       }
     },
@@ -18990,6 +19014,12 @@
           "price_display": "€ 40,00",
           "title": "Wonder core smart",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432364064-wonder-core-smart"
+        },
+        "m2432373850": {
+          "first_seen_at": "2026-08-18T15:48:50.235428+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Assault bike pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432373850-assault-bike-pro"
         }
       }
     },
@@ -41093,6 +41123,36 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Hexa Dumbbells – 2 x 6 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432364073-hexa-dumbbells-2-x-6-kg"
+        },
+        "m2432368142": {
+          "first_seen_at": "2026-08-18T15:48:26.859877+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Buikspier trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432368142-buikspier-trainer"
+        },
+        "m2432368439": {
+          "first_seen_at": "2026-08-18T15:48:26.859877+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitness bar en bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432368439-fitness-bar-en-bankje"
+        },
+        "m2432373054": {
+          "first_seen_at": "2026-08-18T15:48:26.859877+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Fitnessmatten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432373054-fitnessmatten"
+        },
+        "m2432377651": {
+          "first_seen_at": "2026-08-18T15:48:26.859877+00:00",
+          "price_display": "€ 20,00",
+          "title": "Domyos Dip bars",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432377651-domyos-dip-bars"
+        },
+        "m2432377731": {
+          "first_seen_at": "2026-08-18T15:48:26.859877+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Fitness bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432377731-fitness-bank"
         }
       }
     },
@@ -50427,6 +50487,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Thomann SP-320 Digital Piano Bundle",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432353877-thomann-sp-320-digital-piano-bundle"
+        },
+        "m2432371114": {
+          "first_seen_at": "2026-08-18T15:49:09.234029+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Yamaha YDP-145B digitale piano - Nieuwstaat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432371114-yamaha-ydp-145b-digitale-piano-nieuwstaat"
+        },
+        "m2432379528": {
+          "first_seen_at": "2026-08-18T15:49:09.234029+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Roland HP201 digitale piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432379528-roland-hp201-digitale-piano"
         }
       }
     }
@@ -50434,7 +50506,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T15:16:21.151189+00:00",
+    "last_checked_at": "2026-08-18T15:49:22.857197+00:00",
     "outage_alert_sent": false
   }
 }
