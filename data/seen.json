@@ -19020,6 +19020,12 @@
           "price_display": "Zie omschrijving",
           "title": "Assault bike pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432373850-assault-bike-pro"
+        },
+        "m2432384036": {
+          "first_seen_at": "2026-08-18T16:13:07.913871+00:00",
+          "price_display": "€ 120,00",
+          "title": "Kettler Ergometer E5 hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432384036-kettler-ergometer-e5-hometrainer"
         }
       }
     },
@@ -19661,6 +19667,12 @@
           "price_display": "Bieden vanaf € 2.450,00",
           "title": "Technogym: Run Now 700 Loopband + Synchro 700 Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2415565261-technogym-run-now-700-loopband-synchro-700-crosstrainer"
+        },
+        "m2415606801": {
+          "first_seen_at": "2026-08-18T16:12:45.740165+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2415606801-spinningfiets"
         },
         "m2415989681": {
           "first_seen_at": "2026-07-21T12:51:46.369869+00:00",
@@ -50499,6 +50511,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Roland HP201 digitale piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432379528-roland-hp201-digitale-piano"
+        },
+        "m2432382142": {
+          "first_seen_at": "2026-08-18T16:13:26.534823+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano marque Hautrive",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432382142-piano-marque-hautrive"
         }
       }
     }
@@ -50506,7 +50524,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T15:49:22.857197+00:00",
+    "last_checked_at": "2026-08-18T16:13:38.770199+00:00",
     "outage_alert_sent": false
   }
 }
