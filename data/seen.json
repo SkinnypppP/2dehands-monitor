@@ -8852,6 +8852,12 @@
           "price_display": "€ 550,00",
           "title": "Blueridge BR-43 B akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432144908-blueridge-br-43-b-akoestische-gitaar"
+        },
+        "m2432147908": {
+          "first_seen_at": "2026-08-18T06:16:55.552851+00:00",
+          "price_display": "€ 1.675,00",
+          "title": "Gibson L-OO Standard VSB Acoustic guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432147908-gibson-l-oo-standard-vsb-acoustic-guitar"
         }
       }
     },
@@ -18642,6 +18648,12 @@
           "price_display": "€ 120,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432137516-hometrainer"
+        },
+        "m2432148625": {
+          "first_seen_at": "2026-08-18T06:16:22.586907+00:00",
+          "price_display": "€ 150,00",
+          "title": "Vélo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432148625-velo-d-appartement"
         }
       }
     },
@@ -49677,6 +49689,12 @@
           "price_display": "€ 7.750,00",
           "title": "Wilhelm schimmel piano w114 tradition",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432112520-wilhelm-schimmel-piano-w114-tradition"
+        },
+        "m2432146452": {
+          "first_seen_at": "2026-08-18T06:16:43.880451+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "PIANO droit YAMAHA - 2800 € - Marche-en-Famenne",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432146452-piano-droit-yamaha-2800-marche-en-famenne"
         }
       }
     }
@@ -49684,7 +49702,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T05:47:31.953423+00:00",
+    "last_checked_at": "2026-08-18T06:16:56.721105+00:00",
     "outage_alert_sent": false
   }
 }
