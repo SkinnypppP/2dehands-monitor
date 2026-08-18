@@ -8888,6 +8888,12 @@
           "price_display": "€ 350,00",
           "title": "Juan Salvador 6C Cadet klassieke gitaar + draagtas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432209466-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
+        },
+        "m2432218036": {
+          "first_seen_at": "2026-08-18T10:01:48.501821+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "giatare acoustique pour enfant en très bonne état",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432218036-giatare-acoustique-pour-enfant-en-tres-bonne-etat"
         }
       }
     },
@@ -12721,6 +12727,18 @@
           "price_display": "€ 320,00",
           "title": "Zilveren Muntenset Spelen Beijing 4 x 1 oz",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432174376-zilveren-muntenset-spelen-beijing-4-x-1-oz"
+        },
+        "m2432213761": {
+          "first_seen_at": "2026-08-18T10:01:32.716299+00:00",
+          "price_display": "€ 59,00",
+          "title": "#Heimerle en Meule #1kilogram #koperbaren",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432213761-heimerle-en-meule-1kilogram-koperbaren"
+        },
+        "m2432223846": {
+          "first_seen_at": "2026-08-18T10:01:32.716299+00:00",
+          "price_display": "€ 3,00",
+          "title": "linnen",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432223846-linnen"
         }
       }
     },
@@ -18696,6 +18714,12 @@
           "price_display": "Bieden vanaf € 995,00",
           "title": "TUNTURI loopband T60 Performance",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432192968-tunturi-loopband-t60-performance"
+        },
+        "m2432219027": {
+          "first_seen_at": "2026-08-18T10:01:23.177575+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Smart bike  basic fit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432219027-smart-bike-basic-fit"
         }
       }
     },
@@ -40655,6 +40679,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Mini Stepper voor thuis",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432210913-mini-stepper-voor-thuis"
+        },
+        "m2432211959": {
+          "first_seen_at": "2026-08-18T10:01:05.140088+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Powerplate",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432211959-powerplate"
         }
       }
     },
@@ -49882,7 +49912,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T09:32:17.631336+00:00",
+    "last_checked_at": "2026-08-18T10:01:50.182149+00:00",
     "outage_alert_sent": false
   }
 }
