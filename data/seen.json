@@ -8942,6 +8942,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432260552-gitaar"
+        },
+        "m2432270536": {
+          "first_seen_at": "2026-08-18T11:57:06.821607+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar met staander",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432270536-gitaar-met-staander"
         }
       }
     },
@@ -12799,6 +12805,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "koningin Mathilde",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432250855-koningin-mathilde"
+        },
+        "m2432272773": {
+          "first_seen_at": "2026-08-18T11:56:47.565191+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Oefen kaarten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432272773-oefen-kaarten"
         }
       }
     },
@@ -18804,6 +18816,18 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "vélo elliptique",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432262216-velo-elliptique"
+        },
+        "m2432266623": {
+          "first_seen_at": "2026-08-18T11:56:36.169999+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "KingSmith WalkingPad A1 Pro - Opvouwbare Wandelband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432266623-kingsmith-walkingpad-a1-pro-opvouwbare-wandelband"
+        },
+        "m2432267726": {
+          "first_seen_at": "2026-08-18T11:56:36.169999+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vélo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432267726-velo-d-appartement"
         }
       }
     },
@@ -40841,6 +40865,24 @@
           "price_display": "Bieden vanaf € 2.250,00",
           "title": "Technogym selection line smith machine / fitness / gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432263667-technogym-selection-line-smith-machine-fitness-gym"
+        },
+        "m2432267745": {
+          "first_seen_at": "2026-08-18T11:56:19.801948+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "2x 20 kg gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432267745-2x-20-kg-gewichten"
+        },
+        "m2432268555": {
+          "first_seen_at": "2026-08-18T11:56:19.801948+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432268555-gym"
+        },
+        "m2432271599": {
+          "first_seen_at": "2026-08-18T11:56:19.801948+00:00",
+          "price_display": "€ 280,00",
+          "title": "vidaXL Dumbbels 30 kg gietijzer 280 euro's nieuw in plastic!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432271599-vidaxl-dumbbels-30-kg-gietijzer-280-euro-s-nieuw-in-plastic"
         }
       }
     },
@@ -50109,6 +50151,24 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "studiologic",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432263365-studiologic"
+        },
+        "m2432264167": {
+          "first_seen_at": "2026-08-18T11:56:57.103892+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "piano bank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432264167-piano-bank"
+        },
+        "m2432266053": {
+          "first_seen_at": "2026-08-18T11:56:57.103892+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Piano droit Steinbach – Bon état",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432266053-piano-droit-steinbach-bon-etat"
+        },
+        "m2432266209": {
+          "first_seen_at": "2026-08-18T11:56:57.103892+00:00",
+          "price_display": "€ 120,00",
+          "title": "Piano P. De Heug Charleroi",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432266209-piano-p-de-heug-charleroi"
         }
       }
     }
@@ -50116,7 +50176,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T11:35:56.152761+00:00",
+    "last_checked_at": "2026-08-18T11:57:07.519103+00:00",
     "outage_alert_sent": false
   }
 }
