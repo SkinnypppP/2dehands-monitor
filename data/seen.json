@@ -19104,6 +19104,12 @@
           "price_display": "€ 50,00",
           "title": "Domyos 120 Cross trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432413871-domyos-120-cross-trainer"
+        },
+        "m2432480274": {
+          "first_seen_at": "2026-08-18T21:02:58.253011+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Domyos 520",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432480274-domyos-520"
         }
       }
     },
@@ -41513,6 +41519,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "atx bicep curl",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432476545-atx-bicep-curl"
+        },
+        "m2432479054": {
+          "first_seen_at": "2026-08-18T21:02:40.327979+00:00",
+          "price_display": "€ 20,00",
+          "title": "alter",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432479054-alter"
         }
       }
     },
@@ -50943,6 +50955,12 @@
           "price_display": "€ 200,00",
           "title": "Piano Brevete De HeuQ Charleroi te koop.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432472852-piano-brevete-de-heuq-charleroi-te-koop"
+        },
+        "m2432480104": {
+          "first_seen_at": "2026-08-18T21:03:18.005518+00:00",
+          "price_display": "Gratis",
+          "title": "Piano Carl Hardt Stuttgart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432480104-piano-carl-hardt-stuttgart"
         }
       }
     }
@@ -50950,7 +50968,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T20:43:38.729076+00:00",
+    "last_checked_at": "2026-08-18T21:03:27.046870+00:00",
     "outage_alert_sent": false
   }
 }
