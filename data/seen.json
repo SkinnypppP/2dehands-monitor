@@ -8924,6 +8924,24 @@
           "price_display": "€ 349,00",
           "title": "Ibanez FRH10N",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432250377-ibanez-frh10n"
+        },
+        "m2432253834": {
+          "first_seen_at": "2026-08-18T11:35:53.403328+00:00",
+          "price_display": "€ 690,00",
+          "title": "Taylor GS mini E-koa",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432253834-taylor-gs-mini-e-koa"
+        },
+        "m2432255341": {
+          "first_seen_at": "2026-08-18T11:35:53.403328+00:00",
+          "price_display": "€ 170,00",
+          "title": "Akoestische gitaar Almansa model 401",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432255341-akoestische-gitaar-almansa-model-401"
+        },
+        "m2432260552": {
+          "first_seen_at": "2026-08-18T11:35:53.403328+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432260552-gitaar"
         }
       }
     },
@@ -18774,6 +18792,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "fitness station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432235188-fitness-station"
+        },
+        "m2432258400": {
+          "first_seen_at": "2026-08-18T11:35:29.127490+00:00",
+          "price_display": "€ 50,00",
+          "title": "Crosstrainer Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432258400-crosstrainer-domyos"
+        },
+        "m2432262216": {
+          "first_seen_at": "2026-08-18T11:35:29.127490+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "vélo elliptique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432262216-velo-elliptique"
         }
       }
     },
@@ -40787,6 +40817,30 @@
           "price_display": "€ 260,00",
           "title": "Taurus spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432244114-taurus-spinningfiets"
+        },
+        "m2432254027": {
+          "first_seen_at": "2026-08-18T11:35:10.031494+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Loopband Domyos T900D",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432254027-loopband-domyos-t900d"
+        },
+        "m2432259974": {
+          "first_seen_at": "2026-08-18T11:35:10.031494+00:00",
+          "price_display": "€ 35,00",
+          "title": "Step Reebok Studio",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432259974-step-reebok-studio"
+        },
+        "m2432263569": {
+          "first_seen_at": "2026-08-18T11:35:10.031494+00:00",
+          "price_display": "€ 30,00",
+          "title": "Barre de traction pliable",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432263569-barre-de-traction-pliable"
+        },
+        "m2432263667": {
+          "first_seen_at": "2026-08-18T11:35:10.031494+00:00",
+          "price_display": "Bieden vanaf € 2.250,00",
+          "title": "Technogym selection line smith machine / fitness / gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432263667-technogym-selection-line-smith-machine-fitness-gym"
         }
       }
     },
@@ -50049,6 +50103,12 @@
           "price_display": "€ 120,00",
           "title": "Piano type 'barpiano' - functioneel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432240590-piano-type-barpiano-functioneel"
+        },
+        "m2432263365": {
+          "first_seen_at": "2026-08-18T11:35:46.411035+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "studiologic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432263365-studiologic"
         }
       }
     }
@@ -50056,7 +50116,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T11:05:37.028369+00:00",
+    "last_checked_at": "2026-08-18T11:35:56.152761+00:00",
     "outage_alert_sent": false
   }
 }
