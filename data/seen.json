@@ -9068,6 +9068,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Gitaar - Guitarras cuenca model 10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432453214-gitaar-guitarras-cuenca-model-10"
+        },
+        "m2432466576": {
+          "first_seen_at": "2026-08-18T20:17:08.531696+00:00",
+          "price_display": "Bieden vanaf € 2.400,00",
+          "title": "GIBSON SJ 200 STUDIO ROSEWOOD",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432466576-gibson-sj-200-studio-rosewood"
         }
       }
     },
@@ -41459,6 +41465,30 @@
           "price_display": "Gratis",
           "title": "Gratis dip bars / parallettes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432465458-gratis-dip-bars-parallettes"
+        },
+        "m2432466241": {
+          "first_seen_at": "2026-08-18T20:16:14.172775+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Set van 3 Kettlebells – 4 kg, 6 kg & 8 kg ️‍️",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432466241-set-van-3-kettlebells-4-kg-6-kg-8-kg"
+        },
+        "m2432469959": {
+          "first_seen_at": "2026-08-18T20:16:14.172775+00:00",
+          "price_display": "€ 30,00",
+          "title": "Fitness Resistance Bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432469959-fitness-resistance-bar"
+        },
+        "m2432470549": {
+          "first_seen_at": "2026-08-18T20:16:14.172775+00:00",
+          "price_display": "€ 12,00",
+          "title": "Facia Roller",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432470549-facia-roller"
+        },
+        "m2432471284": {
+          "first_seen_at": "2026-08-18T20:16:14.172775+00:00",
+          "price_display": "€ 15,00",
+          "title": "Grip strength trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432471284-grip-strength-trainer"
         }
       }
     },
@@ -50890,7 +50920,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T19:54:07.107467+00:00",
+    "last_checked_at": "2026-08-18T20:17:09.798859+00:00",
     "outage_alert_sent": false
   }
 }
