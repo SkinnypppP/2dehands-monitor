@@ -8882,6 +8882,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "3/4  fender gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432195567-3-4-fender-gitaar"
+        },
+        "m2432209466": {
+          "first_seen_at": "2026-08-18T09:32:16.900173+00:00",
+          "price_display": "€ 350,00",
+          "title": "Juan Salvador 6C Cadet klassieke gitaar + draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432209466-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
         }
       }
     },
@@ -40625,6 +40631,30 @@
           "price_display": "€ 175,00",
           "title": "60kg - Bumperplates",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432188627-60kg-bumperplates"
+        },
+        "m2432196809": {
+          "first_seen_at": "2026-08-18T09:31:31.335112+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Rack de rangement Corengh",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432196809-rack-de-rangement-corengh"
+        },
+        "m2432205832": {
+          "first_seen_at": "2026-08-18T09:31:31.335112+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Air Roeitoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432205832-air-roeitoestel"
+        },
+        "m2432209579": {
+          "first_seen_at": "2026-08-18T09:31:31.335112+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Dempende matten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432209579-dempende-matten"
+        },
+        "m2432210913": {
+          "first_seen_at": "2026-08-18T09:31:31.335112+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Mini Stepper voor thuis",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432210913-mini-stepper-voor-thuis"
         }
       }
     },
@@ -49839,6 +49869,12 @@
           "price_display": "Bieden vanaf € 500,00",
           "title": "Art nouveau piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432186940-art-nouveau-piano"
+        },
+        "m2432204846": {
+          "first_seen_at": "2026-08-18T09:32:08.994758+00:00",
+          "price_display": "€ 500,00",
+          "title": "piano Rippen Hollandais",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432204846-piano-rippen-hollandais"
         }
       }
     }
@@ -49846,7 +49882,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T08:57:56.522156+00:00",
+    "last_checked_at": "2026-08-18T09:32:17.631336+00:00",
     "outage_alert_sent": false
   }
 }
