@@ -12691,6 +12691,12 @@
           "price_display": "€ 1.234,00",
           "title": "fugio cent médaille",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432133828-fugio-cent-medaille"
+        },
+        "m2432174376": {
+          "first_seen_at": "2026-08-18T08:18:09.601361+00:00",
+          "price_display": "€ 320,00",
+          "title": "Zilveren Muntenset Spelen Beijing 4 x 1 oz",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432174376-zilveren-muntenset-spelen-beijing-4-x-1-oz"
         }
       }
     },
@@ -40559,6 +40565,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "3 x houten kussen/ rugsteun etc + andere.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432169800-3-x-houten-kussen-rugsteun-etc-andere"
+        },
+        "m2432175996": {
+          "first_seen_at": "2026-08-18T08:17:43.825860+00:00",
+          "price_display": "€ 150,00",
+          "title": "Elliptisch",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432175996-elliptisch"
+        },
+        "m2432181808": {
+          "first_seen_at": "2026-08-18T08:17:43.825860+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Squatrek + 150kg aan Olympisch gewicht",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432181808-squatrek-150kg-aan-olympisch-gewicht"
         }
       }
     },
@@ -49774,7 +49792,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T07:50:24.061641+00:00",
+    "last_checked_at": "2026-08-18T08:18:23.490862+00:00",
     "outage_alert_sent": false
   }
 }
