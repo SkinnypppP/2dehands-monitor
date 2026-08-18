@@ -8948,6 +8948,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar met staander",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432270536-gitaar-met-staander"
+        },
+        "m2432279414": {
+          "first_seen_at": "2026-08-18T12:39:19.699459+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432279414-gitaar"
+        },
+        "m2432280863": {
+          "first_seen_at": "2026-08-18T12:39:19.699459+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Spaanse gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432280863-spaanse-gitaar"
         }
       }
     },
@@ -9817,6 +9829,18 @@
           "price_display": "€ 1,00",
           "title": "1 Troy Ounce - Argent .999 - Chinese Dragon 2026 - 31,1 gram",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620427-1-troy-ounce-argent-999-chinese-dragon-2026-31-1-gram"
+        },
+        "a165640946": {
+          "first_seen_at": "2026-08-18T12:39:01.314574+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Platina .999 - 1oz Valcambi Suisse .9995 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165640946-1-troy-ounce-platina-999-1oz-valcambi-suisse-9995-fine"
+        },
+        "a165640949": {
+          "first_seen_at": "2026-08-18T12:39:01.314574+00:00",
+          "price_display": "€ 1,00",
+          "title": "50 gram - Goud .999 - 50g .9999 Fine Gold Bar Germany",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165640949-50-gram-goud-999-50g-9999-fine-gold-bar-germany"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -18828,6 +18852,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432267726-velo-d-appartement"
+        },
+        "m2432279380": {
+          "first_seen_at": "2026-08-18T12:38:49.939849+00:00",
+          "price_display": "Bieden vanaf € 210,00",
+          "title": "Zipro loopband opvouwbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432279380-zipro-loopband-opvouwbaar"
+        },
+        "m2432290811": {
+          "first_seen_at": "2026-08-18T12:38:49.939849+00:00",
+          "price_display": "€ 100,00",
+          "title": "Vibro fit trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432290811-vibro-fit-trilplaat"
         }
       }
     },
@@ -50169,6 +50205,18 @@
           "price_display": "€ 120,00",
           "title": "Piano P. De Heug Charleroi",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432266209-piano-p-de-heug-charleroi"
+        },
+        "m2432283524": {
+          "first_seen_at": "2026-08-18T12:39:11.242791+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Mooie Duitse piano! Gratis Bezorgd in België!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432283524-mooie-duitse-piano-gratis-bezorgd-in-belgie"
+        },
+        "m2432286445": {
+          "first_seen_at": "2026-08-18T12:39:11.242791+00:00",
+          "price_display": "€ 2.250,00",
+          "title": "Nieuwstaat Kawai piano CX5! Gratis bezorgd!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432286445-nieuwstaat-kawai-piano-cx5-gratis-bezorgd"
         }
       }
     }
@@ -50176,7 +50224,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T11:57:07.519103+00:00",
+    "last_checked_at": "2026-08-18T12:39:21.813172+00:00",
     "outage_alert_sent": false
   }
 }
