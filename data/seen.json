@@ -18924,6 +18924,12 @@
           "price_display": "Bieden vanaf € 220,00",
           "title": "fitnessbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432304793-fitnessbank"
+        },
+        "m2432311712": {
+          "first_seen_at": "2026-08-18T14:06:25.376034+00:00",
+          "price_display": "€ 230,00",
+          "title": "Fitnesstoestel: Unit 6 - Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432311712-fitnesstoestel-unit-6-home-gym"
         }
       }
     },
@@ -40979,6 +40985,18 @@
           "price_display": "€ 280,00",
           "title": "vidaXL Dumbbels 30 kg gietijzer 280 euro's nieuw in plastic!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432271599-vidaxl-dumbbels-30-kg-gietijzer-280-euro-s-nieuw-in-plastic"
+        },
+        "m2432318651": {
+          "first_seen_at": "2026-08-18T14:06:05.760749+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "spinning fiets kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432318651-spinning-fiets-kettler"
+        },
+        "m2432334366": {
+          "first_seen_at": "2026-08-18T14:06:05.760749+00:00",
+          "price_display": "€ 35,00",
+          "title": "Banc de musculation / abdominaux DOMYOS réglable",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432334366-banc-de-musculation-abdominaux-domyos-reglable"
         }
       }
     },
@@ -44182,6 +44200,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Adidas arrow hit ctrl 2026 met sleutel en tas",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432301179-adidas-arrow-hit-ctrl-2026-met-sleutel-en-tas"
+        },
+        "m2432322478": {
+          "first_seen_at": "2026-08-18T14:06:17.125330+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Padel raket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432322478-padel-raket"
         }
       }
     },
@@ -50296,7 +50320,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T13:28:42.535680+00:00",
+    "last_checked_at": "2026-08-18T14:06:48.012684+00:00",
     "outage_alert_sent": false
   }
 }
