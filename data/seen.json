@@ -41525,6 +41525,12 @@
           "price_display": "€ 20,00",
           "title": "alter",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432479054-alter"
+        },
+        "m2432483708": {
+          "first_seen_at": "2026-08-18T21:34:24.675100+00:00",
+          "price_display": "€ 75,00",
+          "title": "Corenth verstelbaar fitnessbankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432483708-corenth-verstelbaar-fitnessbankje"
         }
       }
     },
@@ -44740,6 +44746,30 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Nox AT10 Genius Limited Edition",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432393338-nox-at10-genius-limited-edition"
+        },
+        "m2432483094": {
+          "first_seen_at": "2026-08-18T21:34:34.126059+00:00",
+          "price_display": "€ 180,00",
+          "title": "Bullpadel Vertex 05 Hybrid  2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432483094-bullpadel-vertex-05-hybrid-2026"
+        },
+        "m2432483295": {
+          "first_seen_at": "2026-08-18T21:34:34.126059+00:00",
+          "price_display": "€ 130,00",
+          "title": "Bullpadel Vertex 04 Hybrid 2025",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432483295-bullpadel-vertex-04-hybrid-2025"
+        },
+        "m2432483481": {
+          "first_seen_at": "2026-08-18T21:34:34.126059+00:00",
+          "price_display": "€ 90,00",
+          "title": "Bullpadel Vertex 03 CTR",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432483481-bullpadel-vertex-03-ctr"
+        },
+        "m2432483982": {
+          "first_seen_at": "2026-08-18T21:34:34.126059+00:00",
+          "price_display": "€ 80,00",
+          "title": "Oxdog Ultimate Court",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432483982-oxdog-ultimate-court"
         }
       }
     },
@@ -50961,6 +50991,12 @@
           "price_display": "Gratis",
           "title": "Piano Carl Hardt Stuttgart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432480104-piano-carl-hardt-stuttgart"
+        },
+        "m2432481911": {
+          "first_seen_at": "2026-08-18T21:35:03.496319+00:00",
+          "price_display": "€ 400,00",
+          "title": "Roland HP-2700 digitale piano – mooie staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432481911-roland-hp-2700-digitale-piano-mooie-staat"
         }
       }
     }
@@ -50968,7 +51004,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T21:03:27.046870+00:00",
+    "last_checked_at": "2026-08-18T21:35:12.515436+00:00",
     "outage_alert_sent": false
   }
 }
