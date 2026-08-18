@@ -41531,6 +41531,18 @@
           "price_display": "€ 75,00",
           "title": "Corenth verstelbaar fitnessbankje",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432483708-corenth-verstelbaar-fitnessbankje"
+        },
+        "m2432486141": {
+          "first_seen_at": "2026-08-18T21:53:20.660492+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterschijven(+1halter)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432486141-halterschijven-1halter"
+        },
+        "m2432486202": {
+          "first_seen_at": "2026-08-18T21:53:20.660492+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Opblaasbaar matras camping",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432486202-opblaasbaar-matras-camping"
         }
       }
     },
@@ -44781,6 +44793,12 @@
           "price_display": "€ 66.660,00",
           "title": "Steinway A",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a119585652-steinway-a"
+        },
+        "a142710137": {
+          "first_seen_at": "2026-08-18T21:53:58.559273+00:00",
+          "price_display": "€ 3.990,00",
+          "title": "Piano Yamaha U1 blanc laqué comme neuf, accordé et garanti",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a142710137-piano-yamaha-u1-blanc-laque-comme-neuf-accorde-et-garanti"
         },
         "a156001980": {
           "first_seen_at": "2026-07-13T14:55:02.798245+00:00",
@@ -51004,7 +51022,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T21:35:12.515436+00:00",
+    "last_checked_at": "2026-08-18T21:54:08.764524+00:00",
     "outage_alert_sent": false
   }
 }
