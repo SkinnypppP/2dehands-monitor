@@ -9074,6 +9074,12 @@
           "price_display": "Bieden vanaf € 2.400,00",
           "title": "GIBSON SJ 200 STUDIO ROSEWOOD",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432466576-gibson-sj-200-studio-rosewood"
+        },
+        "m2432476438": {
+          "first_seen_at": "2026-08-18T20:43:37.514746+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "gitaar standaard",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432476438-gitaar-standaard"
         }
       }
     },
@@ -41489,6 +41495,24 @@
           "price_display": "€ 15,00",
           "title": "Grip strength trainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432471284-grip-strength-trainer"
+        },
+        "m2432473588": {
+          "first_seen_at": "2026-08-18T20:42:48.043050+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Halteres 15-30 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432473588-halteres-15-30-kg"
+        },
+        "m2432474123": {
+          "first_seen_at": "2026-08-18T20:42:48.043050+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "XC-150 ultimate Cross trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432474123-xc-150-ultimate-cross-trainer"
+        },
+        "m2432476545": {
+          "first_seen_at": "2026-08-18T20:42:48.043050+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "atx bicep curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432476545-atx-bicep-curl"
         }
       }
     },
@@ -50913,6 +50937,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Roland digitale piano F-100",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432455904-roland-digitale-piano-f-100"
+        },
+        "m2432472852": {
+          "first_seen_at": "2026-08-18T20:43:27.397886+00:00",
+          "price_display": "€ 200,00",
+          "title": "Piano Brevete De HeuQ Charleroi te koop.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432472852-piano-brevete-de-heuq-charleroi-te-koop"
         }
       }
     }
@@ -50920,7 +50950,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T20:17:09.798859+00:00",
+    "last_checked_at": "2026-08-18T20:43:38.729076+00:00",
     "outage_alert_sent": false
   }
 }
