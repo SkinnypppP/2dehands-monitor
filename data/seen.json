@@ -8900,6 +8900,30 @@
           "price_display": "€ 350,00",
           "title": "Juan Salvador 6C Cadet klassieke gitaar+ draagtas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432227864-juan-salvador-6c-cadet-klassieke-gitaar-draagtas"
+        },
+        "m2432243934": {
+          "first_seen_at": "2026-08-18T11:05:33.496053+00:00",
+          "price_display": "Bieden vanaf € 280,00",
+          "title": "guit classic di giorgio brazil mod signorina nr 16 de 1975",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432243934-guit-classic-di-giorgio-brazil-mod-signorina-nr-16-de-1975"
+        },
+        "m2432245453": {
+          "first_seen_at": "2026-08-18T11:05:33.496053+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "EASTMAN E10 OOM",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432245453-eastman-e10-oom"
+        },
+        "m2432246643": {
+          "first_seen_at": "2026-08-18T11:05:33.496053+00:00",
+          "price_display": "€ 1.150,00",
+          "title": "LARRIVEE OMV03 (ruil/verkoop)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432246643-larrivee-omv03-ruil-verkoop"
+        },
+        "m2432250377": {
+          "first_seen_at": "2026-08-18T11:05:33.496053+00:00",
+          "price_display": "€ 349,00",
+          "title": "Ibanez FRH10N",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432250377-ibanez-frh10n"
         }
       }
     },
@@ -12751,6 +12775,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Bose revolve I",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432228107-bose-revolve-i"
+        },
+        "m2432250855": {
+          "first_seen_at": "2026-08-18T11:05:12.365886+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "koningin Mathilde",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432250855-koningin-mathilde"
         }
       }
     },
@@ -13140,6 +13170,12 @@
           "price_display": "€ 50,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2415404916-hometrainer"
+        },
+        "m2415429147": {
+          "first_seen_at": "2026-08-18T11:05:02.391285+00:00",
+          "price_display": "€ 50,00",
+          "title": "Hometrainer Cecotec 3000 Neo – Zo goed als nieuw!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2415429147-hometrainer-cecotec-3000-neo-zo-goed-als-nieuw"
         },
         "m2415717145": {
           "first_seen_at": "2026-07-13T14:08:16.397756+00:00",
@@ -40745,6 +40781,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "opbergrek 50mm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432239084-opbergrek-50mm"
+        },
+        "m2432244114": {
+          "first_seen_at": "2026-08-18T11:04:42.191647+00:00",
+          "price_display": "€ 260,00",
+          "title": "Taurus spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432244114-taurus-spinningfiets"
         }
       }
     },
@@ -50014,7 +50056,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T10:42:27.159020+00:00",
+    "last_checked_at": "2026-08-18T11:05:37.028369+00:00",
     "outage_alert_sent": false
   }
 }
