@@ -9080,6 +9080,12 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "gitaar standaard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432476438-gitaar-standaard"
+        },
+        "m2432487263": {
+          "first_seen_at": "2026-08-18T22:17:02.584257+00:00",
+          "price_display": "€ 95,00",
+          "title": "Akoestische gitaar voor kinderen Fender",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432487263-akoestische-gitaar-voor-kinderen-fender"
         }
       }
     },
@@ -41543,6 +41549,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Opblaasbaar matras camping",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432486202-opblaasbaar-matras-camping"
+        },
+        "m2432487132": {
+          "first_seen_at": "2026-08-18T22:16:11.551953+00:00",
+          "price_display": "€ 30,00",
+          "title": "pull up bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432487132-pull-up-bar"
+        },
+        "m2432487234": {
+          "first_seen_at": "2026-08-18T22:16:11.551953+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Zipro Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432487234-zipro-bench"
         }
       }
     },
@@ -51015,6 +51033,12 @@
           "price_display": "€ 400,00",
           "title": "Roland HP-2700 digitale piano – mooie staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432481911-roland-hp-2700-digitale-piano-mooie-staat"
+        },
+        "m2432489199": {
+          "first_seen_at": "2026-08-18T22:16:52.819862+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432489199-piano"
         }
       }
     }
@@ -51022,7 +51046,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T21:54:08.764524+00:00",
+    "last_checked_at": "2026-08-18T22:17:03.976425+00:00",
     "outage_alert_sent": false
   }
 }
