@@ -8840,6 +8840,18 @@
           "price_display": "€ 450,00",
           "title": "Ibanez AEF37E Sunset Gold + Originele Koffer",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432126468-ibanez-aef37e-sunset-gold-originele-koffer"
+        },
+        "m2432144814": {
+          "first_seen_at": "2026-08-18T05:47:29.019848+00:00",
+          "price_display": "€ 650,00",
+          "title": "Aria A588 Klassieke gitaar inclusief koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432144814-aria-a588-klassieke-gitaar-inclusief-koffer"
+        },
+        "m2432144908": {
+          "first_seen_at": "2026-08-18T05:47:29.019848+00:00",
+          "price_display": "€ 550,00",
+          "title": "Blueridge BR-43 B akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432144908-blueridge-br-43-b-akoestische-gitaar"
         }
       }
     },
@@ -40463,6 +40475,12 @@
           "price_display": "€ 100,00",
           "title": "Chest Fly Machine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432119406-chest-fly-machine"
+        },
+        "m2432143378": {
+          "first_seen_at": "2026-08-18T05:46:45.397424+00:00",
+          "price_display": "€ 195,00",
+          "title": "Spinning fiets / indoor cycle €195",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432143378-spinning-fiets-indoor-cycle-195"
         }
       }
     },
@@ -49666,7 +49684,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T05:14:57.988728+00:00",
+    "last_checked_at": "2026-08-18T05:47:31.953423+00:00",
     "outage_alert_sent": false
   }
 }
