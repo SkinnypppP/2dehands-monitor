@@ -40541,6 +40541,24 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "12 x 2kg & 2 x 2,5kg Domyos halterschijven. 2,8cm.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432158757-12-x-2kg-2-x-2-5kg-domyos-halterschijven-2-8cm"
+        },
+        "m2432163780": {
+          "first_seen_at": "2026-08-18T07:49:42.781012+00:00",
+          "price_display": "€ 39,00",
+          "title": "Calisthenics pull up bar voor buitengebruik",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432163780-calisthenics-pull-up-bar-voor-buitengebruik"
+        },
+        "m2432166066": {
+          "first_seen_at": "2026-08-18T07:49:42.781012+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Banc de musculation corength",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432166066-banc-de-musculation-corength"
+        },
+        "m2432169800": {
+          "first_seen_at": "2026-08-18T07:49:42.781012+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "3 x houten kussen/ rugsteun etc + andere.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432169800-3-x-houten-kussen-rugsteun-etc-andere"
         }
       }
     },
@@ -49743,6 +49761,12 @@
           "price_display": "Zie omschrijving",
           "title": "PIANO droit YAMAHA - 2800 € - Marche-en-Famenne",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432146452-piano-droit-yamaha-2800-marche-en-famenne"
+        },
+        "m2432164694": {
+          "first_seen_at": "2026-08-18T07:50:16.409078+00:00",
+          "price_display": "€ 250,00",
+          "title": "digitale piano Steinfort 110",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432164694-digitale-piano-steinfort-110"
         }
       }
     }
@@ -49750,7 +49774,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T07:08:25.205675+00:00",
+    "last_checked_at": "2026-08-18T07:50:24.061641+00:00",
     "outage_alert_sent": false
   }
 }
