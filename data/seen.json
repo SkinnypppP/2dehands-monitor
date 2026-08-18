@@ -9062,6 +9062,12 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Gitaar - Santos y Mayor",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432452033-gitaar-santos-y-mayor"
+        },
+        "m2432453214": {
+          "first_seen_at": "2026-08-18T19:37:05.902245+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Gitaar - Guitarras cuenca model 10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432453214-gitaar-guitarras-cuenca-model-10"
         }
       }
     },
@@ -41411,6 +41417,36 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Buikspier bank.. als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432451916-buikspier-bank-als-nieuw"
+        },
+        "m2432453674": {
+          "first_seen_at": "2026-08-18T19:36:16.292279+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Thuis fitnessset",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432453674-thuis-fitnessset"
+        },
+        "m2432455738": {
+          "first_seen_at": "2026-08-18T19:36:16.292279+00:00",
+          "price_display": "€ 10,00",
+          "title": "ATX slam bal 4kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432455738-atx-slam-bal-4kg"
+        },
+        "m2432456358": {
+          "first_seen_at": "2026-08-18T19:36:16.292279+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Technogym vertical traction rugtoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432456358-technogym-vertical-traction-rugtoestel"
+        },
+        "m2432457884": {
+          "first_seen_at": "2026-08-18T19:36:16.292279+00:00",
+          "price_display": "€ 25,00",
+          "title": "Gewichtzak 25kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432457884-gewichtzak-25kg"
+        },
+        "m2432459363": {
+          "first_seen_at": "2026-08-18T19:36:16.292279+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "domyos 12 kg kettlebell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432459363-domyos-12-kg-kettlebell"
         }
       }
     },
@@ -50823,6 +50859,18 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "Piano zoekt creatieve knutselaar!!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432425827-piano-zoekt-creatieve-knutselaar"
+        },
+        "m2432453106": {
+          "first_seen_at": "2026-08-18T19:36:57.406799+00:00",
+          "price_display": "Bieden vanaf € 2.000,00",
+          "title": "richter 110 piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432453106-richter-110-piano"
+        },
+        "m2432455904": {
+          "first_seen_at": "2026-08-18T19:36:57.406799+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Roland digitale piano F-100",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432455904-roland-digitale-piano-f-100"
         }
       }
     }
@@ -50830,7 +50878,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T19:08:27.082660+00:00",
+    "last_checked_at": "2026-08-18T19:37:06.790071+00:00",
     "outage_alert_sent": false
   }
 }
