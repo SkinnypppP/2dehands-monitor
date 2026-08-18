@@ -44806,6 +44806,12 @@
           "price_display": "Bieden vanaf € 215,00",
           "title": "NOX AT10 Genius 12K Alum Xtrem By Agustin Tapia 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432492181-nox-at10-genius-12k-alum-xtrem-by-agustin-tapia-2026"
+        },
+        "m2432492491": {
+          "first_seen_at": "2026-08-18T23:32:09.670351+00:00",
+          "price_display": "Bieden vanaf € 145,00",
+          "title": "nox ea10 ventus hybrid extreme 12 k",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432492491-nox-ea10-ventus-hybrid-extreme-12-k"
         }
       }
     },
@@ -51052,7 +51058,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T23:03:18.573994+00:00",
+    "last_checked_at": "2026-08-18T23:32:43.595555+00:00",
     "outage_alert_sent": false
   }
 }
