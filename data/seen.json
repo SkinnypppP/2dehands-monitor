@@ -555,11 +555,23 @@
           "title": "Yamaha - Dynamic Guitar No. 10 - - Akoestische gitaar -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165475642-yamaha-dynamic-guitar-no-10-akoestische-gitaar"
         },
+        "a165476561": {
+          "first_seen_at": "2026-08-18T05:14:55.271812+00:00",
+          "price_display": "€ 64,00",
+          "title": "Aria - AK-20 - - Akoestische gitaar - Onbekend (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165476561-aria-ak-20-akoestische-gitaar-onbekend-zonder"
+        },
         "a165476666": {
           "first_seen_at": "2026-08-16T04:54:07.408602+00:00",
           "price_display": "€ 347,00",
           "title": "Yamaha - SA-15D - - Elektrische gitaar - Japan - 1969",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165476666-yamaha-sa-15d-elektrische-gitaar-japan-1969"
+        },
+        "a165478638": {
+          "first_seen_at": "2026-08-18T05:14:55.271812+00:00",
+          "price_display": "€ 160,00",
+          "title": "Squier - Stratocaster - - Guitare à corps plein - Corée du",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165478638-squier-stratocaster-guitare-a-corps-plein-coree-du"
         },
         "a165478640": {
           "first_seen_at": "2026-08-15T04:56:08.175554+00:00",
@@ -590,6 +602,12 @@
           "price_display": "€ 175,00",
           "title": "Boss - GX100 - Multi-effect pedaal - 2024",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165524594-boss-gx100-multi-effect-pedaal-2024"
+        },
+        "a165575450": {
+          "first_seen_at": "2026-08-18T05:14:55.271812+00:00",
+          "price_display": "€ 220,00",
+          "title": "Gibson - - Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165575450-gibson-akoestische-gitaar"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -9667,6 +9685,18 @@
           "price_display": "€ 1,00",
           "title": "1 kilogramme - Cuivre .999 - 1 Kilo 999 Fine Copper Walking",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165590357-1-kilogramme-cuivre-999-1-kilo-999-fine-copper-walking"
+        },
+        "a165620395": {
+          "first_seen_at": "2026-08-18T05:14:33.475881+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Zilver .999 - Chinese Dragon 2026 - 31,1 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620395-1-troy-ounce-zilver-999-chinese-dragon-2026-31-1-gram"
+        },
+        "a165620396": {
+          "first_seen_at": "2026-08-18T05:14:33.475881+00:00",
+          "price_display": "€ 1.750,00",
+          "title": "1 kilogram - Zilver .999 - BANK OF MALTA",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620396-1-kilogram-zilver-999-bank-of-malta"
         },
         "a165620426": {
           "first_seen_at": "2026-08-18T03:10:50.319025+00:00",
@@ -49636,7 +49666,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T04:00:41.165664+00:00",
+    "last_checked_at": "2026-08-18T05:14:57.988728+00:00",
     "outage_alert_sent": false
   }
 }
