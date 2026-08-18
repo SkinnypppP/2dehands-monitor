@@ -44800,6 +44800,12 @@
           "price_display": "€ 80,00",
           "title": "Oxdog Ultimate Court",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432483982-oxdog-ultimate-court"
+        },
+        "m2432492181": {
+          "first_seen_at": "2026-08-18T23:02:39.350848+00:00",
+          "price_display": "Bieden vanaf € 215,00",
+          "title": "NOX AT10 Genius 12K Alum Xtrem By Agustin Tapia 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432492181-nox-at10-genius-12k-alum-xtrem-by-agustin-tapia-2026"
         }
       }
     },
@@ -51046,7 +51052,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-18T22:17:03.976425+00:00",
+    "last_checked_at": "2026-08-18T23:03:18.573994+00:00",
     "outage_alert_sent": false
   }
 }
