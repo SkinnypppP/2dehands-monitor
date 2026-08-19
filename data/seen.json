@@ -41663,6 +41663,24 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Verticale traptrechter met stuur en bidonhouder",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432509431-verticale-traptrechter-met-stuur-en-bidonhouder"
+        },
+        "m2432512448": {
+          "first_seen_at": "2026-08-19T06:18:10.767480+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Loopband merk focus fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432512448-loopband-merk-focus-fitness"
+        },
+        "m2432512800": {
+          "first_seen_at": "2026-08-19T06:18:10.767480+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Sport-Thieme Rugtrainer Edgar + boekje met 75 oefeningen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432512800-sport-thieme-rugtrainer-edgar-boekje-met-75-oefeningen"
+        },
+        "m2432513482": {
+          "first_seen_at": "2026-08-19T06:18:10.767480+00:00",
+          "price_display": "€ 35,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432513482-hometrainer"
         }
       }
     },
@@ -51172,7 +51190,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T05:49:05.507894+00:00",
+    "last_checked_at": "2026-08-19T06:18:58.669348+00:00",
     "outage_alert_sent": false
   }
 }
