@@ -41861,6 +41861,48 @@
           "price_display": "Bieden vanaf € 4,00",
           "title": "buikspiertrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432576704-buikspiertrainer"
+        },
+        "m2432592299": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "€ 200,00",
+          "title": "fitness set halterbank en squatrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432592299-fitness-set-halterbank-en-squatrek"
+        },
+        "m2432595524": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "€ 15,00",
+          "title": "Total Abs , gym sport. nieuw in doos. ongeopend",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432595524-total-abs-gym-sport-nieuw-in-doos-ongeopend"
+        },
+        "m2432596568": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432596568-roeimachine"
+        },
+        "m2432596886": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Monkey bars of ladder",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432596886-monkey-bars-of-ladder"
+        },
+        "m2432597943": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "€ 550,00",
+          "title": "Bench press",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432597943-bench-press"
+        },
+        "m2432598074": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "€ 80,00",
+          "title": "Classic Iron Plates | Paar | 20kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432598074-classic-iron-plates-paar-20kg"
+        },
+        "m2432598906": {
+          "first_seen_at": "2026-08-19T10:11:15.459944+00:00",
+          "price_display": "€ 30,00",
+          "title": "R8 Pull-Up Bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432598906-r8-pull-up-bar"
         }
       }
     },
@@ -51400,7 +51442,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T09:46:24.502499+00:00",
+    "last_checked_at": "2026-08-19T10:12:10.137092+00:00",
     "outage_alert_sent": false
   }
 }
