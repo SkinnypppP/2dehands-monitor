@@ -9116,6 +9116,12 @@
           "price_display": "€ 1.150,00",
           "title": "Godin Ultra A6 cognac burst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432509086-godin-ultra-a6-cognac-burst"
+        },
+        "m2432519589": {
+          "first_seen_at": "2026-08-19T07:10:31.145670+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Antonio Lorca Model 8 met draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432519589-antonio-lorca-model-8-met-draagtas"
         }
       }
     },
@@ -19194,6 +19200,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Loopband van Citysports",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432502311-loopband-van-citysports"
+        },
+        "m2432516146": {
+          "first_seen_at": "2026-08-19T07:10:00.935051+00:00",
+          "price_display": "€ 420,00",
+          "title": "Lionscool Leg extension en Leg curl v4",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432516146-lionscool-leg-extension-en-leg-curl-v4"
         }
       }
     },
@@ -41681,6 +41693,42 @@
           "price_display": "€ 35,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432513482-hometrainer"
+        },
+        "m2432515903": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "€ 25,00",
+          "title": "4 in 1 Halterset nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432515903-4-in-1-halterset-nieuw"
+        },
+        "m2432516979": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "€ 200,00",
+          "title": "ATX Bench FBX-⁠610 + Fat Pad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432516979-atx-bench-fbx-610-fat-pad"
+        },
+        "m2432517317": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "15kg Halterset (verwisselbaar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432517317-15kg-halterset-verwisselbaar"
+        },
+        "m2432517639": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Halterset met zwarte gewichten (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432517639-halterset-met-zwarte-gewichten-30mm"
+        },
+        "m2432518479": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Halterset met rode gewichten (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432518479-halterset-met-rode-gewichten-30mm"
+        },
+        "m2432525212": {
+          "first_seen_at": "2026-08-19T07:09:39.228723+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432525212-crosstrainer"
         }
       }
     },
@@ -51190,7 +51238,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T06:18:58.669348+00:00",
+    "last_checked_at": "2026-08-19T07:10:32.324330+00:00",
     "outage_alert_sent": false
   }
 }
