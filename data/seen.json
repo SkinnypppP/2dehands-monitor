@@ -9326,6 +9326,12 @@
           "price_display": "€ 300,00",
           "title": "Takamine G series",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432803022-takamine-g-series"
+        },
+        "m2432814798": {
+          "first_seen_at": "2026-08-19T18:56:18.295845+00:00",
+          "price_display": "Bieden vanaf € 5.250,00",
+          "title": "Goodall TR000 (2018)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432814798-goodall-tr000-2018"
         }
       }
     },
@@ -13411,6 +13417,12 @@
           "price_display": "Zie omschrijving",
           "title": "Wiener Philharminoniker 2013, 1 oz 999 zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432757696-wiener-philharminoniker-2013-1-oz-999-zilver"
+        },
+        "m2432813179": {
+          "first_seen_at": "2026-08-19T18:55:58.475657+00:00",
+          "price_display": "€ 148,00",
+          "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432813179-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
         }
       }
     },
@@ -42587,6 +42599,24 @@
           "price_display": "€ 475,00",
           "title": "Precor adjustable bench fitness bankje",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432801600-precor-adjustable-bench-fitness-bankje"
+        },
+        "m2432817459": {
+          "first_seen_at": "2026-08-19T18:55:28.045032+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Vespa helm als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432817459-vespa-helm-als-nieuw"
+        },
+        "m2432819056": {
+          "first_seen_at": "2026-08-19T18:55:28.045032+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Dumbells verstelbaar 16 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432819056-dumbells-verstelbaar-16-kg"
+        },
+        "m2432820450": {
+          "first_seen_at": "2026-08-19T18:55:28.045032+00:00",
+          "price_display": "€ 90,00",
+          "title": "Banc de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432820450-banc-de-musculation"
         }
       }
     },
@@ -45892,6 +45922,24 @@
           "price_display": "€ 260,00",
           "title": "ADIDAS Metalbone CTRL 3.5 NIEUW",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432810849-adidas-metalbone-ctrl-3-5-nieuw"
+        },
+        "m2432811825": {
+          "first_seen_at": "2026-08-19T18:55:39.779227+00:00",
+          "price_display": "€ 140,00",
+          "title": "Raquette Padel Adidas Metalbone 3.2 – Ale Galán + Housse",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432811825-raquette-padel-adidas-metalbone-3-2-ale-galan-housse"
+        },
+        "m2432819055": {
+          "first_seen_at": "2026-08-19T18:55:39.779227+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Padelrakket junior",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432819055-padelrakket-junior"
+        },
+        "m2432826501": {
+          "first_seen_at": "2026-08-19T18:55:39.779227+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Bullpadel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432826501-bullpadel"
         }
       }
     },
@@ -52257,6 +52305,18 @@
           "price_display": "Bieden vanaf € 4.200,00",
           "title": "KNAKE buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432798697-knake-buffetpiano"
+        },
+        "m2432821707": {
+          "first_seen_at": "2026-08-19T18:56:06.449816+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432821707-piano"
+        },
+        "m2432822892": {
+          "first_seen_at": "2026-08-19T18:56:06.449816+00:00",
+          "price_display": "Bieden vanaf € 280,00",
+          "title": "Yamaha P-45 zwarte elektronische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432822892-yamaha-p-45-zwarte-elektronische-piano"
         }
       }
     }
@@ -52264,7 +52324,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T18:12:20.515932+00:00",
+    "last_checked_at": "2026-08-19T18:56:19.585576+00:00",
     "outage_alert_sent": false
   }
 }
