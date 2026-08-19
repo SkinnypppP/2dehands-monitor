@@ -42713,6 +42713,12 @@
           "price_display": "€ 4.275,00",
           "title": "Technogym Excite+ 1000 Unity 3.0 LIVE Climb Trappenloper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432857527-technogym-excite-1000-unity-3-0-live-climb-trappenloper"
+        },
+        "m2432873136": {
+          "first_seen_at": "2026-08-19T21:55:49.154482+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Pull up bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432873136-pull-up-bar"
         }
       }
     },
@@ -52462,7 +52468,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T21:36:35.503639+00:00",
+    "last_checked_at": "2026-08-19T21:56:29.285036+00:00",
     "outage_alert_sent": false
   }
 }
