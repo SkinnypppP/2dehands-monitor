@@ -9290,6 +9290,12 @@
           "price_display": "Bieden vanaf € 1.600,00",
           "title": "Fender American Acoustasonic Telecaster bijna nieuwe staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432759971-fender-american-acoustasonic-telecaster-bijna-nieuwe-staat"
+        },
+        "m2432769391": {
+          "first_seen_at": "2026-08-19T16:25:00.690352+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Taylor Baby Mahonie BT2",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432769391-taylor-baby-mahonie-bt2"
         }
       }
     },
@@ -42461,6 +42467,18 @@
           "price_display": "€ 750,00",
           "title": "Concept2 rower E PM5 roeier ergometer hometrainer roeien",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432759201-concept2-rower-e-pm5-roeier-ergometer-hometrainer-roeien"
+        },
+        "m2432763332": {
+          "first_seen_at": "2026-08-19T16:24:16.954657+00:00",
+          "price_display": "€ 50,00",
+          "title": "Leg extension",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432763332-leg-extension"
+        },
+        "m2432764707": {
+          "first_seen_at": "2026-08-19T16:24:16.954657+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "E-bike-standaard voor mountainbikes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432764707-e-bike-standaard-voor-mountainbikes"
         }
       }
     },
@@ -52089,6 +52107,18 @@
           "price_display": "€ 100,00",
           "title": "Piano, antiek, kwartvleugel, John Brimsmead & sons",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432743349-piano-antiek-kwartvleugel-john-brimsmead-sons"
+        },
+        "m2432761261": {
+          "first_seen_at": "2026-08-19T16:24:49.920841+00:00",
+          "price_display": "Bieden vanaf € 320,00",
+          "title": "Roland FP-4F piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432761261-roland-fp-4f-piano"
+        },
+        "m2432763825": {
+          "first_seen_at": "2026-08-19T16:24:49.920841+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Buffet piano, bruin, R. Couvrier, Paris",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432763825-buffet-piano-bruin-r-couvrier-paris"
         }
       }
     }
@@ -52096,7 +52126,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T15:56:12.063558+00:00",
+    "last_checked_at": "2026-08-19T16:25:01.761733+00:00",
     "outage_alert_sent": false
   }
 }
