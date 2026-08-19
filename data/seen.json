@@ -42053,6 +42053,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432634313-spinningfiets"
+        },
+        "m2432641888": {
+          "first_seen_at": "2026-08-19T11:57:03.092828+00:00",
+          "price_display": "€ 275,00",
+          "title": "Complete Thuissport Combi-Deal of Apart te Koop!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432641888-complete-thuissport-combi-deal-of-apart-te-koop"
+        },
+        "m2432646780": {
+          "first_seen_at": "2026-08-19T11:57:03.092828+00:00",
+          "price_display": "€ 220,00",
+          "title": "Domyos HG 90 boxe - met houder voor boksbal (boksbal niet in",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432646780-domyos-hg-90-boxe-met-houder-voor-boksbal-boksbal-niet-in"
         }
       }
     },
@@ -51615,6 +51627,12 @@
           "price_display": "Bieden vanaf € 3.600,00",
           "title": "Uitstekende SAMICK WSU131 staande piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432615281-uitstekende-samick-wsu131-staande-piano"
+        },
+        "m2432641149": {
+          "first_seen_at": "2026-08-19T11:57:44.054017+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "8 maand oude stagepiano Fame SP_15",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432641149-8-maand-oude-stagepiano-fame-sp-15"
         }
       }
     }
@@ -51622,7 +51640,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T11:37:59.313520+00:00",
+    "last_checked_at": "2026-08-19T11:57:54.337183+00:00",
     "outage_alert_sent": false
   }
 }
