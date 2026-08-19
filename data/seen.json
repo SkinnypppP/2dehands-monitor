@@ -9140,6 +9140,18 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Akoestische gitaar Six Gun - Black Satin in perfecte staat!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432550335-akoestische-gitaar-six-gun-black-satin-in-perfecte-staat"
+        },
+        "m2432561136": {
+          "first_seen_at": "2026-08-19T09:07:14.826136+00:00",
+          "price_display": "€ 70,00",
+          "title": "Guitare pour gaucher",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432561136-guitare-pour-gaucher"
+        },
+        "m2432568959": {
+          "first_seen_at": "2026-08-19T09:07:14.826136+00:00",
+          "price_display": "€ 49,00",
+          "title": "Zo Goed Als Nieuw: Gomez 1/2 model klassieke gitaar sunburst",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432568959-zo-goed-als-nieuw-gomez-1-2-model-klassieke-gitaar-sunburst"
         }
       }
     },
@@ -45046,6 +45058,18 @@
           "price_display": "Bieden vanaf € 145,00",
           "title": "nox ea10 ventus hybrid extreme 12 k",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432492491-nox-ea10-ventus-hybrid-extreme-12-k"
+        },
+        "m2432556993": {
+          "first_seen_at": "2026-08-19T09:06:30.165973+00:00",
+          "price_display": "€ 100,00",
+          "title": "Nieuwe padelracket Adidas Metalbone Team",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432556993-nieuwe-padelracket-adidas-metalbone-team"
+        },
+        "m2432558542": {
+          "first_seen_at": "2026-08-19T09:06:30.165973+00:00",
+          "price_display": "€ 50,00",
+          "title": "Padelracket Adidas Adipower",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432558542-padelracket-adidas-adipower"
         }
       }
     },
@@ -51303,6 +51327,18 @@
           "price_display": "Zie omschrijving",
           "title": "piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432540616-piano"
+        },
+        "m2432560411": {
+          "first_seen_at": "2026-08-19T09:07:03.566216+00:00",
+          "price_display": "Bieden vanaf € 680,00",
+          "title": "Piano Lösche",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432560411-piano-losche"
+        },
+        "m2432568993": {
+          "first_seen_at": "2026-08-19T09:07:03.566216+00:00",
+          "price_display": "€ 1.950,00",
+          "title": "Piano Yamaha U1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432568993-piano-yamaha-u1"
         }
       }
     }
@@ -51310,7 +51346,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T08:30:06.619139+00:00",
+    "last_checked_at": "2026-08-19T09:07:16.240751+00:00",
     "outage_alert_sent": false
   }
 }
