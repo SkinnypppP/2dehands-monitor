@@ -19206,6 +19206,12 @@
           "price_display": "€ 420,00",
           "title": "Lionscool Leg extension en Leg curl v4",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432516146-lionscool-leg-extension-en-leg-curl-v4"
+        },
+        "m2432532117": {
+          "first_seen_at": "2026-08-19T07:52:32.660766+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "Roeimachine SENZ SPORTS R4009",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432532117-roeimachine-senz-sports-r4009"
         }
       }
     },
@@ -41729,6 +41735,36 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432525212-crosstrainer"
+        },
+        "m2432528683": {
+          "first_seen_at": "2026-08-19T07:52:14.722245+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Sportvloer 100x100x2cm - zwart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432528683-sportvloer-100x100x2cm-zwart"
+        },
+        "m2432528832": {
+          "first_seen_at": "2026-08-19T07:52:14.722245+00:00",
+          "price_display": "Bieden vanaf € 24,00",
+          "title": "Deux barres haltères réglables Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432528832-deux-barres-halteres-reglables-domyos"
+        },
+        "m2432536352": {
+          "first_seen_at": "2026-08-19T07:52:14.722245+00:00",
+          "price_display": "Gratis",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432536352-hometrainer"
+        },
+        "m2432538165": {
+          "first_seen_at": "2026-08-19T07:52:14.722245+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "virtufit row 1.0 roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432538165-virtufit-row-1-0-roeimachine"
+        },
+        "m2432538682": {
+          "first_seen_at": "2026-08-19T07:52:14.722245+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432538682-fitness-toestel"
         }
       }
     },
@@ -51238,7 +51274,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T07:10:32.324330+00:00",
+    "last_checked_at": "2026-08-19T07:53:02.785443+00:00",
     "outage_alert_sent": false
   }
 }
