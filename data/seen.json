@@ -13423,6 +13423,12 @@
           "price_display": "€ 148,00",
           "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432813179-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
+        },
+        "m2432838213": {
+          "first_seen_at": "2026-08-19T19:48:32.750806+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "20 Mark Duitse Rijk Deutsches Reich 1876 A",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432838213-20-mark-duitse-rijk-deutsches-reich-1876-a"
         }
       }
     },
@@ -42635,6 +42641,30 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "FLAT BENCH TECHNOGYM ISOTONIC LINE",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432829924-flat-bench-technogym-isotonic-line"
+        },
+        "m2432836224": {
+          "first_seen_at": "2026-08-19T19:47:59.944782+00:00",
+          "price_display": "€ 75,00",
+          "title": "Tapis de course",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432836224-tapis-de-course"
+        },
+        "m2432838394": {
+          "first_seen_at": "2026-08-19T19:47:59.944782+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Set van Hex Dumbells, inclusief rack (5kg-25kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432838394-set-van-hex-dumbells-inclusief-rack-5kg-25kg"
+        },
+        "m2432840374": {
+          "first_seen_at": "2026-08-19T19:47:59.944782+00:00",
+          "price_display": "€ 25,00",
+          "title": "Coretoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432840374-coretoestel"
+        },
+        "m2432842619": {
+          "first_seen_at": "2026-08-19T19:47:59.944782+00:00",
+          "price_display": "€ 699,00",
+          "title": "STAR TRAC UPRIGHT BIKE HOMETRAINER TECHNOGYM",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432842619-star-trac-upright-bike-hometrainer-technogym"
         }
       }
     },
@@ -52347,6 +52377,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Antieke piano Schiedmayer & Söhne, Stuttgart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432834025-antieke-piano-schiedmayer-sohne-stuttgart"
+        },
+        "m2432838971": {
+          "first_seen_at": "2026-08-19T19:48:43.572095+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432838971-piano"
         }
       }
     }
@@ -52354,7 +52390,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T19:20:58.513027+00:00",
+    "last_checked_at": "2026-08-19T19:48:53.895298+00:00",
     "outage_alert_sent": false
   }
 }
