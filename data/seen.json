@@ -42737,6 +42737,24 @@
           "price_display": "Zie omschrijving",
           "title": "Bumperplaten Rogue RR (nieuw - nooit gebruikt)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432883894-bumperplaten-rogue-rr-nieuw-nooit-gebruikt"
+        },
+        "m2432884116": {
+          "first_seen_at": "2026-08-19T23:32:48.977531+00:00",
+          "price_display": "Gratis",
+          "title": "Hometrainer (Gratis af te halen)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432884116-hometrainer-gratis-af-te-halen"
+        },
+        "m2432884249": {
+          "first_seen_at": "2026-08-19T23:32:48.977531+00:00",
+          "price_display": "€ 400,00",
+          "title": "Rogue Bella Bar 2.0 - roestvrij staal (nieuw)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432884249-rogue-bella-bar-2-0-roestvrij-staal-nieuw"
+        },
+        "m2432885368": {
+          "first_seen_at": "2026-08-19T23:32:48.977531+00:00",
+          "price_display": "€ 250,00",
+          "title": "Rogue Fitness kettlebell set van 6",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432885368-rogue-fitness-kettlebell-set-van-6"
         }
       }
     },
@@ -52492,7 +52510,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T23:03:27.844136+00:00",
+    "last_checked_at": "2026-08-19T23:33:31.612998+00:00",
     "outage_alert_sent": false
   }
 }
