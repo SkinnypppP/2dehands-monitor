@@ -9980,6 +9980,12 @@
           "title": "Verenigde Staten. 10 x 1 oz Fighter Jet P51 Mustang 999 Fine",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165633349-verenigde-staten-10-x-1-oz-fighter-jet-p51-mustang-999-fine"
         },
+        "a165633354": {
+          "first_seen_at": "2026-08-19T04:48:09.604425+00:00",
+          "price_display": "€ 1,00",
+          "title": "Oostenrijk. 1,50 Euro 5 x 1 oz €1.5 EUR Austrian Silver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165633354-oostenrijk-1-50-euro-5-x-1-oz-1-5-eur-austrian-silver"
+        },
         "a165638949": {
           "first_seen_at": "2026-08-19T04:01:55.454762+00:00",
           "price_display": "€ 1,00",
@@ -19158,6 +19164,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Domyos 520",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432480274-domyos-520"
+        },
+        "m2432502311": {
+          "first_seen_at": "2026-08-19T04:48:00.383632+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Loopband van Citysports",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432502311-loopband-van-citysports"
         }
       }
     },
@@ -51112,7 +51124,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T04:02:15.432625+00:00",
+    "last_checked_at": "2026-08-19T04:48:29.342906+00:00",
     "outage_alert_sent": false
   }
 }
