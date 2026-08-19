@@ -19692,6 +19692,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Reebok B5.5e hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432829556-reebok-b5-5e-hometrainer"
+        },
+        "m2432880248": {
+          "first_seen_at": "2026-08-19T22:20:13.495424+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Christopeit Sport Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432880248-christopeit-sport-loopband"
         }
       }
     },
@@ -52468,7 +52474,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T21:56:29.285036+00:00",
+    "last_checked_at": "2026-08-19T22:20:38.392660+00:00",
     "outage_alert_sent": false
   }
 }
