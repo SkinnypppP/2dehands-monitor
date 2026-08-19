@@ -19698,6 +19698,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Christopeit Sport Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432880248-christopeit-sport-loopband"
+        },
+        "m2432883037": {
+          "first_seen_at": "2026-08-19T22:45:51.972880+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Loopband Tunturi T40",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432883037-loopband-tunturi-t40"
         }
       }
     },
@@ -52467,6 +52473,12 @@
           "price_display": "€ 1.000,00",
           "title": "Samick SU-108P",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432857995-samick-su-108p"
+        },
+        "m2432882404": {
+          "first_seen_at": "2026-08-19T22:46:07.435346+00:00",
+          "price_display": "Bieden vanaf € 1.150,00",
+          "title": "Bruine piano Fazer nieuwstaat!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432882404-bruine-piano-fazer-nieuwstaat"
         }
       }
     }
@@ -52474,7 +52486,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T22:20:38.392660+00:00",
+    "last_checked_at": "2026-08-19T22:46:16.829022+00:00",
     "outage_alert_sent": false
   }
 }
