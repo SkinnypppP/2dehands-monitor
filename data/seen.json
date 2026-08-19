@@ -9200,6 +9200,12 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Esteve Granados 1GR01",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432627830-esteve-granados-1gr01"
+        },
+        "m2432628855": {
+          "first_seen_at": "2026-08-19T11:37:59.134828+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Esteve Granados 1GR03",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432628855-esteve-granados-1gr03"
         }
       }
     },
@@ -19356,6 +19362,18 @@
           "price_display": "Zie omschrijving",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432607758-crosstrainer"
+        },
+        "m2432631084": {
+          "first_seen_at": "2026-08-19T11:37:35.244432+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Rowschaper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432631084-rowschaper"
+        },
+        "m2432631247": {
+          "first_seen_at": "2026-08-19T11:37:35.244432+00:00",
+          "price_display": "€ 70,00",
+          "title": "Cross trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432631247-cross-trainer"
         }
       }
     },
@@ -42023,6 +42041,18 @@
           "price_display": "Bieden vanaf € 8,00",
           "title": "2 haltères avec poignées de 1,5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432620123-2-halteres-avec-poignees-de-1-5kg"
+        },
+        "m2432630586": {
+          "first_seen_at": "2026-08-19T11:37:12.033751+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Halterbank/buikspieren — Goede conditie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432630586-halterbank-buikspieren-goede-conditie"
+        },
+        "m2432634313": {
+          "first_seen_at": "2026-08-19T11:37:12.033751+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432634313-spinningfiets"
         }
       }
     },
@@ -51592,7 +51622,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T11:10:52.671182+00:00",
+    "last_checked_at": "2026-08-19T11:37:59.313520+00:00",
     "outage_alert_sent": false
   }
 }
