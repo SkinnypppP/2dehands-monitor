@@ -19393,6 +19393,12 @@
           "title": "Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432148625-velo-d-appartement"
         },
+        "m2432184038": {
+          "first_seen_at": "2026-08-19T17:48:44.571501+00:00",
+          "price_display": "Bieden vanaf € 475,00",
+          "title": "VirtuFit Elite Water Resistance roeitrainer Oak  Elevate Kit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432184038-virtufit-elite-water-resistance-roeitrainer-oak-elevate-kit"
+        },
         "m2432192968": {
           "first_seen_at": "2026-08-18T08:57:23.836465+00:00",
           "price_display": "Bieden vanaf € 995,00",
@@ -19602,6 +19608,24 @@
           "price_display": "€ 350,00",
           "title": "Compacte loopban Run 100 Domyos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432773621-compacte-loopban-run-100-domyos"
+        },
+        "m2432796911": {
+          "first_seen_at": "2026-08-19T17:48:44.571501+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "airbike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432796911-airbike"
+        },
+        "m2432797346": {
+          "first_seen_at": "2026-08-19T17:48:44.571501+00:00",
+          "price_display": "€ 30,00",
+          "title": "Fitnesstoestel buikspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432797346-fitnesstoestel-buikspieren"
+        },
+        "m2432798021": {
+          "first_seen_at": "2026-08-19T17:48:44.571501+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "waterrower, roeiapparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432798021-waterrower-roeiapparaat"
         }
       }
     },
@@ -42527,6 +42551,30 @@
           "price_display": "Bieden vanaf € 575,00",
           "title": "kettler loopband in niew staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432790526-kettler-loopband-in-niew-staat"
+        },
+        "m2432792762": {
+          "first_seen_at": "2026-08-19T17:48:24.678632+00:00",
+          "price_display": "€ 550,00",
+          "title": "Fitnis materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432792762-fitnis-materiaal"
+        },
+        "m2432796520": {
+          "first_seen_at": "2026-08-19T17:48:24.678632+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432796520-gewichten"
+        },
+        "m2432798545": {
+          "first_seen_at": "2026-08-19T17:48:24.678632+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "dumbells technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432798545-dumbells-technogym"
+        },
+        "m2432801600": {
+          "first_seen_at": "2026-08-19T17:48:24.678632+00:00",
+          "price_display": "€ 475,00",
+          "title": "Precor adjustable bench fitness bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432801600-precor-adjustable-bench-fitness-bankje"
         }
       }
     },
@@ -52173,6 +52221,18 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Yamaha P-225 PREMIUM BUNDEL B Zwart gesatineerd",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432783158-yamaha-p-225-premium-bundel-b-zwart-gesatineerd"
+        },
+        "m2432797137": {
+          "first_seen_at": "2026-08-19T17:49:04.308869+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Luxe Moreau Pianobank, In Hoogte Verstelbaar.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432797137-luxe-moreau-pianobank-in-hoogte-verstelbaar"
+        },
+        "m2432798697": {
+          "first_seen_at": "2026-08-19T17:49:04.308869+00:00",
+          "price_display": "Bieden vanaf € 4.200,00",
+          "title": "KNAKE buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432798697-knake-buffetpiano"
         }
       }
     }
@@ -52180,7 +52240,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T17:21:55.504457+00:00",
+    "last_checked_at": "2026-08-19T17:49:12.534609+00:00",
     "outage_alert_sent": false
   }
 }
