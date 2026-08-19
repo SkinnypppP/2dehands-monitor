@@ -9194,6 +9194,12 @@
           "price_display": "€ 45,00",
           "title": "12 snarige gitaar met werk aan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432618299-12-snarige-gitaar-met-werk-aan"
+        },
+        "m2432627830": {
+          "first_seen_at": "2026-08-19T11:10:52.089344+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Esteve Granados 1GR01",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432627830-esteve-granados-1gr01"
         }
       }
     },
@@ -13183,6 +13189,18 @@
           "price_display": "€ 700,00",
           "title": "Gouden Penning Boudewijn Latijns",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432615196-gouden-penning-boudewijn-latijns"
+        },
+        "m2432620681": {
+          "first_seen_at": "2026-08-19T11:10:30.233047+00:00",
+          "price_display": "€ 1.350,00",
+          "title": "#Dragon rectangle 2026 zilver #1 ounce tube 20 munten BU.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432620681-dragon-rectangle-2026-zilver-1-ounce-tube-20-munten-bu"
+        },
+        "m2432622954": {
+          "first_seen_at": "2026-08-19T11:10:30.233047+00:00",
+          "price_display": "€ 152,00",
+          "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432622954-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
         }
       }
     },
@@ -41999,6 +42017,12 @@
           "price_display": "€ 600,00",
           "title": "Finnlo loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432617159-finnlo-loopband"
+        },
+        "m2432620123": {
+          "first_seen_at": "2026-08-19T11:10:04.223745+00:00",
+          "price_display": "Bieden vanaf € 8,00",
+          "title": "2 haltères avec poignées de 1,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432620123-2-halteres-avec-poignees-de-1-5kg"
         }
       }
     },
@@ -51568,7 +51592,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T10:48:31.633286+00:00",
+    "last_checked_at": "2026-08-19T11:10:52.671182+00:00",
     "outage_alert_sent": false
   }
 }
