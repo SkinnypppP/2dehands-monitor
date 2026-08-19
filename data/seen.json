@@ -9284,6 +9284,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar Pro Arte GC100A 7/8 – Nieuwstaat & compleet",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432745477-gitaar-pro-arte-gc100a-7-8-nieuwstaat-compleet"
+        },
+        "m2432759971": {
+          "first_seen_at": "2026-08-19T15:56:10.549806+00:00",
+          "price_display": "Bieden vanaf € 1.600,00",
+          "title": "Fender American Acoustasonic Telecaster bijna nieuwe staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432759971-fender-american-acoustasonic-telecaster-bijna-nieuwe-staat"
         }
       }
     },
@@ -13357,6 +13363,18 @@
           "price_display": "€ 125,00",
           "title": "zilver munt 1oz, 10 yuan",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432736893-zilver-munt-1oz-10-yuan"
+        },
+        "m2432755809": {
+          "first_seen_at": "2026-08-19T15:55:52.855933+00:00",
+          "price_display": "Bieden vanaf € 67,00",
+          "title": "Britannia zilver munt 1 ounce 999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432755809-britannia-zilver-munt-1-ounce-999"
+        },
+        "m2432757696": {
+          "first_seen_at": "2026-08-19T15:55:52.855933+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Wiener Philharminoniker 2013, 1 oz 999 zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432757696-wiener-philharminoniker-2013-1-oz-999-zilver"
         }
       }
     },
@@ -19542,6 +19560,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gymstick Walking Pad (nieuwstaat)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432708315-gymstick-walking-pad-nieuwstaat"
+        },
+        "m2432750549": {
+          "first_seen_at": "2026-08-19T15:55:44.798590+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "BODY-solid  chest fly-rear delts 28mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432750549-body-solid-chest-fly-rear-delts-28mm"
         }
       }
     },
@@ -42407,6 +42431,36 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Vélo d'appartement Diadora",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432746552-velo-d-appartement-diadora"
+        },
+        "m2432749168": {
+          "first_seen_at": "2026-08-19T15:55:26.405203+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Kwalitatieve pull-up bar bevestiging aan muur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432749168-kwalitatieve-pull-up-bar-bevestiging-aan-muur"
+        },
+        "m2432753129": {
+          "first_seen_at": "2026-08-19T15:55:26.405203+00:00",
+          "price_display": "Bieden vanaf € 680,00",
+          "title": "haltersets 22.5-25-27.5-30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432753129-haltersets-22-5-25-27-5-30kg"
+        },
+        "m2432753737": {
+          "first_seen_at": "2026-08-19T15:55:26.405203+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Benchpress met bar + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432753737-benchpress-met-bar-gewichten"
+        },
+        "m2432757274": {
+          "first_seen_at": "2026-08-19T15:55:26.405203+00:00",
+          "price_display": "€ 110,00",
+          "title": "BANC MUSCULATION TUNTURI",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432757274-banc-musculation-tunturi"
+        },
+        "m2432759201": {
+          "first_seen_at": "2026-08-19T15:55:26.405203+00:00",
+          "price_display": "€ 750,00",
+          "title": "Concept2 rower E PM5 roeier ergometer hometrainer roeien",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432759201-concept2-rower-e-pm5-roeier-ergometer-hometrainer-roeien"
         }
       }
     },
@@ -52042,7 +52096,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T15:25:59.587749+00:00",
+    "last_checked_at": "2026-08-19T15:56:12.063558+00:00",
     "outage_alert_sent": false
   }
 }
