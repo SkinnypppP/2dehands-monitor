@@ -52437,6 +52437,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432838971-piano"
+        },
+        "m2432857928": {
+          "first_seen_at": "2026-08-19T21:01:09.759319+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432857928-piano"
+        },
+        "m2432857995": {
+          "first_seen_at": "2026-08-19T21:01:09.759319+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "Samick SU-108P",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432857995-samick-su-108p"
         }
       }
     }
@@ -52444,7 +52456,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T20:40:42.533806+00:00",
+    "last_checked_at": "2026-08-19T21:01:20.149212+00:00",
     "outage_alert_sent": false
   }
 }
