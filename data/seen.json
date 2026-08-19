@@ -19650,6 +19650,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Tunturi Cardio Fit M35 mini hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432809061-tunturi-cardio-fit-m35-mini-hometrainer"
+        },
+        "m2432828015": {
+          "first_seen_at": "2026-08-19T19:20:31.081498+00:00",
+          "price_display": "€ 799,00",
+          "title": "DOMYOS Woodrower 3-en-1 – Excellent état – Encore garantie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432828015-domyos-woodrower-3-en-1-excellent-etat-encore-garantie"
+        },
+        "m2432829556": {
+          "first_seen_at": "2026-08-19T19:20:31.081498+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Reebok B5.5e hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432829556-reebok-b5-5e-hometrainer"
         }
       }
     },
@@ -42617,6 +42629,12 @@
           "price_display": "€ 90,00",
           "title": "Banc de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432820450-banc-de-musculation"
+        },
+        "m2432829924": {
+          "first_seen_at": "2026-08-19T19:20:16.449640+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "FLAT BENCH TECHNOGYM ISOTONIC LINE",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432829924-flat-bench-technogym-isotonic-line"
         }
       }
     },
@@ -52317,6 +52335,18 @@
           "price_display": "Bieden vanaf € 280,00",
           "title": "Yamaha P-45 zwarte elektronische piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432822892-yamaha-p-45-zwarte-elektronische-piano"
+        },
+        "m2432832683": {
+          "first_seen_at": "2026-08-19T19:20:50.232063+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432832683-piano"
+        },
+        "m2432834025": {
+          "first_seen_at": "2026-08-19T19:20:50.232063+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke piano Schiedmayer & Söhne, Stuttgart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432834025-antieke-piano-schiedmayer-sohne-stuttgart"
         }
       }
     }
@@ -52324,7 +52354,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T18:56:19.585576+00:00",
+    "last_checked_at": "2026-08-19T19:20:58.513027+00:00",
     "outage_alert_sent": false
   }
 }
