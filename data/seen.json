@@ -9320,6 +9320,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Gitaar Salvador Cortez 3/4 (Ideaal beginner! Nieuw besnaard)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432789356-gitaar-salvador-cortez-3-4-ideaal-beginner-nieuw-besnaard"
+        },
+        "m2432803022": {
+          "first_seen_at": "2026-08-19T18:12:20.149507+00:00",
+          "price_display": "€ 300,00",
+          "title": "Takamine G series",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432803022-takamine-g-series"
         }
       }
     },
@@ -19626,6 +19632,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "waterrower, roeiapparaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432798021-waterrower-roeiapparaat"
+        },
+        "m2432809061": {
+          "first_seen_at": "2026-08-19T18:11:56.272491+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Tunturi Cardio Fit M35 mini hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432809061-tunturi-cardio-fit-m35-mini-hometrainer"
         }
       }
     },
@@ -45868,6 +45880,18 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Raquette padel oxdog ultimate tour X 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432729256-raquette-padel-oxdog-ultimate-tour-x-2026"
+        },
+        "m2432802822": {
+          "first_seen_at": "2026-08-19T18:11:47.337688+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Nox Ea10 Ventus Attack 12k Xtreme By Edu Alonso 2026 - Raket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432802822-nox-ea10-ventus-attack-12k-xtreme-by-edu-alonso-2026-raket"
+        },
+        "m2432810849": {
+          "first_seen_at": "2026-08-19T18:11:47.337688+00:00",
+          "price_display": "€ 260,00",
+          "title": "ADIDAS Metalbone CTRL 3.5 NIEUW",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432810849-adidas-metalbone-ctrl-3-5-nieuw"
         }
       }
     },
@@ -52240,7 +52264,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T17:49:12.534609+00:00",
+    "last_checked_at": "2026-08-19T18:12:20.515932+00:00",
     "outage_alert_sent": false
   }
 }
