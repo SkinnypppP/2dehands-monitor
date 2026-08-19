@@ -42731,6 +42731,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Pull up bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432873136-pull-up-bar"
+        },
+        "m2432883894": {
+          "first_seen_at": "2026-08-19T23:02:47.142032+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Bumperplaten Rogue RR (nieuw - nooit gebruikt)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432883894-bumperplaten-rogue-rr-nieuw-nooit-gebruikt"
         }
       }
     },
@@ -52486,7 +52492,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T22:46:16.829022+00:00",
+    "last_checked_at": "2026-08-19T23:03:27.844136+00:00",
     "outage_alert_sent": false
   }
 }
