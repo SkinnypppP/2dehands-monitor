@@ -663,6 +663,12 @@
           "title": "Parlor gitaar antiek klassiek",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2367636816-parlor-gitaar-antiek-klassiek"
         },
+        "m2367838112": {
+          "first_seen_at": "2026-08-19T09:46:22.545852+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Zeer mooie gitaar, bijna nieuw, TAKAMINE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2367838112-zeer-mooie-gitaar-bijna-nieuw-takamine"
+        },
         "m2373489792": {
           "first_seen_at": "2026-07-22T21:41:36.310357+00:00",
           "price_display": "Bieden vanaf € 30,00",
@@ -9152,6 +9158,18 @@
           "price_display": "€ 49,00",
           "title": "Zo Goed Als Nieuw: Gomez 1/2 model klassieke gitaar sunburst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432568959-zo-goed-als-nieuw-gomez-1-2-model-klassieke-gitaar-sunburst"
+        },
+        "m2432578128": {
+          "first_seen_at": "2026-08-19T09:46:22.545852+00:00",
+          "price_display": "€ 125,00",
+          "title": "Gitaar compleet met staander,…",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432578128-gitaar-compleet-met-staander"
+        },
+        "m2432584324": {
+          "first_seen_at": "2026-08-19T09:46:22.545852+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "klasieke gitaar beginners",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432584324-klasieke-gitaar-beginners"
         }
       }
     },
@@ -13111,6 +13129,18 @@
           "price_display": "€ 68,00",
           "title": "Britannia 1 ounce 999 zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432550730-britannia-1-ounce-999-zilver"
+        },
+        "m2432583264": {
+          "first_seen_at": "2026-08-19T09:46:04.696981+00:00",
+          "price_display": "Bieden vanaf € 1.150,00",
+          "title": "Gouden penning Boudewijn 1965",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432583264-gouden-penning-boudewijn-1965"
+        },
+        "m2432584102": {
+          "first_seen_at": "2026-08-19T09:46:04.696981+00:00",
+          "price_display": "€ 50,00",
+          "title": "koperbaar 1kg geiser",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432584102-koperbaar-1kg-geiser"
         }
       }
     },
@@ -19248,6 +19278,12 @@
           "price_display": "Bieden vanaf € 275,00",
           "title": "Roeimachine SENZ SPORTS R4009",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432532117-roeimachine-senz-sports-r4009"
+        },
+        "m2432580301": {
+          "first_seen_at": "2026-08-19T09:45:53.760525+00:00",
+          "price_display": "€ 50,00",
+          "title": "Trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432580301-trilplaat"
         }
       }
     },
@@ -41807,6 +41843,24 @@
           "price_display": "Bieden vanaf € 9,00",
           "title": "Kettlebell 6kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432553315-kettlebell-6kg"
+        },
+        "m2432571871": {
+          "first_seen_at": "2026-08-19T09:45:37.719047+00:00",
+          "price_display": "€ 5,00",
+          "title": "Decathlon pilatesmat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432571871-decathlon-pilatesmat"
+        },
+        "m2432574845": {
+          "first_seen_at": "2026-08-19T09:45:37.719047+00:00",
+          "price_display": "€ 390,00",
+          "title": "Kettler rek + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432574845-kettler-rek-gewichten"
+        },
+        "m2432576704": {
+          "first_seen_at": "2026-08-19T09:45:37.719047+00:00",
+          "price_display": "Bieden vanaf € 4,00",
+          "title": "buikspiertrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432576704-buikspiertrainer"
         }
       }
     },
@@ -51346,7 +51400,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T09:07:16.240751+00:00",
+    "last_checked_at": "2026-08-19T09:46:24.502499+00:00",
     "outage_alert_sent": false
   }
 }
