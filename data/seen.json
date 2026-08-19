@@ -9308,6 +9308,18 @@
           "price_display": "€ 125,00",
           "title": "Morgan Model W 104 WR",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432778012-morgan-model-w-104-wr"
+        },
+        "m2432782584": {
+          "first_seen_at": "2026-08-19T17:21:54.315502+00:00",
+          "price_display": "€ 30,00",
+          "title": "Gitaar voor kinderen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432782584-gitaar-voor-kinderen"
+        },
+        "m2432789356": {
+          "first_seen_at": "2026-08-19T17:21:54.315502+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Gitaar Salvador Cortez 3/4 (Ideaal beginner! Nieuw besnaard)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432789356-gitaar-salvador-cortez-3-4-ideaal-beginner-nieuw-besnaard"
         }
       }
     },
@@ -42503,6 +42515,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Fitnessbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432776730-fitnessbank"
+        },
+        "m2432789859": {
+          "first_seen_at": "2026-08-19T17:21:01.339117+00:00",
+          "price_display": "€ 550,00",
+          "title": "Appareil de récupération complet Aquilo Sports",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432789859-appareil-de-recuperation-complet-aquilo-sports"
+        },
+        "m2432790526": {
+          "first_seen_at": "2026-08-19T17:21:01.339117+00:00",
+          "price_display": "Bieden vanaf € 575,00",
+          "title": "kettler loopband in niew staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432790526-kettler-loopband-in-niew-staat"
         }
       }
     },
@@ -52143,6 +52167,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Buffet piano, bruin, R. Couvrier, Paris",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432763825-buffet-piano-bruin-r-couvrier-paris"
+        },
+        "m2432783158": {
+          "first_seen_at": "2026-08-19T17:21:43.352602+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Yamaha P-225 PREMIUM BUNDEL B Zwart gesatineerd",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432783158-yamaha-p-225-premium-bundel-b-zwart-gesatineerd"
         }
       }
     }
@@ -52150,7 +52180,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T16:55:46.065350+00:00",
+    "last_checked_at": "2026-08-19T17:21:55.504457+00:00",
     "outage_alert_sent": false
   }
 }
