@@ -9122,6 +9122,24 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Antonio Lorca Model 8 met draagtas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432519589-antonio-lorca-model-8-met-draagtas"
+        },
+        "m2432539721": {
+          "first_seen_at": "2026-08-19T08:30:03.560860+00:00",
+          "price_display": "€ 250,00",
+          "title": "Ovation Celebrity klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432539721-ovation-celebrity-klassieke-gitaar"
+        },
+        "m2432545492": {
+          "first_seen_at": "2026-08-19T08:30:03.560860+00:00",
+          "price_display": "€ 150,00",
+          "title": "Richwood RD-12-CESB",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432545492-richwood-rd-12-cesb"
+        },
+        "m2432550335": {
+          "first_seen_at": "2026-08-19T08:30:03.560860+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Akoestische gitaar Six Gun - Black Satin in perfecte staat!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432550335-akoestische-gitaar-six-gun-black-satin-in-perfecte-staat"
         }
       }
     },
@@ -13075,6 +13093,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gouden muntje 0,8gr.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432499269-gouden-muntje-0-8gr"
+        },
+        "m2432550730": {
+          "first_seen_at": "2026-08-19T08:29:48.480511+00:00",
+          "price_display": "€ 68,00",
+          "title": "Britannia 1 ounce 999 zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432550730-britannia-1-ounce-999-zilver"
         }
       }
     },
@@ -41765,6 +41789,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Fitness toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432538682-fitness-toestel"
+        },
+        "m2432553315": {
+          "first_seen_at": "2026-08-19T08:29:22.024237+00:00",
+          "price_display": "Bieden vanaf € 9,00",
+          "title": "Kettlebell 6kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432553315-kettlebell-6kg"
         }
       }
     },
@@ -51267,6 +51297,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432489199-piano"
+        },
+        "m2432540616": {
+          "first_seen_at": "2026-08-19T08:29:54.894585+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432540616-piano"
         }
       }
     }
@@ -51274,7 +51310,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T07:53:02.785443+00:00",
+    "last_checked_at": "2026-08-19T08:30:06.619139+00:00",
     "outage_alert_sent": false
   }
 }
