@@ -9944,6 +9944,12 @@
           "title": "1 kilogramme - Cuivre .999 - 1 Kilo 999 Fine Copper Walking",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165590357-1-kilogramme-cuivre-999-1-kilo-999-fine-copper-walking"
         },
+        "a165620392": {
+          "first_seen_at": "2026-08-19T04:01:55.454762+00:00",
+          "price_display": "€ 420,00",
+          "title": "500 gram - Zilver .999 - Mario Villa Milano - Verzegeld en",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620392-500-gram-zilver-999-mario-villa-milano-verzegeld-en"
+        },
         "a165620395": {
           "first_seen_at": "2026-08-18T05:14:33.475881+00:00",
           "price_display": "€ 1,00",
@@ -9967,6 +9973,18 @@
           "price_display": "€ 1,00",
           "title": "1 Troy Ounce - Argent .999 - Chinese Dragon 2026 - 31,1 gram",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620427-1-troy-ounce-argent-999-chinese-dragon-2026-31-1-gram"
+        },
+        "a165633349": {
+          "first_seen_at": "2026-08-19T04:01:55.454762+00:00",
+          "price_display": "€ 20,00",
+          "title": "Verenigde Staten. 10 x 1 oz Fighter Jet P51 Mustang 999 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165633349-verenigde-staten-10-x-1-oz-fighter-jet-p51-mustang-999-fine"
+        },
+        "a165638949": {
+          "first_seen_at": "2026-08-19T04:01:55.454762+00:00",
+          "price_display": "€ 1,00",
+          "title": "Verenigde Staten. 20 x 1 oz Fighter Jet P51 Mustang 999 Fine",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165638949-verenigde-staten-20-x-1-oz-fighter-jet-p51-mustang-999-fine"
         },
         "a165640945": {
           "first_seen_at": "2026-08-19T03:12:49.591913+00:00",
@@ -51094,7 +51112,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T03:13:11.627519+00:00",
+    "last_checked_at": "2026-08-19T04:02:15.432625+00:00",
     "outage_alert_sent": false
   }
 }
