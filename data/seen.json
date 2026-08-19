@@ -9296,6 +9296,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Taylor Baby Mahonie BT2",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432769391-taylor-baby-mahonie-bt2"
+        },
+        "m2432774751": {
+          "first_seen_at": "2026-08-19T16:55:43.793945+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Yamaha JR2 naturel acoustic gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432774751-yamaha-jr2-naturel-acoustic-gitaar"
+        },
+        "m2432778012": {
+          "first_seen_at": "2026-08-19T16:55:43.793945+00:00",
+          "price_display": "€ 125,00",
+          "title": "Morgan Model W 104 WR",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432778012-morgan-model-w-104-wr"
         }
       }
     },
@@ -19572,6 +19584,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "BODY-solid  chest fly-rear delts 28mm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432750549-body-solid-chest-fly-rear-delts-28mm"
+        },
+        "m2432773621": {
+          "first_seen_at": "2026-08-19T16:55:16.829471+00:00",
+          "price_display": "€ 350,00",
+          "title": "Compacte loopban Run 100 Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432773621-compacte-loopban-run-100-domyos"
         }
       }
     },
@@ -42479,6 +42497,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "E-bike-standaard voor mountainbikes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432764707-e-bike-standaard-voor-mountainbikes"
+        },
+        "m2432776730": {
+          "first_seen_at": "2026-08-19T16:54:57.433913+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432776730-fitnessbank"
         }
       }
     },
@@ -52126,7 +52150,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T16:25:01.761733+00:00",
+    "last_checked_at": "2026-08-19T16:55:46.065350+00:00",
     "outage_alert_sent": false
   }
 }
