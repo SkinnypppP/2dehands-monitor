@@ -42665,6 +42665,18 @@
           "price_display": "€ 699,00",
           "title": "STAR TRAC UPRIGHT BIKE HOMETRAINER TECHNOGYM",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432842619-star-trac-upright-bike-hometrainer-technogym"
+        },
+        "m2432844268": {
+          "first_seen_at": "2026-08-19T20:02:52.699189+00:00",
+          "price_display": "€ 1.950,00",
+          "title": "TECHNOGYM BLACK LOOPBAND",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432844268-technogym-black-loopband"
+        },
+        "m2432846605": {
+          "first_seen_at": "2026-08-19T20:02:52.699189+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Dumbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432846605-dumbells"
         }
       }
     },
@@ -52390,7 +52402,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T19:48:53.895298+00:00",
+    "last_checked_at": "2026-08-19T20:03:35.619838+00:00",
     "outage_alert_sent": false
   }
 }
