@@ -9332,6 +9332,12 @@
           "price_display": "Bieden vanaf € 5.250,00",
           "title": "Goodall TR000 (2018)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432814798-goodall-tr000-2018"
+        },
+        "m2432853870": {
+          "first_seen_at": "2026-08-19T20:40:41.193401+00:00",
+          "price_display": "€ 45,00",
+          "title": "Ukulele Tenor",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432853870-ukulele-tenor"
         }
       }
     },
@@ -13429,6 +13435,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "20 Mark Duitse Rijk Deutsches Reich 1876 A",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432838213-20-mark-duitse-rijk-deutsches-reich-1876-a"
+        },
+        "m2432848106": {
+          "first_seen_at": "2026-08-19T20:40:17.816971+00:00",
+          "price_display": "€ 189,81",
+          "title": "Schloss Guldengossa koperen munten 1 ADVP ounce .999 fine cu",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432848106-schloss-guldengossa-koperen-munten-1-advp-ounce-999-fine-cu"
+        },
+        "m2432849826": {
+          "first_seen_at": "2026-08-19T20:40:17.816971+00:00",
+          "price_display": "€ 130,00",
+          "title": "Vintage servies poole England",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432849826-vintage-servies-poole-england"
         }
       }
     },
@@ -42677,6 +42695,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Dumbells",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432846605-dumbells"
+        },
+        "m2432854949": {
+          "first_seen_at": "2026-08-19T20:39:46.455596+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "BARRE DE TRACTION PIÈCE DÉTACHÉE DÉCATHLON POUR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432854949-barre-de-traction-piece-detachee-decathlon-pour-power-rack"
+        },
+        "m2432857527": {
+          "first_seen_at": "2026-08-19T20:39:46.455596+00:00",
+          "price_display": "€ 4.275,00",
+          "title": "Technogym Excite+ 1000 Unity 3.0 LIVE Climb Trappenloper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432857527-technogym-excite-1000-unity-3-0-live-climb-trappenloper"
         }
       }
     },
@@ -46000,6 +46030,18 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Bullpadel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432826501-bullpadel"
+        },
+        "m2432855780": {
+          "first_seen_at": "2026-08-19T20:39:55.820367+00:00",
+          "price_display": "Bieden vanaf € 129,00",
+          "title": "Bullpadel Vertex 04",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432855780-bullpadel-vertex-04"
+        },
+        "m2432857488": {
+          "first_seen_at": "2026-08-19T20:39:55.820367+00:00",
+          "price_display": "Bieden vanaf € 119,00",
+          "title": "Bullpadel Ionic Power 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432857488-bullpadel-ionic-power-2026"
         }
       }
     },
@@ -52402,7 +52444,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T20:03:35.619838+00:00",
+    "last_checked_at": "2026-08-19T20:40:42.533806+00:00",
     "outage_alert_sent": false
   }
 }
