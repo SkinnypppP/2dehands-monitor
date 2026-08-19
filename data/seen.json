@@ -9338,6 +9338,12 @@
           "price_display": "€ 45,00",
           "title": "Ukulele Tenor",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432853870-ukulele-tenor"
+        },
+        "m2432870215": {
+          "first_seen_at": "2026-08-19T21:36:33.973126+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Recording King Dirty 37 (Single 0) - Tobacco Sunburst",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432870215-recording-king-dirty-37-single-0-tobacco-sunburst"
         }
       }
     },
@@ -52456,7 +52462,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T21:01:20.149212+00:00",
+    "last_checked_at": "2026-08-19T21:36:35.503639+00:00",
     "outage_alert_sent": false
   }
 }
