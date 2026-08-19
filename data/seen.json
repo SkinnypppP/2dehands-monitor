@@ -9092,6 +9092,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Perfecte nieuwe gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432495280-perfecte-nieuwe-gitaar"
+        },
+        "m2432499883": {
+          "first_seen_at": "2026-08-19T03:13:10.387284+00:00",
+          "price_display": "€ 210,00",
+          "title": "Celebrity by Ovation",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432499883-celebrity-by-ovation"
         }
       }
     },
@@ -9961,6 +9967,12 @@
           "price_display": "€ 1,00",
           "title": "1 Troy Ounce - Argent .999 - Chinese Dragon 2026 - 31,1 gram",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165620427-1-troy-ounce-argent-999-chinese-dragon-2026-31-1-gram"
+        },
+        "a165640945": {
+          "first_seen_at": "2026-08-19T03:12:49.591913+00:00",
+          "price_display": "€ 740,00",
+          "title": "5 gram - Goud .999 - 5 Grams 9999 Gold Bar Australia Perth",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165640945-5-gram-goud-999-5-grams-9999-gold-bar-australia-perth"
         },
         "a165640946": {
           "first_seen_at": "2026-08-18T12:39:01.314574+00:00",
@@ -13009,6 +13021,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "American Silver Eagles 20 x 1 oz 999 zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432423858-american-silver-eagles-20-x-1-oz-999-zilver"
+        },
+        "m2432499269": {
+          "first_seen_at": "2026-08-19T03:12:49.591913+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gouden muntje 0,8gr.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432499269-gouden-muntje-0-8gr"
         }
       }
     },
@@ -51076,7 +51094,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T02:16:02.404271+00:00",
+    "last_checked_at": "2026-08-19T03:13:11.627519+00:00",
     "outage_alert_sent": false
   }
 }
