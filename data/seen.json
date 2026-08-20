@@ -19704,6 +19704,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Loopband Tunturi T40",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432883037-loopband-tunturi-t40"
+        },
+        "m2432888061": {
+          "first_seen_at": "2026-08-20T00:53:46.607495+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Tapis de course",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432888061-tapis-de-course"
+        },
+        "m2432888301": {
+          "first_seen_at": "2026-08-20T00:53:46.607495+00:00",
+          "price_display": "€ 600,00",
+          "title": "Loopband BH F1RUN",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432888301-loopband-bh-f1run"
         }
       }
     },
@@ -42755,6 +42767,12 @@
           "price_display": "€ 250,00",
           "title": "Rogue Fitness kettlebell set van 6",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432885368-rogue-fitness-kettlebell-set-van-6"
+        },
+        "m2432890210": {
+          "first_seen_at": "2026-08-20T00:53:31.612472+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Life fitness hometrainer G5 van particulier €750",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432890210-life-fitness-hometrainer-g5-van-particulier-750"
         }
       }
     },
@@ -52510,7 +52528,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-19T23:33:31.612998+00:00",
+    "last_checked_at": "2026-08-20T00:54:12.009532+00:00",
     "outage_alert_sent": false
   }
 }
