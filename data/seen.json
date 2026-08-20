@@ -43919,6 +43919,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Vibroshaper trilplaat fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433229602-vibroshaper-trilplaat-fitness"
+        },
+        "m2433232648": {
+          "first_seen_at": "2026-08-20T23:42:38.125580+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "TUNTURI bumperplate rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433232648-tunturi-bumperplate-rack"
         }
       }
     },
@@ -53968,7 +53974,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T22:50:13.412799+00:00",
+    "last_checked_at": "2026-08-20T23:43:21.827203+00:00",
     "outage_alert_sent": false
   }
 }
