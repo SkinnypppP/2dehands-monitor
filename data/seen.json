@@ -20202,6 +20202,12 @@
           "price_display": "€ 120,00",
           "title": "Crosstrainer Glider dct1100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433161094-crosstrainer-glider-dct1100"
+        },
+        "m2433166352": {
+          "first_seen_at": "2026-08-20T18:01:26.718278+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433166352-loopband"
         }
       }
     },
@@ -43721,6 +43727,30 @@
           "price_display": "Bieden vanaf € 875,00",
           "title": "Kracht training set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433159475-kracht-training-set"
+        },
+        "m2433164463": {
+          "first_seen_at": "2026-08-20T18:01:06.197990+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "fitness pull up bar voor deur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433164463-fitness-pull-up-bar-voor-deur"
+        },
+        "m2433166196": {
+          "first_seen_at": "2026-08-20T18:01:06.197990+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Stepper met rekkers voor armspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433166196-stepper-met-rekkers-voor-armspieren"
+        },
+        "m2433170140": {
+          "first_seen_at": "2026-08-20T18:01:06.197990+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "shoulder side lateral",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433170140-shoulder-side-lateral"
+        },
+        "m2433171577": {
+          "first_seen_at": "2026-08-20T18:01:06.197990+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Stepper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433171577-stepper"
         }
       }
     },
@@ -53703,6 +53733,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Oude vleugelpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433152678-oude-vleugelpiano"
+        },
+        "m2433171652": {
+          "first_seen_at": "2026-08-20T18:01:46.374423+00:00",
+          "price_display": "Bieden vanaf € 725,00",
+          "title": "Buffetpiano Hyundai U810",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433171652-buffetpiano-hyundai-u810"
         }
       }
     }
@@ -53710,7 +53746,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T17:40:47.714789+00:00",
+    "last_checked_at": "2026-08-20T18:01:55.923207+00:00",
     "outage_alert_sent": false
   }
 }
