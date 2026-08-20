@@ -20268,6 +20268,12 @@
           "price_display": "€ 249,00",
           "title": "Corength Compact Krachtstation 900 – uitstekende staat €249",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433209212-corength-compact-krachtstation-900-uitstekende-staat-249"
+        },
+        "m2433220746": {
+          "first_seen_at": "2026-08-20T21:22:02.911962+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Loopband Decathlon T520b",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433220746-loopband-decathlon-t520b"
         }
       }
     },
@@ -53938,7 +53944,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T20:55:46.045858+00:00",
+    "last_checked_at": "2026-08-20T21:22:28.705669+00:00",
     "outage_alert_sent": false
   }
 }
