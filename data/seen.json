@@ -42821,6 +42821,48 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432899956-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
+        },
+        "m2432904282": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "€ 120,00",
+          "title": "Rogue fitness Barbell en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432904282-rogue-fitness-barbell-en-gewichten"
+        },
+        "m2432905150": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "€ 125,00",
+          "title": "Technogym gewichtenrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432905150-technogym-gewichtenrek"
+        },
+        "m2432905447": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "€ 39,00",
+          "title": "Pull up bar voor jouw calisthenics homegym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432905447-pull-up-bar-voor-jouw-calisthenics-homegym"
+        },
+        "m2432906952": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "€ 20,00",
+          "title": "Kunsstof halterschijven 2x 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432906952-kunsstof-halterschijven-2x-10kg"
+        },
+        "m2432907443": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "€ 20,00",
+          "title": "kunststof halterschijven 2x 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432907443-kunststof-halterschijven-2x-10kg"
+        },
+        "m2432907574": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432907574-gewichten"
+        },
+        "m2432907891": {
+          "first_seen_at": "2026-08-20T06:19:23.939185+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Kettlebell 8kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432907891-kettlebell-8kg"
         }
       }
     },
@@ -52588,7 +52630,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T05:50:58.726025+00:00",
+    "last_checked_at": "2026-08-20T06:20:08.654233+00:00",
     "outage_alert_sent": false
   }
 }
