@@ -9530,6 +9530,30 @@
           "price_display": "Bieden vanaf € 395,00",
           "title": "Blueridge BR 40 elektro-akoestisch nieuwstaat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433054174-blueridge-br-40-elektro-akoestisch-nieuwstaat"
+        },
+        "m2433070302": {
+          "first_seen_at": "2026-08-20T14:10:33.793191+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "PRS SE Angelus A50E",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433070302-prs-se-angelus-a50e"
+        },
+        "m2433072968": {
+          "first_seen_at": "2026-08-20T14:10:33.793191+00:00",
+          "price_display": "€ 300,00",
+          "title": "Cort earth 200",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433072968-cort-earth-200"
+        },
+        "m2433074101": {
+          "first_seen_at": "2026-08-20T14:10:33.793191+00:00",
+          "price_display": "€ 200,00",
+          "title": "Cort acoustic guitar (w/ bag & capo)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433074101-cort-acoustic-guitar-w-bag-capo"
+        },
+        "m2433077594": {
+          "first_seen_at": "2026-08-20T14:10:33.793191+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "gitaar €60 bieden vanaf €40",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433077594-gitaar-60-bieden-vanaf-40"
         }
       }
     },
@@ -43421,6 +43445,12 @@
           "price_display": "€ 150,00",
           "title": "Support Haltères + Accessoires",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433063947-support-halteres-accessoires"
+        },
+        "m2433069235": {
+          "first_seen_at": "2026-08-20T14:09:39.866318+00:00",
+          "price_display": "€ 20,00",
+          "title": "Ab King pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433069235-ab-king-pro"
         }
       }
     },
@@ -46810,6 +46840,18 @@
           "price_display": "€ 60,00",
           "title": "Pro Kennex Turbo",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433060870-pro-kennex-turbo"
+        },
+        "m2433070293": {
+          "first_seen_at": "2026-08-20T14:09:51.879035+00:00",
+          "price_display": "€ 210,00",
+          "title": "Oxdog ultimate pro 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433070293-oxdog-ultimate-pro-2026"
+        },
+        "m2433077128": {
+          "first_seen_at": "2026-08-20T14:09:51.879035+00:00",
+          "price_display": "€ 95,00",
+          "title": "Siux Diablo Pro 2026 - Padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433077128-siux-diablo-pro-2026-padelracket"
         }
       }
     },
@@ -53307,6 +53349,18 @@
           "price_display": "€ 50,00",
           "title": "Silicon flexible roll up piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433047319-silicon-flexible-roll-up-piano"
+        },
+        "m2433075771": {
+          "first_seen_at": "2026-08-20T14:10:21.442167+00:00",
+          "price_display": "Bieden vanaf € 549,00",
+          "title": "Roland F-130R digitale piano wit + pianobank, perfecte staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433075771-roland-f-130r-digitale-piano-wit-pianobank-perfecte-staat"
+        },
+        "m2433076646": {
+          "first_seen_at": "2026-08-20T14:10:21.442167+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Elektrische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433076646-elektrische-piano"
         }
       }
     }
@@ -53314,7 +53368,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T13:31:01.465536+00:00",
+    "last_checked_at": "2026-08-20T14:10:38.575379+00:00",
     "outage_alert_sent": false
   }
 }
