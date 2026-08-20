@@ -13789,6 +13789,12 @@
           "price_display": "€ 510,00",
           "title": "10 x 50 Francs Hercules Zilver (90%)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433125320-10-x-50-francs-hercules-zilver-90"
+        },
+        "m2433146487": {
+          "first_seen_at": "2026-08-20T17:05:47.412865+00:00",
+          "price_display": "€ 155,00",
+          "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433146487-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
         }
       }
     },
@@ -20160,6 +20166,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433136589-hometrainer"
+        },
+        "m2433146797": {
+          "first_seen_at": "2026-08-20T17:05:38.356124+00:00",
+          "price_display": "€ 90,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433146797-crosstrainer"
         }
       }
     },
@@ -43619,6 +43631,18 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Rack squat k-sport krachttraining",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433134819-rack-squat-k-sport-krachttraining"
+        },
+        "m2433144770": {
+          "first_seen_at": "2026-08-20T17:05:21.118409+00:00",
+          "price_display": "€ 375,00",
+          "title": "137,5kg Ziva Rubberen Olympische Gewichten + Barbell 220cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433144770-137-5kg-ziva-rubberen-olympische-gewichten-barbell-220cm"
+        },
+        "m2433145494": {
+          "first_seen_at": "2026-08-20T17:05:21.118409+00:00",
+          "price_display": "€ 14,00",
+          "title": "Fitness bal 60 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433145494-fitness-bal-60-cm"
         }
       }
     },
@@ -53577,6 +53601,18 @@
           "price_display": "€ 500,00",
           "title": "Piano numérique Thomann DP32 + tabouret + casque",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433140786-piano-numerique-thomann-dp32-tabouret-casque"
+        },
+        "m2433144803": {
+          "first_seen_at": "2026-08-20T17:05:54.605919+00:00",
+          "price_display": "€ 1.200,00",
+          "title": "yamaha buffetpiano hoogglans hout",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433144803-yamaha-buffetpiano-hoogglans-hout"
+        },
+        "m2433148454": {
+          "first_seen_at": "2026-08-20T17:05:54.605919+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Ancien piano droit De Heug",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433148454-ancien-piano-droit-de-heug"
         }
       }
     }
@@ -53584,7 +53620,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T16:40:23.194846+00:00",
+    "last_checked_at": "2026-08-20T17:06:03.360186+00:00",
     "outage_alert_sent": false
   }
 }
