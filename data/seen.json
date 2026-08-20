@@ -9482,6 +9482,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "gitaar salvador cortez cc-22-sn licht bruin",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433007762-gitaar-salvador-cortez-cc-22-sn-licht-bruin"
+        },
+        "m2433020241": {
+          "first_seen_at": "2026-08-20T11:51:53.174899+00:00",
+          "price_display": "€ 280,00",
+          "title": "Almansa 401 Cedro klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433020241-almansa-401-cedro-klassieke-gitaar"
+        },
+        "m2433021518": {
+          "first_seen_at": "2026-08-20T11:51:53.174899+00:00",
+          "price_display": "€ 280,00",
+          "title": "Klassieke gitaar Esteve Model 1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433021518-klassieke-gitaar-esteve-model-1"
         }
       }
     },
@@ -19950,6 +19962,12 @@
           "price_display": "€ 240,00",
           "title": "vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433009942-velo-d-appartement"
+        },
+        "m2433021524": {
+          "first_seen_at": "2026-08-20T11:51:28.626053+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Grondtrapper Axos Kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433021524-grondtrapper-axos-kettler"
         }
       }
     },
@@ -43235,6 +43253,24 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Gewichthefapparatuur",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432990641-gewichthefapparatuur"
+        },
+        "m2433014744": {
+          "first_seen_at": "2026-08-20T11:51:07.906550+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bench gym tafel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433014744-bench-gym-tafel"
+        },
+        "m2433019512": {
+          "first_seen_at": "2026-08-20T11:51:07.906550+00:00",
+          "price_display": "€ 100,00",
+          "title": "Complete fitnessset / homegym – dumbbells, dipbars en meer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433019512-complete-fitnessset-homegym-dumbbells-dipbars-en-meer"
+        },
+        "m2433021887": {
+          "first_seen_at": "2026-08-20T11:51:07.906550+00:00",
+          "price_display": "€ 80,00",
+          "title": "Rameur 3 en 1",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433021887-rameur-3-en-1"
         }
       }
     },
@@ -46588,6 +46624,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Wilson bela V3 zo goed als nieuw.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2432986892-wilson-bela-v3-zo-goed-als-nieuw"
+        },
+        "m2433010461": {
+          "first_seen_at": "2026-08-20T11:51:19.640539+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "metalbone team",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433010461-metalbone-team"
+        },
+        "m2433012753": {
+          "first_seen_at": "2026-08-20T11:51:19.640539+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "metalbone carbon control",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433012753-metalbone-carbon-control"
         }
       }
     },
@@ -53062,7 +53110,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T11:22:44.781485+00:00",
+    "last_checked_at": "2026-08-20T11:51:55.347668+00:00",
     "outage_alert_sent": false
   }
 }
