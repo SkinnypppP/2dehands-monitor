@@ -47326,6 +47326,12 @@
           "price_display": "€ 180,00",
           "title": "Padel Racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433184133-padel-racket"
+        },
+        "m2433216688": {
+          "first_seen_at": "2026-08-20T20:55:12.085274+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Head one ultralight padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433216688-head-one-ultralight-padelracket"
         }
       }
     },
@@ -53919,6 +53925,12 @@
           "price_display": "Bieden vanaf € 2.300,00",
           "title": "Pompes a bière professionnelle",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433202375-pompes-a-biere-professionnelle"
+        },
+        "m2433213791": {
+          "first_seen_at": "2026-08-20T20:55:35.572711+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Piano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433213791-piano-te-koop"
         }
       }
     }
@@ -53926,7 +53938,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T20:21:46.105562+00:00",
+    "last_checked_at": "2026-08-20T20:55:46.045858+00:00",
     "outage_alert_sent": false
   }
 }
