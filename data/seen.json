@@ -609,6 +609,12 @@
           "title": "Boss - GX100 - Multi-effect pedaal - 2024",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165524594-boss-gx100-multi-effect-pedaal-2024"
         },
+        "a165573595": {
+          "first_seen_at": "2026-08-20T05:18:25.395225+00:00",
+          "price_display": "€ 1.400,00",
+          "title": "Greco - Byrdland BR-110 - - Semi-hollow body gitaar - Japan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165573595-greco-byrdland-br-110-semi-hollow-body-gitaar-japan"
+        },
         "a165575450": {
           "first_seen_at": "2026-08-18T05:14:55.271812+00:00",
           "price_display": "€ 220,00",
@@ -9344,6 +9350,12 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Recording King Dirty 37 (Single 0) - Tobacco Sunburst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432870215-recording-king-dirty-37-single-0-tobacco-sunburst"
+        },
+        "m2432898698": {
+          "first_seen_at": "2026-08-20T05:18:25.395225+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Di Giorgio Classical Guitar Signorina no 18 Made in Brazil",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432898698-di-giorgio-classical-guitar-signorina-no-18-made-in-brazil"
         }
       }
     },
@@ -19944,6 +19956,12 @@
           "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165074626-diverse-schijven-platen-olympische-schijven-bumper"
         },
+        "a165357876": {
+          "first_seen_at": "2026-08-20T05:17:38.721277+00:00",
+          "price_display": "€ 2.249,00",
+          "title": "Recumbent Bike R7Xi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165357876-recumbent-bike-r7xi"
+        },
         "a165393427": {
           "first_seen_at": "2026-08-15T04:55:18.808066+00:00",
           "price_display": "€ 25,00",
@@ -19973,6 +19991,12 @@
           "price_display": "€ 5,00",
           "title": "Veiling - 2kg schijf - Set van 2",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165481538-veiling-2kg-schijf-set-van-2"
+        },
+        "a165483559": {
+          "first_seen_at": "2026-08-20T05:17:38.721277+00:00",
+          "price_display": "€ 25,00",
+          "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165483559-diverse-schijven-platen-olympische-schijven-bumper"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -42773,6 +42797,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Life fitness hometrainer G5 van particulier €750",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432890210-life-fitness-hometrainer-g5-van-particulier-750"
+        },
+        "m2432899753": {
+          "first_seen_at": "2026-08-20T05:17:38.721277+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Krachtstation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432899753-krachtstation"
         }
       }
     },
@@ -46179,6 +46209,12 @@
           "price_display": "€ 4.500,00",
           "title": "Yamaha B1 piano met silent system",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165362848-yamaha-b1-piano-met-silent-system"
+        },
+        "a17854043": {
+          "first_seen_at": "2026-08-20T05:18:14.137508+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "SOLDES SOLDES SOLDES de - 10% à - 30% sur plusieurs pianos",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a17854043-soldes-soldes-soldes-de-10-a-30-sur-plusieurs-pianos"
         },
         "a61268743": {
           "first_seen_at": "2026-08-08T05:23:24.735486+00:00",
@@ -52534,7 +52570,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T04:49:14.049785+00:00",
+    "last_checked_at": "2026-08-20T05:18:27.185506+00:00",
     "outage_alert_sent": false
   }
 }
