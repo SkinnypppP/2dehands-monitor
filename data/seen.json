@@ -9356,6 +9356,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Di Giorgio Classical Guitar Signorina no 18 Made in Brazil",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432898698-di-giorgio-classical-guitar-signorina-no-18-made-in-brazil"
+        },
+        "m2432900866": {
+          "first_seen_at": "2026-08-20T05:50:56.147311+00:00",
+          "price_display": "€ 450,00",
+          "title": "Gitaar  Prudensio Saez 1977",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432900866-gitaar-prudensio-saez-1977"
+        },
+        "m2432901857": {
+          "first_seen_at": "2026-08-20T05:50:56.147311+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Richwood artist serie RD-28-CE vol houten bovenblad raar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432901857-richwood-artist-serie-rd-28-ce-vol-houten-bovenblad-raar"
         }
       }
     },
@@ -42803,6 +42815,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Krachtstation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432899753-krachtstation"
+        },
+        "m2432899956": {
+          "first_seen_at": "2026-08-20T05:50:12.028844+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432899956-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
         }
       }
     },
@@ -52570,7 +52588,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T05:18:27.185506+00:00",
+    "last_checked_at": "2026-08-20T05:50:58.726025+00:00",
     "outage_alert_sent": false
   }
 }
