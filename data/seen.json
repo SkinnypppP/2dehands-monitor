@@ -9614,6 +9614,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "klassieke gitaar HOFNER HM83",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433197870-klassieke-gitaar-hofner-hm83"
+        },
+        "m2433201971": {
+          "first_seen_at": "2026-08-20T19:55:11.579836+00:00",
+          "price_display": "€ 30,00",
+          "title": "gitaat special edition classic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433201971-gitaat-special-edition-classic"
         }
       }
     },
@@ -20238,6 +20244,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433179302-crosstrainer"
+        },
+        "m2433202398": {
+          "first_seen_at": "2026-08-20T19:54:42.846354+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitnessapparatuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433202398-fitnessapparatuur"
         }
       }
     },
@@ -43847,6 +43859,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Buikspiertrainer Argon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433198008-buikspiertrainer-argon"
+        },
+        "m2433199281": {
+          "first_seen_at": "2026-08-20T19:54:20.071362+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Professionele spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433199281-professionele-spinningfiets"
+        },
+        "m2433201405": {
+          "first_seen_at": "2026-08-20T19:54:20.071362+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Bosu",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433201405-bosu"
         }
       }
     },
@@ -53871,6 +53895,12 @@
           "price_display": "Bieden vanaf € 3.500,00",
           "title": "Buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433193319-buffetpiano"
+        },
+        "m2433202375": {
+          "first_seen_at": "2026-08-20T19:55:00.884819+00:00",
+          "price_display": "Bieden vanaf € 2.300,00",
+          "title": "Pompes a bière professionnelle",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433202375-pompes-a-biere-professionnelle"
         }
       }
     }
@@ -53878,7 +53908,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T19:26:31.910192+00:00",
+    "last_checked_at": "2026-08-20T19:55:13.096507+00:00",
     "outage_alert_sent": false
   }
 }
