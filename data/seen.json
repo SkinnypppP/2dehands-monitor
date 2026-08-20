@@ -9458,6 +9458,18 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Hohner 6 string Classical/Klassieke/Classique guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432979792-hohner-6-string-classical-klassieke-classique-guitar"
+        },
+        "m2432994211": {
+          "first_seen_at": "2026-08-20T10:56:26.991170+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Gitaar met toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432994211-gitaar-met-toebehoren"
+        },
+        "m2432995107": {
+          "first_seen_at": "2026-08-20T10:56:26.991170+00:00",
+          "price_display": "Bieden vanaf € 900,00",
+          "title": "Akoustische gitaar Mayson met L.R Baggs Anthem mic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432995107-akoustische-gitaar-mayson-met-l-r-baggs-anthem-mic"
         }
       }
     },
@@ -13591,6 +13603,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "half a dollar⁸",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432978802-half-a-dollar8"
+        },
+        "m2432989685": {
+          "first_seen_at": "2026-08-20T10:56:06.311139+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "5x Gouden Lunar II muntjes (1/20 oz)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432989685-5x-gouden-lunar-ii-muntjes-1-20-oz"
+        },
+        "m2432992062": {
+          "first_seen_at": "2026-08-20T10:56:06.311139+00:00",
+          "price_display": "€ 1.850,00",
+          "title": "Gouden Lunar II 2008 (1/20 & 1/4 oz)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432992062-gouden-lunar-ii-2008-1-20-1-4-oz"
         }
       }
     },
@@ -43175,6 +43199,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Tunturi Fitnessball 65cm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432985168-tunturi-fitnessball-65cm"
+        },
+        "m2432989106": {
+          "first_seen_at": "2026-08-20T10:55:40.011596+00:00",
+          "price_display": "€ 600,00",
+          "title": "Homegym: rack, halterstang, 100kg halterschijven & bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432989106-homegym-rack-halterstang-100kg-halterschijven-bench"
+        },
+        "m2432990641": {
+          "first_seen_at": "2026-08-20T10:55:40.011596+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Gewichthefapparatuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432990641-gewichthefapparatuur"
         }
       }
     },
@@ -52983,6 +53019,18 @@
           "price_display": "€ 6.750,00",
           "title": "Doutreligne Crapaud I",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432971824-doutreligne-crapaud-i"
+        },
+        "m2432990807": {
+          "first_seen_at": "2026-08-20T10:56:17.355289+00:00",
+          "price_display": "€ 9.590,00",
+          "title": "Piano quart Queue « Kawai » Garantie: 10 ans",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432990807-piano-quart-queue-kawai-garantie-10-ans"
+        },
+        "m2432999370": {
+          "first_seen_at": "2026-08-20T10:56:17.355289+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Oude piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432999370-oude-piano"
         }
       }
     }
@@ -52990,7 +53038,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T10:23:47.347195+00:00",
+    "last_checked_at": "2026-08-20T10:56:28.441071+00:00",
     "outage_alert_sent": false
   }
 }
