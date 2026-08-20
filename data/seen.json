@@ -9428,6 +9428,24 @@
           "price_display": "€ 5,00",
           "title": "Gitaarsnaren",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432954583-gitaarsnaren"
+        },
+        "m2432963120": {
+          "first_seen_at": "2026-08-20T09:53:52.371466+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Goede klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432963120-goede-klassieke-gitaar"
+        },
+        "m2432966201": {
+          "first_seen_at": "2026-08-20T09:53:52.371466+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "Fender Acoustasonic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432966201-fender-acoustasonic"
+        },
+        "m2432966541": {
+          "first_seen_at": "2026-08-20T09:53:52.371466+00:00",
+          "price_display": "€ 25,00",
+          "title": "Klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432966541-klassieke-gitaar"
         }
       }
     },
@@ -13543,6 +13561,18 @@
           "price_display": "€ 155,00",
           "title": "#Britannia 1/10 ounce 2026 zilver .999 BU kwaliteit.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432913535-britannia-1-10-ounce-2026-zilver-999-bu-kwaliteit"
+        },
+        "m2432967700": {
+          "first_seen_at": "2026-08-20T09:53:30.170423+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "jeux olympiques pièce argent 900/1000  ,26,73gr",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432967700-jeux-olympiques-piece-argent-900-1000-26-73gr"
+        },
+        "m2432975299": {
+          "first_seen_at": "2026-08-20T09:53:30.170423+00:00",
+          "price_display": "Bieden vanaf € 199,00",
+          "title": "PAMP Lunar Calendar Serie Year of the Dragon 2024 1oz Silver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2432975299-pamp-lunar-calendar-serie-year-of-the-dragon-2024-1oz-silver"
         }
       }
     },
@@ -19824,6 +19854,18 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Technogym bike hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432959970-technogym-bike-hometrainer"
+        },
+        "m2432968639": {
+          "first_seen_at": "2026-08-20T09:53:18.854501+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432968639-hometrainer"
+        },
+        "m2432974688": {
+          "first_seen_at": "2026-08-20T09:53:18.854501+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "Loopbanden TibaGoods Elektrische Loopband - Wandelband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432974688-loopbanden-tibagoods-elektrische-loopband-wandelband"
         }
       }
     },
@@ -43079,6 +43121,18 @@
           "price_display": "€ 65,00",
           "title": "fitness elastische banden nieuw 25 doosjes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432959824-fitness-elastische-banden-nieuw-25-doosjes"
+        },
+        "m2432963207": {
+          "first_seen_at": "2026-08-20T09:53:00.255681+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Blaze Pods-set (6)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432963207-blaze-pods-set-6"
+        },
+        "m2432964176": {
+          "first_seen_at": "2026-08-20T09:53:00.255681+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Barbarian Line wanddips",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2432964176-barbarian-line-wanddips"
         }
       }
     },
@@ -52875,6 +52929,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Accordeur, technicien, restaurateur de piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432947706-accordeur-technicien-restaurateur-de-piano"
+        },
+        "m2432971824": {
+          "first_seen_at": "2026-08-20T09:53:43.403515+00:00",
+          "price_display": "€ 6.750,00",
+          "title": "Doutreligne Crapaud I",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2432971824-doutreligne-crapaud-i"
         }
       }
     }
@@ -52882,7 +52942,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T09:18:44.647579+00:00",
+    "last_checked_at": "2026-08-20T09:53:54.892317+00:00",
     "outage_alert_sent": false
   }
 }
