@@ -9584,6 +9584,12 @@
           "price_display": "€ 2.200,00",
           "title": "Iris AB small jumbo - spruce/mahogany",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433116465-iris-ab-small-jumbo-spruce-mahogany"
+        },
+        "m2433130333": {
+          "first_seen_at": "2026-08-20T16:40:22.007719+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "akoestische westerngitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433130333-akoestische-westerngitaar"
         }
       }
     },
@@ -20148,6 +20154,12 @@
           "price_display": "€ 150,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433105774-hometrainer"
+        },
+        "m2433136589": {
+          "first_seen_at": "2026-08-20T16:39:56.788993+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433136589-hometrainer"
         }
       }
     },
@@ -43589,6 +43601,24 @@
           "price_display": "Bieden vanaf € 5,00",
           "title": "Zwembandjes foam - aanpasbaar vr gewicht 1-60 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433126461-zwembandjes-foam-aanpasbaar-vr-gewicht-1-60-kg"
+        },
+        "m2433132499": {
+          "first_seen_at": "2026-08-20T16:39:37.437490+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Fitness (3 voor 50 EUR)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433132499-fitness-3-voor-50-eur"
+        },
+        "m2433134356": {
+          "first_seen_at": "2026-08-20T16:39:37.437490+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness mat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433134356-fitness-mat"
+        },
+        "m2433134819": {
+          "first_seen_at": "2026-08-20T16:39:37.437490+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Rack squat k-sport krachttraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433134819-rack-squat-k-sport-krachttraining"
         }
       }
     },
@@ -47002,6 +47032,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "vends sac bullpadel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433113875-vends-sac-bullpadel"
+        },
+        "m2433141981": {
+          "first_seen_at": "2026-08-20T16:39:48.419584+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Padelracket Snauwaert Vitas Team",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433141981-padelracket-snauwaert-vitas-team"
         }
       }
     },
@@ -53535,6 +53571,12 @@
           "price_display": "Bieden vanaf € 6.000,00",
           "title": "Grotrian Steinweg buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433120380-grotrian-steinweg-buffetpiano"
+        },
+        "m2433140786": {
+          "first_seen_at": "2026-08-20T16:40:12.710312+00:00",
+          "price_display": "€ 500,00",
+          "title": "Piano numérique Thomann DP32 + tabouret + casque",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433140786-piano-numerique-thomann-dp32-tabouret-casque"
         }
       }
     }
@@ -53542,7 +53584,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T15:59:55.557303+00:00",
+    "last_checked_at": "2026-08-20T16:40:23.194846+00:00",
     "outage_alert_sent": false
   }
 }
