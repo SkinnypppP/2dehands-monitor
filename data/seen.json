@@ -9608,6 +9608,12 @@
           "price_display": "€ 190,00",
           "title": "3/4de gitaar Salvador Cortes",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433189107-3-4de-gitaar-salvador-cortes"
+        },
+        "m2433197870": {
+          "first_seen_at": "2026-08-20T19:26:30.713428+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "klassieke gitaar HOFNER HM83",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433197870-klassieke-gitaar-hofner-hm83"
         }
       }
     },
@@ -43805,6 +43811,42 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433187308-gewichten"
+        },
+        "m2433194445": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "€ 98,00",
+          "title": "Pull up bar en dipstation - Bouw jouw eigen calisthenics gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433194445-pull-up-bar-en-dipstation-bouw-jouw-eigen-calisthenics-gym"
+        },
+        "m2433195199": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "1 x gebogen halterstang (120cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433195199-1-x-gebogen-halterstang-120cm-2-8cm"
+        },
+        "m2433195809": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "€ 45,00",
+          "title": "Pull up bar + dips bar wandmontage",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433195809-pull-up-bar-dips-bar-wandmontage"
+        },
+        "m2433197366": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Halterrek voor schijven, baren en halters! (Goede staat!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433197366-halterrek-voor-schijven-baren-en-halters-goede-staat"
+        },
+        "m2433197941": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "€ 98,00",
+          "title": "Calisthenics pull up bar voor buiten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433197941-calisthenics-pull-up-bar-voor-buiten"
+        },
+        "m2433198008": {
+          "first_seen_at": "2026-08-20T19:25:43.802637+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Buikspiertrainer Argon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433198008-buikspiertrainer-argon"
         }
       }
     },
@@ -53817,6 +53859,18 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Elektrische piano Roland RP107",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433189195-elektrische-piano-roland-rp107"
+        },
+        "m2433190205": {
+          "first_seen_at": "2026-08-20T19:26:21.358433+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Authentieke Engelse CHALLEN kwartvleugel (ca. 1928)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433190205-authentieke-engelse-challen-kwartvleugel-ca-1928"
+        },
+        "m2433193319": {
+          "first_seen_at": "2026-08-20T19:26:21.358433+00:00",
+          "price_display": "Bieden vanaf € 3.500,00",
+          "title": "Buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433193319-buffetpiano"
         }
       }
     }
@@ -53824,7 +53878,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T18:56:00.777825+00:00",
+    "last_checked_at": "2026-08-20T19:26:31.910192+00:00",
     "outage_alert_sent": false
   }
 }
