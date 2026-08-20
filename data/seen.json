@@ -13759,6 +13759,30 @@
           "price_display": "Bieden vanaf € 2.500,00",
           "title": "1kg EMEKO zilverbaar 999- fysiek zilver/edelmetaal",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433064260-1kg-emeko-zilverbaar-999-fysiek-zilver-edelmetaal"
+        },
+        "m2433119587": {
+          "first_seen_at": "2026-08-20T15:59:35.815375+00:00",
+          "price_display": "€ 725,00",
+          "title": "Gouden Marianne 20FR",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433119587-gouden-marianne-20fr"
+        },
+        "m2433119724": {
+          "first_seen_at": "2026-08-20T15:59:35.815375+00:00",
+          "price_display": "Bieden vanaf € 2.000,00",
+          "title": "1kg munt  zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433119724-1kg-munt-zilver"
+        },
+        "m2433123914": {
+          "first_seen_at": "2026-08-20T15:59:35.815375+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zilverbaar 1oz Argor Heraeus Gorbatsjov 1990 Nobelprijs",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433123914-zilverbaar-1oz-argor-heraeus-gorbatsjov-1990-nobelprijs"
+        },
+        "m2433125320": {
+          "first_seen_at": "2026-08-20T15:59:35.815375+00:00",
+          "price_display": "€ 510,00",
+          "title": "10 x 50 Francs Hercules Zilver (90%)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433125320-10-x-50-francs-hercules-zilver-90"
         }
       }
     },
@@ -43535,6 +43559,36 @@
           "price_display": "€ 100,00",
           "title": "halterbank met gewichten 65 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433116764-halterbank-met-gewichten-65-kg"
+        },
+        "m2433118933": {
+          "first_seen_at": "2026-08-20T15:59:08.297163+00:00",
+          "price_display": "€ 20,00",
+          "title": "Body sculpture",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433118933-body-sculpture"
+        },
+        "m2433119411": {
+          "first_seen_at": "2026-08-20T15:59:08.297163+00:00",
+          "price_display": "€ 10,00",
+          "title": "Prozis Ankle Strap 2.0",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433119411-prozis-ankle-strap-2-0"
+        },
+        "m2433120725": {
+          "first_seen_at": "2026-08-20T15:59:08.297163+00:00",
+          "price_display": "€ 22,00",
+          "title": "Roze enkelgewichten 0,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433120725-roze-enkelgewichten-0-5kg"
+        },
+        "m2433125101": {
+          "first_seen_at": "2026-08-20T15:59:08.297163+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Haltères 3 kg – Paire d’haltères de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433125101-halteres-3-kg-paire-d-halteres-de-musculation"
+        },
+        "m2433126461": {
+          "first_seen_at": "2026-08-20T15:59:08.297163+00:00",
+          "price_display": "Bieden vanaf € 5,00",
+          "title": "Zwembandjes foam - aanpasbaar vr gewicht 1-60 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433126461-zwembandjes-foam-aanpasbaar-vr-gewicht-1-60-kg"
         }
       }
     },
@@ -53475,6 +53529,12 @@
           "price_display": "Bieden vanaf € 900,00",
           "title": "Roland FP-7F – Digitale piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433105518-roland-fp-7f-digitale-piano"
+        },
+        "m2433120380": {
+          "first_seen_at": "2026-08-20T15:59:47.843655+00:00",
+          "price_display": "Bieden vanaf € 6.000,00",
+          "title": "Grotrian Steinweg buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433120380-grotrian-steinweg-buffetpiano"
         }
       }
     }
@@ -53482,7 +53542,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T15:28:14.001598+00:00",
+    "last_checked_at": "2026-08-20T15:59:55.557303+00:00",
     "outage_alert_sent": false
   }
 }
