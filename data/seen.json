@@ -9554,6 +9554,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "gitaar €60 bieden vanaf €40",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433077594-gitaar-60-bieden-vanaf-40"
+        },
+        "m2433085006": {
+          "first_seen_at": "2026-08-20T14:53:59.580700+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Mooie gitaar, vezonden of ophalen met staander.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433085006-mooie-gitaar-vezonden-of-ophalen-met-staander"
         }
       }
     },
@@ -20082,6 +20088,12 @@
           "price_display": "€ 150,00",
           "title": "Loopband nieuw ongebruikt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433064728-loopband-nieuw-ongebruikt"
+        },
+        "m2433098778": {
+          "first_seen_at": "2026-08-20T14:53:31.948112+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433098778-crosstrainer"
         }
       }
     },
@@ -43451,6 +43463,30 @@
           "price_display": "€ 20,00",
           "title": "Ab King pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433069235-ab-king-pro"
+        },
+        "m2433089832": {
+          "first_seen_at": "2026-08-20T14:53:12.861453+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Homegym Decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433089832-homegym-decathlon"
+        },
+        "m2433090485": {
+          "first_seen_at": "2026-08-20T14:53:12.861453+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Life Fitness R1-5 ligfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433090485-life-fitness-r1-5-ligfiets"
+        },
+        "m2433091284": {
+          "first_seen_at": "2026-08-20T14:53:12.861453+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Set van 2 verstelbaar halters met gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433091284-set-van-2-verstelbaar-halters-met-gewichten"
+        },
+        "m2433096279": {
+          "first_seen_at": "2026-08-20T14:53:12.861453+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "bench bankje + incline bankje",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433096279-bench-bankje-incline-bankje"
         }
       }
     },
@@ -53361,6 +53397,18 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Elektrische piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433076646-elektrische-piano"
+        },
+        "m2433090532": {
+          "first_seen_at": "2026-08-20T14:53:50.516514+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433090532-piano"
+        },
+        "m2433091522": {
+          "first_seen_at": "2026-08-20T14:53:50.516514+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "piano akoestische  mat zwart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433091522-piano-akoestische-mat-zwart"
         }
       }
     }
@@ -53368,7 +53416,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T14:10:38.575379+00:00",
+    "last_checked_at": "2026-08-20T14:54:00.165945+00:00",
     "outage_alert_sent": false
   }
 }
