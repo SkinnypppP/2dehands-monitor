@@ -43913,6 +43913,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Battle rope",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433225819-battle-rope"
+        },
+        "m2433229602": {
+          "first_seen_at": "2026-08-20T22:49:30.091032+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Vibroshaper trilplaat fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433229602-vibroshaper-trilplaat-fitness"
         }
       }
     },
@@ -53962,7 +53968,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T21:53:15.019461+00:00",
+    "last_checked_at": "2026-08-20T22:50:13.412799+00:00",
     "outage_alert_sent": false
   }
 }
