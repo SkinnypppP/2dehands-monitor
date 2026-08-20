@@ -43895,6 +43895,24 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "Bosu",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433201405-bosu"
+        },
+        "m2433223383": {
+          "first_seen_at": "2026-08-20T21:52:25.413323+00:00",
+          "price_display": "€ 190,00",
+          "title": "Powerblock Sport 24",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433223383-powerblock-sport-24"
+        },
+        "m2433223597": {
+          "first_seen_at": "2026-08-20T21:52:25.413323+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Altere de 15 kilos x2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433223597-altere-de-15-kilos-x2"
+        },
+        "m2433225819": {
+          "first_seen_at": "2026-08-20T21:52:25.413323+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Battle rope",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433225819-battle-rope"
         }
       }
     },
@@ -53944,7 +53962,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T21:22:28.705669+00:00",
+    "last_checked_at": "2026-08-20T21:53:15.019461+00:00",
     "outage_alert_sent": false
   }
 }
