@@ -9470,6 +9470,18 @@
           "price_display": "Bieden vanaf € 900,00",
           "title": "Akoustische gitaar Mayson met L.R Baggs Anthem mic",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2432995107-akoustische-gitaar-mayson-met-l-r-baggs-anthem-mic"
+        },
+        "m2433003552": {
+          "first_seen_at": "2026-08-20T11:22:42.400773+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Hudson gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433003552-hudson-gitaar"
+        },
+        "m2433007762": {
+          "first_seen_at": "2026-08-20T11:22:42.400773+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "gitaar salvador cortez cc-22-sn licht bruin",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433007762-gitaar-salvador-cortez-cc-22-sn-licht-bruin"
         }
       }
     },
@@ -19926,6 +19938,18 @@
           "price_display": "€ 35,00",
           "title": "FITNESS trampoline (102cm)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432986579-fitness-trampoline-102cm"
+        },
+        "m2433008137": {
+          "first_seen_at": "2026-08-20T11:22:11.984186+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Concept 2 RowErg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433008137-concept-2-rowerg"
+        },
+        "m2433009942": {
+          "first_seen_at": "2026-08-20T11:22:11.984186+00:00",
+          "price_display": "€ 240,00",
+          "title": "vélo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433009942-velo-d-appartement"
         }
       }
     },
@@ -53038,7 +53062,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T10:56:28.441071+00:00",
+    "last_checked_at": "2026-08-20T11:22:44.781485+00:00",
     "outage_alert_sent": false
   }
 }
