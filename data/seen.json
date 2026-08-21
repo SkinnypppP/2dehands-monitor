@@ -9872,6 +9872,12 @@
           "price_display": "€ 95,00",
           "title": "Cuenca model 10 klassieke beginners gitaar in hoes",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433567007-cuenca-model-10-klassieke-beginners-gitaar-in-hoes"
+        },
+        "m2433578309": {
+          "first_seen_at": "2026-08-21T23:21:03.685466+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "M.Suzuki model.102 made.in Japan 1980",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433578309-m-suzuki-model-102-made-in-japan-1980"
         }
       }
     },
@@ -55486,7 +55492,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T22:37:13.144536+00:00",
+    "last_checked_at": "2026-08-21T23:21:04.544847+00:00",
     "outage_alert_sent": false
   }
 }
