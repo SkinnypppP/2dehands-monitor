@@ -44891,6 +44891,18 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Rogue echo bike",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433502632-rogue-echo-bike"
+        },
+        "m2433509868": {
+          "first_seen_at": "2026-08-21T17:38:51.682605+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "set kettlebells (nieuw) + medecine ball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433509868-set-kettlebells-nieuw-medecine-ball"
+        },
+        "m2433516070": {
+          "first_seen_at": "2026-08-21T17:38:51.682605+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "fitnesbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433516070-fitnesbank"
         }
       }
     },
@@ -48376,6 +48388,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Bullpadel HACK 03",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433478059-bullpadel-hack-03"
+        },
+        "m2433510890": {
+          "first_seen_at": "2026-08-21T17:39:01.688559+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433510890-padelracket"
         }
       }
     },
@@ -55173,6 +55191,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Rösler piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433502895-rosler-piano"
+        },
+        "m2433509632": {
+          "first_seen_at": "2026-08-21T17:39:23.939517+00:00",
+          "price_display": "Bieden vanaf € 5.000,00",
+          "title": "Fender Rhodes 88",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433509632-fender-rhodes-88"
         }
       }
     }
@@ -55180,7 +55204,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T17:06:01.156628+00:00",
+    "last_checked_at": "2026-08-21T17:39:32.756887+00:00",
     "outage_alert_sent": false
   }
 }
