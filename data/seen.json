@@ -14311,6 +14311,54 @@
           "price_display": "€ 65,00",
           "title": "1oz 999 silver Korea - Tiger 2019",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433572972-1oz-999-silver-korea-tiger-2019"
+        },
+        "m2433573332": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 9999 silver - Australia Kangaroo 2019",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433573332-1oz-9999-silver-australia-kangaroo-2019"
+        },
+        "m2433573377": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 9999 silver - Australia Kangaroo 2023",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433573377-1oz-9999-silver-australia-kangaroo-2023"
+        },
+        "m2433574029": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 999 silver - Ghana - Leopard 2017",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433574029-1oz-999-silver-ghana-leopard-2017"
+        },
+        "m2433574772": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 560,00",
+          "title": "8x 1oz 999 silver - American Western Skulls series - Proof",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433574772-8x-1oz-999-silver-american-western-skulls-series-proof"
+        },
+        "m2433575205": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 525,00",
+          "title": "7x 1oz 999 silver - SilverTown - Medieval Legends series",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433575205-7x-1oz-999-silver-silvertown-medieval-legends-series"
+        },
+        "m2433575526": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 999 silver Niue TREE OF LIFE 2018",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433575526-1oz-999-silver-niue-tree-of-life-2018"
+        },
+        "m2433575577": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 9999 silver Niue ROARING LION 2018",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433575577-1oz-9999-silver-niue-roaring-lion-2018"
+        },
+        "m2433575635": {
+          "first_seen_at": "2026-08-21T22:36:46.774339+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 9999 silver Niue ROARING LION 2024",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433575635-1oz-9999-silver-niue-roaring-lion-2024"
         }
       }
     },
@@ -45065,6 +45113,12 @@
           "price_display": "Bieden vanaf € 90,00",
           "title": "36kg Halterset van SVEN/ KETTLER (30mm)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433563242-36kg-halterset-van-sven-kettler-30mm"
+        },
+        "m2433573691": {
+          "first_seen_at": "2026-08-21T22:36:20.089877+00:00",
+          "price_display": "€ 320,00",
+          "title": "4 platte bankjes te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433573691-4-platte-bankjes-te-koop"
         }
       }
     },
@@ -55432,7 +55486,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T22:02:55.118639+00:00",
+    "last_checked_at": "2026-08-21T22:37:13.144536+00:00",
     "outage_alert_sent": false
   }
 }
