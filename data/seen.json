@@ -14281,6 +14281,36 @@
           "price_display": "€ 66,00",
           "title": "1oz 999 silver Gibraltar Macaque 2021",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433571405-1oz-999-silver-gibraltar-macaque-2021"
+        },
+        "m2433571790": {
+          "first_seen_at": "2026-08-21T22:02:33.572357+00:00",
+          "price_display": "€ 60,00",
+          "title": "1oz 999 silver - Armenia - Noah's Ark 2011",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433571790-1oz-999-silver-armenia-noah-s-ark-2011"
+        },
+        "m2433571967": {
+          "first_seen_at": "2026-08-21T22:02:33.572357+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 999 silver Cambodia - Clouded Leopard 2023",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433571967-1oz-999-silver-cambodia-clouded-leopard-2023"
+        },
+        "m2433572083": {
+          "first_seen_at": "2026-08-21T22:02:33.572357+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 999 silver Cambodia - Asian Elephant 2023",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433572083-1oz-999-silver-cambodia-asian-elephant-2023"
+        },
+        "m2433572565": {
+          "first_seen_at": "2026-08-21T22:02:33.572357+00:00",
+          "price_display": "€ 200,00",
+          "title": "3x 1oz 999 silver Royal Australian Mint - Lunar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433572565-3x-1oz-999-silver-royal-australian-mint-lunar"
+        },
+        "m2433572972": {
+          "first_seen_at": "2026-08-21T22:02:33.572357+00:00",
+          "price_display": "€ 65,00",
+          "title": "1oz 999 silver Korea - Tiger 2019",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433572972-1oz-999-silver-korea-tiger-2019"
         }
       }
     },
@@ -55402,7 +55432,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T21:47:46.064388+00:00",
+    "last_checked_at": "2026-08-21T22:02:55.118639+00:00",
     "outage_alert_sent": false
   }
 }
