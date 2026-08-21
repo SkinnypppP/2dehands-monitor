@@ -609,6 +609,12 @@
           "title": "Boss - GX100 - Multi-effect pedaal - 2024",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165524594-boss-gx100-multi-effect-pedaal-2024"
         },
+        "a165532466": {
+          "first_seen_at": "2026-08-21T03:49:47.292369+00:00",
+          "price_display": "€ 150,00",
+          "title": "Gibson - Gevarieerd lot met Gitaarkoffer en Gibson",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165532466-gibson-gevarieerd-lot-met-gitaarkoffer-en-gibson"
+        },
         "a165573595": {
           "first_seen_at": "2026-08-20T05:18:25.395225+00:00",
           "price_display": "€ 1.400,00",
@@ -53980,7 +53986,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T02:57:30.889079+00:00",
+    "last_checked_at": "2026-08-21T03:49:48.992827+00:00",
     "outage_alert_sent": false
   }
 }
