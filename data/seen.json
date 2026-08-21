@@ -44447,6 +44447,36 @@
           "price_display": "Gratis",
           "title": "Kettler buikspierentoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433368565-kettler-buikspierentoestel"
+        },
+        "m2433373520": {
+          "first_seen_at": "2026-08-21T11:57:47.309279+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "halterschijven 10kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433373520-halterschijven-10kilo"
+        },
+        "m2433374083": {
+          "first_seen_at": "2026-08-21T11:57:47.309279+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "halterschijven 5kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433374083-halterschijven-5kilo"
+        },
+        "m2433374506": {
+          "first_seen_at": "2026-08-21T11:57:47.309279+00:00",
+          "price_display": "€ 25,00",
+          "title": "wall ball decathlon medicine ball workout",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433374506-wall-ball-decathlon-medicine-ball-workout"
+        },
+        "m2433374672": {
+          "first_seen_at": "2026-08-21T11:57:47.309279+00:00",
+          "price_display": "Bieden vanaf € 1.750,00",
+          "title": "Matrix Aura G3-MS20 Professional Adjustable Cable Crossover",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433374672-matrix-aura-g3-ms20-professional-adjustable-cable-crossover"
+        },
+        "m2433374720": {
+          "first_seen_at": "2026-08-21T11:57:47.309279+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "halterschijven 5kilo+10kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433374720-halterschijven-5kilo-10kilo"
         }
       }
     },
@@ -54604,7 +54634,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T11:36:51.193819+00:00",
+    "last_checked_at": "2026-08-21T11:58:36.028279+00:00",
     "outage_alert_sent": false
   }
 }
