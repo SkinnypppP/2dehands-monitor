@@ -20316,6 +20316,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Loopband Decathlon T520b",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433220746-loopband-decathlon-t520b"
+        },
+        "m2433249878": {
+          "first_seen_at": "2026-08-21T05:44:12.158255+00:00",
+          "price_display": "€ 50,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433249878-hometrainer"
         }
       }
     },
@@ -43979,6 +43985,24 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "TUNTURI bumperplate rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433232648-tunturi-bumperplate-rack"
+        },
+        "m2433247938": {
+          "first_seen_at": "2026-08-21T05:43:55.274029+00:00",
+          "price_display": "Bieden vanaf € 370,00",
+          "title": "Loopband Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433247938-loopband-domyos"
+        },
+        "m2433248499": {
+          "first_seen_at": "2026-08-21T05:43:55.274029+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "buikspier trainer zover zwart",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433248499-buikspier-trainer-zover-zwart"
+        },
+        "m2433249285": {
+          "first_seen_at": "2026-08-21T05:43:55.274029+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Multifunctionele optrekstang (Pull-up bar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433249285-multifunctionele-optrekstang-pull-up-bar"
         }
       }
     },
@@ -54034,7 +54058,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T05:03:52.254097+00:00",
+    "last_checked_at": "2026-08-21T05:44:44.115105+00:00",
     "outage_alert_sent": false
   }
 }
