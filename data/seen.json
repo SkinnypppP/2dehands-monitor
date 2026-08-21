@@ -9668,6 +9668,30 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Klasieke gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433255208-klasieke-gitaar"
+        },
+        "m2433256728": {
+          "first_seen_at": "2026-08-21T07:12:03.842929+00:00",
+          "price_display": "€ 75,00",
+          "title": "Vintage Duitse archtop/parlor gitaar (jaren ’50/’60)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433256728-vintage-duitse-archtop-parlor-gitaar-jaren-50-60"
+        },
+        "m2433257643": {
+          "first_seen_at": "2026-08-21T07:12:03.842929+00:00",
+          "price_display": "€ 75,00",
+          "title": "Vintage Duitse archtop/parlor gitaar (jaren ’50/’60)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433257643-vintage-duitse-archtop-parlor-gitaar-jaren-50-60"
+        },
+        "m2433262661": {
+          "first_seen_at": "2026-08-21T07:12:03.842929+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Aranjuez klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433262661-aranjuez-klassieke-gitaar"
+        },
+        "m2433265507": {
+          "first_seen_at": "2026-08-21T07:12:03.842929+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Klassieke 3/4de gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433265507-klassieke-3-4de-gitaar"
         }
       }
     },
@@ -20340,6 +20364,12 @@
           "price_display": "€ 50,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433249878-hometrainer"
+        },
+        "m2433258621": {
+          "first_seen_at": "2026-08-21T07:11:39.162451+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Syros. Pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433258621-syros-pro"
         }
       }
     },
@@ -44021,6 +44051,24 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Multifunctionele optrekstang (Pull-up bar)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433249285-multifunctionele-optrekstang-pull-up-bar"
+        },
+        "m2433257486": {
+          "first_seen_at": "2026-08-21T07:11:18.980648+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "30kg Halterset van SVEN/ KETTLER (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433257486-30kg-halterset-van-sven-kettler-30mm"
+        },
+        "m2433261386": {
+          "first_seen_at": "2026-08-21T07:11:18.980648+00:00",
+          "price_display": "Bieden vanaf € 1.100,00",
+          "title": "Haltersets 10kg tot 30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433261386-haltersets-10kg-tot-30kg"
+        },
+        "m2433266326": {
+          "first_seen_at": "2026-08-21T07:11:18.980648+00:00",
+          "price_display": "€ 20,00",
+          "title": "Tunturi hoepel met gewicht",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433266326-tunturi-hoepel-met-gewicht"
         }
       }
     },
@@ -54075,6 +54123,12 @@
           "price_display": "€ 695,00",
           "title": "Yamaha piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433250490-yamaha-piano"
+        },
+        "m2433257361": {
+          "first_seen_at": "2026-08-21T07:11:56.239865+00:00",
+          "price_display": "Bieden vanaf € 900,00",
+          "title": "Korg SV1 88 keys",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433257361-korg-sv1-88-keys"
         }
       }
     }
@@ -54082,7 +54136,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T06:18:36.183889+00:00",
+    "last_checked_at": "2026-08-21T07:12:05.883288+00:00",
     "outage_alert_sent": false
   }
 }
