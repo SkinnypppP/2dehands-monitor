@@ -9734,6 +9734,24 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "3/4 gitaar Thomann",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433336724-3-4-gitaar-thomann"
+        },
+        "m2433349117": {
+          "first_seen_at": "2026-08-21T11:01:32.698777+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar stagg te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433349117-gitaar-stagg-te-koop"
+        },
+        "m2433350517": {
+          "first_seen_at": "2026-08-21T11:01:32.698777+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Takamine EN 20C",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433350517-takamine-en-20c"
+        },
+        "m2433354171": {
+          "first_seen_at": "2026-08-21T11:01:32.698777+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "linkshandige Harley Benton gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433354171-linkshandige-harley-benton-gitaar"
         }
       }
     },
@@ -20472,6 +20490,18 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Fitbike Ride 2 hometrainer – amper gebruikt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433329401-fitbike-ride-2-hometrainer-amper-gebruikt"
+        },
+        "m2433348574": {
+          "first_seen_at": "2026-08-21T11:01:07.345190+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Hometrainer ,Christopeit Sport fitnesstoestel met display",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433348574-hometrainer-christopeit-sport-fitnesstoestel-met-display"
+        },
+        "m2433352840": {
+          "first_seen_at": "2026-08-21T11:01:07.345190+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Velo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433352840-velo-d-appartement"
         }
       }
     },
@@ -44369,6 +44399,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "powerplate",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433334646-powerplate"
+        },
+        "m2433352948": {
+          "first_seen_at": "2026-08-21T11:00:47.699707+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "Fitnessgewichten – 160 kg halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433352948-fitnessgewichten-160-kg-halterschijven"
         }
       }
     },
@@ -47830,6 +47866,12 @@
           "price_display": "€ 300,00",
           "title": "Oxdog Ultimate Pro+ 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433337333-oxdog-ultimate-pro-2026"
+        },
+        "m2433349610": {
+          "first_seen_at": "2026-08-21T11:00:56.542323+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Babolat padel rackets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433349610-babolat-padel-rackets"
         }
       }
     },
@@ -54514,7 +54556,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T10:35:02.286259+00:00",
+    "last_checked_at": "2026-08-21T11:01:34.413569+00:00",
     "outage_alert_sent": false
   }
 }
