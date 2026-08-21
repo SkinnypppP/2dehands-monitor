@@ -9842,6 +9842,24 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Gitaar Yamaha, half akoestisch/eletrisch",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433520013-gitaar-yamaha-half-akoestisch-eletrisch"
+        },
+        "m2433528447": {
+          "first_seen_at": "2026-08-21T18:52:31.171817+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Gitaren te koop (2)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433528447-gitaren-te-koop-2"
+        },
+        "m2433531556": {
+          "first_seen_at": "2026-08-21T18:52:31.171817+00:00",
+          "price_display": "Bieden vanaf € 199,00",
+          "title": "Salvador Cortez CC22 - Kwalitatieve Spaans/klassieke gitaar.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433531556-salvador-cortez-cc22-kwalitatieve-spaans-klassieke-gitaar"
+        },
+        "m2433532024": {
+          "first_seen_at": "2026-08-21T18:52:31.171817+00:00",
+          "price_display": "€ 60,00",
+          "title": "Guitare classique enfant Kapok Brand neuve + accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433532024-guitare-classique-enfant-kapok-brand-neuve-accessoires"
         }
       }
     },
@@ -20748,6 +20766,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Wahoo Kickr Core",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433499036-wahoo-kickr-core"
+        },
+        "m2433535437": {
+          "first_seen_at": "2026-08-21T18:52:03.739248+00:00",
+          "price_display": "€ 190,00",
+          "title": "Hometrainer Tunturi F20",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433535437-hometrainer-tunturi-f20"
         }
       }
     },
@@ -44909,6 +44933,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "fitnesbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433516070-fitnesbank"
+        },
+        "m2433526047": {
+          "first_seen_at": "2026-08-21T18:51:42.647406+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Fitnessmateriaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433526047-fitnessmateriaal"
+        },
+        "m2433530048": {
+          "first_seen_at": "2026-08-21T18:51:42.647406+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "NORDIC Fitness Inclined Ab-halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433530048-nordic-fitness-inclined-ab-halterbank"
         }
       }
     },
@@ -55215,6 +55251,24 @@
           "price_display": "Gratis",
           "title": "Buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433521582-buffetpiano"
+        },
+        "m2433525749": {
+          "first_seen_at": "2026-08-21T18:52:22.841718+00:00",
+          "price_display": "Bieden vanaf € 800,00",
+          "title": "Piano Samick wit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433525749-piano-samick-wit"
+        },
+        "m2433528302": {
+          "first_seen_at": "2026-08-21T18:52:22.841718+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Wurlitzer 200A electrische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433528302-wurlitzer-200a-electrische-piano"
+        },
+        "m2433533713": {
+          "first_seen_at": "2026-08-21T18:52:22.841718+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Weltmeister Claviset 200",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433533713-weltmeister-claviset-200"
         }
       }
     }
@@ -55222,7 +55276,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T18:02:01.827822+00:00",
+    "last_checked_at": "2026-08-21T18:52:34.052001+00:00",
     "outage_alert_sent": false
   }
 }
