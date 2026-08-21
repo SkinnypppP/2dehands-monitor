@@ -9860,6 +9860,12 @@
           "price_display": "€ 60,00",
           "title": "Guitare classique enfant Kapok Brand neuve + accessoires",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433532024-guitare-classique-enfant-kapok-brand-neuve-accessoires"
+        },
+        "m2433561808": {
+          "first_seen_at": "2026-08-21T20:57:00.798910+00:00",
+          "price_display": "€ 50,00",
+          "title": "Ukelele, met bijhorende onderdelen en hoes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433561808-ukelele-met-bijhorende-onderdelen-en-hoes"
         }
       }
     },
@@ -20796,6 +20802,12 @@
           "price_display": "€ 190,00",
           "title": "Hometrainer Tunturi F20",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433535437-hometrainer-tunturi-f20"
+        },
+        "m2433562470": {
+          "first_seen_at": "2026-08-21T20:56:25.373524+00:00",
+          "price_display": "€ 25,00",
+          "title": "Fitnesstoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433562470-fitnesstoestel"
         }
       }
     },
@@ -44981,6 +44993,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "rucanor yoga ball",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433557824-rucanor-yoga-ball"
+        },
+        "m2433561287": {
+          "first_seen_at": "2026-08-21T20:56:03.118089+00:00",
+          "price_display": "€ 55,00",
+          "title": "Dummbellset 20 kg, Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433561287-dummbellset-20-kg-tunturi"
         }
       }
     },
@@ -55323,6 +55341,12 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Vintage elektronisch orgel – 2 klavieren – houten kast",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433552899-vintage-elektronisch-orgel-2-klavieren-houten-kast"
+        },
+        "m2433561055": {
+          "first_seen_at": "2026-08-21T20:56:48.568128+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Korg b1 piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433561055-korg-b1-piano"
         }
       }
     }
@@ -55330,7 +55354,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T20:36:47.111764+00:00",
+    "last_checked_at": "2026-08-21T20:57:02.072646+00:00",
     "outage_alert_sent": false
   }
 }
