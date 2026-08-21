@@ -20634,6 +20634,18 @@
           "price_display": "Bieden vanaf € 1.350,00",
           "title": "Tacx Neo 3M fietstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433393706-tacx-neo-3m-fietstrainer"
+        },
+        "m2433424615": {
+          "first_seen_at": "2026-08-21T14:16:24.096691+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Citysports Roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433424615-citysports-roeimachine"
+        },
+        "m2433431477": {
+          "first_seen_at": "2026-08-21T14:16:24.096691+00:00",
+          "price_display": "€ 150,00",
+          "title": "nordic trac",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433431477-nordic-trac"
         }
       }
     },
@@ -44663,6 +44675,12 @@
           "price_display": "€ 10,00",
           "title": "Finess banden (elastieken)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433415206-finess-banden-elastieken"
+        },
+        "m2433429098": {
+          "first_seen_at": "2026-08-21T14:16:04.598114+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Nautilus loopband – professioneel fitnesskwaliteit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433429098-nautilus-loopband-professioneel-fitnesskwaliteit"
         }
       }
     },
@@ -54843,6 +54861,12 @@
           "price_display": "Bieden vanaf € 4.500,00",
           "title": "Doutreligne Classique II buffet piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433415583-doutreligne-classique-ii-buffet-piano"
+        },
+        "m2433428062": {
+          "first_seen_at": "2026-08-21T14:16:42.577729+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Buffetpiano Hupfeld",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433428062-buffetpiano-hupfeld"
         }
       }
     }
@@ -54850,7 +54874,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T13:35:15.337955+00:00",
+    "last_checked_at": "2026-08-21T14:16:49.469203+00:00",
     "outage_alert_sent": false
   }
 }
