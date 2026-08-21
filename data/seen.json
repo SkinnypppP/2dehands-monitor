@@ -9866,6 +9866,12 @@
           "price_display": "€ 50,00",
           "title": "Ukelele, met bijhorende onderdelen en hoes",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433561808-ukelele-met-bijhorende-onderdelen-en-hoes"
+        },
+        "m2433567007": {
+          "first_seen_at": "2026-08-21T21:21:09.358211+00:00",
+          "price_display": "€ 95,00",
+          "title": "Cuenca model 10 klassieke beginners gitaar in hoes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433567007-cuenca-model-10-klassieke-beginners-gitaar-in-hoes"
         }
       }
     },
@@ -44999,6 +45005,12 @@
           "price_display": "€ 55,00",
           "title": "Dummbellset 20 kg, Tunturi",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433561287-dummbellset-20-kg-tunturi"
+        },
+        "m2433563242": {
+          "first_seen_at": "2026-08-21T21:20:24.348109+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "36kg Halterset van SVEN/ KETTLER (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433563242-36kg-halterset-van-sven-kettler-30mm"
         }
       }
     },
@@ -48502,6 +48514,12 @@
           "price_display": "€ 95,00",
           "title": "padel racket Head Gravity Pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433550234-padel-racket-head-gravity-pro"
+        },
+        "m2433565215": {
+          "first_seen_at": "2026-08-21T21:20:36.270756+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Snauwaert PadelRacket met tas Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433565215-snauwaert-padelracket-met-tas-nieuw"
         }
       }
     },
@@ -55354,7 +55372,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T20:57:02.072646+00:00",
+    "last_checked_at": "2026-08-21T21:21:10.842827+00:00",
     "outage_alert_sent": false
   }
 }
