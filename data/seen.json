@@ -9824,6 +9824,18 @@
           "price_display": "€ 50,00",
           "title": "3/4 klassieke gitaar in nieuwstaat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433469153-3-4-klassieke-gitaar-in-nieuwstaat"
+        },
+        "m2433487128": {
+          "first_seen_at": "2026-08-21T16:40:16.839905+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Klassieke kwaliteitsvolle gitaar Antares",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433487128-klassieke-kwaliteitsvolle-gitaar-antares"
+        },
+        "m2433489123": {
+          "first_seen_at": "2026-08-21T16:40:16.839905+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "yamaha c 40",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433489123-yamaha-c-40"
         }
       }
     },
@@ -14173,6 +14185,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "1 oz Maple Leaf zilveren munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433473833-1-oz-maple-leaf-zilveren-munt"
+        },
+        "m2433487488": {
+          "first_seen_at": "2026-08-21T16:39:55.854612+00:00",
+          "price_display": "€ 2.250,00",
+          "title": "Zilveren muntencollectie US PRESIDENTS/EUROPEAN COUNTRIES",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433487488-zilveren-muntencollectie-us-presidents-european-countries"
         }
       }
     },
@@ -44813,6 +44831,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "tour de musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433479804-tour-de-musculation"
+        },
+        "m2433492815": {
+          "first_seen_at": "2026-08-21T16:39:30.044340+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "multifunctionele fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433492815-multifunctionele-fitnessbank"
+        },
+        "m2433493381": {
+          "first_seen_at": "2026-08-21T16:39:30.044340+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Domyos Halterset. (22kg) (Goede staat!)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433493381-domyos-halterset-22kg-goede-staat"
         }
       }
     },
@@ -55090,7 +55120,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T15:59:53.743130+00:00",
+    "last_checked_at": "2026-08-21T16:40:18.503647+00:00",
     "outage_alert_sent": false
   }
 }
