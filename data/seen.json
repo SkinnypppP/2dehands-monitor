@@ -9752,6 +9752,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "linkshandige Harley Benton gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433354171-linkshandige-harley-benton-gitaar"
+        },
+        "m2433368985": {
+          "first_seen_at": "2026-08-21T11:36:50.506902+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Gretsch Rancher Jumbo Black (G5022CBFE)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433368985-gretsch-rancher-jumbo-black-g5022cbfe"
         }
       }
     },
@@ -20502,6 +20508,18 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Velo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433352840-velo-d-appartement"
+        },
+        "m2433356199": {
+          "first_seen_at": "2026-08-21T11:36:24.829977+00:00",
+          "price_display": "Bieden vanaf € 27,50",
+          "title": "Twist & Shape",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433356199-twist-shape"
+        },
+        "m2433362603": {
+          "first_seen_at": "2026-08-21T11:36:24.829977+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Velo elliptique domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433362603-velo-elliptique-domyos"
         }
       }
     },
@@ -44405,6 +44423,30 @@
           "price_display": "Bieden vanaf € 225,00",
           "title": "Fitnessgewichten – 160 kg halterschijven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433352948-fitnessgewichten-160-kg-halterschijven"
+        },
+        "m2433357661": {
+          "first_seen_at": "2026-08-21T11:36:01.208896+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Rubber tegel 20mm - 50x 50 cm - Zwart +-50stuks",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433357661-rubber-tegel-20mm-50x-50-cm-zwart-50stuks"
+        },
+        "m2433358124": {
+          "first_seen_at": "2026-08-21T11:36:01.208896+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Complete Hexagon Dumbbell Set 2,5 t/m 25 kg + Heavy Duty Rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433358124-complete-hexagon-dumbbell-set-2-5-t-m-25-kg-heavy-duty-rek"
+        },
+        "m2433358978": {
+          "first_seen_at": "2026-08-21T11:36:01.208896+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "TE KOOP: Hometrainer(Fiets-ligfiets)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433358978-te-koop-hometrainer-fiets-ligfiets"
+        },
+        "m2433368565": {
+          "first_seen_at": "2026-08-21T11:36:01.208896+00:00",
+          "price_display": "Gratis",
+          "title": "Kettler buikspierentoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433368565-kettler-buikspierentoestel"
         }
       }
     },
@@ -54549,6 +54591,12 @@
           "price_display": "€ 2.700,00",
           "title": "yamaha piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433337785-yamaha-piano"
+        },
+        "m2433364525": {
+          "first_seen_at": "2026-08-21T11:36:41.945588+00:00",
+          "price_display": "€ 650,00",
+          "title": "Yamaha digitale piano P-225B Black",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433364525-yamaha-digitale-piano-p-225b-black"
         }
       }
     }
@@ -54556,7 +54604,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T11:01:34.413569+00:00",
+    "last_checked_at": "2026-08-21T11:36:51.193819+00:00",
     "outage_alert_sent": false
   }
 }
