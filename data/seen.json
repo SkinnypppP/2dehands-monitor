@@ -14167,6 +14167,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "kookaburra 1995 en 2008",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433466935-kookaburra-1995-en-2008"
+        },
+        "m2433473833": {
+          "first_seen_at": "2026-08-21T15:59:35.624316+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "1 oz Maple Leaf zilveren munt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433473833-1-oz-maple-leaf-zilveren-munt"
         }
       }
     },
@@ -44783,6 +44789,30 @@
           "price_display": "€ 60,00",
           "title": "Goede hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433469407-goede-hometrainer"
+        },
+        "m2433474419": {
+          "first_seen_at": "2026-08-21T15:59:08.002227+00:00",
+          "price_display": "€ 45,00",
+          "title": "gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433474419-gewichten"
+        },
+        "m2433476616": {
+          "first_seen_at": "2026-08-21T15:59:08.002227+00:00",
+          "price_display": "€ 20,00",
+          "title": "lot de 2 kettlebells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433476616-lot-de-2-kettlebells"
+        },
+        "m2433478918": {
+          "first_seen_at": "2026-08-21T15:59:08.002227+00:00",
+          "price_display": "€ 55,00",
+          "title": "Fitness Fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433478918-fitness-fiets"
+        },
+        "m2433479804": {
+          "first_seen_at": "2026-08-21T15:59:08.002227+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "tour de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433479804-tour-de-musculation"
         }
       }
     },
@@ -48262,6 +48292,12 @@
           "price_display": "Bieden vanaf € 145,00",
           "title": "Siux Pegasus 4 élite 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433413606-siux-pegasus-4-elite-2026"
+        },
+        "m2433478059": {
+          "first_seen_at": "2026-08-21T15:59:19.259896+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Bullpadel HACK 03",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433478059-bullpadel-hack-03"
         }
       }
     },
@@ -55041,6 +55077,12 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Hautrive bruxelles buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433468341-hautrive-bruxelles-buffetpiano"
+        },
+        "m2433479505": {
+          "first_seen_at": "2026-08-21T15:59:42.486712+00:00",
+          "price_display": "€ 200,00",
+          "title": "Roland RD-300s keyboard met staander en flight case",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433479505-roland-rd-300s-keyboard-met-staander-en-flight-case"
         }
       }
     }
@@ -55048,7 +55090,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T15:28:44.750600+00:00",
+    "last_checked_at": "2026-08-21T15:59:53.743130+00:00",
     "outage_alert_sent": false
   }
 }
