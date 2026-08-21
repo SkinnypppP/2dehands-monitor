@@ -9836,6 +9836,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "yamaha c 40",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433489123-yamaha-c-40"
+        },
+        "m2433520013": {
+          "first_seen_at": "2026-08-21T18:02:01.131239+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Gitaar Yamaha, half akoestisch/eletrisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433520013-gitaar-yamaha-half-akoestisch-eletrisch"
         }
       }
     },
@@ -48394,6 +48400,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433510890-padelracket"
+        },
+        "m2433520503": {
+          "first_seen_at": "2026-08-21T18:01:23.400640+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "padelracket Oxdog",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433520503-padelracket-oxdog"
         }
       }
     },
@@ -55197,6 +55209,12 @@
           "price_display": "Bieden vanaf € 5.000,00",
           "title": "Fender Rhodes 88",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433509632-fender-rhodes-88"
+        },
+        "m2433521582": {
+          "first_seen_at": "2026-08-21T18:01:50.590681+00:00",
+          "price_display": "Gratis",
+          "title": "Buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433521582-buffetpiano"
         }
       }
     }
@@ -55204,7 +55222,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T17:39:32.756887+00:00",
+    "last_checked_at": "2026-08-21T18:02:01.827822+00:00",
     "outage_alert_sent": false
   }
 }
