@@ -13855,6 +13855,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "1 oz zilver congo 2026",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433187353-1-oz-zilver-congo-2026"
+        },
+        "m2433238910": {
+          "first_seen_at": "2026-08-21T02:57:16.124885+00:00",
+          "price_display": "€ 1,50",
+          "title": "broedeieren van Witte Jersey Giants",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433238910-broedeieren-van-witte-jersey-giants"
         }
       }
     },
@@ -53974,7 +53980,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-20T23:43:21.827203+00:00",
+    "last_checked_at": "2026-08-21T02:57:30.889079+00:00",
     "outage_alert_sent": false
   }
 }
