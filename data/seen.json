@@ -10550,6 +10550,12 @@
           "title": "50 gram - Goud .999 - 50g .9999 Fine Gold Bar Germany",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165640949-50-gram-goud-999-50g-9999-fine-gold-bar-germany"
         },
+        "a165667749": {
+          "first_seen_at": "2026-08-21T04:24:55.503240+00:00",
+          "price_display": "€ 24,00",
+          "title": "1 Troy Ounce - Zilver .999 - British Lion and American Eagle",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165667749-1-troy-ounce-zilver-999-british-lion-and-american-eagle"
+        },
         "a165667751": {
           "first_seen_at": "2026-08-19T12:44:03.865335+00:00",
           "price_display": "€ 1,00",
@@ -10567,6 +10573,18 @@
           "price_display": "€ 100,00",
           "title": "1 gram - Goud .999 - Maple Leaf fine gold (Zonder",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165667753-1-gram-goud-999-maple-leaf-fine-gold-zonder"
+        },
+        "a165679001": {
+          "first_seen_at": "2026-08-21T04:24:55.503240+00:00",
+          "price_display": "€ 1,00",
+          "title": "Zuid-Afrika. 100 Rand 2016 1/2 oz 100 Rand South Africa Gold",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165679001-zuid-afrika-100-rand-2016-1-2-oz-100-rand-south-africa-gold"
+        },
+        "a165693361": {
+          "first_seen_at": "2026-08-21T04:24:55.503240+00:00",
+          "price_display": "€ 5,00",
+          "title": "1 gram - Goud .999 - 1 gram 9999 Scottsdale Gold Prepper Bar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165693361-1-gram-goud-999-1-gram-9999-scottsdale-gold-prepper-bar"
         },
         "a165693738": {
           "first_seen_at": "2026-08-20T12:35:24.447136+00:00",
@@ -53986,7 +54004,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T03:49:48.992827+00:00",
+    "last_checked_at": "2026-08-21T04:25:16.316836+00:00",
     "outage_alert_sent": false
   }
 }
