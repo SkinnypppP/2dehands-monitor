@@ -14233,6 +14233,12 @@
           "price_display": "€ 62,00",
           "title": "20x 1oz Wiener Philharmoniker",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433551719-20x-1oz-wiener-philharmoniker"
+        },
+        "m2433554361": {
+          "first_seen_at": "2026-08-21T20:01:05.683889+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Lingot de cuivre 1 kg pur 99.99 motif bateau corsaire",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433554361-lingot-de-cuivre-1-kg-pur-99-99-motif-bateau-corsaire"
         }
       }
     },
@@ -44957,6 +44963,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "NORDIC Fitness Inclined Ab-halterbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433530048-nordic-fitness-inclined-ab-halterbank"
+        },
+        "m2433553655": {
+          "first_seen_at": "2026-08-21T20:00:32.400014+00:00",
+          "price_display": "€ 4.250,00",
+          "title": "Rubberen Ziva Pu Dumbells 12kg t/m 50kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433553655-rubberen-ziva-pu-dumbells-12kg-t-m-50kg"
         }
       }
     },
@@ -55293,6 +55305,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano à remettre en état",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433551764-piano-a-remettre-en-etat"
+        },
+        "m2433552899": {
+          "first_seen_at": "2026-08-21T20:01:13.379228+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Vintage elektronisch orgel – 2 klavieren – houten kast",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433552899-vintage-elektronisch-orgel-2-klavieren-houten-kast"
         }
       }
     }
@@ -55300,7 +55318,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T19:46:52.611049+00:00",
+    "last_checked_at": "2026-08-21T20:01:23.768910+00:00",
     "outage_alert_sent": false
   }
 }
