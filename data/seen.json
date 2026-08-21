@@ -14257,6 +14257,30 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "5 kilo puur koperen staaf 99,99",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433557203-5-kilo-puur-koperen-staaf-99-99"
+        },
+        "m2433570114": {
+          "first_seen_at": "2026-08-21T21:47:26.581252+00:00",
+          "price_display": "€ 475,00",
+          "title": "5x 1oz 999 Silver South Africa Big Five serie2",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433570114-5x-1oz-999-silver-south-africa-big-five-serie2"
+        },
+        "m2433570738": {
+          "first_seen_at": "2026-08-21T21:47:26.581252+00:00",
+          "price_display": "€ 630,00",
+          "title": "9x 1oz 999 coins Rwanda Lunar series",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433570738-9x-1oz-999-coins-rwanda-lunar-series"
+        },
+        "m2433571177": {
+          "first_seen_at": "2026-08-21T21:47:26.581252+00:00",
+          "price_display": "€ 525,00",
+          "title": "7x 1oz 9999 silver Australia Swan reeks (2018-2024)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433571177-7x-1oz-9999-silver-australia-swan-reeks-2018-2024"
+        },
+        "m2433571405": {
+          "first_seen_at": "2026-08-21T21:47:26.581252+00:00",
+          "price_display": "€ 66,00",
+          "title": "1oz 999 silver Gibraltar Macaque 2021",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433571405-1oz-999-silver-gibraltar-macaque-2021"
         }
       }
     },
@@ -55365,6 +55389,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Korg b1 piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433561055-korg-b1-piano"
+        },
+        "m2433569981": {
+          "first_seen_at": "2026-08-21T21:47:37.719982+00:00",
+          "price_display": "€ 1,00",
+          "title": "Buffetpiano Bentley",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433569981-buffetpiano-bentley"
         }
       }
     }
@@ -55372,7 +55402,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T21:21:10.842827+00:00",
+    "last_checked_at": "2026-08-21T21:47:46.064388+00:00",
     "outage_alert_sent": false
   }
 }
