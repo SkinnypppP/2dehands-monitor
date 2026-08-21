@@ -9722,6 +9722,18 @@
           "price_display": "€ 250,00",
           "title": "Alhambra 1C Klassieke Gitaar–Complete Set Koffer + Voetsteun",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433331190-alhambra-1c-klassieke-gitaar-complete-set-koffer-voetsteun"
+        },
+        "m2433331490": {
+          "first_seen_at": "2026-08-21T10:35:01.249482+00:00",
+          "price_display": "€ 275,00",
+          "title": "Spaanse Klassieke Gitaar (Jorge Banús López) – Complete Set",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433331490-spaanse-klassieke-gitaar-jorge-banus-lopez-complete-set"
+        },
+        "m2433336724": {
+          "first_seen_at": "2026-08-21T10:35:01.249482+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "3/4 gitaar Thomann",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433336724-3-4-gitaar-thomann"
         }
       }
     },
@@ -44345,6 +44357,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Pull-Up bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433327982-pull-up-bar"
+        },
+        "m2433332444": {
+          "first_seen_at": "2026-08-21T10:34:14.223356+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Twist and shape fitness apparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433332444-twist-and-shape-fitness-apparaat"
+        },
+        "m2433334646": {
+          "first_seen_at": "2026-08-21T10:34:14.223356+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "powerplate",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433334646-powerplate"
         }
       }
     },
@@ -47800,6 +47824,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "housse pour raquette de padel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433306236-housse-pour-raquette-de-padel"
+        },
+        "m2433337333": {
+          "first_seen_at": "2026-08-21T10:34:21.948798+00:00",
+          "price_display": "€ 300,00",
+          "title": "Oxdog Ultimate Pro+ 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433337333-oxdog-ultimate-pro-2026"
         }
       }
     },
@@ -54447,6 +54477,36 @@
           "price_display": "€ 3.550,00",
           "title": "Piano  Yamaha",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433326125-piano-yamaha"
+        },
+        "m2433333339": {
+          "first_seen_at": "2026-08-21T10:34:49.427811+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "Yamaha piano model M 108",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433333339-yamaha-piano-model-m-108"
+        },
+        "m2433333615": {
+          "first_seen_at": "2026-08-21T10:34:49.427811+00:00",
+          "price_display": "Bieden vanaf € 725,00",
+          "title": "Elektrische zwarte piano Roland F-140R",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433333615-elektrische-zwarte-piano-roland-f-140r"
+        },
+        "m2433335803": {
+          "first_seen_at": "2026-08-21T10:34:49.427811+00:00",
+          "price_display": "€ 600,00",
+          "title": "Piano in goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433335803-piano-in-goede-staat"
+        },
+        "m2433336039": {
+          "first_seen_at": "2026-08-21T10:34:49.427811+00:00",
+          "price_display": "€ 990,00",
+          "title": "Buffet piano REUTNER  - Garantie: 5 jaar - Pianos Michiels",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433336039-buffet-piano-reutner-garantie-5-jaar-pianos-michiels"
+        },
+        "m2433337785": {
+          "first_seen_at": "2026-08-21T10:34:49.427811+00:00",
+          "price_display": "€ 2.700,00",
+          "title": "yamaha piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433337785-yamaha-piano"
         }
       }
     }
@@ -54454,7 +54514,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T09:59:57.020423+00:00",
+    "last_checked_at": "2026-08-21T10:35:02.286259+00:00",
     "outage_alert_sent": false
   }
 }
