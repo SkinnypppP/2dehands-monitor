@@ -621,6 +621,12 @@
           "title": "Greco - Byrdland BR-110 - - Semi-hollow body gitaar - Japan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165573595-greco-byrdland-br-110-semi-hollow-body-gitaar-japan"
         },
+        "a165575431": {
+          "first_seen_at": "2026-08-21T05:03:49.903555+00:00",
+          "price_display": "€ 160,00",
+          "title": "Michael Sandén - Sandén SRB-D Resonator Gutar Roots. - -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165575431-michael-sanden-sanden-srb-d-resonator-gutar-roots"
+        },
         "a165575450": {
           "first_seen_at": "2026-08-18T05:14:55.271812+00:00",
           "price_display": "€ 220,00",
@@ -632,6 +638,12 @@
           "price_display": "€ 410,00",
           "title": "Ibanez - Artist AR300 - - Guitare électrique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165579890-ibanez-artist-ar300-guitare-electrique"
+        },
+        "a165643379": {
+          "first_seen_at": "2026-08-21T05:03:49.903555+00:00",
+          "price_display": "€ 6.495,00",
+          "title": "Lowden PB Pierre Bensusan Signature 2018 | Natural",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165643379-lowden-pb-pierre-bensusan-signature-2018-natural"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -20550,6 +20562,12 @@
           "title": "Concept 2 - Indoor Rower Model C - Roeier",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165442739-concept-2-indoor-rower-model-c-roeier"
         },
+        "a165469133": {
+          "first_seen_at": "2026-08-21T05:03:05.236496+00:00",
+          "price_display": "€ 2.250,00",
+          "title": "Technogym - Selection - Cable Crossover Station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165469133-technogym-selection-cable-crossover-station"
+        },
         "a165481515": {
           "first_seen_at": "2026-08-16T04:53:18.771138+00:00",
           "price_display": "€ 8,00",
@@ -20573,6 +20591,12 @@
           "price_display": "€ 25,00",
           "title": "Diverse Schijven - Platen - Olympische Schijven - Bumper",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165483559-diverse-schijven-platen-olympische-schijven-bumper"
+        },
+        "a165605371": {
+          "first_seen_at": "2026-08-21T05:03:05.236496+00:00",
+          "price_display": "€ 350,00",
+          "title": "Dumbbell Rek - 1-10 Kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165605371-dumbbell-rek-1-10-kg"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -53997,6 +54021,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Piano te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433213791-piano-te-koop"
+        },
+        "m2433245133": {
+          "first_seen_at": "2026-08-21T05:03:38.082822+00:00",
+          "price_display": "€ 400,00",
+          "title": "digitale piano Dynatone met stoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433245133-digitale-piano-dynatone-met-stoel"
         }
       }
     }
@@ -54004,7 +54034,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T04:25:16.316836+00:00",
+    "last_checked_at": "2026-08-21T05:03:52.254097+00:00",
     "outage_alert_sent": false
   }
 }
