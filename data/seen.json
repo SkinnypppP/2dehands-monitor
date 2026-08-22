@@ -21462,6 +21462,12 @@
           "price_display": "€ 2.250,00",
           "title": "Tunturi Platinum loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433858853-tunturi-platinum-loopband"
+        },
+        "m2433881932": {
+          "first_seen_at": "2026-08-22T16:43:42.042085+00:00",
+          "price_display": "Bieden vanaf € 999,00",
+          "title": "Tapis de course Taurus T9.7",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433881932-tapis-de-course-taurus-t9-7"
         }
       }
     },
@@ -46181,6 +46187,24 @@
           "price_display": "€ 15,00",
           "title": "Gewichten. 2x14kg (verstelbaar)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433865257-gewichten-2x14kg-verstelbaar"
+        },
+        "m2433875601": {
+          "first_seen_at": "2026-08-22T16:43:20.143560+00:00",
+          "price_display": "€ 60,00",
+          "title": "2 M&F Sport halterschijf van 20 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433875601-2-m-f-sport-halterschijf-van-20-kg"
+        },
+        "m2433876766": {
+          "first_seen_at": "2026-08-22T16:43:20.143560+00:00",
+          "price_display": "Bieden vanaf € 145,00",
+          "title": "Chaisse romaine DS Compact",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433876766-chaisse-romaine-ds-compact"
+        },
+        "m2433881841": {
+          "first_seen_at": "2026-08-22T16:43:20.143560+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Total Crunch fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433881841-total-crunch-fitness-toestel"
         }
       }
     },
@@ -56745,6 +56769,18 @@
           "price_display": "€ 125,00",
           "title": "oude notelaar wandpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433839152-oude-notelaar-wandpiano"
+        },
+        "m2433877584": {
+          "first_seen_at": "2026-08-22T16:43:58.781727+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Nieuwe Maene Premium Pianobank Zwart Hoogglans Skai",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433877584-nieuwe-maene-premium-pianobank-zwart-hoogglans-skai"
+        },
+        "m2433877726": {
+          "first_seen_at": "2026-08-22T16:43:58.781727+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Piano Yamaha Clavinova CLP685",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433877726-piano-yamaha-clavinova-clp685"
         }
       }
     }
@@ -56752,7 +56788,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T16:16:59.107923+00:00",
+    "last_checked_at": "2026-08-22T16:44:08.989465+00:00",
     "outage_alert_sent": false
   }
 }
