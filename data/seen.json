@@ -45707,6 +45707,12 @@
           "price_display": "€ 11,00",
           "title": "Domyos gymbal en bureau 55 cm blauw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433704769-domyos-gymbal-en-bureau-55-cm-blauw"
+        },
+        "m2433718923": {
+          "first_seen_at": "2026-08-22T11:15:42.983135+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Panatta Fenix Touch Horizontal Bike 1FXT002 – nieuwstaat !",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433718923-panatta-fenix-touch-horizontal-bike-1fxt002-nieuwstaat"
         }
       }
     },
@@ -56170,7 +56176,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T10:56:08.953146+00:00",
+    "last_checked_at": "2026-08-22T11:16:23.240020+00:00",
     "outage_alert_sent": false
   }
 }
