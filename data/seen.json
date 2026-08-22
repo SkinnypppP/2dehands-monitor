@@ -10040,6 +10040,30 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Klassieke gitaar Sheffield Concert guitar met plectrum",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433743919-klassieke-gitaar-sheffield-concert-guitar-met-plectrum"
+        },
+        "m2433748727": {
+          "first_seen_at": "2026-08-22T12:28:08.477106+00:00",
+          "price_display": "Bieden vanaf € 99,00",
+          "title": "zeer mooie roundback in nieuwstaat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433748727-zeer-mooie-roundback-in-nieuwstaat"
+        },
+        "m2433755115": {
+          "first_seen_at": "2026-08-22T12:28:08.477106+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Gitaar Saturn G-314 Made in Japan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433755115-gitaar-saturn-g-314-made-in-japan"
+        },
+        "m2433755125": {
+          "first_seen_at": "2026-08-22T12:28:08.477106+00:00",
+          "price_display": "€ 220,00",
+          "title": "guitare (2025 comme neuf)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433755125-guitare-2025-comme-neuf"
+        },
+        "m2433755892": {
+          "first_seen_at": "2026-08-22T12:28:08.477106+00:00",
+          "price_display": "€ 340,00",
+          "title": "guitare + ampli (2025 neuf)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433755892-guitare-ampli-2025-neuf"
         }
       }
     },
@@ -45761,6 +45785,36 @@
           "price_display": "€ 120,00",
           "title": "adjustable bench atx",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433741364-adjustable-bench-atx"
+        },
+        "m2433753338": {
+          "first_seen_at": "2026-08-22T12:27:21.955704+00:00",
+          "price_display": "Bieden vanaf € 775,00",
+          "title": "Kettler ergometer X7 op te halen in Kortrijk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433753338-kettler-ergometer-x7-op-te-halen-in-kortrijk"
+        },
+        "m2433754106": {
+          "first_seen_at": "2026-08-22T12:27:21.955704+00:00",
+          "price_display": "€ 20,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433754106-hometrainer"
+        },
+        "m2433756425": {
+          "first_seen_at": "2026-08-22T12:27:21.955704+00:00",
+          "price_display": "€ 400,00",
+          "title": "halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433756425-halterschijven"
+        },
+        "m2433761899": {
+          "first_seen_at": "2026-08-22T12:27:21.955704+00:00",
+          "price_display": "€ 150,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433761899-loopband"
+        },
+        "m2433761999": {
+          "first_seen_at": "2026-08-22T12:27:21.955704+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433761999-fitness-toestel"
         }
       }
     },
@@ -56229,6 +56283,18 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "Yamaha DGX-660 portable grand",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433745394-yamaha-dgx-660-portable-grand"
+        },
+        "m2433753478": {
+          "first_seen_at": "2026-08-22T12:28:01.068960+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Yamaha DGX-660",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433753478-yamaha-dgx-660"
+        },
+        "m2433761412": {
+          "first_seen_at": "2026-08-22T12:28:01.068960+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433761412-piano"
         }
       }
     }
@@ -56236,7 +56302,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T11:56:11.328173+00:00",
+    "last_checked_at": "2026-08-22T12:28:12.914992+00:00",
     "outage_alert_sent": false
   }
 }
