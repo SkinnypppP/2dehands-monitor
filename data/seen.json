@@ -10862,6 +10862,24 @@
           "title": "1/100 Ounce - Goud .999 - Heimerle + Meule, Germany - Met",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165759869-1-100-ounce-goud-999-heimerle-meule-germany-met"
         },
+        "a165768427": {
+          "first_seen_at": "2026-08-22T03:27:29.586206+00:00",
+          "price_display": "€ 15,00",
+          "title": "1 kilogram - Koper .999 - MrCopperArte - Met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165768427-1-kilogram-koper-999-mrcopperarte-met-certificaat"
+        },
+        "a165768428": {
+          "first_seen_at": "2026-08-22T03:27:29.586206+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - Fonderie Heracles - France -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165768428-1-kilogram-koper-999-fonderie-heracles-france"
+        },
+        "a165768429": {
+          "first_seen_at": "2026-08-22T03:27:29.586206+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - MRBUD - Met certificaat (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165768429-1-kilogram-koper-999-mrbud-met-certificaat-zonder"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -14365,6 +14383,12 @@
           "price_display": "€ 65,00",
           "title": "1oz 9999 silver Niue ROARING LION 2024",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433575635-1oz-9999-silver-niue-roaring-lion-2024"
+        },
+        "m2433585433": {
+          "first_seen_at": "2026-08-22T03:27:29.586206+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Zilver baar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433585433-zilver-baar"
         }
       }
     },
@@ -55485,6 +55509,12 @@
           "price_display": "€ 1,00",
           "title": "Buffetpiano Bentley",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433569981-buffetpiano-bentley"
+        },
+        "m2433585154": {
+          "first_seen_at": "2026-08-22T03:27:43.277171+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roland piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433585154-roland-piano"
         }
       }
     }
@@ -55492,7 +55522,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-21T23:21:04.544847+00:00",
+    "last_checked_at": "2026-08-22T03:27:52.308599+00:00",
     "outage_alert_sent": false
   }
 }
