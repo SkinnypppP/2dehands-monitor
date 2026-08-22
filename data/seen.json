@@ -21384,6 +21384,18 @@
           "price_display": "Gratis",
           "title": "À DONNER – Tapis de course Tunturi T40 – fonctionne",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433787223-a-donner-tapis-de-course-tunturi-t40-fonctionne"
+        },
+        "m2433805063": {
+          "first_seen_at": "2026-08-22T14:00:46.946260+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "Crosstrainer Zippro heat 32.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433805063-crosstrainer-zippro-heat-32"
+        },
+        "m2433808772": {
+          "first_seen_at": "2026-08-22T14:00:46.946260+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Stepper - fitness step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433808772-stepper-fitness-step"
         }
       }
     },
@@ -45995,6 +46007,36 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Body-Solid GAB60 Pro-Style (Home Gym)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433797245-body-solid-gab60-pro-style-home-gym"
+        },
+        "m2433806568": {
+          "first_seen_at": "2026-08-22T14:00:23.688947+00:00",
+          "price_display": "€ 60,00",
+          "title": "Poids en fonte 28mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433806568-poids-en-fonte-28mm"
+        },
+        "m2433808134": {
+          "first_seen_at": "2026-08-22T14:00:23.688947+00:00",
+          "price_display": "€ 40,00",
+          "title": "Banc de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433808134-banc-de-musculation"
+        },
+        "m2433808500": {
+          "first_seen_at": "2026-08-22T14:00:23.688947+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Retro Sit-Up bench / buikspierbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433808500-retro-sit-up-bench-buikspierbank"
+        },
+        "m2433810323": {
+          "first_seen_at": "2026-08-22T14:00:23.688947+00:00",
+          "price_display": "€ 999,00",
+          "title": "Life Fitness Crosstrainer Elliptical",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433810323-life-fitness-crosstrainer-elliptical"
+        },
+        "m2433813927": {
+          "first_seen_at": "2026-08-22T14:00:23.688947+00:00",
+          "price_display": "€ 275,00",
+          "title": "fitnesssbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433813927-fitnesssbank"
         }
       }
     },
@@ -56517,6 +56559,12 @@
           "price_display": "€ 50,00",
           "title": "Piano électrique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433802198-piano-electrique"
+        },
+        "m2433805522": {
+          "first_seen_at": "2026-08-22T14:01:04.674331+00:00",
+          "price_display": "€ 25,00",
+          "title": "Digitale piano yamaha te huur",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433805522-digitale-piano-yamaha-te-huur"
         }
       }
     }
@@ -56524,7 +56572,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T13:43:47.405721+00:00",
+    "last_checked_at": "2026-08-22T14:01:15.095955+00:00",
     "outage_alert_sent": false
   }
 }
