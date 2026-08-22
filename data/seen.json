@@ -9950,6 +9950,12 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "3/4 gitaar voor muziekschool",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433617668-3-4-gitaar-voor-muziekschool"
+        },
+        "m2433621913": {
+          "first_seen_at": "2026-08-22T07:55:55.037766+00:00",
+          "price_display": "€ 260,00",
+          "title": "Thomann Steel String Lute Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433621913-thomann-steel-string-lute-guitar"
         }
       }
     },
@@ -14742,6 +14748,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Fitness set te koop!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2394899546-fitness-set-te-koop"
+        },
+        "m2395558138": {
+          "first_seen_at": "2026-08-22T07:55:26.787141+00:00",
+          "price_display": "Bieden vanaf € 325,00",
+          "title": "Virtufit crosstrainer iConsole total fit ergometer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2395558138-virtufit-crosstrainer-iconsole-total-fit-ergometer"
         },
         "m2399512370": {
           "first_seen_at": "2026-08-10T16:48:13.734767+00:00",
@@ -55852,7 +55864,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T07:28:58.130151+00:00",
+    "last_checked_at": "2026-08-22T07:55:56.237042+00:00",
     "outage_alert_sent": false
   }
 }
