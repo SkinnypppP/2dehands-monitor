@@ -14851,6 +14851,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "1 gram goudbaar 999.9 heimerle + meule - verzegeld",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433953827-1-gram-goudbaar-999-9-heimerle-meule-verzegeld"
+        },
+        "m2433965709": {
+          "first_seen_at": "2026-08-22T23:53:30.814116+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "10 francs coq en or",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433965709-10-francs-coq-en-or"
         }
       }
     },
@@ -50104,6 +50110,12 @@
           "title": "Sauter model 120 piano - omruilgarantie - gratis bezorgd",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165770047-sauter-model-120-piano-omruilgarantie-gratis-bezorgd"
         },
+        "a165808317": {
+          "first_seen_at": "2026-08-22T23:53:40.981092+00:00",
+          "price_display": "€ 5.750,00",
+          "title": "(Silent) piano Yamaha V118 uit 1999",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165808317-silent-piano-yamaha-v118-uit-1999"
+        },
         "a17854043": {
           "first_seen_at": "2026-08-20T05:18:14.137508+00:00",
           "price_display": "Zie omschrijving",
@@ -57100,7 +57112,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T23:31:50.028697+00:00",
+    "last_checked_at": "2026-08-22T23:53:52.819717+00:00",
     "outage_alert_sent": false
   }
 }
