@@ -10028,6 +10028,18 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "lag tramontane T70D",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433731605-lag-tramontane-t70d"
+        },
+        "m2433742051": {
+          "first_seen_at": "2026-08-22T11:56:09.677992+00:00",
+          "price_display": "€ 1.750,00",
+          "title": "Furch Vintage 2 D-SR Spa 2025",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433742051-furch-vintage-2-d-sr-spa-2025"
+        },
+        "m2433743919": {
+          "first_seen_at": "2026-08-22T11:56:09.677992+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Klassieke gitaar Sheffield Concert guitar met plectrum",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433743919-klassieke-gitaar-sheffield-concert-guitar-met-plectrum"
         }
       }
     },
@@ -14629,6 +14641,12 @@
           "price_display": "€ 3.200,00",
           "title": "Zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433690233-zilver"
+        },
+        "m2433745327": {
+          "first_seen_at": "2026-08-22T11:55:51.580464+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Sd met 512 gb",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433745327-sd-met-512-gb"
         }
       }
     },
@@ -14862,6 +14880,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Gorilla Sports halterbank / fitnesstoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2399781405-gorilla-sports-halterbank-fitnesstoestel"
+        },
+        "m2400607244": {
+          "first_seen_at": "2026-08-22T11:55:43.059513+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "ATX Lever Arm Multi Press'",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2400607244-atx-lever-arm-multi-press"
         },
         "m2400903643": {
           "first_seen_at": "2026-07-22T11:31:52.135849+00:00",
@@ -45725,6 +45749,18 @@
           "price_display": "Bieden vanaf € 1.250,00",
           "title": "Technogym vertical traction",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433730723-technogym-vertical-traction"
+        },
+        "m2433741037": {
+          "first_seen_at": "2026-08-22T11:55:24.500253+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Demi ballon d'équilibre DH FitLife",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433741037-demi-ballon-d-equilibre-dh-fitlife"
+        },
+        "m2433741364": {
+          "first_seen_at": "2026-08-22T11:55:24.500253+00:00",
+          "price_display": "€ 120,00",
+          "title": "adjustable bench atx",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433741364-adjustable-bench-atx"
         }
       }
     },
@@ -56187,6 +56223,12 @@
           "price_display": "€ 25,00",
           "title": "piano 25 euro",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433709121-piano-25-euro"
+        },
+        "m2433745394": {
+          "first_seen_at": "2026-08-22T11:55:58.588371+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Yamaha DGX-660 portable grand",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433745394-yamaha-dgx-660-portable-grand"
         }
       }
     }
@@ -56194,7 +56236,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T11:39:08.754864+00:00",
+    "last_checked_at": "2026-08-22T11:56:11.328173+00:00",
     "outage_alert_sent": false
   }
 }
