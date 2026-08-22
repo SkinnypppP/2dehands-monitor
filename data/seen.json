@@ -9992,6 +9992,18 @@
           "price_display": "€ 150,00",
           "title": "akoestische gitaar met tas en leermethode",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433688442-akoestische-gitaar-met-tas-en-leermethode"
+        },
+        "m2433693788": {
+          "first_seen_at": "2026-08-22T10:36:27.544133+00:00",
+          "price_display": "€ 120,00",
+          "title": "Akoestische gitaar + tas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433693788-akoestische-gitaar-tas"
+        },
+        "m2433703644": {
+          "first_seen_at": "2026-08-22T10:36:27.544133+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar Aria AK100 met draagzak",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433703644-gitaar-aria-ak100-met-draagzak"
         }
       }
     },
@@ -45665,6 +45677,18 @@
           "price_display": "€ 40,00",
           "title": "Paire D’Halteres Réglabe",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433689025-paire-d-halteres-reglabe"
+        },
+        "m2433704446": {
+          "first_seen_at": "2026-08-22T10:35:47.436247+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Taurus Power Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433704446-taurus-power-rack"
+        },
+        "m2433704769": {
+          "first_seen_at": "2026-08-22T10:35:47.436247+00:00",
+          "price_display": "€ 11,00",
+          "title": "Domyos gymbal en bureau 55 cm blauw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433704769-domyos-gymbal-en-bureau-55-cm-blauw"
         }
       }
     },
@@ -56116,7 +56140,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T10:06:50.559049+00:00",
+    "last_checked_at": "2026-08-22T10:36:30.097537+00:00",
     "outage_alert_sent": false
   }
 }
