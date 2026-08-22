@@ -46421,6 +46421,18 @@
           "price_display": "€ 150,00",
           "title": "50kg Barbell and Dumbbell set",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433944960-50kg-barbell-and-dumbbell-set"
+        },
+        "m2433945834": {
+          "first_seen_at": "2026-08-22T20:48:57.361127+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Plyo box Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433945834-plyo-box-tunturi"
+        },
+        "m2433947239": {
+          "first_seen_at": "2026-08-22T20:48:57.361127+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Tacx Rollenmat T2918 – Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433947239-tacx-rollenmat-t2918-nieuw"
         }
       }
     },
@@ -57034,7 +57046,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T20:28:11.132447+00:00",
+    "last_checked_at": "2026-08-22T20:49:42.128303+00:00",
     "outage_alert_sent": false
   }
 }
