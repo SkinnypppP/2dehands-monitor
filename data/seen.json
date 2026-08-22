@@ -21042,6 +21042,12 @@
           "price_display": "€ 25,00",
           "title": "Fitnesstoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433562470-fitnesstoestel"
+        },
+        "m2433595071": {
+          "first_seen_at": "2026-08-22T05:44:55.830790+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Pull up station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433595071-pull-up-station"
         }
       }
     },
@@ -21281,6 +21287,12 @@
           "price_display": "€ 25,00",
           "title": "Halterstang",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165393427-halterstang"
+        },
+        "a165406492": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "€ 11,00",
+          "title": "Lifemaxx - Crossmaxx - Halterschijven - Bumper Plates - 1,5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165406492-lifemaxx-crossmaxx-halterschijven-bumper-plates-1-5"
         },
         "a165442739": {
           "first_seen_at": "2026-08-13T05:09:55.027493+00:00",
@@ -45251,6 +45263,36 @@
           "price_display": "€ 450,00",
           "title": "Matrix Lower Back Bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433590544-matrix-lower-back-bench"
+        },
+        "m2433591214": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Gym 80 Cable Cross met 80kg Gewichten ,Optrek mogelijkheden.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433591214-gym-80-cable-cross-met-80kg-gewichten-optrek-mogelijkheden"
+        },
+        "m2433592265": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "€ 300,00",
+          "title": "Ziva Halterstangen 10kg t/m 35kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433592265-ziva-halterstangen-10kg-t-m-35kg"
+        },
+        "m2433592523": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "€ 375,00",
+          "title": "147,5kg Olympische Gewichten ,Olympische Barbell  ,Ezstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433592523-147-5kg-olympische-gewichten-olympische-barbell-ezstang"
+        },
+        "m2433594454": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Squat rack/ bench press van Focus Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433594454-squat-rack-bench-press-van-focus-fitness"
+        },
+        "m2433594667": {
+          "first_seen_at": "2026-08-22T05:44:33.250397+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Halterschijven standaard/ rek.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433594667-halterschijven-standaard-rek"
         }
       }
     },
@@ -55630,7 +55672,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T05:12:27.785676+00:00",
+    "last_checked_at": "2026-08-22T05:45:22.032788+00:00",
     "outage_alert_sent": false
   }
 }
