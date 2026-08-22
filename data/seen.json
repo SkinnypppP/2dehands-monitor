@@ -14575,6 +14575,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Monnaie ancienne de 1914 5 deutsches mark",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433668599-monnaie-ancienne-de-1914-5-deutsches-mark"
+        },
+        "m2433678719": {
+          "first_seen_at": "2026-08-22T09:50:09.566424+00:00",
+          "price_display": "€ 390,00",
+          "title": "Lingot d'or 2,5 grammes | Umicore",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433678719-lingot-d-or-2-5-grammes-umicore"
         }
       }
     },
@@ -45581,6 +45587,54 @@
           "price_display": "€ 40,00",
           "title": "Gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433667899-gewichten"
+        },
+        "m2433672689": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "16kg Kettle Bell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433672689-16kg-kettle-bell"
+        },
+        "m2433676508": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Panatta Sport dumbbells 2  38 kg – professioneel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433676508-panatta-sport-dumbbells-2-38-kg-professioneel"
+        },
+        "m2433677235": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "6 x 4kg Halterschijven van SVEN (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433677235-6-x-4kg-halterschijven-van-sven-30mm"
+        },
+        "m2433678168": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Panatta Sport dumbbells 2  36 kg – professioneel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433678168-panatta-sport-dumbbells-2-36-kg-professioneel"
+        },
+        "m2433678555": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "6 x 5kg Halterschijven van SVEN (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433678555-6-x-5kg-halterschijven-van-sven-30mm"
+        },
+        "m2433680498": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "2 x 10kg Halterschijven van SVEN (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433680498-2-x-10kg-halterschijven-van-sven-30mm"
+        },
+        "m2433682328": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank zeer solide nieuw Prijs 40€",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433682328-schitterende-fitnessbank-zeer-solide-nieuw-prijs-40"
+        },
+        "m2433684139": {
+          "first_seen_at": "2026-08-22T09:49:28.831826+00:00",
+          "price_display": "€ 220,00",
+          "title": "Domyos loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433684139-domyos-loopband"
         }
       }
     },
@@ -56007,6 +56061,12 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433659405-piano"
+        },
+        "m2433679687": {
+          "first_seen_at": "2026-08-22T09:50:19.039091+00:00",
+          "price_display": "€ 30,00",
+          "title": "Pianostoel verstelbaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433679687-pianostoel-verstelbaar"
         }
       }
     }
@@ -56014,7 +56074,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T09:22:49.707325+00:00",
+    "last_checked_at": "2026-08-22T09:50:28.951409+00:00",
     "outage_alert_sent": false
   }
 }
