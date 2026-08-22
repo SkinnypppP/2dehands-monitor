@@ -9974,6 +9974,18 @@
           "price_display": "€ 60,00",
           "title": "Levin Mandoline A shape",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433653385-levin-mandoline-a-shape"
+        },
+        "m2433667800": {
+          "first_seen_at": "2026-08-22T09:22:46.684448+00:00",
+          "price_display": "€ 250,00",
+          "title": "Cuenca 10 Klassieke Gitaar (Handmade in Spain) + Gigbag",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433667800-cuenca-10-klassieke-gitaar-handmade-in-spain-gigbag"
+        },
+        "m2433668449": {
+          "first_seen_at": "2026-08-22T09:22:46.684448+00:00",
+          "price_display": "€ 280,00",
+          "title": "Alhambra 2C studiegitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433668449-alhambra-2c-studiegitaar"
         }
       }
     },
@@ -14551,6 +14563,18 @@
           "price_display": "€ 340,00",
           "title": "Zilver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433586655-zilver"
+        },
+        "m2433658360": {
+          "first_seen_at": "2026-08-22T09:22:16.967444+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Batterij 12v 14ah",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433658360-batterij-12v-14ah"
+        },
+        "m2433668599": {
+          "first_seen_at": "2026-08-22T09:22:16.967444+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Monnaie ancienne de 1914 5 deutsches mark",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433668599-monnaie-ancienne-de-1914-5-deutsches-mark"
         }
       }
     },
@@ -45539,6 +45563,24 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Smith machine half rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433654819-smith-machine-half-rack"
+        },
+        "m2433657127": {
+          "first_seen_at": "2026-08-22T09:21:39.479578+00:00",
+          "price_display": "Bieden vanaf € 1.600,00",
+          "title": "Life fitness multi jungle",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433657127-life-fitness-multi-jungle"
+        },
+        "m2433666628": {
+          "first_seen_at": "2026-08-22T09:21:39.479578+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433666628-fitness"
+        },
+        "m2433667899": {
+          "first_seen_at": "2026-08-22T09:21:39.479578+00:00",
+          "price_display": "€ 40,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433667899-gewichten"
         }
       }
     },
@@ -49131,6 +49173,12 @@
           "price_display": "€ 6.250,00",
           "title": "Piano Yamaha B3 silent - met garantie - gratis bezorgd",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165770045-piano-yamaha-b3-silent-met-garantie-gratis-bezorgd"
+        },
+        "a165770047": {
+          "first_seen_at": "2026-08-22T09:22:33.190079+00:00",
+          "price_display": "€ 5.250,00",
+          "title": "Sauter model 120 piano - omruilgarantie - gratis bezorgd",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a165770047-sauter-model-120-piano-omruilgarantie-gratis-bezorgd"
         },
         "a17854043": {
           "first_seen_at": "2026-08-20T05:18:14.137508+00:00",
@@ -55953,6 +56001,12 @@
           "price_display": "Bieden vanaf € 900,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433653573-piano"
+        },
+        "m2433659405": {
+          "first_seen_at": "2026-08-22T09:22:33.190079+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433659405-piano"
         }
       }
     }
@@ -55960,7 +56014,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T08:56:33.298448+00:00",
+    "last_checked_at": "2026-08-22T09:22:49.707325+00:00",
     "outage_alert_sent": false
   }
 }
