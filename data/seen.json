@@ -10106,6 +10106,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Cuenca 10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433791496-cuenca-10"
+        },
+        "m2433817983": {
+          "first_seen_at": "2026-08-22T14:34:01.179836+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Kindergitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433817983-kindergitaar"
         }
       }
     },
@@ -21396,6 +21402,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Stepper - fitness step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433808772-stepper-fitness-step"
+        },
+        "m2433826679": {
+          "first_seen_at": "2026-08-22T14:33:30.282219+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Professionele Nautilus E626 crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433826679-professionele-nautilus-e626-crosstrainer"
         }
       }
     },
@@ -46037,6 +46049,18 @@
           "price_display": "€ 275,00",
           "title": "fitnesssbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433813927-fitnesssbank"
+        },
+        "m2433820428": {
+          "first_seen_at": "2026-08-22T14:33:07.536443+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym cardiostep",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433820428-technogym-cardiostep"
+        },
+        "m2433823223": {
+          "first_seen_at": "2026-08-22T14:33:07.536443+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Vélo d’appartement Sven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433823223-velo-d-appartement-sven"
         }
       }
     },
@@ -56565,6 +56589,24 @@
           "price_display": "€ 25,00",
           "title": "Digitale piano yamaha te huur",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433805522-digitale-piano-yamaha-te-huur"
+        },
+        "m2433816066": {
+          "first_seen_at": "2026-08-22T14:33:50.452074+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "Buffet te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433816066-buffet-te-koop"
+        },
+        "m2433816280": {
+          "first_seen_at": "2026-08-22T14:33:50.452074+00:00",
+          "price_display": "€ 50,00",
+          "title": "Antieke zwarte piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433816280-antieke-zwarte-piano"
+        },
+        "m2433819517": {
+          "first_seen_at": "2026-08-22T14:33:50.452074+00:00",
+          "price_display": "€ 200,00",
+          "title": "Yamaha Clavinova Digitale Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433819517-yamaha-clavinova-digitale-piano"
         }
       }
     }
@@ -56572,7 +56614,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T14:01:15.095955+00:00",
+    "last_checked_at": "2026-08-22T14:34:02.739026+00:00",
     "outage_alert_sent": false
   }
 }
