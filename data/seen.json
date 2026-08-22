@@ -10160,6 +10160,24 @@
           "price_display": "€ 60,00",
           "title": "HEEL ERG MOOIE KLASSIEKE GITAAR",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433886264-heel-erg-mooie-klassieke-gitaar"
+        },
+        "m2433901852": {
+          "first_seen_at": "2026-08-22T17:54:38.804385+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Ovation Celebrity CC 24S",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433901852-ovation-celebrity-cc-24s"
+        },
+        "m2433902694": {
+          "first_seen_at": "2026-08-22T17:54:38.804385+00:00",
+          "price_display": "Bieden vanaf € 2.650,00",
+          "title": "Gibson ES-335 2022 Black Beauty",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433902694-gibson-es-335-2022-black-beauty"
+        },
+        "m2433905064": {
+          "first_seen_at": "2026-08-22T17:54:38.804385+00:00",
+          "price_display": "€ 3.500,00",
+          "title": "Martin OMJM John Mayer Signatute - 2012 (Superb tone)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433905064-martin-omjm-john-mayer-signatute-2012-superb-tone"
         }
       }
     },
@@ -21474,6 +21492,12 @@
           "price_display": "Bieden vanaf € 999,00",
           "title": "Tapis de course Taurus T9.7",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433881932-tapis-de-course-taurus-t9-7"
+        },
+        "m2433903686": {
+          "first_seen_at": "2026-08-22T17:54:11.432131+00:00",
+          "price_display": "€ 400,00",
+          "title": "Loopband Reebok Jet300",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433903686-loopband-reebok-jet300"
         }
       }
     },
@@ -46223,6 +46247,36 @@
           "price_display": "€ 150,00",
           "title": "Domyos HG Compact Home Gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433897076-domyos-hg-compact-home-gym"
+        },
+        "m2433900586": {
+          "first_seen_at": "2026-08-22T17:53:49.022885+00:00",
+          "price_display": "€ 1,50",
+          "title": "Gewichtschijven 50mm en 30mm gietijzeren €1,50/kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433900586-gewichtschijven-50mm-en-30mm-gietijzeren-1-50-kg"
+        },
+        "m2433903590": {
+          "first_seen_at": "2026-08-22T17:53:49.022885+00:00",
+          "price_display": "€ 10,00",
+          "title": "Balansbord",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433903590-balansbord"
+        },
+        "m2433904550": {
+          "first_seen_at": "2026-08-22T17:53:49.022885+00:00",
+          "price_display": "€ 40,00",
+          "title": "Halterstang - barbell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433904550-halterstang-barbell"
+        },
+        "m2433905265": {
+          "first_seen_at": "2026-08-22T17:53:49.022885+00:00",
+          "price_display": "€ 300,00",
+          "title": "VirtuFit multifunctionele homegym krachtstation met gewicht",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433905265-virtufit-multifunctionele-homegym-krachtstation-met-gewicht"
+        },
+        "m2433905358": {
+          "first_seen_at": "2026-08-22T17:53:49.022885+00:00",
+          "price_display": "€ 300,00",
+          "title": "VirtuFit multifunctionele homegym krachtstation met gewicht",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433905358-virtufit-multifunctionele-homegym-krachtstation-met-gewicht"
         }
       }
     },
@@ -56818,7 +56872,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T17:32:30.677902+00:00",
+    "last_checked_at": "2026-08-22T17:54:41.620227+00:00",
     "outage_alert_sent": false
   }
 }
