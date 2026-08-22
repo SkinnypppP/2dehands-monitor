@@ -10022,6 +10022,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Aria Matsuoka D60 | Martin copy | Japan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433710826-aria-matsuoka-d60-martin-copy-japan"
+        },
+        "m2433731605": {
+          "first_seen_at": "2026-08-22T11:39:07.573853+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "lag tramontane T70D",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433731605-lag-tramontane-t70d"
         }
       }
     },
@@ -45713,6 +45719,12 @@
           "price_display": "Bieden vanaf € 1.500,00",
           "title": "Panatta Fenix Touch Horizontal Bike 1FXT002 – nieuwstaat !",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433718923-panatta-fenix-touch-horizontal-bike-1fxt002-nieuwstaat"
+        },
+        "m2433730723": {
+          "first_seen_at": "2026-08-22T11:38:21.466852+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "Technogym vertical traction",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433730723-technogym-vertical-traction"
         }
       }
     },
@@ -49228,6 +49240,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Nox ML10 Rough Surface",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433710322-nox-ml10-rough-surface"
+        },
+        "m2433728774": {
+          "first_seen_at": "2026-08-22T11:38:32.516110+00:00",
+          "price_display": "Bieden vanaf € 14,99",
+          "title": "Padel racket Decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433728774-padel-racket-decathlon"
         }
       }
     },
@@ -56176,7 +56194,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T11:16:23.240020+00:00",
+    "last_checked_at": "2026-08-22T11:39:08.754864+00:00",
     "outage_alert_sent": false
   }
 }
