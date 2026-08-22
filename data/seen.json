@@ -46355,6 +46355,18 @@
           "price_display": "€ 20,00",
           "title": "Power Rack (Squat Rack)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433920871-power-rack-squat-rack"
+        },
+        "m2433929365": {
+          "first_seen_at": "2026-08-22T19:18:13.236223+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Benchpress toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433929365-benchpress-toestel"
+        },
+        "m2433929545": {
+          "first_seen_at": "2026-08-22T19:18:13.236223+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "Fitness materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433929545-fitness-materiaal"
         }
       }
     },
@@ -56968,7 +56980,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T18:53:41.187954+00:00",
+    "last_checked_at": "2026-08-22T19:19:01.762095+00:00",
     "outage_alert_sent": false
   }
 }
