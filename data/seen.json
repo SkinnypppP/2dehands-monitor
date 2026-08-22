@@ -10124,6 +10124,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Clifton acoustisch gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433834066-clifton-acoustisch-gitaar"
+        },
+        "m2433847010": {
+          "first_seen_at": "2026-08-22T15:15:14.952221+00:00",
+          "price_display": "€ 22,00",
+          "title": "Gitaar + gratis draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433847010-gitaar-gratis-draagtas"
         }
       }
     },
@@ -46085,6 +46091,36 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "gewichtvest",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433837834-gewichtvest"
+        },
+        "m2433842324": {
+          "first_seen_at": "2026-08-22T15:14:19.000409+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "gewichtvest 10 kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433842324-gewichtvest-10-kilo"
+        },
+        "m2433843221": {
+          "first_seen_at": "2026-08-22T15:14:19.000409+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "gewichtvest 20 kilo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433843221-gewichtvest-20-kilo"
+        },
+        "m2433846776": {
+          "first_seen_at": "2026-08-22T15:14:19.000409+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Balancemat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433846776-balancemat"
+        },
+        "m2433847492": {
+          "first_seen_at": "2026-08-22T15:14:19.000409+00:00",
+          "price_display": "€ 60,00",
+          "title": "fitnessbank corenght",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433847492-fitnessbank-corenght"
+        },
+        "m2433848807": {
+          "first_seen_at": "2026-08-22T15:14:19.000409+00:00",
+          "price_display": "€ 450,00",
+          "title": "Technogym 500SP",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433848807-technogym-500sp"
         }
       }
     },
@@ -56656,7 +56692,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T14:55:05.579306+00:00",
+    "last_checked_at": "2026-08-22T15:15:16.131214+00:00",
     "outage_alert_sent": false
   }
 }
