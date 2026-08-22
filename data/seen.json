@@ -10142,6 +10142,12 @@
           "price_display": "€ 36,00",
           "title": "Stagg C516 klassieke 1/2 gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433855536-stagg-c516-klassieke-1-2-gitaar"
+        },
+        "m2433861024": {
+          "first_seen_at": "2026-08-22T15:54:45.520298+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Hudson HU10C concert ukelele + Stagg draagtas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433861024-hudson-hu10c-concert-ukelele-stagg-draagtas"
         }
       }
     },
@@ -46163,6 +46169,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Fitness toestel training station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433859079-fitness-toestel-training-station"
+        },
+        "m2433865257": {
+          "first_seen_at": "2026-08-22T15:54:04.941067+00:00",
+          "price_display": "€ 15,00",
+          "title": "Gewichten. 2x14kg (verstelbaar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433865257-gewichten-2x14kg-verstelbaar"
         }
       }
     },
@@ -56734,7 +56746,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T15:38:31.638074+00:00",
+    "last_checked_at": "2026-08-22T15:54:46.376939+00:00",
     "outage_alert_sent": false
   }
 }
