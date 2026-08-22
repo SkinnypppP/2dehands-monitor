@@ -9986,6 +9986,12 @@
           "price_display": "€ 280,00",
           "title": "Alhambra 2C studiegitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433668449-alhambra-2c-studiegitaar"
+        },
+        "m2433688442": {
+          "first_seen_at": "2026-08-22T10:06:49.810120+00:00",
+          "price_display": "€ 150,00",
+          "title": "akoestische gitaar met tas en leermethode",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433688442-akoestische-gitaar-met-tas-en-leermethode"
         }
       }
     },
@@ -14581,6 +14587,12 @@
           "price_display": "€ 390,00",
           "title": "Lingot d'or 2,5 grammes | Umicore",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433678719-lingot-d-or-2-5-grammes-umicore"
+        },
+        "m2433690233": {
+          "first_seen_at": "2026-08-22T10:06:28.416500+00:00",
+          "price_display": "€ 3.200,00",
+          "title": "Zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433690233-zilver"
         }
       }
     },
@@ -21198,6 +21210,12 @@
           "price_display": "€ 90,00",
           "title": "Kettler Celebration 65 - Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433655436-kettler-celebration-65-velo-d-appartement"
+        },
+        "m2433686392": {
+          "first_seen_at": "2026-08-22T10:06:19.093852+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Roeitrainer zo goed als nieuw!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433686392-roeitrainer-zo-goed-als-nieuw"
         }
       }
     },
@@ -45635,6 +45653,18 @@
           "price_display": "€ 220,00",
           "title": "Domyos loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433684139-domyos-loopband"
+        },
+        "m2433687160": {
+          "first_seen_at": "2026-08-22T10:05:59.285088+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Kettlebells domyos 12kg en 8kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433687160-kettlebells-domyos-12kg-en-8kg"
+        },
+        "m2433689025": {
+          "first_seen_at": "2026-08-22T10:05:59.285088+00:00",
+          "price_display": "€ 40,00",
+          "title": "Paire D’Halteres Réglabe",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433689025-paire-d-halteres-reglabe"
         }
       }
     },
@@ -56067,6 +56097,18 @@
           "price_display": "€ 30,00",
           "title": "Pianostoel verstelbaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433679687-pianostoel-verstelbaar"
+        },
+        "m2433686984": {
+          "first_seen_at": "2026-08-22T10:06:39.416956+00:00",
+          "price_display": "Bieden vanaf € 2.250,00",
+          "title": "Witte piano Eterna ER-10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433686984-witte-piano-eterna-er-10"
+        },
+        "m2433693308": {
+          "first_seen_at": "2026-08-22T10:06:39.416956+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433693308-piano-te-koop"
         }
       }
     }
@@ -56074,7 +56116,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T09:50:28.951409+00:00",
+    "last_checked_at": "2026-08-22T10:06:50.559049+00:00",
     "outage_alert_sent": false
   }
 }
