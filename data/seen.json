@@ -10130,6 +10130,18 @@
           "price_display": "€ 22,00",
           "title": "Gitaar + gratis draagtas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433847010-gitaar-gratis-draagtas"
+        },
+        "m2433853285": {
+          "first_seen_at": "2026-08-22T15:38:29.693224+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Elektro-akoestische Guitalele Gretsch G9126-ACE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433853285-elektro-akoestische-guitalele-gretsch-g9126-ace"
+        },
+        "m2433855536": {
+          "first_seen_at": "2026-08-22T15:38:29.693224+00:00",
+          "price_display": "€ 36,00",
+          "title": "Stagg C516 klassieke 1/2 gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433855536-stagg-c516-klassieke-1-2-gitaar"
         }
       }
     },
@@ -14773,6 +14785,12 @@
           "price_display": "Zie omschrijving",
           "title": "15 x Koperbaren 1 kilogram Germania Mint fine Koper .999",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433800925-15-x-koperbaren-1-kilogram-germania-mint-fine-koper-999"
+        },
+        "m2433855134": {
+          "first_seen_at": "2026-08-22T15:38:09.290035+00:00",
+          "price_display": "Gratis",
+          "title": "500 g koperstaaf te koop puur 99,99",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433855134-500-g-koperstaaf-te-koop-puur-99-99"
         }
       }
     },
@@ -21426,6 +21444,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Professionele Nautilus E626 crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433826679-professionele-nautilus-e626-crosstrainer"
+        },
+        "m2433858853": {
+          "first_seen_at": "2026-08-22T15:37:58.755088+00:00",
+          "price_display": "€ 2.250,00",
+          "title": "Tunturi Platinum loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433858853-tunturi-platinum-loopband"
         }
       }
     },
@@ -46121,6 +46145,24 @@
           "price_display": "€ 450,00",
           "title": "Technogym 500SP",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433848807-technogym-500sp"
+        },
+        "m2433851265": {
+          "first_seen_at": "2026-08-22T15:37:32.049328+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "halters lonsdale",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433851265-halters-lonsdale"
+        },
+        "m2433857901": {
+          "first_seen_at": "2026-08-22T15:37:32.049328+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Nordic strength weerstandsbanden nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433857901-nordic-strength-weerstandsbanden-nieuw"
+        },
+        "m2433859079": {
+          "first_seen_at": "2026-08-22T15:37:32.049328+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Fitness toestel training station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433859079-fitness-toestel-training-station"
         }
       }
     },
@@ -56692,7 +56734,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T15:15:16.131214+00:00",
+    "last_checked_at": "2026-08-22T15:38:31.638074+00:00",
     "outage_alert_sent": false
   }
 }
