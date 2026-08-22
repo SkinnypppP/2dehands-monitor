@@ -46451,6 +46451,30 @@
           "price_display": "Bieden vanaf € 295,00",
           "title": "Strongman inklapbaar power rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433957302-strongman-inklapbaar-power-rack"
+        },
+        "m2433963108": {
+          "first_seen_at": "2026-08-22T23:30:58.755382+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433963108-loopband"
+        },
+        "m2433964153": {
+          "first_seen_at": "2026-08-22T23:30:58.755382+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "8 KG kettebel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433964153-8-kg-kettebel"
+        },
+        "m2433964415": {
+          "first_seen_at": "2026-08-22T23:30:58.755382+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "2 x 5 kg gorrila sport gewichtschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433964415-2-x-5-kg-gorrila-sport-gewichtschijven"
+        },
+        "m2433964520": {
+          "first_seen_at": "2026-08-22T23:30:58.755382+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Gorilla sport 2 x 10 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433964520-gorilla-sport-2-x-10-kg"
         }
       }
     },
@@ -49984,6 +50008,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Bullpadel Vertex 05 Geo 26  1",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433953006-bullpadel-vertex-05-geo-26-1"
+        },
+        "m2433963698": {
+          "first_seen_at": "2026-08-22T23:31:12.621150+00:00",
+          "price_display": "Bieden vanaf € 165,00",
+          "title": "Adidas Metalbone limited edition 2024",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433963698-adidas-metalbone-limited-edition-2024"
         }
       }
     },
@@ -57070,7 +57100,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T21:54:10.512675+00:00",
+    "last_checked_at": "2026-08-22T23:31:50.028697+00:00",
     "outage_alert_sent": false
   }
 }
