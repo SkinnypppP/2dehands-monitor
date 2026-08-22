@@ -21498,6 +21498,12 @@
           "price_display": "€ 400,00",
           "title": "Loopband Reebok Jet300",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433903686-loopband-reebok-jet300"
+        },
+        "m2433906949": {
+          "first_seen_at": "2026-08-22T18:20:32.803332+00:00",
+          "price_display": "€ 700,00",
+          "title": "– Machine de sport haut de gamme tout-en-un",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433906949-machine-de-sport-haut-de-gamme-tout-en-un"
         }
       }
     },
@@ -46277,6 +46283,30 @@
           "price_display": "€ 300,00",
           "title": "VirtuFit multifunctionele homegym krachtstation met gewicht",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433905358-virtufit-multifunctionele-homegym-krachtstation-met-gewicht"
+        },
+        "m2433905958": {
+          "first_seen_at": "2026-08-22T18:20:06.713447+00:00",
+          "price_display": "€ 70,00",
+          "title": "Slackline Gibbon caesar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433905958-slackline-gibbon-caesar"
+        },
+        "m2433910706": {
+          "first_seen_at": "2026-08-22T18:20:06.713447+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433910706-halterbank"
+        },
+        "m2433911319": {
+          "first_seen_at": "2026-08-22T18:20:06.713447+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Gorilla Sports Dumbbells - 4x 2.5KG, 2x 1.25KG met stangen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433911319-gorilla-sports-dumbbells-4x-2-5kg-2x-1-25kg-met-stangen"
+        },
+        "m2433912510": {
+          "first_seen_at": "2026-08-22T18:20:06.713447+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Gewichtschijven met stang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433912510-gewichtschijven-met-stang"
         }
       }
     },
@@ -56865,6 +56895,24 @@
           "price_display": "Bieden vanaf € 550,00",
           "title": "Elektrische piano (Korg LP-380)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433896483-elektrische-piano-korg-lp-380"
+        },
+        "m2433908704": {
+          "first_seen_at": "2026-08-22T18:20:52.799785+00:00",
+          "price_display": "€ 500,00",
+          "title": "Piano Furstein Farfisa",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433908704-piano-furstein-farfisa"
+        },
+        "m2433910557": {
+          "first_seen_at": "2026-08-22T18:20:52.799785+00:00",
+          "price_display": "Bieden vanaf € 275,00",
+          "title": "buffetpiano van Gebrüder Neumeyer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433910557-buffetpiano-van-gebruder-neumeyer"
+        },
+        "m2433911466": {
+          "first_seen_at": "2026-08-22T18:20:52.799785+00:00",
+          "price_display": "€ 650,00",
+          "title": "Roland FP30",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433911466-roland-fp30"
         }
       }
     }
@@ -56872,7 +56920,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T17:54:41.620227+00:00",
+    "last_checked_at": "2026-08-22T18:21:06.997414+00:00",
     "outage_alert_sent": false
   }
 }
