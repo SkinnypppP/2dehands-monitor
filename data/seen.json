@@ -747,6 +747,12 @@
           "title": "Klassieke akoestische gitaar ALHAMBRA 7Fs",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2382486702-klassieke-akoestische-gitaar-alhambra-7fs"
         },
+        "m2382488940": {
+          "first_seen_at": "2026-08-22T18:53:38.781856+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Klassieke akoestische Luthier gitaar YAMAHA GC-3",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2382488940-klassieke-akoestische-luthier-gitaar-yamaha-gc-3"
+        },
         "m2383950512": {
           "first_seen_at": "2026-07-16T07:37:02.436750+00:00",
           "price_display": "Bieden vanaf € 1.800,00",
@@ -10178,6 +10184,12 @@
           "price_display": "€ 3.500,00",
           "title": "Martin OMJM John Mayer Signatute - 2012 (Superb tone)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433905064-martin-omjm-john-mayer-signatute-2012-superb-tone"
+        },
+        "m2433921543": {
+          "first_seen_at": "2026-08-22T18:53:38.781856+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "fazley gitaar koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433921543-fazley-gitaar-koffer"
         }
       }
     },
@@ -21504,6 +21516,12 @@
           "price_display": "€ 700,00",
           "title": "– Machine de sport haut de gamme tout-en-un",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433906949-machine-de-sport-haut-de-gamme-tout-en-un"
+        },
+        "m2433915835": {
+          "first_seen_at": "2026-08-22T18:53:08.658239+00:00",
+          "price_display": "Bieden vanaf € 39,00",
+          "title": "Crosstrainer/step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433915835-crosstrainer-step"
         }
       }
     },
@@ -46307,6 +46325,36 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Gewichtschijven met stang",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433912510-gewichtschijven-met-stang"
+        },
+        "m2433915893": {
+          "first_seen_at": "2026-08-22T18:52:47.194649+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Banc d'entraînement pliable HS HOP SPORT 1055",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433915893-banc-d-entrainement-pliable-hs-hop-sport-1055"
+        },
+        "m2433918141": {
+          "first_seen_at": "2026-08-22T18:52:47.194649+00:00",
+          "price_display": "€ 30,00",
+          "title": "Firnesbank Domyos BA220",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433918141-firnesbank-domyos-ba220"
+        },
+        "m2433919254": {
+          "first_seen_at": "2026-08-22T18:52:47.194649+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Jet 1 Fitness Focus Loopband – In goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433919254-jet-1-fitness-focus-loopband-in-goede-staat"
+        },
+        "m2433920868": {
+          "first_seen_at": "2026-08-22T18:52:47.194649+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433920868-hometrainer"
+        },
+        "m2433920871": {
+          "first_seen_at": "2026-08-22T18:52:47.194649+00:00",
+          "price_display": "€ 20,00",
+          "title": "Power Rack (Squat Rack)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433920871-power-rack-squat-rack"
         }
       }
     },
@@ -56920,7 +56968,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T18:21:06.997414+00:00",
+    "last_checked_at": "2026-08-22T18:53:41.187954+00:00",
     "outage_alert_sent": false
   }
 }
