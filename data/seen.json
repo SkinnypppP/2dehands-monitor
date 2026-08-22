@@ -9878,6 +9878,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "M.Suzuki model.102 made.in Japan 1980",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433578309-m-suzuki-model-102-made-in-japan-1980"
+        },
+        "m2433585725": {
+          "first_seen_at": "2026-08-22T04:06:01.506460+00:00",
+          "price_display": "€ 400,00",
+          "title": "Takamine EAN10CLN linkshandige lefty",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433585725-takamine-ean10cln-linkshandige-lefty"
         }
       }
     },
@@ -10843,6 +10849,24 @@
           "price_display": "€ 1,00",
           "title": "1 Troy Ounce - Zilver .999 - Maple Leaf 2026 - 31,1 gram -",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165693740-1-troy-ounce-zilver-999-maple-leaf-2026-31-1-gram"
+        },
+        "a165727414": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "€ 4,00",
+          "title": "1/100 Ounce - Or .999 - Heimerle + Meule, Germany - Avec",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165727414-1-100-ounce-or-999-heimerle-meule-germany-avec"
+        },
+        "a165730962": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "€ 15,00",
+          "title": "1/100 Ounce - Or .999 - Heimerle + Meule, Germany - Avec",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165730962-1-100-ounce-or-999-heimerle-meule-germany-avec"
+        },
+        "a165754048": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "€ 37,00",
+          "title": "1/100 Troy Ounce - Or .999 - 1/100 oz 9999 Fine Gold Bar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165754048-1-100-troy-ounce-or-999-1-100-oz-9999-fine-gold-bar"
         },
         "a165759867": {
           "first_seen_at": "2026-08-21T12:48:48.815910+00:00",
@@ -14389,6 +14413,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Zilver baar",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433585433-zilver-baar"
+        },
+        "m2433585584": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "Bieden vanaf € 560,00",
+          "title": "Zilver .999 Europeanmint",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433585584-zilver-999-europeanmint"
+        },
+        "m2433585810": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "€ 250,00",
+          "title": "Zilver .999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433585810-zilver-999"
+        },
+        "m2433586316": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "Bieden vanaf € 925,00",
+          "title": "Zilver metalor 999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433586316-zilver-metalor-999"
+        },
+        "m2433586655": {
+          "first_seen_at": "2026-08-22T04:05:35.632094+00:00",
+          "price_display": "€ 340,00",
+          "title": "Zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433586655-zilver"
         }
       }
     },
@@ -55522,7 +55570,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T03:27:52.308599+00:00",
+    "last_checked_at": "2026-08-22T04:06:02.101729+00:00",
     "outage_alert_sent": false
   }
 }
