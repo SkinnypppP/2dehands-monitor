@@ -10994,6 +10994,12 @@
           "title": "Zilveren munten Krugerrand 1oz per stuk te koop",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2411486910-zilveren-munten-krugerrand-1oz-per-stuk-te-koop"
         },
+        "m2411805300": {
+          "first_seen_at": "2026-08-22T04:44:22.648705+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Uitgebreide set zilveren munten Israël",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2411805300-uitgebreide-set-zilveren-munten-israel"
+        },
         "m2416083208": {
           "first_seen_at": "2026-07-13T14:08:23.179413+00:00",
           "price_display": "Bieden vanaf € 600,00",
@@ -55563,6 +55569,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Roland piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433585154-roland-piano"
+        },
+        "m2433588639": {
+          "first_seen_at": "2026-08-22T04:44:34.341308+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Piano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433588639-piano-te-koop"
         }
       }
     }
@@ -55570,7 +55582,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T04:06:02.101729+00:00",
+    "last_checked_at": "2026-08-22T04:44:44.655225+00:00",
     "outage_alert_sent": false
   }
 }
