@@ -10112,6 +10112,18 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Kindergitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433817983-kindergitaar"
+        },
+        "m2433831610": {
+          "first_seen_at": "2026-08-22T14:55:04.197597+00:00",
+          "price_display": "€ 300,00",
+          "title": "gitaar Almansa 434",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433831610-gitaar-almansa-434"
+        },
+        "m2433834066": {
+          "first_seen_at": "2026-08-22T14:55:04.197597+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Clifton acoustisch gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433834066-clifton-acoustisch-gitaar"
         }
       }
     },
@@ -46061,6 +46073,18 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Vélo d’appartement Sven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433823223-velo-d-appartement-sven"
+        },
+        "m2433835993": {
+          "first_seen_at": "2026-08-22T14:54:12.435915+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Star Home Fitness Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433835993-star-home-fitness-gym"
+        },
+        "m2433837834": {
+          "first_seen_at": "2026-08-22T14:54:12.435915+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "gewichtvest",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433837834-gewichtvest"
         }
       }
     },
@@ -49582,6 +49606,12 @@
           "price_display": "Bieden vanaf € 14,99",
           "title": "Padel racket Decathlon",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433728774-padel-racket-decathlon"
+        },
+        "m2433837047": {
+          "first_seen_at": "2026-08-22T14:54:23.138828+00:00",
+          "price_display": "€ 150,00",
+          "title": "Babolat Air Veron 2026 - Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433837047-babolat-air-veron-2026-nieuw"
         }
       }
     },
@@ -56607,6 +56637,18 @@
           "price_display": "€ 200,00",
           "title": "Yamaha Clavinova Digitale Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433819517-yamaha-clavinova-digitale-piano"
+        },
+        "m2433837993": {
+          "first_seen_at": "2026-08-22T14:54:52.648656+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "Piano Kawai als nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433837993-piano-kawai-als-nieuw"
+        },
+        "m2433839152": {
+          "first_seen_at": "2026-08-22T14:54:52.648656+00:00",
+          "price_display": "€ 125,00",
+          "title": "oude notelaar wandpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433839152-oude-notelaar-wandpiano"
         }
       }
     }
@@ -56614,7 +56656,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T14:34:02.739026+00:00",
+    "last_checked_at": "2026-08-22T14:55:05.579306+00:00",
     "outage_alert_sent": false
   }
 }
