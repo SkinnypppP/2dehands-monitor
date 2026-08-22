@@ -21126,6 +21126,18 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Wandelen/loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433617164-wandelen-loopband"
+        },
+        "m2433635495": {
+          "first_seen_at": "2026-08-22T08:21:37.098822+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Domyos EB520B geconnecteerde hometrainer + comfortzadel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433635495-domyos-eb520b-geconnecteerde-hometrainer-comfortzadel"
+        },
+        "m2433636813": {
+          "first_seen_at": "2026-08-22T08:21:37.098822+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Elliptique Domyos 520",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433636813-elliptique-domyos-520"
         }
       }
     },
@@ -45467,6 +45479,12 @@
           "price_display": "€ 25,00",
           "title": "Disques musculation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433616342-disques-musculation"
+        },
+        "m2433639726": {
+          "first_seen_at": "2026-08-22T08:21:20.592036+00:00",
+          "price_display": "€ 45,00",
+          "title": "Rubberen fitnessvloertegels 50x50 cm – 8 stuks – 40 mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433639726-rubberen-fitnessvloertegels-50x50-cm-8-stuks-40-mm"
         }
       }
     },
@@ -55857,6 +55875,12 @@
           "price_display": "Zie omschrijving",
           "title": "Digitale piano Roland KR4500",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433610555-digitale-piano-roland-kr4500"
+        },
+        "m2433630565": {
+          "first_seen_at": "2026-08-22T08:21:54.835057+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "piano digital technics à réparer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433630565-piano-digital-technics-a-reparer"
         }
       }
     }
@@ -55864,7 +55888,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T07:55:56.237042+00:00",
+    "last_checked_at": "2026-08-22T08:22:06.047190+00:00",
     "outage_alert_sent": false
   }
 }
