@@ -621,6 +621,12 @@
           "title": "Greco - Byrdland BR-110 - - Semi-hollow body gitaar - Japan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165573595-greco-byrdland-br-110-semi-hollow-body-gitaar-japan"
         },
+        "a165575367": {
+          "first_seen_at": "2026-08-22T05:12:24.075795+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "DAngelico - EXL-1 Excel - - Guitare à corps semi-creux",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165575367-dangelico-exl-1-excel-guitare-a-corps-semi-creux"
+        },
         "a165575431": {
           "first_seen_at": "2026-08-21T05:03:49.903555+00:00",
           "price_display": "€ 160,00",
@@ -644,6 +650,18 @@
           "price_display": "€ 6.495,00",
           "title": "Lowden PB Pierre Bensusan Signature 2018 | Natural",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165643379-lowden-pb-pierre-bensusan-signature-2018-natural"
+        },
+        "a165677681": {
+          "first_seen_at": "2026-08-22T05:12:24.075795+00:00",
+          "price_display": "€ 55,00",
+          "title": "Epiphone - Les Paul Special II Slash - - Elektrische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165677681-epiphone-les-paul-special-ii-slash-elektrische-gitaar"
+        },
+        "a165687120": {
+          "first_seen_at": "2026-08-22T05:12:24.075795+00:00",
+          "price_display": "€ 900,00",
+          "title": "Fender - Jazz Bass - - Elektrische basgitaar - Japan - 2006",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165687120-fender-jazz-bass-elektrische-basgitaar-japan-2006"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -10886,6 +10904,24 @@
           "title": "1/100 Ounce - Goud .999 - Heimerle + Meule, Germany - Met",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165759869-1-100-ounce-goud-999-heimerle-meule-germany-met"
         },
+        "a165766678": {
+          "first_seen_at": "2026-08-22T05:11:58.468228+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogramme .999 - Copper - Heimerle + Meule - Germany -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165766678-1-kilogramme-999-copper-heimerle-meule-germany"
+        },
+        "a165766679": {
+          "first_seen_at": "2026-08-22T05:11:58.468228+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogramme - Cuivre .999 - MRBUD - Avec certificat (Sans",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165766679-1-kilogramme-cuivre-999-mrbud-avec-certificat-sans"
+        },
+        "a165766685": {
+          "first_seen_at": "2026-08-22T05:11:58.468228+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogramme - Cuivre .999 - Fonderie Heracles - France -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165766685-1-kilogramme-cuivre-999-fonderie-heracles-france"
+        },
         "a165768427": {
           "first_seen_at": "2026-08-22T03:27:29.586206+00:00",
           "price_display": "€ 15,00",
@@ -14736,6 +14772,12 @@
           "price_display": "€ 200,00",
           "title": "Roeitrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2409072382-roeitrainer"
+        },
+        "m2409090047": {
+          "first_seen_at": "2026-08-22T05:11:47.692497+00:00",
+          "price_display": "Bieden vanaf € 3.988,00",
+          "title": "Stairmaster Pro DKN",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2409090047-stairmaster-pro-dkn"
         },
         "m2409798605": {
           "first_seen_at": "2026-07-26T14:00:19.472317+00:00",
@@ -45203,6 +45245,12 @@
           "price_display": "€ 320,00",
           "title": "4 platte bankjes te koop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433573691-4-platte-bankjes-te-koop"
+        },
+        "m2433590544": {
+          "first_seen_at": "2026-08-22T05:11:30.558143+00:00",
+          "price_display": "€ 450,00",
+          "title": "Matrix Lower Back Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433590544-matrix-lower-back-bench"
         }
       }
     },
@@ -55582,7 +55630,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T04:44:44.655225+00:00",
+    "last_checked_at": "2026-08-22T05:12:27.785676+00:00",
     "outage_alert_sent": false
   }
 }
