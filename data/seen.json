@@ -14845,6 +14845,12 @@
           "price_display": "Gratis",
           "title": "500 g koperstaaf te koop puur 99,99",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433855134-500-g-koperstaaf-te-koop-puur-99-99"
+        },
+        "m2433953827": {
+          "first_seen_at": "2026-08-22T21:32:28.990938+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "1 gram goudbaar 999.9 heimerle + meule - verzegeld",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433953827-1-gram-goudbaar-999-9-heimerle-meule-verzegeld"
         }
       }
     },
@@ -49966,6 +49972,12 @@
           "price_display": "€ 150,00",
           "title": "Babolat Air Veron 2026 - Nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433837047-babolat-air-veron-2026-nieuw"
+        },
+        "m2433953006": {
+          "first_seen_at": "2026-08-22T21:32:09.642496+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Bullpadel Vertex 05 Geo 26  1",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433953006-bullpadel-vertex-05-geo-26-1"
         }
       }
     },
@@ -57052,7 +57064,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T21:05:09.206437+00:00",
+    "last_checked_at": "2026-08-22T21:32:44.445586+00:00",
     "outage_alert_sent": false
   }
 }
