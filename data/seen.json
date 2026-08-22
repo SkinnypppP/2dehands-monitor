@@ -10004,6 +10004,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar Aria AK100 met draagzak",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433703644-gitaar-aria-ak100-met-draagzak"
+        },
+        "m2433708808": {
+          "first_seen_at": "2026-08-22T10:56:07.101568+00:00",
+          "price_display": "Bieden vanaf € 235,00",
+          "title": "Framus studio 5/51 in zeer goede originele conditie.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433708808-framus-studio-5-51-in-zeer-goede-originele-conditie"
+        },
+        "m2433709667": {
+          "first_seen_at": "2026-08-22T10:56:07.101568+00:00",
+          "price_display": "Bieden vanaf € 1.195,00",
+          "title": "Takamine CRN-TS1 | Thermal top | Japan | Inruil mogelijk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433709667-takamine-crn-ts1-thermal-top-japan-inruil-mogelijk"
+        },
+        "m2433710826": {
+          "first_seen_at": "2026-08-22T10:56:07.101568+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Aria Matsuoka D60 | Martin copy | Japan",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433710826-aria-matsuoka-d60-martin-copy-japan"
         }
       }
     },
@@ -49198,6 +49216,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Snauwaert PadelRacket met tas Nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433565215-snauwaert-padelracket-met-tas-nieuw"
+        },
+        "m2433710322": {
+          "first_seen_at": "2026-08-22T10:55:30.735006+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Nox ML10 Rough Surface",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2433710322-nox-ml10-rough-surface"
         }
       }
     },
@@ -56133,6 +56157,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433693308-piano-te-koop"
+        },
+        "m2433709121": {
+          "first_seen_at": "2026-08-22T10:55:58.366368+00:00",
+          "price_display": "€ 25,00",
+          "title": "piano 25 euro",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433709121-piano-25-euro"
         }
       }
     }
@@ -56140,7 +56170,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T10:36:30.097537+00:00",
+    "last_checked_at": "2026-08-22T10:56:08.953146+00:00",
     "outage_alert_sent": false
   }
 }
