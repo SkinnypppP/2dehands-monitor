@@ -10148,6 +10148,12 @@
           "price_display": "Bieden vanaf € 55,00",
           "title": "Hudson HU10C concert ukelele + Stagg draagtas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433861024-hudson-hu10c-concert-ukelele-stagg-draagtas"
+        },
+        "m2433867583": {
+          "first_seen_at": "2026-08-22T16:16:56.843705+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Silvanez 1/2 gitaar + tas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433867583-silvanez-1-2-gitaar-tas"
         }
       }
     },
@@ -56746,7 +56752,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T15:54:46.376939+00:00",
+    "last_checked_at": "2026-08-22T16:16:59.107923+00:00",
     "outage_alert_sent": false
   }
 }
