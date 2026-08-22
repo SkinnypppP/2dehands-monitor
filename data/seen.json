@@ -20443,6 +20443,12 @@
           "title": "crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431261741-crosstrainer"
         },
+        "m2431264054": {
+          "first_seen_at": "2026-08-22T20:27:44.847579+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2431264054-crosstrainer"
+        },
         "m2431265172": {
           "first_seen_at": "2026-08-15T15:01:14.263399+00:00",
           "price_display": "€ 1.000,00",
@@ -21528,6 +21534,12 @@
           "price_display": "Bieden vanaf € 39,00",
           "title": "Crosstrainer/step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433915835-crosstrainer-step"
+        },
+        "m2433943682": {
+          "first_seen_at": "2026-08-22T20:27:44.847579+00:00",
+          "price_display": "€ 150,00",
+          "title": "Power Tower - dips/pullups/chinups...",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433943682-power-tower-dips-pullups-chinups"
         }
       }
     },
@@ -46397,6 +46409,18 @@
           "price_display": "€ 150,00",
           "title": "Fitness zakken",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433936291-fitness-zakken"
+        },
+        "m2433941971": {
+          "first_seen_at": "2026-08-22T20:27:26.607189+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Summer Shred Stack | Fat Loss, Cut, Recomp & Muscle Gain",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433941971-summer-shred-stack-fat-loss-cut-recomp-muscle-gain"
+        },
+        "m2433944960": {
+          "first_seen_at": "2026-08-22T20:27:26.607189+00:00",
+          "price_display": "€ 150,00",
+          "title": "50kg Barbell and Dumbbell set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433944960-50kg-barbell-and-dumbbell-set"
         }
       }
     },
@@ -57010,7 +57034,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T19:59:42.952073+00:00",
+    "last_checked_at": "2026-08-22T20:28:11.132447+00:00",
     "outage_alert_sent": false
   }
 }
