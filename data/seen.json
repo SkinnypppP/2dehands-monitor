@@ -9902,6 +9902,12 @@
           "price_display": "€ 400,00",
           "title": "Takamine EAN10CLN linkshandige lefty",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433585725-takamine-ean10cln-linkshandige-lefty"
+        },
+        "m2433595570": {
+          "first_seen_at": "2026-08-22T06:02:52.488181+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Lag Tramontane model semi akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433595570-lag-tramontane-model-semi-akoestische-gitaar"
         }
       }
     },
@@ -45293,6 +45299,18 @@
           "price_display": "Bieden vanaf € 45,00",
           "title": "Halterschijven standaard/ rek.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433594667-halterschijven-standaard-rek"
+        },
+        "m2433597167": {
+          "first_seen_at": "2026-08-22T06:01:59.835394+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "EZ Curl bar 120cm (30mm). In goede staat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433597167-ez-curl-bar-120cm-30mm-in-goede-staat"
+        },
+        "m2433597416": {
+          "first_seen_at": "2026-08-22T06:01:59.835394+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Halterstang 170cm, 9kg (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433597416-halterstang-170cm-9kg-30mm"
         }
       }
     },
@@ -55672,7 +55690,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T05:45:22.032788+00:00",
+    "last_checked_at": "2026-08-22T06:02:53.520432+00:00",
     "outage_alert_sent": false
   }
 }
