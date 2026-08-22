@@ -46445,6 +46445,12 @@
           "price_display": "€ 100,00",
           "title": "3 paar verstelbare dumbells met 72kg gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433949835-3-paar-verstelbare-dumbells-met-72kg-gewichten"
+        },
+        "m2433957302": {
+          "first_seen_at": "2026-08-22T21:53:25.928337+00:00",
+          "price_display": "Bieden vanaf € 295,00",
+          "title": "Strongman inklapbaar power rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433957302-strongman-inklapbaar-power-rack"
         }
       }
     },
@@ -57064,7 +57070,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T21:32:44.445586+00:00",
+    "last_checked_at": "2026-08-22T21:54:10.512675+00:00",
     "outage_alert_sent": false
   }
 }
