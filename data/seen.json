@@ -10154,6 +10154,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Silvanez 1/2 gitaar + tas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433867583-silvanez-1-2-gitaar-tas"
+        },
+        "m2433886264": {
+          "first_seen_at": "2026-08-22T17:02:30.110445+00:00",
+          "price_display": "€ 60,00",
+          "title": "HEEL ERG MOOIE KLASSIEKE GITAAR",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433886264-heel-erg-mooie-klassieke-gitaar"
         }
       }
     },
@@ -46205,6 +46211,12 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Total Crunch fitness toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433881841-total-crunch-fitness-toestel"
+        },
+        "m2433883545": {
+          "first_seen_at": "2026-08-22T17:01:43.118016+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Sportraam/klimrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433883545-sportraam-klimrek"
         }
       }
     },
@@ -56781,6 +56793,12 @@
           "price_display": "Bieden vanaf € 1.500,00",
           "title": "Piano Yamaha Clavinova CLP685",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433877726-piano-yamaha-clavinova-clp685"
+        },
+        "m2433885427": {
+          "first_seen_at": "2026-08-22T17:02:20.193757+00:00",
+          "price_display": "€ 840,00",
+          "title": "Roland RP107 BK Zwart + pianobank + hoofdtelefoon",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433885427-roland-rp107-bk-zwart-pianobank-hoofdtelefoon"
         }
       }
     }
@@ -56788,7 +56806,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T16:44:08.989465+00:00",
+    "last_checked_at": "2026-08-22T17:02:31.243582+00:00",
     "outage_alert_sent": false
   }
 }
