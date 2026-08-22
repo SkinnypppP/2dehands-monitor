@@ -46217,6 +46217,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Sportraam/klimrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433883545-sportraam-klimrek"
+        },
+        "m2433897076": {
+          "first_seen_at": "2026-08-22T17:31:40.523703+00:00",
+          "price_display": "€ 150,00",
+          "title": "Domyos HG Compact Home Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2433897076-domyos-hg-compact-home-gym"
         }
       }
     },
@@ -56799,6 +56805,12 @@
           "price_display": "€ 840,00",
           "title": "Roland RP107 BK Zwart + pianobank + hoofdtelefoon",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433885427-roland-rp107-bk-zwart-pianobank-hoofdtelefoon"
+        },
+        "m2433896483": {
+          "first_seen_at": "2026-08-22T17:32:20.314899+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Elektrische piano (Korg LP-380)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433896483-elektrische-piano-korg-lp-380"
         }
       }
     }
@@ -56806,7 +56818,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-22T17:02:31.243582+00:00",
+    "last_checked_at": "2026-08-22T17:32:30.677902+00:00",
     "outage_alert_sent": false
   }
 }
