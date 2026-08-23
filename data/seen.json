@@ -15325,6 +15325,12 @@
           "price_display": "€ 1.890,00",
           "title": "METALOR 1KILO 999.9 FIJNZILVER",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434442712-metalor-1kilo-999-9-fijnzilver"
+        },
+        "m2434446173": {
+          "first_seen_at": "2026-08-23T22:15:13.623306+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Muntje",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434446173-muntje"
         }
       }
     },
@@ -58672,7 +58678,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T21:53:46.284228+00:00",
+    "last_checked_at": "2026-08-23T22:15:28.786266+00:00",
     "outage_alert_sent": false
   }
 }
