@@ -10454,6 +10454,12 @@
           "price_display": "Bieden vanaf € 449,00",
           "title": "Vintage Takamine F-340  – Japanse dreadnought gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434424061-vintage-takamine-f-340-japanse-dreadnought-gitaar"
+        },
+        "m2434426535": {
+          "first_seen_at": "2026-08-23T21:01:38.824893+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Akoestische gitaar met versterker en toebehoren.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434426535-akoestische-gitaar-met-versterker-en-toebehoren"
         }
       }
     },
@@ -22224,6 +22230,12 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434413725-crosstrainer"
+        },
+        "m2434426603": {
+          "first_seen_at": "2026-08-23T21:01:11.312380+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "2 x Echo bike rogue CrossFit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434426603-2-x-echo-bike-rogue-crossfit"
         }
       }
     },
@@ -58636,7 +58648,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T20:42:26.154348+00:00",
+    "last_checked_at": "2026-08-23T21:01:40.026571+00:00",
     "outage_alert_sent": false
   }
 }
