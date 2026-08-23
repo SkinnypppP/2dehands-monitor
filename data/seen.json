@@ -10448,6 +10448,12 @@
           "price_display": "€ 50,00",
           "title": "blauwe Stagg Acoustic / elektrische Gitaar met 6 snaren",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434415661-blauwe-stagg-acoustic-elektrische-gitaar-met-6-snaren"
+        },
+        "m2434424061": {
+          "first_seen_at": "2026-08-23T20:42:24.802119+00:00",
+          "price_display": "Bieden vanaf € 449,00",
+          "title": "Vintage Takamine F-340  – Japanse dreadnought gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434424061-vintage-takamine-f-340-japanse-dreadnought-gitaar"
         }
       }
     },
@@ -15289,6 +15295,18 @@
           "price_display": "Gratis",
           "title": "zilveren munt",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434343698-zilveren-munt"
+        },
+        "m2434420839": {
+          "first_seen_at": "2026-08-23T20:42:03.569941+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "ARGOR S.A. 100g 999,9 goudbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434420839-argor-s-a-100g-999-9-goudbaar"
+        },
+        "m2434424932": {
+          "first_seen_at": "2026-08-23T20:42:03.569941+00:00",
+          "price_display": "Bieden vanaf € 32,00",
+          "title": "mooi muntstuk.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434424932-mooi-muntstuk"
         }
       }
     },
@@ -58605,6 +58623,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Roland FP10 piano (nieuwstaat)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434404328-roland-fp10-piano-nieuwstaat"
+        },
+        "m2434421105": {
+          "first_seen_at": "2026-08-23T20:42:16.414155+00:00",
+          "price_display": "€ 450,00",
+          "title": "Roland piano  F-110 digital piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434421105-roland-piano-f-110-digital-piano"
         }
       }
     }
@@ -58612,7 +58636,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T20:15:52.596787+00:00",
+    "last_checked_at": "2026-08-23T20:42:26.154348+00:00",
     "outage_alert_sent": false
   }
 }
