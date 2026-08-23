@@ -10388,6 +10388,18 @@
           "price_display": "€ 125,00",
           "title": "Gitaar , Hudson voor beginners/kinderen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434259559-gitaar-hudson-voor-beginners-kinderen"
+        },
+        "m2434265866": {
+          "first_seen_at": "2026-08-23T15:41:44.997964+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Yamaha FG 312",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434265866-yamaha-fg-312"
+        },
+        "m2434270460": {
+          "first_seen_at": "2026-08-23T15:41:44.997964+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Aria AD-28N",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434270460-aria-ad-28n"
         }
       }
     },
@@ -21996,6 +22008,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434228597-crosstrainer"
+        },
+        "m2434266363": {
+          "first_seen_at": "2026-08-23T15:41:19.417773+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Tapis de course",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434266363-tapis-de-course"
         }
       }
     },
@@ -47333,6 +47351,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434257977-gewichten"
+        },
+        "m2434267550": {
+          "first_seen_at": "2026-08-23T15:40:54.611776+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Loopband Speedrunner 6000 - Max 22km/h",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434267550-loopband-speedrunner-6000-max-22km-h"
+        },
+        "m2434268807": {
+          "first_seen_at": "2026-08-23T15:40:54.611776+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Sweat enkel gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434268807-sweat-enkel-gewichten"
+        },
+        "m2434271941": {
+          "first_seen_at": "2026-08-23T15:40:54.611776+00:00",
+          "price_display": "€ 120,00",
+          "title": "Fitness artikelen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434271941-fitness-artikelen"
         }
       }
     },
@@ -58143,6 +58179,12 @@
           "price_display": "Gratis",
           "title": "Buffetpiano Werner",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434242528-buffetpiano-werner"
+        },
+        "m2434266607": {
+          "first_seen_at": "2026-08-23T15:41:36.178777+00:00",
+          "price_display": "Gratis",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434266607-piano"
         }
       }
     }
@@ -58150,7 +58192,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T15:17:36.149128+00:00",
+    "last_checked_at": "2026-08-23T15:41:46.132020+00:00",
     "outage_alert_sent": false
   }
 }
