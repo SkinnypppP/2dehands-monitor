@@ -10418,6 +10418,12 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Yamaki Daion the year '79 series",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434310797-yamaki-daion-the-year-79-series"
+        },
+        "m2434340247": {
+          "first_seen_at": "2026-08-23T17:39:53.924772+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Nieuwe Lava U elektro-akoestische ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434340247-nieuwe-lava-u-elektro-akoestische-ukelele"
         }
       }
     },
@@ -22116,6 +22122,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Vélo elliptique Domyos 120",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434313772-velo-elliptique-domyos-120"
+        },
+        "m2434338959": {
+          "first_seen_at": "2026-08-23T17:39:30.551536+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "hometrainer / fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434338959-hometrainer-fiets"
         }
       }
     },
@@ -47543,6 +47555,12 @@
           "price_display": "€ 75,00",
           "title": "Haltergewichtset met toevoeging van schijven mogelijk nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434329314-haltergewichtset-met-toevoeging-van-schijven-mogelijk-nieuw"
+        },
+        "m2434331526": {
+          "first_seen_at": "2026-08-23T17:39:08.054207+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Bench press met gewichten en stang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434331526-bench-press-met-gewichten-en-stang"
         }
       }
     },
@@ -58384,7 +58402,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T17:18:48.755050+00:00",
+    "last_checked_at": "2026-08-23T17:39:54.387383+00:00",
     "outage_alert_sent": false
   }
 }
