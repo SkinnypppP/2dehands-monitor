@@ -10442,6 +10442,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Spaanse gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434402659-spaanse-gitaar"
+        },
+        "m2434415661": {
+          "first_seen_at": "2026-08-23T20:15:51.246220+00:00",
+          "price_display": "€ 50,00",
+          "title": "blauwe Stagg Acoustic / elektrische Gitaar met 6 snaren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434415661-blauwe-stagg-acoustic-elektrische-gitaar-met-6-snaren"
         }
       }
     },
@@ -22182,6 +22188,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434403812-crosstrainer"
+        },
+        "m2434412442": {
+          "first_seen_at": "2026-08-23T20:15:23.846059+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "banc musculation + velo",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434412442-banc-musculation-velo"
+        },
+        "m2434413627": {
+          "first_seen_at": "2026-08-23T20:15:23.846059+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Professionele hometrainer Johnson C8000",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434413627-professionele-hometrainer-johnson-c8000"
+        },
+        "m2434413725": {
+          "first_seen_at": "2026-08-23T20:15:23.846059+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434413725-crosstrainer"
         }
       }
     },
@@ -51280,6 +51304,12 @@
           "price_display": "Bieden vanaf € 115,00",
           "title": "Adidas Metalbone Team Light",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434401977-adidas-metalbone-team-light"
+        },
+        "m2434411463": {
+          "first_seen_at": "2026-08-23T20:15:15.531562+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Head Extreme Motion 2025",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434411463-head-extreme-motion-2025"
         }
       }
     },
@@ -58582,7 +58612,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T19:55:22.548753+00:00",
+    "last_checked_at": "2026-08-23T20:15:52.596787+00:00",
     "outage_alert_sent": false
   }
 }
