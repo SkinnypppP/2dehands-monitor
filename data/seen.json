@@ -58641,6 +58641,12 @@
           "price_display": "€ 450,00",
           "title": "Roland piano  F-110 digital piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434421105-roland-piano-f-110-digital-piano"
+        },
+        "m2434434779": {
+          "first_seen_at": "2026-08-23T21:32:03.831697+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "COURS DE PIANO",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434434779-cours-de-piano"
         }
       }
     }
@@ -58648,7 +58654,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T21:01:40.026571+00:00",
+    "last_checked_at": "2026-08-23T21:32:15.121551+00:00",
     "outage_alert_sent": false
   }
 }
