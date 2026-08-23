@@ -14857,6 +14857,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "10 francs coq en or",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433965709-10-francs-coq-en-or"
+        },
+        "m2433969594": {
+          "first_seen_at": "2026-08-23T02:23:49.183485+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Valcambi Suisse 1 gram 24k  Au. .999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433969594-valcambi-suisse-1-gram-24k-au-999"
+        },
+        "m2433970028": {
+          "first_seen_at": "2026-08-23T02:23:49.183485+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "5x #Koperbaren 5 kilogram #Geiger fine koper .999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433970028-5x-koperbaren-5-kilogram-geiger-fine-koper-999"
         }
       }
     },
@@ -57118,7 +57130,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T00:58:29.045109+00:00",
+    "last_checked_at": "2026-08-23T02:24:10.682611+00:00",
     "outage_alert_sent": false
   }
 }
