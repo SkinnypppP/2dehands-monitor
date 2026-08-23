@@ -10436,6 +10436,12 @@
           "price_display": "Bieden vanaf € 59,95",
           "title": "Balalaïka",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434401696-balalaika"
+        },
+        "m2434402659": {
+          "first_seen_at": "2026-08-23T19:55:21.869790+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Spaanse gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434402659-spaanse-gitaar"
         }
       }
     },
@@ -21301,6 +21307,12 @@
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432137516-hometrainer"
         },
+        "m2432143652": {
+          "first_seen_at": "2026-08-23T19:54:54.418910+00:00",
+          "price_display": "€ 625,00",
+          "title": "Focus Fitness Jet 9 iPlus Loopband - tot 20km/u",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2432143652-focus-fitness-jet-9-iplus-loopband-tot-20km-u"
+        },
         "m2432148625": {
           "first_seen_at": "2026-08-18T06:16:22.586907+00:00",
           "price_display": "€ 150,00",
@@ -22164,6 +22176,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Ketker ergometer CTR2",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434375414-ketker-ergometer-ctr2"
+        },
+        "m2434403812": {
+          "first_seen_at": "2026-08-23T19:54:54.418910+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434403812-crosstrainer"
         }
       }
     },
@@ -47675,6 +47693,12 @@
           "price_display": "€ 40,00",
           "title": "Halters",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434391634-halters"
+        },
+        "m2434403672": {
+          "first_seen_at": "2026-08-23T19:54:36.791723+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Elektrische step",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434403672-elektrische-step"
         }
       }
     },
@@ -58545,6 +58569,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Piano stoel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434400435-piano-stoel"
+        },
+        "m2434404328": {
+          "first_seen_at": "2026-08-23T19:55:09.448657+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Roland FP10 piano (nieuwstaat)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434404328-roland-fp10-piano-nieuwstaat"
         }
       }
     }
@@ -58552,7 +58582,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T19:40:49.190267+00:00",
+    "last_checked_at": "2026-08-23T19:55:22.548753+00:00",
     "outage_alert_sent": false
   }
 }
