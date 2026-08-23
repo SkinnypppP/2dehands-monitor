@@ -18745,6 +18745,12 @@
           "title": "Gewichtstraining voor het halve rek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427015951-gewichtstraining-voor-het-halve-rek"
         },
+        "m2427032155": {
+          "first_seen_at": "2026-08-23T04:50:35.421459+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "PT Essentials Pro Functional Trainer – 2 x 90 kg Stack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2427032155-pt-essentials-pro-functional-trainer-2-x-90-kg-stack"
+        },
         "m2427032356": {
           "first_seen_at": "2026-08-03T10:54:50.367512+00:00",
           "price_display": "Bieden vanaf € 40,00",
@@ -57130,7 +57136,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T02:24:10.682611+00:00",
+    "last_checked_at": "2026-08-23T04:51:00.489979+00:00",
     "outage_alert_sent": false
   }
 }
