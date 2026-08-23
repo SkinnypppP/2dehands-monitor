@@ -14977,6 +14977,18 @@
           "price_display": "Bieden vanaf € 105,00",
           "title": "1 oz zilver China dragon 2025",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434028046-1-oz-zilver-china-dragon-2025"
+        },
+        "m2434033058": {
+          "first_seen_at": "2026-08-23T09:22:13.631457+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "expo bordje 1958",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434033058-expo-bordje-1958"
+        },
+        "m2434039484": {
+          "first_seen_at": "2026-08-23T09:22:13.631457+00:00",
+          "price_display": "€ 15,00",
+          "title": "lingot cuivre 100 gr.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434039484-lingot-cuivre-100-gr"
         }
       }
     },
@@ -21714,6 +21726,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Loopband Moovv",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434020609-loopband-moovv"
+        },
+        "m2434041234": {
+          "first_seen_at": "2026-08-23T09:22:04.116656+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "VirtuFit ROW800 waterroeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434041234-virtufit-row800-waterroeitrainer"
+        },
+        "m2434046814": {
+          "first_seen_at": "2026-08-23T09:22:04.116656+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "rameur dinterieur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434046814-rameur-dinterieur"
         }
       }
     },
@@ -46829,6 +46853,12 @@
           "price_display": "Gratis",
           "title": "Gratis af te halen – Precor cardioapparaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434030021-gratis-af-te-halen-precor-cardioapparaat"
+        },
+        "m2434037811": {
+          "first_seen_at": "2026-08-23T09:21:44.106716+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "ZGAN Tunturi Smithmachine SM90 inclusief 100kg bumperplates!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434037811-zgan-tunturi-smithmachine-sm90-inclusief-100kg-bumperplates"
         }
       }
     },
@@ -57507,6 +57537,24 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Piano Gebr Perzina",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434021460-piano-gebr-perzina"
+        },
+        "m2434035490": {
+          "first_seen_at": "2026-08-23T09:22:27.224764+00:00",
+          "price_display": "Bieden vanaf € 1.900,00",
+          "title": "zwarte hoogglans piano Eterna ER - C10 (Yamaha)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434035490-zwarte-hoogglans-piano-eterna-er-c10-yamaha"
+        },
+        "m2434043296": {
+          "first_seen_at": "2026-08-23T09:22:27.224764+00:00",
+          "price_display": "€ 150,00",
+          "title": "Piano Gaveau om te stemmen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434043296-piano-gaveau-om-te-stemmen"
+        },
+        "m2434043391": {
+          "first_seen_at": "2026-08-23T09:22:27.224764+00:00",
+          "price_display": "Bieden vanaf € 5.500,00",
+          "title": "vleugelpiano k. kawai",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434043391-vleugelpiano-k-kawai"
         }
       }
     }
@@ -57514,7 +57562,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T08:51:38.009702+00:00",
+    "last_checked_at": "2026-08-23T09:22:41.125616+00:00",
     "outage_alert_sent": false
   }
 }
