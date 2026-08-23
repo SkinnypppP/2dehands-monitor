@@ -10424,6 +10424,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Nieuwe Lava U elektro-akoestische ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434340247-nieuwe-lava-u-elektro-akoestische-ukelele"
+        },
+        "m2434378151": {
+          "first_seen_at": "2026-08-23T18:53:04.111671+00:00",
+          "price_display": "€ 65,00",
+          "title": "GITAAR",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434378151-gitaar"
         }
       }
     },
@@ -22134,6 +22140,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "hometrainer / fiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434338959-hometrainer-fiets"
+        },
+        "m2434365645": {
+          "first_seen_at": "2026-08-23T18:52:32.569715+00:00",
+          "price_display": "€ 85,00",
+          "title": "Crosstrainer Bremshey Orbit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434365645-crosstrainer-bremshey-orbit"
+        },
+        "m2434370972": {
+          "first_seen_at": "2026-08-23T18:52:32.569715+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "concept 2 roeimachine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434370972-concept-2-roeimachine"
+        },
+        "m2434375414": {
+          "first_seen_at": "2026-08-23T18:52:32.569715+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Ketker ergometer CTR2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434375414-ketker-ergometer-ctr2"
         }
       }
     },
@@ -47609,6 +47633,24 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "2x10kg/2x5kg Halterschijven van Hop-sport (30mm).",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434361643-2x10kg-2x5kg-halterschijven-van-hop-sport-30mm"
+        },
+        "m2434367762": {
+          "first_seen_at": "2026-08-23T18:52:13.808992+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Muscu fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434367762-muscu-fitnessbank"
+        },
+        "m2434369928": {
+          "first_seen_at": "2026-08-23T18:52:13.808992+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "vintage tummy trimmer - buikspiertrainer en weerstandsveer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434369928-vintage-tummy-trimmer-buikspiertrainer-en-weerstandsveer"
+        },
+        "m2434372590": {
+          "first_seen_at": "2026-08-23T18:52:13.808992+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Bench Press fitnessbank + dips",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434372590-bench-press-fitnessbank-dips"
         }
       }
     },
@@ -58456,7 +58498,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T18:20:53.951617+00:00",
+    "last_checked_at": "2026-08-23T18:53:08.767549+00:00",
     "outage_alert_sent": false
   }
 }
