@@ -10412,6 +10412,12 @@
           "price_display": "€ 3.000,00",
           "title": "Zigeunergitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434285256-zigeunergitaar"
+        },
+        "m2434310797": {
+          "first_seen_at": "2026-08-23T16:57:14.973357+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Yamaki Daion the year '79 series",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434310797-yamaki-daion-the-year-79-series"
         }
       }
     },
@@ -22104,6 +22110,12 @@
           "price_display": "€ 50,00",
           "title": "spinningfiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434283289-spinningfiets"
+        },
+        "m2434313772": {
+          "first_seen_at": "2026-08-23T16:56:50.003342+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Vélo elliptique Domyos 120",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434313772-velo-elliptique-domyos-120"
         }
       }
     },
@@ -47483,6 +47495,30 @@
           "price_display": "€ 39,00",
           "title": "Pull-up bar voor jouw outdoor gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434297930-pull-up-bar-voor-jouw-outdoor-gym"
+        },
+        "m2434309375": {
+          "first_seen_at": "2026-08-23T16:56:29.165150+00:00",
+          "price_display": "€ 15,00",
+          "title": "Virtufit 7 kg slam bal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434309375-virtufit-7-kg-slam-bal"
+        },
+        "m2434312587": {
+          "first_seen_at": "2026-08-23T16:56:29.165150+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "sporthorloges Kalenji",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434312587-sporthorloges-kalenji"
+        },
+        "m2434314515": {
+          "first_seen_at": "2026-08-23T16:56:29.165150+00:00",
+          "price_display": "€ 90,00",
+          "title": "Chest fly machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434314515-chest-fly-machine"
+        },
+        "m2434318147": {
+          "first_seen_at": "2026-08-23T16:56:29.165150+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Tunturi SM90 Full Smith Machine / Multigym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434318147-tunturi-sm90-full-smith-machine-multigym"
         }
       }
     },
@@ -58311,6 +58347,12 @@
           "price_display": "Gratis",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434293876-piano"
+        },
+        "m2434318927": {
+          "first_seen_at": "2026-08-23T16:57:07.264218+00:00",
+          "price_display": "€ 1.100,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434318927-piano"
         }
       }
     }
@@ -58318,7 +58360,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T16:35:13.293146+00:00",
+    "last_checked_at": "2026-08-23T16:57:16.350772+00:00",
     "outage_alert_sent": false
   }
 }
