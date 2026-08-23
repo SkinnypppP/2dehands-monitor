@@ -21786,6 +21786,18 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "d'imposition ve 120",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434073624-d-imposition-ve-120"
+        },
+        "m2434085333": {
+          "first_seen_at": "2026-08-23T10:44:20.867618+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Cross-trainer “life fitness HR900”",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434085333-cross-trainer-life-fitness-hr900"
+        },
+        "m2434088148": {
+          "first_seen_at": "2026-08-23T10:44:20.867618+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434088148-hometrainer"
         }
       }
     },
@@ -46943,6 +46955,24 @@
           "price_display": "€ 65,00",
           "title": "Tunturi Halterbank - Tunturi WB20 Weight Bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434072967-tunturi-halterbank-tunturi-wb20-weight-bench"
+        },
+        "m2434078871": {
+          "first_seen_at": "2026-08-23T10:44:04.946161+00:00",
+          "price_display": "€ 20,00",
+          "title": "Simulateur de marche marque Legex",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434078871-simulateur-de-marche-marque-legex"
+        },
+        "m2434084962": {
+          "first_seen_at": "2026-08-23T10:44:04.946161+00:00",
+          "price_display": "Bieden vanaf € 260,00",
+          "title": "Complete Home Gym Set €260 (ook apart te koop)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434084962-complete-home-gym-set-260-ook-apart-te-koop"
+        },
+        "m2434087264": {
+          "first_seen_at": "2026-08-23T10:44:04.946161+00:00",
+          "price_display": "Bieden vanaf € 55,00",
+          "title": "Hex bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434087264-hex-bar"
         }
       }
     },
@@ -57657,6 +57687,12 @@
           "price_display": "€ 6.250,00",
           "title": "Kawai K-300 ATX3 PE – akoestische piano met Silent System",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434060524-kawai-k-300-atx3-pe-akoestische-piano-met-silent-system"
+        },
+        "m2434080308": {
+          "first_seen_at": "2026-08-23T10:44:37.588128+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vleugel Piano Pleyel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434080308-vleugel-piano-pleyel"
         }
       }
     }
@@ -57664,7 +57700,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T10:17:37.444701+00:00",
+    "last_checked_at": "2026-08-23T10:44:45.333349+00:00",
     "outage_alert_sent": false
   }
 }
