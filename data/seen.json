@@ -15115,6 +15115,12 @@
           "price_display": "Bieden vanaf € 599,00",
           "title": "Pièce or 999",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434197462-piece-or-999"
+        },
+        "m2434210109": {
+          "first_seen_at": "2026-08-23T14:03:29.093714+00:00",
+          "price_display": "Bieden vanaf € 4.200,00",
+          "title": "UMICORE 5000g zilverbaar 999 fijnzilver zilberbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434210109-umicore-5000g-zilverbaar-999-fijnzilver-zilberbaar"
         }
       }
     },
@@ -47231,6 +47237,30 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "DKN Technology homegym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434184922-dkn-technology-homegym"
+        },
+        "m2434200367": {
+          "first_seen_at": "2026-08-23T14:02:50.546205+00:00",
+          "price_display": "€ 1.700,00",
+          "title": "ATX fitness materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434200367-atx-fitness-materiaal"
+        },
+        "m2434200603": {
+          "first_seen_at": "2026-08-23T14:02:50.546205+00:00",
+          "price_display": "€ 25,00",
+          "title": "barre ondulé + 2 altere 5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434200603-barre-ondule-2-altere-5kg"
+        },
+        "m2434200924": {
+          "first_seen_at": "2026-08-23T14:02:50.546205+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "loopband domyos run 100",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434200924-loopband-domyos-run-100"
+        },
+        "m2434202465": {
+          "first_seen_at": "2026-08-23T14:02:50.546205+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "domyos run 100",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434202465-domyos-run-100"
         }
       }
     },
@@ -58030,7 +58060,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T13:48:07.778519+00:00",
+    "last_checked_at": "2026-08-23T14:03:50.687607+00:00",
     "outage_alert_sent": false
   }
 }
