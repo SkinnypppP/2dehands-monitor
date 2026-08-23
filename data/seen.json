@@ -21678,6 +21678,12 @@
           "price_display": "€ 75,00",
           "title": "Velo elliptique Domyos 120",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433989724-velo-elliptique-domyos-120"
+        },
+        "m2434006629": {
+          "first_seen_at": "2026-08-23T08:12:49.339740+00:00",
+          "price_display": "Bieden vanaf € 190,00",
+          "title": "TUNTURI CARDIO R30. zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434006629-tunturi-cardio-r30-zo-goed-als-nieuw"
         }
       }
     },
@@ -57448,7 +57454,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T07:49:52.716286+00:00",
+    "last_checked_at": "2026-08-23T08:13:16.749557+00:00",
     "outage_alert_sent": false
   }
 }
