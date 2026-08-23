@@ -51358,6 +51358,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Head Extreme Motion 2025",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434411463-head-extreme-motion-2025"
+        },
+        "m2434452337": {
+          "first_seen_at": "2026-08-23T22:41:05.968277+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "siux diablo revolution 2 master series sanyô",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434452337-siux-diablo-revolution-2-master-series-sanyo"
         }
       }
     },
@@ -58678,7 +58684,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T22:15:28.786266+00:00",
+    "last_checked_at": "2026-08-23T22:41:42.386015+00:00",
     "outage_alert_sent": false
   }
 }
