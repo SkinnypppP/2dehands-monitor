@@ -657,6 +657,18 @@
           "title": "Epiphone - Les Paul Special II Slash - - Elektrische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165677681-epiphone-les-paul-special-ii-slash-elektrische-gitaar"
         },
+        "a165684687": {
+          "first_seen_at": "2026-08-23T05:23:51.578792+00:00",
+          "price_display": "€ 77,00",
+          "title": "London City - Spitfire MKII met div accessoires - -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165684687-london-city-spitfire-mkii-met-div-accessoires"
+        },
+        "a165684690": {
+          "first_seen_at": "2026-08-23T05:23:51.578792+00:00",
+          "price_display": "€ 300,00",
+          "title": "Washburn - HB-35 - - Elektrische gitaar - China",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165684690-washburn-hb-35-elektrische-gitaar-china"
+        },
         "a165687120": {
           "first_seen_at": "2026-08-22T05:12:24.075795+00:00",
           "price_display": "€ 900,00",
@@ -11252,6 +11264,24 @@
           "title": "5 Troy Ounce - Argent .999 - Maple Leaf 2026 - 155,5 gram -",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165801094-5-troy-ounce-argent-999-maple-leaf-2026-155-5-gram"
         },
+        "a165803940": {
+          "first_seen_at": "2026-08-23T05:23:29.910302+00:00",
+          "price_display": "€ 1,00",
+          "title": "5 Troy Ounce - Zilver .999 - Maple Leaf 2026 - 155,5 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165803940-5-troy-ounce-zilver-999-maple-leaf-2026-155-5-gram"
+        },
+        "a165803941": {
+          "first_seen_at": "2026-08-23T05:23:29.910302+00:00",
+          "price_display": "€ 715,00",
+          "title": "Duitsland. 1963 - 100 Jahre Hoechst - 7,90 g Gold .916",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165803941-duitsland-1963-100-jahre-hoechst-7-90-g-gold-916"
+        },
+        "a165803943": {
+          "first_seen_at": "2026-08-23T05:23:29.910302+00:00",
+          "price_display": "€ 1,00",
+          "title": "Oostenrijk. 100 Euro 2002 Kunstschätze Österreichs -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165803943-oostenrijk-100-euro-2002-kunstschatze-osterreichs"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -21827,6 +21857,18 @@
           "price_display": "€ 2.250,00",
           "title": "Technogym - Selection - Cable Crossover Station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165469133-technogym-selection-cable-crossover-station"
+        },
+        "a165469137": {
+          "first_seen_at": "2026-08-23T05:23:03.670837+00:00",
+          "price_display": "€ 1.950,00",
+          "title": "Life Fitness - Fit-series - Dual Adjustable Pulley",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165469137-life-fitness-fit-series-dual-adjustable-pulley"
+        },
+        "a165469180": {
+          "first_seen_at": "2026-08-23T05:23:03.670837+00:00",
+          "price_display": "€ 4.750,00",
+          "title": "Gymfit - Multi Functionele Smith Machine - Incl.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165469180-gymfit-multi-functionele-smith-machine-incl"
         },
         "a165481515": {
           "first_seen_at": "2026-08-16T04:53:18.771138+00:00",
@@ -57136,7 +57178,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T04:51:00.489979+00:00",
+    "last_checked_at": "2026-08-23T05:23:53.836189+00:00",
     "outage_alert_sent": false
   }
 }
