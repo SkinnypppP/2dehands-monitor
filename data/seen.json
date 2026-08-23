@@ -10256,6 +10256,18 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434004172-guitare"
+        },
+        "m2434022329": {
+          "first_seen_at": "2026-08-23T08:51:36.251999+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434022329-gitaar"
+        },
+        "m2434023218": {
+          "first_seen_at": "2026-08-23T08:51:36.251999+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Kinder gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434023218-kinder-gitaar"
         }
       }
     },
@@ -14953,6 +14965,18 @@
           "price_display": "Gratis",
           "title": "Herdenkingsmunten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2433982689-herdenkingsmunten"
+        },
+        "m2434020311": {
+          "first_seen_at": "2026-08-23T08:51:17.033614+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "1 oz zilver dragon bar 2026",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434020311-1-oz-zilver-dragon-bar-2026"
+        },
+        "m2434028046": {
+          "first_seen_at": "2026-08-23T08:51:17.033614+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "1 oz zilver China dragon 2025",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434028046-1-oz-zilver-china-dragon-2025"
         }
       }
     },
@@ -21684,6 +21708,12 @@
           "price_display": "Bieden vanaf € 190,00",
           "title": "TUNTURI CARDIO R30. zo goed als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434006629-tunturi-cardio-r30-zo-goed-als-nieuw"
+        },
+        "m2434020609": {
+          "first_seen_at": "2026-08-23T08:51:06.988328+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Loopband Moovv",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434020609-loopband-moovv"
         }
       }
     },
@@ -46781,6 +46811,24 @@
           "price_display": "€ 12,00",
           "title": "4 dumbbells Totaal 8 kg - 4x 2 kg)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434004515-4-dumbbells-totaal-8-kg-4x-2-kg"
+        },
+        "m2434024291": {
+          "first_seen_at": "2026-08-23T08:50:44.693538+00:00",
+          "price_display": "€ 350,00",
+          "title": "fitnessbank met toebehoor en gewichten ongeveer 125kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434024291-fitnessbank-met-toebehoor-en-gewichten-ongeveer-125kg"
+        },
+        "m2434028967": {
+          "first_seen_at": "2026-08-23T08:50:44.693538+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Focus Unit 6",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434028967-focus-unit-6"
+        },
+        "m2434030021": {
+          "first_seen_at": "2026-08-23T08:50:44.693538+00:00",
+          "price_display": "Gratis",
+          "title": "Gratis af te halen – Precor cardioapparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434030021-gratis-af-te-halen-precor-cardioapparaat"
         }
       }
     },
@@ -57447,6 +57495,18 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Digitale piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433998838-digitale-piano"
+        },
+        "m2434017248": {
+          "first_seen_at": "2026-08-23T08:51:27.847526+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano droit numérique Yamaha Clavinova CLP-124",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434017248-piano-droit-numerique-yamaha-clavinova-clp-124"
+        },
+        "m2434021460": {
+          "first_seen_at": "2026-08-23T08:51:27.847526+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Piano Gebr Perzina",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434021460-piano-gebr-perzina"
         }
       }
     }
@@ -57454,7 +57514,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T08:13:16.749557+00:00",
+    "last_checked_at": "2026-08-23T08:51:38.009702+00:00",
     "outage_alert_sent": false
   }
 }
