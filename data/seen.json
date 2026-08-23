@@ -47579,6 +47579,36 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "2 x 20kg Halterschijven (30mm).",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434349170-2-x-20kg-halterschijven-30mm"
+        },
+        "m2434350590": {
+          "first_seen_at": "2026-08-23T18:19:53.358483+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "2 x 20kg Halterschijven van Focus Fitness (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434350590-2-x-20kg-halterschijven-van-focus-fitness-30mm"
+        },
+        "m2434352143": {
+          "first_seen_at": "2026-08-23T18:19:53.358483+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "2 x 10kg Halterschijven (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434352143-2-x-10kg-halterschijven-30mm"
+        },
+        "m2434354515": {
+          "first_seen_at": "2026-08-23T18:19:53.358483+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "2x5/2x2,5/2x1,25kg Halterschijven van Focus Fitness (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434354515-2x5-2x2-5-2x1-25kg-halterschijven-van-focus-fitness-30mm"
+        },
+        "m2434355431": {
+          "first_seen_at": "2026-08-23T18:19:53.358483+00:00",
+          "price_display": "Gratis",
+          "title": "Domyos dumbbell set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434355431-domyos-dumbbell-set"
+        },
+        "m2434361643": {
+          "first_seen_at": "2026-08-23T18:19:53.358483+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "2x10kg/2x5kg Halterschijven van Hop-sport (30mm).",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434361643-2x10kg-2x5kg-halterschijven-van-hop-sport-30mm"
         }
       }
     },
@@ -58426,7 +58456,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T17:55:18.790982+00:00",
+    "last_checked_at": "2026-08-23T18:20:53.951617+00:00",
     "outage_alert_sent": false
   }
 }
