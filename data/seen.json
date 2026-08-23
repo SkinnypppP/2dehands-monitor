@@ -10400,6 +10400,18 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Aria AD-28N",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434270460-aria-ad-28n"
+        },
+        "m2434279409": {
+          "first_seen_at": "2026-08-23T16:01:01.650946+00:00",
+          "price_display": "€ 2.100,00",
+          "title": "Gibson akoestisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434279409-gibson-akoestisch"
+        },
+        "m2434285256": {
+          "first_seen_at": "2026-08-23T16:01:01.650946+00:00",
+          "price_display": "€ 3.000,00",
+          "title": "Zigeunergitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434285256-zigeunergitaar"
         }
       }
     },
@@ -15163,6 +15175,12 @@
           "price_display": "Bieden vanaf € 4.200,00",
           "title": "UMICORE 5000g zilverbaar 999 fijnzilver zilberbaar",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434210109-umicore-5000g-zilverbaar-999-fijnzilver-zilberbaar"
+        },
+        "m2434286585": {
+          "first_seen_at": "2026-08-23T16:00:40.766878+00:00",
+          "price_display": "Bieden vanaf € 155,00",
+          "title": "50 Gram IGR Zilverbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434286585-50-gram-igr-zilverbaar"
         }
       }
     },
@@ -22014,6 +22032,12 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "Tapis de course",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434266363-tapis-de-course"
+        },
+        "m2434283289": {
+          "first_seen_at": "2026-08-23T16:00:30.182089+00:00",
+          "price_display": "€ 50,00",
+          "title": "spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434283289-spinningfiets"
         }
       }
     },
@@ -47369,6 +47393,18 @@
           "price_display": "€ 120,00",
           "title": "Fitness artikelen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434271941-fitness-artikelen"
+        },
+        "m2434280051": {
+          "first_seen_at": "2026-08-23T16:00:09.101132+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Fauteuil medical",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434280051-fauteuil-medical"
+        },
+        "m2434281728": {
+          "first_seen_at": "2026-08-23T16:00:09.101132+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "Decathlon Bench 900 + 20 kg halterset – complete fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434281728-decathlon-bench-900-20-kg-halterset-complete-fitnessbank"
         }
       }
     },
@@ -58185,6 +58221,12 @@
           "price_display": "Gratis",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434266607-piano"
+        },
+        "m2434284005": {
+          "first_seen_at": "2026-08-23T16:00:52.639143+00:00",
+          "price_display": "€ 290,00",
+          "title": "Digitale piano Yamaha P45",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434284005-digitale-piano-yamaha-p45"
         }
       }
     }
@@ -58192,7 +58234,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T15:41:46.132020+00:00",
+    "last_checked_at": "2026-08-23T16:01:02.788403+00:00",
     "outage_alert_sent": false
   }
 }
