@@ -21798,6 +21798,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434088148-hometrainer"
+        },
+        "m2434107882": {
+          "first_seen_at": "2026-08-23T11:31:15.292549+00:00",
+          "price_display": "€ 200,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434107882-loopband"
         }
       }
     },
@@ -46979,6 +46985,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Wonder Care",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434096700-wonder-care"
+        },
+        "m2434105131": {
+          "first_seen_at": "2026-08-23T11:30:55.682707+00:00",
+          "price_display": "€ 30,00",
+          "title": "dumbells (26kg totaal)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434105131-dumbells-26kg-totaal"
+        },
+        "m2434107731": {
+          "first_seen_at": "2026-08-23T11:30:55.682707+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "gewichtschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434107731-gewichtschijven"
         }
       }
     },
@@ -57699,6 +57717,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vleugel Piano Pleyel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434080308-vleugel-piano-pleyel"
+        },
+        "m2434116701": {
+          "first_seen_at": "2026-08-23T11:31:34.272421+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Niendorf piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434116701-niendorf-piano"
         }
       }
     }
@@ -57706,7 +57730,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T11:02:11.581940+00:00",
+    "last_checked_at": "2026-08-23T11:31:42.414002+00:00",
     "outage_alert_sent": false
   }
 }
