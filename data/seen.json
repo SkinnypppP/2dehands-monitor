@@ -47651,6 +47651,24 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Bench Press fitnessbank + dips",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434372590-bench-press-fitnessbank-dips"
+        },
+        "m2434386327": {
+          "first_seen_at": "2026-08-23T19:18:18.583049+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "fitnesstoestel Kettler",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434386327-fitnesstoestel-kettler"
+        },
+        "m2434388725": {
+          "first_seen_at": "2026-08-23T19:18:18.583049+00:00",
+          "price_display": "€ 100,00",
+          "title": "Domyos fitnessapparatuur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434388725-domyos-fitnessapparatuur"
+        },
+        "m2434391634": {
+          "first_seen_at": "2026-08-23T19:18:18.583049+00:00",
+          "price_display": "€ 40,00",
+          "title": "Halters",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434391634-halters"
         }
       }
     },
@@ -58491,6 +58509,12 @@
           "price_display": "€ 450,00",
           "title": "Yamaha Clavinova CLP-124 digitale piano – donkerbruin",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434343992-yamaha-clavinova-clp-124-digitale-piano-donkerbruin"
+        },
+        "m2434384678": {
+          "first_seen_at": "2026-08-23T19:18:55.581998+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Yamaha Clavinova CLP-370 | Digitale Buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434384678-yamaha-clavinova-clp-370-digitale-buffetpiano"
         }
       }
     }
@@ -58498,7 +58522,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T18:53:08.767549+00:00",
+    "last_checked_at": "2026-08-23T19:19:06.321705+00:00",
     "outage_alert_sent": false
   }
 }
