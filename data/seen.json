@@ -10376,6 +10376,18 @@
           "price_display": "€ 200,00",
           "title": "Klassieke gitaar met draagzak en toebehoren",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434241234-klassieke-gitaar-met-draagzak-en-toebehoren"
+        },
+        "m2434249294": {
+          "first_seen_at": "2026-08-23T15:17:34.334500+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Ukelele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434249294-ukelele"
+        },
+        "m2434259559": {
+          "first_seen_at": "2026-08-23T15:17:34.334500+00:00",
+          "price_display": "€ 125,00",
+          "title": "Gitaar , Hudson voor beginners/kinderen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434259559-gitaar-hudson-voor-beginners-kinderen"
         }
       }
     },
@@ -47297,6 +47309,30 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Roeitrainer in het appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434240563-roeitrainer-in-het-appartement"
+        },
+        "m2434251274": {
+          "first_seen_at": "2026-08-23T15:16:50.153579+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "spinner",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434251274-spinner"
+        },
+        "m2434252488": {
+          "first_seen_at": "2026-08-23T15:16:50.153579+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434252488-fitness"
+        },
+        "m2434255264": {
+          "first_seen_at": "2026-08-23T15:16:50.153579+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "2 X Domyos gewicht 5 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434255264-2-x-domyos-gewicht-5-kg"
+        },
+        "m2434257977": {
+          "first_seen_at": "2026-08-23T15:16:50.153579+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434257977-gewichten"
         }
       }
     },
@@ -58114,7 +58150,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T14:56:24.863438+00:00",
+    "last_checked_at": "2026-08-23T15:17:36.149128+00:00",
     "outage_alert_sent": false
   }
 }
