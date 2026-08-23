@@ -10370,6 +10370,12 @@
           "price_display": "€ 1.700,00",
           "title": "Guitare du luthier espagnol Pedro Maldonado en cèdre de 1995",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434226765-guitare-du-luthier-espagnol-pedro-maldonado-en-cedre-de-1995"
+        },
+        "m2434241234": {
+          "first_seen_at": "2026-08-23T14:56:23.581833+00:00",
+          "price_display": "€ 200,00",
+          "title": "Klassieke gitaar met draagzak en toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434241234-klassieke-gitaar-met-draagzak-en-toebehoren"
         }
       }
     },
@@ -47285,6 +47291,12 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "domyos run 100",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434202465-domyos-run-100"
+        },
+        "m2434240563": {
+          "first_seen_at": "2026-08-23T14:55:32.067364+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Roeitrainer in het appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434240563-roeitrainer-in-het-appartement"
         }
       }
     },
@@ -58077,6 +58089,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Akoestische piano Rönisch.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434195623-akoestische-piano-ronisch"
+        },
+        "m2434232669": {
+          "first_seen_at": "2026-08-23T14:56:09.307189+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "piano.",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434232669-piano"
+        },
+        "m2434239285": {
+          "first_seen_at": "2026-08-23T14:56:09.307189+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano meuble Roland HP603",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434239285-piano-meuble-roland-hp603"
+        },
+        "m2434242528": {
+          "first_seen_at": "2026-08-23T14:56:09.307189+00:00",
+          "price_display": "Gratis",
+          "title": "Buffetpiano Werner",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434242528-buffetpiano-werner"
         }
       }
     }
@@ -58084,7 +58114,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T14:35:56.626179+00:00",
+    "last_checked_at": "2026-08-23T14:56:24.863438+00:00",
     "outage_alert_sent": false
   }
 }
