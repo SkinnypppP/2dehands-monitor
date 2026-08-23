@@ -10430,6 +10430,12 @@
           "price_display": "€ 65,00",
           "title": "GITAAR",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434378151-gitaar"
+        },
+        "m2434401696": {
+          "first_seen_at": "2026-08-23T19:40:48.211738+00:00",
+          "price_display": "Bieden vanaf € 59,95",
+          "title": "Balalaïka",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434401696-balalaika"
         }
       }
     },
@@ -51244,6 +51250,12 @@
           "price_display": "Bieden vanaf € 22,00",
           "title": "Adidas Control 3.2 padel tas zwart/navy",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434195096-adidas-control-3-2-padel-tas-zwart-navy"
+        },
+        "m2434401977": {
+          "first_seen_at": "2026-08-23T19:40:11.229220+00:00",
+          "price_display": "Bieden vanaf € 115,00",
+          "title": "Adidas Metalbone Team Light",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434401977-adidas-metalbone-team-light"
         }
       }
     },
@@ -58515,6 +58527,24 @@
           "price_display": "Bieden vanaf € 1.500,00",
           "title": "Yamaha Clavinova CLP-370 | Digitale Buffetpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434384678-yamaha-clavinova-clp-370-digitale-buffetpiano"
+        },
+        "m2434398812": {
+          "first_seen_at": "2026-08-23T19:40:37.453011+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Piano lamp",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434398812-piano-lamp"
+        },
+        "m2434399473": {
+          "first_seen_at": "2026-08-23T19:40:37.453011+00:00",
+          "price_display": "Bieden vanaf € 330,00",
+          "title": "Yamaha P-145 B",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434399473-yamaha-p-145-b"
+        },
+        "m2434400435": {
+          "first_seen_at": "2026-08-23T19:40:37.453011+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Piano stoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434400435-piano-stoel"
         }
       }
     }
@@ -58522,7 +58552,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T19:19:06.321705+00:00",
+    "last_checked_at": "2026-08-23T19:40:49.190267+00:00",
     "outage_alert_sent": false
   }
 }
