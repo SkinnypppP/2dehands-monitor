@@ -47519,6 +47519,30 @@
           "price_display": "Bieden vanaf € 950,00",
           "title": "Tunturi SM90 Full Smith Machine / Multigym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434318147-tunturi-sm90-full-smith-machine-multigym"
+        },
+        "m2434319372": {
+          "first_seen_at": "2026-08-23T17:17:54.603769+00:00",
+          "price_display": "€ 30,00",
+          "title": "Corde CrossFit Ondulatoire",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434319372-corde-crossfit-ondulatoire"
+        },
+        "m2434324867": {
+          "first_seen_at": "2026-08-23T17:17:54.603769+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Tunturi PT40 Power Tower",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434324867-tunturi-pt40-power-tower"
+        },
+        "m2434328810": {
+          "first_seen_at": "2026-08-23T17:17:54.603769+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434328810-loopband"
+        },
+        "m2434329314": {
+          "first_seen_at": "2026-08-23T17:17:54.603769+00:00",
+          "price_display": "€ 75,00",
+          "title": "Haltergewichtset met toevoeging van schijven mogelijk nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434329314-haltergewichtset-met-toevoeging-van-schijven-mogelijk-nieuw"
         }
       }
     },
@@ -58360,7 +58384,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T16:57:16.350772+00:00",
+    "last_checked_at": "2026-08-23T17:18:48.755050+00:00",
     "outage_alert_sent": false
   }
 }
