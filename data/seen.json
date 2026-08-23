@@ -15019,6 +15019,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Étain",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434076548-etain"
+        },
+        "m2434120584": {
+          "first_seen_at": "2026-08-23T11:53:30.127560+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Morgan Dollar 1882 S",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434120584-morgan-dollar-1882-s"
+        },
+        "m2434121458": {
+          "first_seen_at": "2026-08-23T11:53:30.127560+00:00",
+          "price_display": "€ 240,00",
+          "title": "Starterssetje 3 zilveren munten 1oz nieuw in capsules",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434121458-starterssetje-3-zilveren-munten-1oz-nieuw-in-capsules"
         }
       }
     },
@@ -46997,6 +47009,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "gewichtschijven",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434107731-gewichtschijven"
+        },
+        "m2434121679": {
+          "first_seen_at": "2026-08-23T11:53:07.312917+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434121679-gewichten"
+        },
+        "m2434124703": {
+          "first_seen_at": "2026-08-23T11:53:07.312917+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Kettler bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434124703-kettler-bench"
         }
       }
     },
@@ -57723,6 +57747,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Niendorf piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434116701-niendorf-piano"
+        },
+        "m2434128752": {
+          "first_seen_at": "2026-08-23T11:53:39.813747+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "Piano Niendorf",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434128752-piano-niendorf"
         }
       }
     }
@@ -57730,7 +57760,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T11:31:42.414002+00:00",
+    "last_checked_at": "2026-08-23T11:53:51.362855+00:00",
     "outage_alert_sent": false
   }
 }
