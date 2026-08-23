@@ -10208,6 +10208,12 @@
           "price_display": "€ 275,00",
           "title": "Fender T-Bucket 300 CE",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433930617-fender-t-bucket-300-ce"
+        },
+        "m2433976702": {
+          "first_seen_at": "2026-08-23T05:54:05.599501+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Baton rouge gitaar r11 in nieuwstaat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2433976702-baton-rouge-gitaar-r11-in-nieuwstaat"
         }
       }
     },
@@ -57171,6 +57177,12 @@
           "price_display": "€ 650,00",
           "title": "Roland FP30",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433911466-roland-fp30"
+        },
+        "m2433978545": {
+          "first_seen_at": "2026-08-23T05:53:53.876432+00:00",
+          "price_display": "€ 2.000,00",
+          "title": "piano Kawai NS-10",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2433978545-piano-kawai-ns-10"
         }
       }
     }
@@ -57178,7 +57190,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T05:23:53.836189+00:00",
+    "last_checked_at": "2026-08-23T05:54:06.321499+00:00",
     "outage_alert_sent": false
   }
 }
