@@ -15013,6 +15013,12 @@
           "price_display": "€ 15,00",
           "title": "lingot cuivre 100 gr.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434039484-lingot-cuivre-100-gr"
+        },
+        "m2434076548": {
+          "first_seen_at": "2026-08-23T10:17:20.469821+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Étain",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434076548-etain"
         }
       }
     },
@@ -21774,6 +21780,12 @@
           "price_display": "€ 250,00",
           "title": "loopband pro form performance 750",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434051166-loopband-pro-form-performance-750"
+        },
+        "m2434073624": {
+          "first_seen_at": "2026-08-23T10:17:10.957254+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "d'imposition ve 120",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434073624-d-imposition-ve-120"
         }
       }
     },
@@ -46919,6 +46931,18 @@
           "price_display": "€ 25,00",
           "title": "Verstelbare smart hoelahoep met gewicht",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434062850-verstelbare-smart-hoelahoep-met-gewicht"
+        },
+        "m2434071381": {
+          "first_seen_at": "2026-08-23T10:16:54.543671+00:00",
+          "price_display": "Bieden vanaf € 6,00",
+          "title": "Dumbbeld set 1kg (=2 halters)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434071381-dumbbeld-set-1kg-2-halters"
+        },
+        "m2434072967": {
+          "first_seen_at": "2026-08-23T10:16:54.543671+00:00",
+          "price_display": "€ 65,00",
+          "title": "Tunturi Halterbank - Tunturi WB20 Weight Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434072967-tunturi-halterbank-tunturi-wb20-weight-bench"
         }
       }
     },
@@ -57640,7 +57664,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T09:52:28.474106+00:00",
+    "last_checked_at": "2026-08-23T10:17:37.444701+00:00",
     "outage_alert_sent": false
   }
 }
