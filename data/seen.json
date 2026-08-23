@@ -10358,6 +10358,18 @@
           "price_display": "Bieden vanaf € 135,00",
           "title": "Complete junior gitaarset: morgan CG10 3/4",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434198189-complete-junior-gitaarset-morgan-cg10-3-4"
+        },
+        "m2434226074": {
+          "first_seen_at": "2026-08-23T14:35:54.218331+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Sigma Jumbo GJA-SG200+",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434226074-sigma-jumbo-gja-sg200"
+        },
+        "m2434226765": {
+          "first_seen_at": "2026-08-23T14:35:54.218331+00:00",
+          "price_display": "€ 1.700,00",
+          "title": "Guitare du luthier espagnol Pedro Maldonado en cèdre de 1995",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434226765-guitare-du-luthier-espagnol-pedro-maldonado-en-cedre-de-1995"
         }
       }
     },
@@ -21954,6 +21966,18 @@
           "price_display": "€ 400,00",
           "title": "Loopband – 16 km/u – 12% Incline – Zeer Goede Staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434189406-loopband-16-km-u-12-incline-zeer-goede-staat"
+        },
+        "m2434216440": {
+          "first_seen_at": "2026-08-23T14:35:20.073812+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Domyos Run 100E Folding Treadmill - Loopban",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434216440-domyos-run-100e-folding-treadmill-loopban"
+        },
+        "m2434228597": {
+          "first_seen_at": "2026-08-23T14:35:20.073812+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434228597-crosstrainer"
         }
       }
     },
@@ -58060,7 +58084,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T14:03:50.687607+00:00",
+    "last_checked_at": "2026-08-23T14:35:56.626179+00:00",
     "outage_alert_sent": false
   }
 }
