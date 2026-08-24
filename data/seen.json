@@ -11498,6 +11498,24 @@
           "title": "1 kilogram - Koper .999 - MRBUD - Met certificaat (Zonder",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165768429-1-kilogram-koper-999-mrbud-met-certificaat-zonder"
         },
+        "a165789483": {
+          "first_seen_at": "2026-08-24T04:21:29.849920+00:00",
+          "price_display": "€ 220,00",
+          "title": "20 gram - Goud .999 - 20 grams .9999 Fine Gold Bar Australia",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165789483-20-gram-goud-999-20-grams-9999-fine-gold-bar-australia"
+        },
+        "a165796311": {
+          "first_seen_at": "2026-08-24T04:21:29.849920+00:00",
+          "price_display": "€ 888,00",
+          "title": "Salomonseilanden. 25 Dollars 2016 1/4 oz $25 Solomon Islands",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165796311-salomonseilanden-25-dollars-2016-1-4-oz-25-solomon-islands"
+        },
+        "a165799063": {
+          "first_seen_at": "2026-08-24T04:21:29.849920+00:00",
+          "price_display": "€ 888,00",
+          "title": "Salomonseilanden. 25 Dollars 2022 1/4 oz $25 Solomon Islands",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a165799063-salomonseilanden-25-dollars-2022-1-4-oz-25-solomon-islands"
+        },
         "a165801090": {
           "first_seen_at": "2026-08-22T13:09:55.383563+00:00",
           "price_display": "€ 1,00",
@@ -58684,7 +58702,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-23T22:41:42.386015+00:00",
+    "last_checked_at": "2026-08-24T04:21:50.637367+00:00",
     "outage_alert_sent": false
   }
 }
