@@ -10616,6 +10616,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "klassieke Spaanse/nylon-snarige gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434764717-klassieke-spaanse-nylon-snarige-gitaar"
+        },
+        "m2434795954": {
+          "first_seen_at": "2026-08-24T17:42:20.063972+00:00",
+          "price_display": "€ 250,00",
+          "title": "Alhambra gitaar met alle toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434795954-alhambra-gitaar-met-alle-toebehoren"
         }
       }
     },
@@ -15601,6 +15607,12 @@
           "price_display": "€ 690,00",
           "title": "piece 10 oz argent Kookaburra  1997",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434775989-piece-10-oz-argent-kookaburra-1997"
+        },
+        "m2434803311": {
+          "first_seen_at": "2026-08-24T17:42:02.468160+00:00",
+          "price_display": "€ 350,00",
+          "title": "Krugerrand 1oz zilver (5 stuks)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434803311-krugerrand-1oz-zilver-5-stuks"
         }
       }
     },
@@ -22674,6 +22686,12 @@
           "price_display": "Bieden vanaf € 1.600,00",
           "title": "ligfiets .home trainer taurus rb10.5",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434778175-ligfiets-home-trainer-taurus-rb10-5"
+        },
+        "m2434804655": {
+          "first_seen_at": "2026-08-24T17:41:54.387664+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Optrekstang",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434804655-optrekstang"
         }
       }
     },
@@ -48737,6 +48755,42 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Verstelbare dumbbells 25kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434789166-verstelbare-dumbbells-25kg"
+        },
+        "m2434795428": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Elastische Weerstand Band Techniektraining",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434795428-elastische-weerstand-band-techniektraining"
+        },
+        "m2434797115": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bank en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434797115-bank-en-gewichten"
+        },
+        "m2434797733": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "€ 45,00",
+          "title": "Battle Rope Fitnessartikel 10m",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434797733-battle-rope-fitnessartikel-10m"
+        },
+        "m2434797904": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Gietijzeren halterset – 117 kg + stangen + gewichtenrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434797904-gietijzeren-halterset-117-kg-stangen-gewichtenrek"
+        },
+        "m2434802990": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Gewicht 4KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434802990-gewicht-4kg"
+        },
+        "m2434806243": {
+          "first_seen_at": "2026-08-24T17:41:33.771316+00:00",
+          "price_display": "€ 999,00",
+          "title": "Assault airbike PRO crossfit HIIT Hyrox hometrainer cardio",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434806243-assault-airbike-pro-crossfit-hiit-hyrox-hometrainer-cardio"
         }
       }
     },
@@ -59806,7 +59860,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T17:06:57.455543+00:00",
+    "last_checked_at": "2026-08-24T17:42:21.682761+00:00",
     "outage_alert_sent": false
   }
 }
