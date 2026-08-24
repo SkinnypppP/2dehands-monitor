@@ -52942,6 +52942,12 @@
           "title": "Kawai K-15E Piano Zwart Hoogglans – Uitstekende Staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2407790814-kawai-k-15e-piano-zwart-hoogglans-uitstekende-staat"
         },
+        "m2408081991": {
+          "first_seen_at": "2026-08-24T21:39:50.681333+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "Digitale Piano Thomann DP-95",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2408081991-digitale-piano-thomann-dp-95"
+        },
         "m2408926796": {
           "first_seen_at": "2026-08-01T20:56:14.506591+00:00",
           "price_display": "Zie omschrijving",
@@ -60064,7 +60070,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T21:04:31.645578+00:00",
+    "last_checked_at": "2026-08-24T21:39:59.245008+00:00",
     "outage_alert_sent": false
   }
 }
