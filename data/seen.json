@@ -10562,6 +10562,24 @@
           "price_display": "Bieden vanaf € 130,00",
           "title": "Ukulele Tenor Ibanez Electro-acoustique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434617820-ukulele-tenor-ibanez-electro-acoustique"
+        },
+        "m2434651748": {
+          "first_seen_at": "2026-08-24T11:52:41.148118+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434651748-gitaar"
+        },
+        "m2434654607": {
+          "first_seen_at": "2026-08-24T11:52:41.148118+00:00",
+          "price_display": "€ 90,00",
+          "title": "Gitaar admira paloma",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434654607-gitaar-admira-paloma"
+        },
+        "m2434658146": {
+          "first_seen_at": "2026-08-24T11:52:41.148118+00:00",
+          "price_display": "€ 350,00",
+          "title": "Gitaar: Prudencio Sáez Modelo 31",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434658146-gitaar-prudencio-saez-modelo-31"
         }
       }
     },
@@ -22476,6 +22494,12 @@
           "price_display": "Gratis",
           "title": "Crosstrainer gratis af te halen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434622423-crosstrainer-gratis-af-te-halen"
+        },
+        "m2434652268": {
+          "first_seen_at": "2026-08-24T11:52:11.390336+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434652268-loopband"
         }
       }
     },
@@ -48305,6 +48329,18 @@
           "price_display": "Bieden vanaf € 1.150,00",
           "title": "haltersets 10kg tot en met 30kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434638481-haltersets-10kg-tot-en-met-30kg"
+        },
+        "m2434655689": {
+          "first_seen_at": "2026-08-24T11:51:53.976130+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Buikspiertrainer L vorming met elastische koorden",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434655689-buikspiertrainer-l-vorming-met-elastische-koorden"
+        },
+        "m2434655712": {
+          "first_seen_at": "2026-08-24T11:51:53.976130+00:00",
+          "price_display": "€ 40,00",
+          "title": "Shilajit + gummies",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434655712-shilajit-gummies"
         }
       }
     },
@@ -59283,6 +59319,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Org nieuw",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434641587-org-nieuw"
+        },
+        "m2434649232": {
+          "first_seen_at": "2026-08-24T11:52:30.477841+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Van Urk USC 110 witte rechtopstaande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434649232-van-urk-usc-110-witte-rechtopstaande-piano"
         }
       }
     }
@@ -59290,7 +59332,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T11:21:57.853290+00:00",
+    "last_checked_at": "2026-08-24T11:52:43.852775+00:00",
     "outage_alert_sent": false
   }
 }
