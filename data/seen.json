@@ -15577,6 +15577,18 @@
           "price_display": "Bieden vanaf € 1.858,00",
           "title": "UMICORE FIJNZILVER 999 1000g zilverstaaf",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434713859-umicore-fijnzilver-999-1000g-zilverstaaf"
+        },
+        "m2434735979": {
+          "first_seen_at": "2026-08-24T15:09:05.652737+00:00",
+          "price_display": "€ 470,00",
+          "title": "Zilveren munten (3 x 5 oz)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434735979-zilveren-munten-3-x-5-oz"
+        },
+        "m2434737743": {
+          "first_seen_at": "2026-08-24T15:09:05.652737+00:00",
+          "price_display": "€ 1.650,00",
+          "title": "Gouden munt 1996 (ZEER ZELDZAAM)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434737743-gouden-munt-1996-zeer-zeldzaam"
         }
       }
     },
@@ -22620,6 +22632,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Fitness vloer/ schuimmat indoor",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434726487-fitness-vloer-schuimmat-indoor"
+        },
+        "m2434732188": {
+          "first_seen_at": "2026-08-24T15:08:55.546539+00:00",
+          "price_display": "€ 200,00",
+          "title": "spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434732188-spinningfiets"
+        },
+        "m2434732462": {
+          "first_seen_at": "2026-08-24T15:08:55.546539+00:00",
+          "price_display": "€ 350,00",
+          "title": "Fitbike race magnetic pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434732462-fitbike-race-magnetic-pro"
         }
       }
     },
@@ -48587,6 +48611,24 @@
           "price_display": "€ 75,00",
           "title": "Stevig 2-laags Dumbbell Rek / Halterrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434724682-stevig-2-laags-dumbbell-rek-halterrek"
+        },
+        "m2434735000": {
+          "first_seen_at": "2026-08-24T15:08:35.722445+00:00",
+          "price_display": "€ 80,00",
+          "title": "2x Halterschijven 20kg 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434735000-2x-halterschijven-20kg-50mm"
+        },
+        "m2434740104": {
+          "first_seen_at": "2026-08-24T15:08:35.722445+00:00",
+          "price_display": "€ 215,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434740104-hometrainer"
+        },
+        "m2434743915": {
+          "first_seen_at": "2026-08-24T15:08:35.722445+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Fitness Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434743915-fitness-roeitrainer"
         }
       }
     },
@@ -59607,6 +59649,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Oude wand piano G. Adolph Ubach Barmen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434724218-oude-wand-piano-g-adolph-ubach-barmen"
+        },
+        "m2434746701": {
+          "first_seen_at": "2026-08-24T15:09:17.326693+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Piano kruk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434746701-piano-kruk"
         }
       }
     }
@@ -59614,7 +59662,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T14:22:42.003816+00:00",
+    "last_checked_at": "2026-08-24T15:09:27.478263+00:00",
     "outage_alert_sent": false
   }
 }
