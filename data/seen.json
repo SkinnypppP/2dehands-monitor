@@ -10634,6 +10634,12 @@
           "price_display": "Bieden vanaf € 170,00",
           "title": "motion JB7 Jumbo",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434815919-motion-jb7-jumbo"
+        },
+        "m2434833234": {
+          "first_seen_at": "2026-08-24T19:02:17.631378+00:00",
+          "price_display": "€ 100,00",
+          "title": "Bluetooth-gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434833234-bluetooth-gitaar"
         }
       }
     },
@@ -48839,6 +48845,36 @@
           "price_display": "Gratis",
           "title": "GRATIS",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434818199-gratis"
+        },
+        "m2434825550": {
+          "first_seen_at": "2026-08-24T19:01:30.083673+00:00",
+          "price_display": "€ 150,00",
+          "title": "Fitness toestellen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434825550-fitness-toestellen"
+        },
+        "m2434825677": {
+          "first_seen_at": "2026-08-24T19:01:30.083673+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Flow Fitness SMB50 fitnessbank (nieuwprijs 225€)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434825677-flow-fitness-smb50-fitnessbank-nieuwprijs-225"
+        },
+        "m2434831691": {
+          "first_seen_at": "2026-08-24T19:01:30.083673+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Optrekstang / Dip station (Nieuwprijs 179€)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434831691-optrekstang-dip-station-nieuwprijs-179"
+        },
+        "m2434833410": {
+          "first_seen_at": "2026-08-24T19:01:30.083673+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Rogue Echo10mm Leather Lifting Belt / Powerlifting Riem",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434833410-rogue-echo10mm-leather-lifting-belt-powerlifting-riem"
+        },
+        "m2434835908": {
+          "first_seen_at": "2026-08-24T19:01:30.083673+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Kettler halterbank + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434835908-kettler-halterbank-gewichten"
         }
       }
     },
@@ -52474,6 +52510,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Padelracket: Head Extreme Motion",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434816102-padelracket-head-extreme-motion"
+        },
+        "m2434828839": {
+          "first_seen_at": "2026-08-24T19:01:40.458375+00:00",
+          "price_display": "€ 115,00",
+          "title": "Nox quantum 12K",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434828839-nox-quantum-12k"
         }
       }
     },
@@ -59913,6 +59955,18 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Piano numérique Yamaha DGX 660",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434811761-piano-numerique-yamaha-dgx-660"
+        },
+        "m2434822944": {
+          "first_seen_at": "2026-08-24T19:02:09.337481+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "YAMAHA_PSR_E233",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434822944-yamaha-psr-e233"
+        },
+        "m2434832884": {
+          "first_seen_at": "2026-08-24T19:02:09.337481+00:00",
+          "price_display": "€ 325,00",
+          "title": "Yamaha P-90 digitale stagepiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434832884-yamaha-p-90-digitale-stagepiano"
         }
       }
     }
@@ -59920,7 +59974,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T18:15:44.166007+00:00",
+    "last_checked_at": "2026-08-24T19:02:18.271823+00:00",
     "outage_alert_sent": false
   }
 }
