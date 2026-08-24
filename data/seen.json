@@ -10556,6 +10556,12 @@
           "price_display": "Bieden vanaf € 299,00",
           "title": "Iberica STD-S Klassieke gitaar (massief blad)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434603124-iberica-std-s-klassieke-gitaar-massief-blad"
+        },
+        "m2434617820": {
+          "first_seen_at": "2026-08-24T10:52:03.810842+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "Ukulele Tenor Ibanez Electro-acoustique",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434617820-ukulele-tenor-ibanez-electro-acoustique"
         }
       }
     },
@@ -22458,6 +22464,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Crosstrainer Domyos 900 te Landen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434611072-crosstrainer-domyos-900-te-landen"
+        },
+        "m2434622423": {
+          "first_seen_at": "2026-08-24T10:51:39.996481+00:00",
+          "price_display": "Gratis",
+          "title": "Crosstrainer gratis af te halen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434622423-crosstrainer-gratis-af-te-halen"
         }
       }
     },
@@ -48275,6 +48287,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434610061-fitness"
+        },
+        "m2434622566": {
+          "first_seen_at": "2026-08-24T10:51:22.359205+00:00",
+          "price_display": "€ 200,00",
+          "title": "Gietijzeren fitnesssets gewichten en baren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434622566-gietijzeren-fitnesssets-gewichten-en-baren"
         }
       }
     },
@@ -51880,6 +51898,12 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "Nox ml10 ventus control 3k 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434556153-nox-ml10-ventus-control-3k-2026"
+        },
+        "m2434616464": {
+          "first_seen_at": "2026-08-24T10:51:31.204203+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Raquette Padel HEAD",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434616464-raquette-padel-head"
         }
       }
     },
@@ -59223,6 +59247,12 @@
           "price_display": "€ 6.500,00",
           "title": "Vleugelpiano Kawai",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434588157-vleugelpiano-kawai"
+        },
+        "m2434621749": {
+          "first_seen_at": "2026-08-24T10:51:56.358253+00:00",
+          "price_display": "Bieden vanaf € 39,00",
+          "title": "Stagg Pianobank - kruk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434621749-stagg-pianobank-kruk"
         }
       }
     }
@@ -59230,7 +59260,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T10:10:03.417110+00:00",
+    "last_checked_at": "2026-08-24T10:52:04.498610+00:00",
     "outage_alert_sent": false
   }
 }
