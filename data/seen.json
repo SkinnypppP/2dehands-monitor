@@ -48707,6 +48707,36 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434780552-fitness"
+        },
+        "m2434782497": {
+          "first_seen_at": "2026-08-24T17:06:04.202493+00:00",
+          "price_display": "€ 50,00",
+          "title": "Domyos halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434782497-domyos-halterbank"
+        },
+        "m2434786597": {
+          "first_seen_at": "2026-08-24T17:06:04.202493+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434786597-trilplaat"
+        },
+        "m2434788137": {
+          "first_seen_at": "2026-08-24T17:06:04.202493+00:00",
+          "price_display": "Bieden vanaf € 575,00",
+          "title": "Spinningfiets Schwinn AC Performance",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434788137-spinningfiets-schwinn-ac-performance"
+        },
+        "m2434789005": {
+          "first_seen_at": "2026-08-24T17:06:04.202493+00:00",
+          "price_display": "€ 50,00",
+          "title": "Power Maxx vibrations trilplaat / fitnessapparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434789005-power-maxx-vibrations-trilplaat-fitnessapparaat"
+        },
+        "m2434789166": {
+          "first_seen_at": "2026-08-24T17:06:04.202493+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Verstelbare dumbbells 25kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434789166-verstelbare-dumbbells-25kg"
         }
       }
     },
@@ -59763,6 +59793,12 @@
           "price_display": "Zie omschrijving",
           "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434776050-digitale-roland-bk-5-backing-keyboard-nieuw"
+        },
+        "m2434790113": {
+          "first_seen_at": "2026-08-24T17:06:46.917121+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roland digitale piano HP-4000S",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434790113-roland-digitale-piano-hp-4000s"
         }
       }
     }
@@ -59770,7 +59806,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T16:30:04.121516+00:00",
+    "last_checked_at": "2026-08-24T17:06:57.455543+00:00",
     "outage_alert_sent": false
   }
 }
