@@ -10610,6 +10610,12 @@
           "price_display": "€ 45,00",
           "title": "Stagg SW205N akoestische folkgitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434687206-stagg-sw205n-akoestische-folkgitaar"
+        },
+        "m2434764717": {
+          "first_seen_at": "2026-08-24T15:54:05.094302+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "klassieke Spaanse/nylon-snarige gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434764717-klassieke-spaanse-nylon-snarige-gitaar"
         }
       }
     },
@@ -22644,6 +22650,12 @@
           "price_display": "€ 350,00",
           "title": "Fitbike race magnetic pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434732462-fitbike-race-magnetic-pro"
+        },
+        "m2434753318": {
+          "first_seen_at": "2026-08-24T15:53:33.867367+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Halterbank (metaal)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434753318-halterbank-metaal"
         }
       }
     },
@@ -48629,6 +48641,30 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Fitness Roeitrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434743915-fitness-roeitrainer"
+        },
+        "m2434754303": {
+          "first_seen_at": "2026-08-24T15:53:11.073252+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "shwinn 800ic pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434754303-shwinn-800ic-pro"
+        },
+        "m2434758975": {
+          "first_seen_at": "2026-08-24T15:53:11.073252+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Crossrope - Get Lean Set (maat M) Nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434758975-crossrope-get-lean-set-maat-m-nieuw"
+        },
+        "m2434765268": {
+          "first_seen_at": "2026-08-24T15:53:11.073252+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Trampoline",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434765268-trampoline"
+        },
+        "m2434765884": {
+          "first_seen_at": "2026-08-24T15:53:11.073252+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Technogym adductor",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434765884-technogym-adductor"
         }
       }
     },
@@ -52246,6 +52282,18 @@
           "price_display": "€ 10,00",
           "title": "Padel racket Kuikma PR 190",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434661681-padel-racket-kuikma-pr-190"
+        },
+        "m2434754762": {
+          "first_seen_at": "2026-08-24T15:53:25.342790+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Joma Master Lite 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434754762-joma-master-lite-2026"
+        },
+        "m2434755712": {
+          "first_seen_at": "2026-08-24T15:53:25.342790+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Joma Master Lite 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434755712-joma-master-lite-2026"
         }
       }
     },
@@ -59655,6 +59703,12 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Piano kruk",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434746701-piano-kruk"
+        },
+        "m2434765390": {
+          "first_seen_at": "2026-08-24T15:53:54.927784+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "max masic piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434765390-max-masic-piano"
         }
       }
     }
@@ -59662,7 +59716,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T15:09:27.478263+00:00",
+    "last_checked_at": "2026-08-24T15:54:06.247732+00:00",
     "outage_alert_sent": false
   }
 }
