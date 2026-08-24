@@ -10508,6 +10508,12 @@
           "price_display": "Bieden vanaf € 225,00",
           "title": "Klassieke gitaar muziekschool 4/4 maat MASSIEF bovenblad",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434529884-klassieke-gitaar-muziekschool-4-4-maat-massief-bovenblad"
+        },
+        "m2434551375": {
+          "first_seen_at": "2026-08-24T08:29:50.662625+00:00",
+          "price_display": "Bieden vanaf € 1.450,00",
+          "title": "Folk gitaar Eastman AC630CE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434551375-folk-gitaar-eastman-ac630ce"
         }
       }
     },
@@ -22356,6 +22362,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo d’appartement Eb 140 Domyos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434544236-velo-d-appartement-eb-140-domyos"
+        },
+        "m2434551172": {
+          "first_seen_at": "2026-08-24T08:29:22.771985+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434551172-hometrainer"
         }
       }
     },
@@ -48089,6 +48101,18 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "FysioSupplies PHYSIO Balance Trainer PRO",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434541276-fysiosupplies-physio-balance-trainer-pro"
+        },
+        "m2434554885": {
+          "first_seen_at": "2026-08-24T08:29:04.001526+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Cause demenagement , vend velo appartement neuf",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434554885-cause-demenagement-vend-velo-appartement-neuf"
+        },
+        "m2434560581": {
+          "first_seen_at": "2026-08-24T08:29:04.001526+00:00",
+          "price_display": "€ 12,50",
+          "title": "Gewichten 12,5€/set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434560581-gewichten-12-5-set"
         }
       }
     },
@@ -51688,6 +51712,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "9 tubes padelballen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434536001-9-tubes-padelballen"
+        },
+        "m2434556153": {
+          "first_seen_at": "2026-08-24T08:29:15.099048+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Nox ml10 ventus control 3k 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434556153-nox-ml10-ventus-control-3k-2026"
         }
       }
     },
@@ -59019,6 +59049,12 @@
           "price_display": "€ 2.900,00",
           "title": "Yamaha U3",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434533415-yamaha-u3"
+        },
+        "m2434559890": {
+          "first_seen_at": "2026-08-24T08:29:40.035987+00:00",
+          "price_display": "Bieden vanaf € 435,00",
+          "title": "Piano Yamaha Arius",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434559890-piano-yamaha-arius"
         }
       }
     }
@@ -59026,7 +59062,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T07:46:25.124578+00:00",
+    "last_checked_at": "2026-08-24T08:29:51.593821+00:00",
     "outage_alert_sent": false
   }
 }
