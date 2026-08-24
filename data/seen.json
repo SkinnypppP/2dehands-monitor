@@ -48911,6 +48911,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Adidas krachtstation - home gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434848364-adidas-krachtstation-home-gym"
+        },
+        "m2434858812": {
+          "first_seen_at": "2026-08-24T20:38:51.019794+00:00",
+          "price_display": "€ 180,00",
+          "title": "Kingsmith c2 wandelpad/loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434858812-kingsmith-c2-wandelpad-loopband"
+        },
+        "m2434860243": {
+          "first_seen_at": "2026-08-24T20:38:51.019794+00:00",
+          "price_display": "€ 15,00",
+          "title": "Tricep rope",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434860243-tricep-rope"
+        },
+        "m2434865442": {
+          "first_seen_at": "2026-08-24T20:38:51.019794+00:00",
+          "price_display": "Bieden vanaf € 2.750,00",
+          "title": "Newton Fitness BLK-5000 All-in-One Krachtstation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434865442-newton-fitness-blk-5000-all-in-one-krachtstation"
         }
       }
     },
@@ -60016,7 +60034,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T20:02:19.941126+00:00",
+    "last_checked_at": "2026-08-24T20:39:40.346453+00:00",
     "outage_alert_sent": false
   }
 }
