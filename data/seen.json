@@ -15595,6 +15595,12 @@
           "price_display": "€ 1.650,00",
           "title": "Gouden munt 1996 (ZEER ZELDZAAM)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434737743-gouden-munt-1996-zeer-zeldzaam"
+        },
+        "m2434775989": {
+          "first_seen_at": "2026-08-24T16:29:42.980360+00:00",
+          "price_display": "€ 690,00",
+          "title": "piece 10 oz argent Kookaburra  1997",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434775989-piece-10-oz-argent-kookaburra-1997"
         }
       }
     },
@@ -22656,6 +22662,18 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Halterbank (metaal)",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434753318-halterbank-metaal"
+        },
+        "m2434776948": {
+          "first_seen_at": "2026-08-24T16:29:33.085497+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Cross trainer Max",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434776948-cross-trainer-max"
+        },
+        "m2434778175": {
+          "first_seen_at": "2026-08-24T16:29:33.085497+00:00",
+          "price_display": "Bieden vanaf € 1.600,00",
+          "title": "ligfiets .home trainer taurus rb10.5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434778175-ligfiets-home-trainer-taurus-rb10-5"
         }
       }
     },
@@ -48665,6 +48683,30 @@
           "price_display": "Bieden vanaf € 750,00",
           "title": "Technogym adductor",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434765884-technogym-adductor"
+        },
+        "m2434771919": {
+          "first_seen_at": "2026-08-24T16:29:17.142454+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Fitness spinner te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434771919-fitness-spinner-te-koop"
+        },
+        "m2434773246": {
+          "first_seen_at": "2026-08-24T16:29:17.142454+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Life Fitness trappenloper / stairclimber",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434773246-life-fitness-trappenloper-stairclimber"
+        },
+        "m2434779396": {
+          "first_seen_at": "2026-08-24T16:29:17.142454+00:00",
+          "price_display": "€ 120,00",
+          "title": "Complete fitness set – 80 kg gewichten + halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434779396-complete-fitness-set-80-kg-gewichten-halterbank"
+        },
+        "m2434780552": {
+          "first_seen_at": "2026-08-24T16:29:17.142454+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434780552-fitness"
         }
       }
     },
@@ -59709,6 +59751,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "max masic piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434765390-max-masic-piano"
+        },
+        "m2434774171": {
+          "first_seen_at": "2026-08-24T16:29:54.139300+00:00",
+          "price_display": "€ 295,00",
+          "title": "Roland RD-150 Stage Piano (88 gewogen toetsen) + Statief, Ba",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434774171-roland-rd-150-stage-piano-88-gewogen-toetsen-statief-ba"
+        },
+        "m2434776050": {
+          "first_seen_at": "2026-08-24T16:29:54.139300+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "digitale Roland BK-5 Backing Keyboard (nieuw)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434776050-digitale-roland-bk-5-backing-keyboard-nieuw"
         }
       }
     }
@@ -59716,7 +59770,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T15:54:06.247732+00:00",
+    "last_checked_at": "2026-08-24T16:30:04.121516+00:00",
     "outage_alert_sent": false
   }
 }
