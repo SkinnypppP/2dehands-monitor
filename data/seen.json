@@ -10640,6 +10640,12 @@
           "price_display": "€ 100,00",
           "title": "Bluetooth-gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434833234-bluetooth-gitaar"
+        },
+        "m2434851546": {
+          "first_seen_at": "2026-08-24T20:01:49.203595+00:00",
+          "price_display": "€ 100,00",
+          "title": "Guitare Stagg SW205 + housse de transport",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434851546-guitare-stagg-sw205-housse-de-transport"
         }
       }
     },
@@ -22734,6 +22740,12 @@
           "price_display": "Bieden vanaf € 230,00",
           "title": "Vélo d’appartement connecté Basic-Fit Smart Bike",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434850526-velo-d-appartement-connecte-basic-fit-smart-bike"
+        },
+        "m2434851286": {
+          "first_seen_at": "2026-08-24T20:00:23.191048+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Vélo d'appartement",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434851286-velo-d-appartement"
         }
       }
     },
@@ -59991,6 +60003,12 @@
           "price_display": "€ 325,00",
           "title": "Yamaha P-90 digitale stagepiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434832884-yamaha-p-90-digitale-stagepiano"
+        },
+        "m2434852451": {
+          "first_seen_at": "2026-08-24T20:01:09.973964+00:00",
+          "price_display": "Bieden vanaf € 465,00",
+          "title": "Digitale piano Roland FP-30X WH wit",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434852451-digitale-piano-roland-fp-30x-wh-wit"
         }
       }
     }
@@ -59998,7 +60016,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T19:38:53.180787+00:00",
+    "last_checked_at": "2026-08-24T20:02:19.941126+00:00",
     "outage_alert_sent": false
   }
 }
