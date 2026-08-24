@@ -22722,6 +22722,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Hypoxi",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434817506-hypoxi"
+        },
+        "m2434840600": {
+          "first_seen_at": "2026-08-24T19:38:26.821621+00:00",
+          "price_display": "Gratis",
+          "title": "ab circle",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434840600-ab-circle"
+        },
+        "m2434850526": {
+          "first_seen_at": "2026-08-24T19:38:26.821621+00:00",
+          "price_display": "Bieden vanaf € 230,00",
+          "title": "Vélo d’appartement connecté Basic-Fit Smart Bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434850526-velo-d-appartement-connecte-basic-fit-smart-bike"
         }
       }
     },
@@ -48875,6 +48887,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Kettler halterbank + gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434835908-kettler-halterbank-gewichten"
+        },
+        "m2434838597": {
+          "first_seen_at": "2026-08-24T19:38:06.002005+00:00",
+          "price_display": "€ 39,00",
+          "title": "Pull-up bar voor buiten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434838597-pull-up-bar-voor-buiten"
+        },
+        "m2434848364": {
+          "first_seen_at": "2026-08-24T19:38:06.002005+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Adidas krachtstation - home gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434848364-adidas-krachtstation-home-gym"
         }
       }
     },
@@ -59974,7 +59998,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T19:02:18.271823+00:00",
+    "last_checked_at": "2026-08-24T19:38:53.180787+00:00",
     "outage_alert_sent": false
   }
 }
