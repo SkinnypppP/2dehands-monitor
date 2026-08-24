@@ -10646,6 +10646,12 @@
           "price_display": "€ 100,00",
           "title": "Guitare Stagg SW205 + housse de transport",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434851546-guitare-stagg-sw205-housse-de-transport"
+        },
+        "m2434867838": {
+          "first_seen_at": "2026-08-24T21:04:30.345022+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Gitaar Fender",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434867838-gitaar-fender"
         }
       }
     },
@@ -22746,6 +22752,12 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Vélo d'appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434851286-velo-d-appartement"
+        },
+        "m2434869378": {
+          "first_seen_at": "2026-08-24T21:04:03.446350+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434869378-hometrainer"
         }
       }
     },
@@ -48929,6 +48941,12 @@
           "price_display": "Bieden vanaf € 2.750,00",
           "title": "Newton Fitness BLK-5000 All-in-One Krachtstation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434865442-newton-fitness-blk-5000-all-in-one-krachtstation"
+        },
+        "m2434866525": {
+          "first_seen_at": "2026-08-24T21:03:43.759137+00:00",
+          "price_display": "Bieden vanaf € 9.000,00",
+          "title": "I motion 2 batteries",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434866525-i-motion-2-batteries"
         }
       }
     },
@@ -52570,6 +52588,12 @@
           "price_display": "€ 115,00",
           "title": "Nox quantum 12K",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434828839-nox-quantum-12k"
+        },
+        "m2434866581": {
+          "first_seen_at": "2026-08-24T21:03:53.529836+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434866581-padelracket"
         }
       }
     },
@@ -60027,6 +60051,12 @@
           "price_display": "Bieden vanaf € 465,00",
           "title": "Digitale piano Roland FP-30X WH wit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434852451-digitale-piano-roland-fp-30x-wh-wit"
+        },
+        "m2434866871": {
+          "first_seen_at": "2026-08-24T21:04:18.488306+00:00",
+          "price_display": "€ 250,00",
+          "title": "très beau piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434866871-tres-beau-piano"
         }
       }
     }
@@ -60034,7 +60064,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T20:39:40.346453+00:00",
+    "last_checked_at": "2026-08-24T21:04:31.645578+00:00",
     "outage_alert_sent": false
   }
 }
