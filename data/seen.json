@@ -15475,6 +15475,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Munt Zambia",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434579809-munt-zambia"
+        },
+        "m2434631228": {
+          "first_seen_at": "2026-08-24T11:21:39.142412+00:00",
+          "price_display": "Bieden vanaf € 2.585,00",
+          "title": "METLAOR 20g goudbaar 999,9 met aankoop bewijs",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434631228-metlaor-20g-goudbaar-999-9-met-aankoop-bewijs"
         }
       }
     },
@@ -48293,6 +48299,12 @@
           "price_display": "€ 200,00",
           "title": "Gietijzeren fitnesssets gewichten en baren",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434622566-gietijzeren-fitnesssets-gewichten-en-baren"
+        },
+        "m2434638481": {
+          "first_seen_at": "2026-08-24T11:21:11.313589+00:00",
+          "price_display": "Bieden vanaf € 1.150,00",
+          "title": "haltersets 10kg tot en met 30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434638481-haltersets-10kg-tot-en-met-30kg"
         }
       }
     },
@@ -59253,6 +59265,24 @@
           "price_display": "Bieden vanaf € 39,00",
           "title": "Stagg Pianobank - kruk",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434621749-stagg-pianobank-kruk"
+        },
+        "m2434636509": {
+          "first_seen_at": "2026-08-24T11:21:47.795865+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434636509-piano"
+        },
+        "m2434637655": {
+          "first_seen_at": "2026-08-24T11:21:47.795865+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "Yamaha P-515",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434637655-yamaha-p-515"
+        },
+        "m2434641587": {
+          "first_seen_at": "2026-08-24T11:21:47.795865+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Org nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434641587-org-nieuw"
         }
       }
     }
@@ -59260,7 +59290,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T10:52:04.498610+00:00",
+    "last_checked_at": "2026-08-24T11:21:57.853290+00:00",
     "outage_alert_sent": false
   }
 }
