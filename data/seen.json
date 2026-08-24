@@ -10478,6 +10478,12 @@
           "price_display": "€ 275,00",
           "title": "Yamaha APX500 gitaar + harde koffer",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434506269-yamaha-apx500-gitaar-harde-koffer"
+        },
+        "m2434509014": {
+          "first_seen_at": "2026-08-24T05:52:52.998385+00:00",
+          "price_display": "€ 250,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434509014-akoestische-gitaar"
         }
       }
     },
@@ -47873,6 +47879,12 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "Fitnes Bank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434503921-fitnes-bank"
+        },
+        "m2434511152": {
+          "first_seen_at": "2026-08-24T05:51:35.450445+00:00",
+          "price_display": "€ 50,00",
+          "title": "Barre de traction",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434511152-barre-de-traction"
         }
       }
     },
@@ -58792,7 +58804,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T05:10:56.564962+00:00",
+    "last_checked_at": "2026-08-24T05:52:54.295537+00:00",
     "outage_alert_sent": false
   }
 }
