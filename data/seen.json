@@ -10718,6 +10718,12 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Gitaar met statief",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434977484-gitaar-met-statief"
+        },
+        "m2434994814": {
+          "first_seen_at": "2026-08-25T10:25:35.669660+00:00",
+          "price_display": "€ 495,00",
+          "title": "Sigma DM-18+ akoestische gitaar - zeer goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434994814-sigma-dm-18-akoestische-gitaar-zeer-goede-staat"
         }
       }
     },
@@ -23639,6 +23645,12 @@
           "price_display": "€ 45,00",
           "title": "Halterbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2416760805-halterbank"
+        },
+        "m2417201172": {
+          "first_seen_at": "2026-08-25T10:24:46.122366+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "Banc musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2417201172-banc-musculation"
         },
         "m2417956044": {
           "first_seen_at": "2026-07-13T13:48:22.483502+00:00",
@@ -49217,6 +49229,18 @@
           "price_display": "€ 140,00",
           "title": "Nieuwe Airex mat Type corona 200 kleur antraciet",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434975299-nieuwe-airex-mat-type-corona-200-kleur-antraciet"
+        },
+        "m2434996591": {
+          "first_seen_at": "2026-08-25T10:24:46.122366+00:00",
+          "price_display": "€ 700,00",
+          "title": "Lot bumperplates 370kg 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434996591-lot-bumperplates-370kg-50mm"
+        },
+        "m2434997441": {
+          "first_seen_at": "2026-08-25T10:24:46.122366+00:00",
+          "price_display": "€ 1.400,00",
+          "title": "Half rack + stang + plates + bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434997441-half-rack-stang-plates-bench"
         }
       }
     },
@@ -60399,6 +60423,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "pianotas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434982295-pianotas"
+        },
+        "m2434988074": {
+          "first_seen_at": "2026-08-25T10:25:24.907573+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "elektronische piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434988074-elektronische-piano"
+        },
+        "m2434989374": {
+          "first_seen_at": "2026-08-25T10:25:24.907573+00:00",
+          "price_display": "€ 500,00",
+          "title": "digitale vleugelpiano ROLAND",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434989374-digitale-vleugelpiano-roland"
+        },
+        "m2434996819": {
+          "first_seen_at": "2026-08-25T10:25:24.907573+00:00",
+          "price_display": "€ 1.200,00",
+          "title": "piano kwart vleugel merk De Heug",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434996819-piano-kwart-vleugel-merk-de-heug"
+        },
+        "m2434998216": {
+          "first_seen_at": "2026-08-25T10:25:24.907573+00:00",
+          "price_display": "Gratis",
+          "title": "PIANO décoratif",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434998216-piano-decoratif"
         }
       }
     }
@@ -60406,7 +60454,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T09:55:31.135794+00:00",
+    "last_checked_at": "2026-08-25T10:25:36.145224+00:00",
     "outage_alert_sent": false
   }
 }
