@@ -10850,6 +10850,12 @@
           "price_display": "€ 350,00",
           "title": "Takamine GD51CE électro-acoustique – 350 €",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435201074-takamine-gd51ce-electro-acoustique-350"
+        },
+        "m2435212020": {
+          "first_seen_at": "2026-08-25T20:10:36.148123+00:00",
+          "price_display": "€ 550,00",
+          "title": "Kopen/ Ruilen: Alvarez 8-snarige Bariton (ABT60E-8)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435212020-kopen-ruilen-alvarez-8-snarige-bariton-abt60e-8"
         }
       }
     },
@@ -23148,6 +23154,12 @@
           "price_display": "€ 200,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435157871-crosstrainer"
+        },
+        "m2435209341": {
+          "first_seen_at": "2026-08-25T20:10:07.741692+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435209341-crosstrainer"
         }
       }
     },
@@ -61270,7 +61282,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T19:48:20.224449+00:00",
+    "last_checked_at": "2026-08-25T20:10:37.485502+00:00",
     "outage_alert_sent": false
   }
 }
