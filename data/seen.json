@@ -10820,6 +10820,12 @@
           "price_display": "€ 550,00",
           "title": "Salvador Cortez CS-205 elektro-klassiek + hardcase",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435145698-salvador-cortez-cs-205-elektro-klassiek-hardcase"
+        },
+        "m2435170761": {
+          "first_seen_at": "2026-08-25T18:31:45.663758+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Antonio Lorca Artisanale klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435170761-antonio-lorca-artisanale-klassieke-gitaar"
         }
       }
     },
@@ -49745,6 +49751,30 @@
           "price_display": "€ 5,00",
           "title": "gymbal Q4life",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435164800-gymbal-q4life"
+        },
+        "m2435171847": {
+          "first_seen_at": "2026-08-25T18:30:58.440098+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Muscu, musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435171847-muscu-musculation"
+        },
+        "m2435174467": {
+          "first_seen_at": "2026-08-25T18:30:58.440098+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness bank van DOMYOS",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435174467-fitness-bank-van-domyos"
+        },
+        "m2435175061": {
+          "first_seen_at": "2026-08-25T18:30:58.440098+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Krachttoren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435175061-krachttoren"
+        },
+        "m2435175194": {
+          "first_seen_at": "2026-08-25T18:30:58.440098+00:00",
+          "price_display": "€ 850,00",
+          "title": "TECHNOGYM EXCITE CROSSOVER CROSSTRAINER",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435175194-technogym-excite-crossover-crosstrainer"
         }
       }
     },
@@ -61089,6 +61119,18 @@
           "price_display": "€ 400,00",
           "title": "Digitale piano Yamha CVP 96",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435165452-digitale-piano-yamha-cvp-96"
+        },
+        "m2435176241": {
+          "first_seen_at": "2026-08-25T18:31:38.132968+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "Buffeltpiano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435176241-buffeltpiano-te-koop"
+        },
+        "m2435181944": {
+          "first_seen_at": "2026-08-25T18:31:38.132968+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435181944-piano"
         }
       }
     }
@@ -61096,7 +61138,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T17:55:47.113161+00:00",
+    "last_checked_at": "2026-08-25T18:31:46.318046+00:00",
     "outage_alert_sent": false
   }
 }
