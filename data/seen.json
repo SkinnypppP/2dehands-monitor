@@ -10796,6 +10796,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Saz gaucher, non accordé avec sac",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435111727-saz-gaucher-non-accorde-avec-sac"
+        },
+        "m2435116579": {
+          "first_seen_at": "2026-08-25T16:03:27.431007+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Cort Guitar avec Fishman",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435116579-cort-guitar-avec-fishman"
+        },
+        "m2435123496": {
+          "first_seen_at": "2026-08-25T16:03:27.431007+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Richwood D-40 Master series akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435123496-richwood-d-40-master-series-akoestische-gitaar"
         }
       }
     },
@@ -49613,6 +49625,24 @@
           "price_display": "€ 10,00",
           "title": "Sleutelhanger 'Muscle Mommy' of 'Quad Daddy'",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435110996-sleutelhanger-muscle-mommy-of-quad-daddy"
+        },
+        "m2435117295": {
+          "first_seen_at": "2026-08-25T16:02:37.056870+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Squat stand / squatrek / squat rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435117295-squat-stand-squatrek-squat-rack"
+        },
+        "m2435127667": {
+          "first_seen_at": "2026-08-25T16:02:37.056870+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435127667-gewichten"
+        },
+        "m2435130113": {
+          "first_seen_at": "2026-08-25T16:02:37.056870+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Pull-up (pullup) bar 80-130cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435130113-pull-up-pullup-bar-80-130cm"
         }
       }
     },
@@ -60909,6 +60939,18 @@
           "price_display": "€ 3.250,00",
           "title": "Piano - Hailun - te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435086419-piano-hailun-te-koop"
+        },
+        "m2435117378": {
+          "first_seen_at": "2026-08-25T16:03:16.287970+00:00",
+          "price_display": "€ 500,00",
+          "title": "Roland HP 2e Digitale Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435117378-roland-hp-2e-digitale-piano"
+        },
+        "m2435125012": {
+          "first_seen_at": "2026-08-25T16:03:16.287970+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vleugel piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435125012-vleugel-piano"
         }
       }
     }
@@ -60916,7 +60958,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T15:13:47.612866+00:00",
+    "last_checked_at": "2026-08-25T16:03:30.188166+00:00",
     "outage_alert_sent": false
   }
 }
