@@ -10712,6 +10712,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434968984-gitaar"
+        },
+        "m2434977484": {
+          "first_seen_at": "2026-08-25T09:55:30.788628+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Gitaar met statief",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434977484-gitaar-met-statief"
         }
       }
     },
@@ -49199,6 +49205,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "buikspier toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434961930-buikspier-toestel"
+        },
+        "m2434973386": {
+          "first_seen_at": "2026-08-25T09:54:42.637893+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "cardiotoestel technogym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434973386-cardiotoestel-technogym"
+        },
+        "m2434975299": {
+          "first_seen_at": "2026-08-25T09:54:42.637893+00:00",
+          "price_display": "€ 140,00",
+          "title": "Nieuwe Airex mat Type corona 200 kleur antraciet",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434975299-nieuwe-airex-mat-type-corona-200-kleur-antraciet"
         }
       }
     },
@@ -60375,6 +60393,12 @@
           "price_display": "€ 1.700,00",
           "title": "piano Yamaha model C-109",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434944683-piano-yamaha-model-c-109"
+        },
+        "m2434982295": {
+          "first_seen_at": "2026-08-25T09:55:19.287499+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "pianotas",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434982295-pianotas"
         }
       }
     }
@@ -60382,7 +60406,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T09:18:18.583576+00:00",
+    "last_checked_at": "2026-08-25T09:55:31.135794+00:00",
     "outage_alert_sent": false
   }
 }
