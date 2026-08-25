@@ -23106,6 +23106,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "tapis de marche",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435143588-tapis-de-marche"
+        },
+        "m2435157871": {
+          "first_seen_at": "2026-08-25T17:26:11.967144+00:00",
+          "price_display": "€ 200,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435157871-crosstrainer"
         }
       }
     },
@@ -49697,6 +49703,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gants / maniques crossfit musculation taille S – Neuf",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435145062-gants-maniques-crossfit-musculation-taille-s-neuf"
+        },
+        "m2435153844": {
+          "first_seen_at": "2026-08-25T17:25:46.521592+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Verstelbare halterbank + 4 haltersets nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435153844-verstelbare-halterbank-4-haltersets-nieuw"
+        },
+        "m2435155957": {
+          "first_seen_at": "2026-08-25T17:25:46.521592+00:00",
+          "price_display": "€ 395,00",
+          "title": "Wahoo kickr core 2 + zwift cog & zwift click + mat & steun",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435155957-wahoo-kickr-core-2-zwift-cog-zwift-click-mat-steun"
+        },
+        "m2435156910": {
+          "first_seen_at": "2026-08-25T17:25:46.521592+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "krachtstation / Fitnesstoestel Body Solid",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435156910-krachtstation-fitnesstoestel-body-solid"
         }
       }
     },
@@ -61005,6 +61029,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vleugel piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435125012-vleugel-piano"
+        },
+        "m2435148513": {
+          "first_seen_at": "2026-08-25T17:26:33.984611+00:00",
+          "price_display": "Bieden vanaf € 2.950,00",
+          "title": "Top piano acoustique mi queue bleu",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435148513-top-piano-acoustique-mi-queue-bleu"
+        },
+        "m2435152736": {
+          "first_seen_at": "2026-08-25T17:26:33.984611+00:00",
+          "price_display": "Bieden vanaf € 3.700,00",
+          "title": "Piano acoustique automatique yamaha mx80",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435152736-piano-acoustique-automatique-yamaha-mx80"
+        },
+        "m2435152839": {
+          "first_seen_at": "2026-08-25T17:26:33.984611+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435152839-piano"
+        },
+        "m2435158868": {
+          "first_seen_at": "2026-08-25T17:26:33.984611+00:00",
+          "price_display": "€ 600,00",
+          "title": "Piano Yamaha Clavinova CLP-110",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435158868-piano-yamaha-clavinova-clp-110"
         }
       }
     }
@@ -61012,7 +61060,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T16:51:50.821908+00:00",
+    "last_checked_at": "2026-08-25T17:26:50.019255+00:00",
     "outage_alert_sent": false
   }
 }
