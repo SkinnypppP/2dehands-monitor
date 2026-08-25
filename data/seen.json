@@ -60087,6 +60087,12 @@
           "price_display": "Bieden vanaf € 4.500,00",
           "title": "Piano Erard 3/4 queue restauré il y a 20 ans",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434886483-piano-erard-3-4-queue-restaure-il-y-a-20-ans"
+        },
+        "m2434890992": {
+          "first_seen_at": "2026-08-25T04:20:33.220986+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Digitale piano Yamaha p-155",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434890992-digitale-piano-yamaha-p-155"
         }
       }
     }
@@ -60094,7 +60100,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T03:34:22.153521+00:00",
+    "last_checked_at": "2026-08-25T04:20:42.766570+00:00",
     "outage_alert_sent": false
   }
 }
