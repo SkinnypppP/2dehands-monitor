@@ -10688,6 +10688,30 @@
           "price_display": "Bieden vanaf € 1.000,00",
           "title": "manuel rodriguez e hijos",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434948901-manuel-rodriguez-e-hijos"
+        },
+        "m2434957452": {
+          "first_seen_at": "2026-08-25T09:18:14.547103+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Alhambra klassieke gitaar 1978",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434957452-alhambra-klassieke-gitaar-1978"
+        },
+        "m2434962251": {
+          "first_seen_at": "2026-08-25T09:18:14.547103+00:00",
+          "price_display": "€ 280,00",
+          "title": "Almansa 401 Cedro klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434962251-almansa-401-cedro-klassieke-gitaar"
+        },
+        "m2434962737": {
+          "first_seen_at": "2026-08-25T09:18:14.547103+00:00",
+          "price_display": "€ 280,00",
+          "title": "Klassieke gitaar Esteve Model 1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434962737-klassieke-gitaar-esteve-model-1"
+        },
+        "m2434968984": {
+          "first_seen_at": "2026-08-25T09:18:14.547103+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434968984-gitaar"
         }
       }
     },
@@ -22848,6 +22872,24 @@
           "price_display": "€ 350,00",
           "title": "Crosstrainer Tinturi",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434947281-crosstrainer-tinturi"
+        },
+        "m2434958274": {
+          "first_seen_at": "2026-08-25T09:17:45.524666+00:00",
+          "price_display": "€ 125,00",
+          "title": "Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434958274-hometrainer"
+        },
+        "m2434958482": {
+          "first_seen_at": "2026-08-25T09:17:45.524666+00:00",
+          "price_display": "Bieden vanaf € 1.800,00",
+          "title": "Vacuüm step en 3 rokken",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434958482-vacuum-step-en-3-rokken"
+        },
+        "m2434958646": {
+          "first_seen_at": "2026-08-25T09:17:45.524666+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Tapis de course",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434958646-tapis-de-course"
         }
       }
     },
@@ -49145,6 +49187,18 @@
           "price_display": "€ 950,00",
           "title": "SPORTSART TR 33 LOOPBAND",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434953321-sportsart-tr-33-loopband"
+        },
+        "m2434956357": {
+          "first_seen_at": "2026-08-25T09:17:28.469854+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "verstelbaar squatrack / powerrack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434956357-verstelbaar-squatrack-powerrack"
+        },
+        "m2434961930": {
+          "first_seen_at": "2026-08-25T09:17:28.469854+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "buikspier toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434961930-buikspier-toestel"
         }
       }
     },
@@ -60328,7 +60382,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T08:35:16.683923+00:00",
+    "last_checked_at": "2026-08-25T09:18:18.583576+00:00",
     "outage_alert_sent": false
   }
 }
