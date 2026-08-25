@@ -10838,6 +10838,18 @@
           "price_display": "Bieden vanaf € 170,00",
           "title": "Klassieke gitaar 3/4 Altamira (incl. accessoires)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435192226-klassieke-gitaar-3-4-altamira-incl-accessoires"
+        },
+        "m2435200614": {
+          "first_seen_at": "2026-08-25T19:48:18.285057+00:00",
+          "price_display": "€ 80,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435200614-akoestische-gitaar"
+        },
+        "m2435201074": {
+          "first_seen_at": "2026-08-25T19:48:18.285057+00:00",
+          "price_display": "€ 350,00",
+          "title": "Takamine GD51CE électro-acoustique – 350 €",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435201074-takamine-gd51ce-electro-acoustique-350"
         }
       }
     },
@@ -49841,6 +49853,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Fittnesmateriaal",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435195214-fittnesmateriaal"
+        },
+        "m2435203232": {
+          "first_seen_at": "2026-08-25T19:47:28.264891+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Gewichten 26 stuks met  klemmen en as: fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435203232-gewichten-26-stuks-met-klemmen-en-as-fitness"
+        },
+        "m2435207417": {
+          "first_seen_at": "2026-08-25T19:47:28.264891+00:00",
+          "price_display": "€ 30,00",
+          "title": "Poids er alteres",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435207417-poids-er-alteres"
         }
       }
     },
@@ -61227,6 +61251,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Piano Broadway us",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435198463-piano-broadway-us"
+        },
+        "m2435202038": {
+          "first_seen_at": "2026-08-25T19:48:07.987954+00:00",
+          "price_display": "Bieden vanaf € 6.000,00",
+          "title": "Bechstein vleugelpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435202038-bechstein-vleugelpiano"
+        },
+        "m2435203703": {
+          "first_seen_at": "2026-08-25T19:48:07.987954+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Oude piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435203703-oude-piano"
         }
       }
     }
@@ -61234,7 +61270,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T19:15:41.034609+00:00",
+    "last_checked_at": "2026-08-25T19:48:20.224449+00:00",
     "outage_alert_sent": false
   }
 }
