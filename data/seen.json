@@ -10724,6 +10724,12 @@
           "price_display": "€ 495,00",
           "title": "Sigma DM-18+ akoestische gitaar - zeer goede staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434994814-sigma-dm-18-akoestische-gitaar-zeer-goede-staat"
+        },
+        "m2435012028": {
+          "first_seen_at": "2026-08-25T10:58:41.096970+00:00",
+          "price_display": "€ 100,00",
+          "title": "Akoestische gitaar STAGG - zwart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435012028-akoestische-gitaar-stagg-zwart"
         }
       }
     },
@@ -49241,6 +49247,18 @@
           "price_display": "€ 1.400,00",
           "title": "Half rack + stang + plates + bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434997441-half-rack-stang-plates-bench"
+        },
+        "m2435002665": {
+          "first_seen_at": "2026-08-25T10:57:53.538039+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "AB coach buikspier trainer abtrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435002665-ab-coach-buikspier-trainer-abtrainer"
+        },
+        "m2435008188": {
+          "first_seen_at": "2026-08-25T10:57:53.538039+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "A saisir tapis de course excellent etat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435008188-a-saisir-tapis-de-course-excellent-etat"
         }
       }
     },
@@ -52900,6 +52918,12 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "Nox AT10 Genius Limited Edition",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434945783-nox-at10-genius-limited-edition"
+        },
+        "m2435008088": {
+          "first_seen_at": "2026-08-25T10:58:04.732983+00:00",
+          "price_display": "€ 15,00",
+          "title": "Nox Custom Grips",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435008088-nox-custom-grips"
         }
       }
     },
@@ -60447,6 +60471,12 @@
           "price_display": "Gratis",
           "title": "PIANO décoratif",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434998216-piano-decoratif"
+        },
+        "m2435005497": {
+          "first_seen_at": "2026-08-25T10:58:33.040730+00:00",
+          "price_display": "€ 1.800,00",
+          "title": "YAMAHA-piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435005497-yamaha-piano"
         }
       }
     }
@@ -60454,7 +60484,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T10:25:36.145224+00:00",
+    "last_checked_at": "2026-08-25T10:58:41.874441+00:00",
     "outage_alert_sent": false
   }
 }
