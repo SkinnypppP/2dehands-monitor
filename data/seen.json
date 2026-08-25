@@ -10730,6 +10730,12 @@
           "price_display": "€ 100,00",
           "title": "Akoestische gitaar STAGG - zwart",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435012028-akoestische-gitaar-stagg-zwart"
+        },
+        "m2435019861": {
+          "first_seen_at": "2026-08-25T11:29:55.950284+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Klassieke gitaar cuanca 60R met stagg hardcase",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435019861-klassieke-gitaar-cuanca-60r-met-stagg-hardcase"
         }
       }
     },
@@ -22908,6 +22914,12 @@
           "price_display": "Bieden vanaf € 650,00",
           "title": "Tapis de course",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434958646-tapis-de-course"
+        },
+        "m2435022239": {
+          "first_seen_at": "2026-08-25T11:29:27.945721+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Trilplaat / vibration board",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435022239-trilplaat-vibration-board"
         }
       }
     },
@@ -49259,6 +49271,24 @@
           "price_display": "Bieden vanaf € 240,00",
           "title": "A saisir tapis de course excellent etat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435008188-a-saisir-tapis-de-course-excellent-etat"
+        },
+        "m2435016500": {
+          "first_seen_at": "2026-08-25T11:29:02.362312+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Technogym crossover 500 SP",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435016500-technogym-crossover-500-sp"
+        },
+        "m2435016563": {
+          "first_seen_at": "2026-08-25T11:29:02.362312+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Halterstang en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435016563-halterstang-en-gewichten"
+        },
+        "m2435017679": {
+          "first_seen_at": "2026-08-25T11:29:02.362312+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Plyo box",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435017679-plyo-box"
         }
       }
     },
@@ -60477,6 +60507,18 @@
           "price_display": "€ 1.800,00",
           "title": "YAMAHA-piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435005497-yamaha-piano"
+        },
+        "m2435014847": {
+          "first_seen_at": "2026-08-25T11:29:46.095357+00:00",
+          "price_display": "Bieden vanaf € 495,00",
+          "title": "Piano Hoffmann incl. stoeltje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435014847-piano-hoffmann-incl-stoeltje"
+        },
+        "m2435022818": {
+          "first_seen_at": "2026-08-25T11:29:46.095357+00:00",
+          "price_display": "Bieden vanaf € 3.000,00",
+          "title": "Yamaha-piano in perfecte staat!",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435022818-yamaha-piano-in-perfecte-staat"
         }
       }
     }
@@ -60484,7 +60526,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T10:58:41.874441+00:00",
+    "last_checked_at": "2026-08-25T11:29:57.142416+00:00",
     "outage_alert_sent": false
   }
 }
