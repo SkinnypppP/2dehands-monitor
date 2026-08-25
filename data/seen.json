@@ -60075,6 +60075,12 @@
           "price_display": "Zie omschrijving",
           "title": "Pianolessen, piano lessons offline / online",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434881383-pianolessen-piano-lessons-offline-online"
+        },
+        "m2434886483": {
+          "first_seen_at": "2026-08-25T01:48:18.565280+00:00",
+          "price_display": "Bieden vanaf € 4.500,00",
+          "title": "Piano Erard 3/4 queue restauré il y a 20 ans",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434886483-piano-erard-3-4-queue-restaure-il-y-a-20-ans"
         }
       }
     }
@@ -60082,7 +60088,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-24T23:22:07.950027+00:00",
+    "last_checked_at": "2026-08-25T01:48:27.241007+00:00",
     "outage_alert_sent": false
   }
 }
