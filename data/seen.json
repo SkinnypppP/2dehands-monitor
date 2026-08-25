@@ -10670,6 +10670,12 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "giatare acoustique pour enfant",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434895805-giatare-acoustique-pour-enfant"
+        },
+        "m2434900363": {
+          "first_seen_at": "2026-08-25T06:01:57.532863+00:00",
+          "price_display": "€ 280,00",
+          "title": "Cuenca 10 studiegitaar + draagzak & voetsteun",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434900363-cuenca-10-studiegitaar-draagzak-voetsteun"
         }
       }
     },
@@ -49007,6 +49013,18 @@
           "price_display": "€ 950,00",
           "title": "LIFE FITNESS SHOULDER ZWART OF BORDEAUX BEKLEDING",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434888760-life-fitness-shoulder-zwart-of-bordeaux-bekleding"
+        },
+        "m2434899114": {
+          "first_seen_at": "2026-08-25T06:01:13.731976+00:00",
+          "price_display": "€ 1.395,00",
+          "title": "Professionele HEX dumbbell set 2,5 t/m 30 kg + opbergrek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434899114-professionele-hex-dumbbell-set-2-5-t-m-30-kg-opbergrek"
+        },
+        "m2434900395": {
+          "first_seen_at": "2026-08-25T06:01:13.731976+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "KENDOX RowShaper roeitrainer – zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434900395-kendox-rowshaper-roeitrainer-zeer-goede-staat"
         }
       }
     },
@@ -60147,6 +60165,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Digitale piano Yamaha p-155",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434890992-digitale-piano-yamaha-p-155"
+        },
+        "m2434900030": {
+          "first_seen_at": "2026-08-25T06:01:50.376082+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Yamaha Clavinova CLP-124 digitale piano - donkerbruin",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434900030-yamaha-clavinova-clp-124-digitale-piano-donkerbruin"
         }
       }
     }
@@ -60154,7 +60178,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T05:35:06.032384+00:00",
+    "last_checked_at": "2026-08-25T06:01:57.935424+00:00",
     "outage_alert_sent": false
   }
 }
