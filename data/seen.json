@@ -48953,6 +48953,12 @@
           "price_display": "€ 400,00",
           "title": "Hammer Strength Olympic Squat Rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434876408-hammer-strength-olympic-squat-rack"
+        },
+        "m2434888760": {
+          "first_seen_at": "2026-08-25T03:33:36.626833+00:00",
+          "price_display": "€ 950,00",
+          "title": "LIFE FITNESS SHOULDER ZWART OF BORDEAUX BEKLEDING",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434888760-life-fitness-shoulder-zwart-of-bordeaux-bekleding"
         }
       }
     },
@@ -60088,7 +60094,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T01:48:27.241007+00:00",
+    "last_checked_at": "2026-08-25T03:34:22.153521+00:00",
     "outage_alert_sent": false
   }
 }
