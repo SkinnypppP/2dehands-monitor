@@ -10664,6 +10664,12 @@
           "price_display": "Zie omschrijving",
           "title": "Gitaar Fender",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434867838-gitaar-fender"
+        },
+        "m2434895805": {
+          "first_seen_at": "2026-08-25T05:35:05.349563+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "giatare acoustique pour enfant",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434895805-giatare-acoustique-pour-enfant"
         }
       }
     },
@@ -15655,6 +15661,12 @@
           "price_display": "€ 350,00",
           "title": "Krugerrand 1oz zilver (5 stuks)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434803311-krugerrand-1oz-zilver-5-stuks"
+        },
+        "m2434898400": {
+          "first_seen_at": "2026-08-25T05:34:46.496853+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "5x #Koperbaren #Germania Mint 1 kilogram fine koper 999.9",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434898400-5x-koperbaren-germania-mint-1-kilogram-fine-koper-999-9"
         }
       }
     },
@@ -22776,6 +22788,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434869378-hometrainer"
+        },
+        "m2434894376": {
+          "first_seen_at": "2026-08-25T05:34:34.180495+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Home gym Buffalo - 220 L  115 B x 200 H",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434894376-home-gym-buffalo-220-l-115-b-x-200-h"
         }
       }
     },
@@ -59806,6 +59824,12 @@
           "title": "Vleugel Piano Pleyel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434080308-vleugel-piano-pleyel"
         },
+        "m2434103411": {
+          "first_seen_at": "2026-08-25T05:34:57.608170+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Urbas & Reisshauer piano, antiek",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434103411-urbas-reisshauer-piano-antiek"
+        },
         "m2434116701": {
           "first_seen_at": "2026-08-23T11:31:34.272421+00:00",
           "price_display": "Bieden vanaf € 350,00",
@@ -60130,7 +60154,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T04:59:24.366015+00:00",
+    "last_checked_at": "2026-08-25T05:35:06.032384+00:00",
     "outage_alert_sent": false
   }
 }
