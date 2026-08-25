@@ -53590,6 +53590,12 @@
           "price_display": "Bieden vanaf € 175,00",
           "title": "Nox AT10 Luxury Genius 18K Alum 2026 NIEUW!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435223676-nox-at10-luxury-genius-18k-alum-2026-nieuw"
+        },
+        "m2435227105": {
+          "first_seen_at": "2026-08-25T21:41:41.939205+00:00",
+          "price_display": "€ 25,00",
+          "title": "Sac de Padel Babolat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435227105-sac-de-padel-babolat"
         }
       }
     },
@@ -61317,6 +61323,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Solton MS 60",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435226532-solton-ms-60"
+        },
+        "m2435227515": {
+          "first_seen_at": "2026-08-25T21:42:15.059989+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Ruch Paris piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435227515-ruch-paris-piano"
+        },
+        "m2435230101": {
+          "first_seen_at": "2026-08-25T21:42:15.059989+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "piano stoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435230101-piano-stoel"
         }
       }
     }
@@ -61324,7 +61342,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T21:10:12.446558+00:00",
+    "last_checked_at": "2026-08-25T21:42:24.756565+00:00",
     "outage_alert_sent": false
   }
 }
