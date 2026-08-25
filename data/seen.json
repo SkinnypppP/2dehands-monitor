@@ -15673,6 +15673,12 @@
           "price_display": "Zie omschrijving",
           "title": "5x #Koperbaren #Germania Mint 1 kilogram fine koper 999.9",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434898400-5x-koperbaren-germania-mint-1-kilogram-fine-koper-999-9"
+        },
+        "m2434904610": {
+          "first_seen_at": "2026-08-25T07:04:13.697767+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "20 gram zuiver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434904610-20-gram-zuiver"
         }
       }
     },
@@ -22800,6 +22806,12 @@
           "price_display": "Bieden vanaf € 95,00",
           "title": "Home gym Buffalo - 220 L  115 B x 200 H",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434894376-home-gym-buffalo-220-l-115-b-x-200-h"
+        },
+        "m2434908713": {
+          "first_seen_at": "2026-08-25T07:04:07.012483+00:00",
+          "price_display": "Bieden vanaf € 125,00",
+          "title": "vélo elliptique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434908713-velo-elliptique"
         }
       }
     },
@@ -49025,6 +49037,42 @@
           "price_display": "Bieden vanaf € 75,00",
           "title": "KENDOX RowShaper roeitrainer – zeer goede staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434900395-kendox-rowshaper-roeitrainer-zeer-goede-staat"
+        },
+        "m2434902688": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "Gratis",
+          "title": "Fitness bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434902688-fitness-bank"
+        },
+        "m2434903916": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "Gratis",
+          "title": "Gewichten 7,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434903916-gewichten-7-5kg"
+        },
+        "m2434907284": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "€ 15,00",
+          "title": "dumbbel 3 KG Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434907284-dumbbel-3-kg-tunturi"
+        },
+        "m2434907652": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "€ 25,00",
+          "title": "dumbbel 5KG Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434907652-dumbbel-5kg-tunturi"
+        },
+        "m2434908136": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "€ 5,00",
+          "title": "kettle bell 6 KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434908136-kettle-bell-6-kg"
+        },
+        "m2434908387": {
+          "first_seen_at": "2026-08-25T07:03:44.631597+00:00",
+          "price_display": "€ 15,00",
+          "title": "Kettle bell 10 KG",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434908387-kettle-bell-10-kg"
         }
       }
     },
@@ -60178,7 +60226,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T06:01:57.935424+00:00",
+    "last_checked_at": "2026-08-25T07:04:32.684181+00:00",
     "outage_alert_sent": false
   }
 }
