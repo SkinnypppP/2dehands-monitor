@@ -10856,6 +10856,12 @@
           "price_display": "€ 550,00",
           "title": "Kopen/ Ruilen: Alvarez 8-snarige Bariton (ABT60E-8)",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435212020-kopen-ruilen-alvarez-8-snarige-bariton-abt60e-8"
+        },
+        "m2435220599": {
+          "first_seen_at": "2026-08-25T20:44:51.282908+00:00",
+          "price_display": "Bieden vanaf € 520,00",
+          "title": "Art & Lutherie Americana Bourbon Burst akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435220599-art-lutherie-americana-bourbon-burst-akoestische-gitaar"
         }
       }
     },
@@ -53554,6 +53560,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Nieuwe metalbone ctrl 2026",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435084594-nieuwe-metalbone-ctrl-2026"
+        },
+        "m2435216886": {
+          "first_seen_at": "2026-08-25T20:44:12.795751+00:00",
+          "price_display": "€ 50,00",
+          "title": "2 padel rakketten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435216886-2-padel-rakketten"
+        },
+        "m2435218806": {
+          "first_seen_at": "2026-08-25T20:44:12.795751+00:00",
+          "price_display": "€ 60,00",
+          "title": "Bullpadel racket voor rugcomfort",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435218806-bullpadel-racket-voor-rugcomfort"
         }
       }
     },
@@ -61282,7 +61300,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T20:10:37.485502+00:00",
+    "last_checked_at": "2026-08-25T20:44:52.582050+00:00",
     "outage_alert_sent": false
   }
 }
