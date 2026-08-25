@@ -10784,6 +10784,18 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "akoestische gitaar Cort Cap810 inclusief tas",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435081247-akoestische-gitaar-cort-cap810-inclusief-tas"
+        },
+        "m2435104836": {
+          "first_seen_at": "2026-08-25T15:13:45.678457+00:00",
+          "price_display": "€ 230,00",
+          "title": "Guitare Tramontane T77D Idéale pour débutant",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435104836-guitare-tramontane-t77d-ideale-pour-debutant"
+        },
+        "m2435111727": {
+          "first_seen_at": "2026-08-25T15:13:45.678457+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Saz gaucher, non accordé avec sac",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435111727-saz-gaucher-non-accorde-avec-sac"
         }
       }
     },
@@ -15817,6 +15829,24 @@
           "price_display": "Zie omschrijving",
           "title": "84x Rectangle Dragon 2026 zilver 1 ounce",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434928740-84x-rectangle-dragon-2026-zilver-1-ounce"
+        },
+        "m2435104952": {
+          "first_seen_at": "2026-08-25T15:13:29.066924+00:00",
+          "price_display": "€ 440,00",
+          "title": "Zilveren Lunar II (5 oz)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435104952-zilveren-lunar-ii-5-oz"
+        },
+        "m2435107109": {
+          "first_seen_at": "2026-08-25T15:13:29.066924+00:00",
+          "price_display": "€ 1.200,00",
+          "title": "8x tubes #Britannia #1/10 ounce 2026 zilver .999 BU kwalitei",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435107109-8x-tubes-britannia-1-10-ounce-2026-zilver-999-bu-kwalitei"
+        },
+        "m2435112425": {
+          "first_seen_at": "2026-08-25T15:13:29.066924+00:00",
+          "price_display": "€ 48,00",
+          "title": "Boek : Belgische Zilvermerken (R. Stuyck)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435112425-boek-belgische-zilvermerken-r-stuyck"
         }
       }
     },
@@ -23022,6 +23052,18 @@
           "price_display": "€ 120,00",
           "title": "Walking pad",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435079970-walking-pad"
+        },
+        "m2435100656": {
+          "first_seen_at": "2026-08-25T15:13:19.721378+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435100656-trilplaat"
+        },
+        "m2435106378": {
+          "first_seen_at": "2026-08-25T15:13:19.721378+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Meerdere fitness toestellen met gewichten!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435106378-meerdere-fitness-toestellen-met-gewichten"
         }
       }
     },
@@ -49553,6 +49595,24 @@
           "price_display": "Zie omschrijving",
           "title": "Verkoop van verschillende gewichtsschijven, stangen & bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435087931-verkoop-van-verschillende-gewichtsschijven-stangen-bench"
+        },
+        "m2435097038": {
+          "first_seen_at": "2026-08-25T15:12:58.714703+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435097038-fitness"
+        },
+        "m2435105962": {
+          "first_seen_at": "2026-08-25T15:12:58.714703+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435105962-fitness"
+        },
+        "m2435110996": {
+          "first_seen_at": "2026-08-25T15:12:58.714703+00:00",
+          "price_display": "€ 10,00",
+          "title": "Sleutelhanger 'Muscle Mommy' of 'Quad Daddy'",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435110996-sleutelhanger-muscle-mommy-of-quad-daddy"
         }
       }
     },
@@ -60856,7 +60916,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T14:25:18.608509+00:00",
+    "last_checked_at": "2026-08-25T15:13:47.612866+00:00",
     "outage_alert_sent": false
   }
 }
