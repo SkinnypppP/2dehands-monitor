@@ -10808,6 +10808,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Richwood D-40 Master series akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435123496-richwood-d-40-master-series-akoestische-gitaar"
+        },
+        "m2435138838": {
+          "first_seen_at": "2026-08-25T16:51:48.220848+00:00",
+          "price_display": "€ 90,00",
+          "title": "guitare",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435138838-guitare"
+        },
+        "m2435145698": {
+          "first_seen_at": "2026-08-25T16:51:48.220848+00:00",
+          "price_display": "€ 550,00",
+          "title": "Salvador Cortez CS-205 elektro-klassiek + hardcase",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435145698-salvador-cortez-cs-205-elektro-klassiek-hardcase"
         }
       }
     },
@@ -15859,6 +15871,12 @@
           "price_display": "€ 48,00",
           "title": "Boek : Belgische Zilvermerken (R. Stuyck)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435112425-boek-belgische-zilvermerken-r-stuyck"
+        },
+        "m2435145920": {
+          "first_seen_at": "2026-08-25T16:51:31.027509+00:00",
+          "price_display": "€ 5.800,00",
+          "title": "84x Rectangle Dragon 2026 zilver 1 ounce.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435145920-84x-rectangle-dragon-2026-zilver-1-ounce"
         }
       }
     },
@@ -23076,6 +23094,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Meerdere fitness toestellen met gewichten!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435106378-meerdere-fitness-toestellen-met-gewichten"
+        },
+        "m2435138507": {
+          "first_seen_at": "2026-08-25T16:51:20.066387+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Fit Bike spinningfiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435138507-fit-bike-spinningfiets"
+        },
+        "m2435143588": {
+          "first_seen_at": "2026-08-25T16:51:20.066387+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "tapis de marche",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435143588-tapis-de-marche"
         }
       }
     },
@@ -49643,6 +49673,30 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Pull-up (pullup) bar 80-130cm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435130113-pull-up-pullup-bar-80-130cm"
+        },
+        "m2435131645": {
+          "first_seen_at": "2026-08-25T16:50:56.782656+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Tunturi foamroller (foam roller) blauw 90cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435131645-tunturi-foamroller-foam-roller-blauw-90cm"
+        },
+        "m2435131667": {
+          "first_seen_at": "2026-08-25T16:50:56.782656+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Apparatuur voor training met bank en gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435131667-apparatuur-voor-training-met-bank-en-gewichten"
+        },
+        "m2435134396": {
+          "first_seen_at": "2026-08-25T16:50:56.782656+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Taurus OB66 halterstang, 15 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435134396-taurus-ob66-halterstang-15-kg"
+        },
+        "m2435145062": {
+          "first_seen_at": "2026-08-25T16:50:56.782656+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gants / maniques crossfit musculation taille S – Neuf",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435145062-gants-maniques-crossfit-musculation-taille-s-neuf"
         }
       }
     },
@@ -60958,7 +61012,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T16:03:30.188166+00:00",
+    "last_checked_at": "2026-08-25T16:51:50.821908+00:00",
     "outage_alert_sent": false
   }
 }
