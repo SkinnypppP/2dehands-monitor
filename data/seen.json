@@ -15877,6 +15877,12 @@
           "price_display": "€ 5.800,00",
           "title": "84x Rectangle Dragon 2026 zilver 1 ounce.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435145920-84x-rectangle-dragon-2026-zilver-1-ounce"
+        },
+        "m2435163340": {
+          "first_seen_at": "2026-08-25T17:55:23.993073+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Goudbaar 5g",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435163340-goudbaar-5g"
         }
       }
     },
@@ -49721,6 +49727,24 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "krachtstation / Fitnesstoestel Body Solid",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435156910-krachtstation-fitnesstoestel-body-solid"
+        },
+        "m2435161331": {
+          "first_seen_at": "2026-08-25T17:54:38.938276+00:00",
+          "price_display": "€ 100,00",
+          "title": "Tunturi UB80 - Trainingsbank & buikspierbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435161331-tunturi-ub80-trainingsbank-buikspierbank"
+        },
+        "m2435163928": {
+          "first_seen_at": "2026-08-25T17:54:38.938276+00:00",
+          "price_display": "Gratis",
+          "title": "Fitness uiterlijk 26/8",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435163928-fitness-uiterlijk-26-8"
+        },
+        "m2435164800": {
+          "first_seen_at": "2026-08-25T17:54:38.938276+00:00",
+          "price_display": "€ 5,00",
+          "title": "gymbal Q4life",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435164800-gymbal-q4life"
         }
       }
     },
@@ -61053,6 +61077,18 @@
           "price_display": "€ 600,00",
           "title": "Piano Yamaha Clavinova CLP-110",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435158868-piano-yamaha-clavinova-clp-110"
+        },
+        "m2435165019": {
+          "first_seen_at": "2026-08-25T17:55:35.911493+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Roland RP701 CB - digitale piano + pianobank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435165019-roland-rp701-cb-digitale-piano-pianobank"
+        },
+        "m2435165452": {
+          "first_seen_at": "2026-08-25T17:55:35.911493+00:00",
+          "price_display": "€ 400,00",
+          "title": "Digitale piano Yamha CVP 96",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435165452-digitale-piano-yamha-cvp-96"
         }
       }
     }
@@ -61060,7 +61096,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T17:26:50.019255+00:00",
+    "last_checked_at": "2026-08-25T17:55:47.113161+00:00",
     "outage_alert_sent": false
   }
 }
