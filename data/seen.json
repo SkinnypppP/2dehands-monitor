@@ -15679,6 +15679,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "20 gram zuiver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434904610-20-gram-zuiver"
+        },
+        "m2434927989": {
+          "first_seen_at": "2026-08-25T07:54:14.260221+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "pin up",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434927989-pin-up"
+        },
+        "m2434928740": {
+          "first_seen_at": "2026-08-25T07:54:14.260221+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "84x Rectangle Dragon 2026 zilver 1 ounce",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2434928740-84x-rectangle-dragon-2026-zilver-1-ounce"
         }
       }
     },
@@ -22812,6 +22824,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "vélo elliptique",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434908713-velo-elliptique"
+        },
+        "m2434910693": {
+          "first_seen_at": "2026-08-25T07:54:02.909721+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Cablestation + Tunturi bench + gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434910693-cablestation-tunturi-bench-gewichten"
         }
       }
     },
@@ -49073,6 +49091,24 @@
           "price_display": "€ 15,00",
           "title": "Kettle bell 10 KG",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434908387-kettle-bell-10-kg"
+        },
+        "m2434915746": {
+          "first_seen_at": "2026-08-25T07:53:32.213883+00:00",
+          "price_display": "€ 400,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434915746-loopband"
+        },
+        "m2434916872": {
+          "first_seen_at": "2026-08-25T07:53:32.213883+00:00",
+          "price_display": "€ 500,00",
+          "title": "Fitnesstoestel met legpress!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434916872-fitnesstoestel-met-legpress"
+        },
+        "m2434922807": {
+          "first_seen_at": "2026-08-25T07:53:32.213883+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Kracht toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434922807-kracht-toestel"
         }
       }
     },
@@ -52720,6 +52756,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434866581-padelracket"
+        },
+        "m2434926555": {
+          "first_seen_at": "2026-08-25T07:53:55.751687+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Kuikma hybrid LS pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434926555-kuikma-hybrid-ls-pro"
         }
       }
     },
@@ -60219,6 +60261,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Yamaha Clavinova CLP-124 digitale piano - donkerbruin",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434900030-yamaha-clavinova-clp-124-digitale-piano-donkerbruin"
+        },
+        "m2434924534": {
+          "first_seen_at": "2026-08-25T07:54:22.168074+00:00",
+          "price_display": "€ 1.600,00",
+          "title": "Kawai CA67 R digitale piano in perfecte staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434924534-kawai-ca67-r-digitale-piano-in-perfecte-staat"
         }
       }
     }
@@ -60226,7 +60274,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T07:04:32.684181+00:00",
+    "last_checked_at": "2026-08-25T07:54:30.823959+00:00",
     "outage_alert_sent": false
   }
 }
