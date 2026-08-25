@@ -10862,6 +10862,12 @@
           "price_display": "Bieden vanaf € 520,00",
           "title": "Art & Lutherie Americana Bourbon Burst akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435220599-art-lutherie-americana-bourbon-burst-akoestische-gitaar"
+        },
+        "m2435224310": {
+          "first_seen_at": "2026-08-25T21:10:11.233809+00:00",
+          "price_display": "€ 70,00",
+          "title": "Klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435224310-klassieke-gitaar"
         }
       }
     },
@@ -49883,6 +49889,12 @@
           "price_display": "€ 30,00",
           "title": "Poids er alteres",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435207417-poids-er-alteres"
+        },
+        "m2435226037": {
+          "first_seen_at": "2026-08-25T21:09:26.984341+00:00",
+          "price_display": "€ 10,00",
+          "title": "Tricep Rope / Triceps Touw – Voor Kabelstation & Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435226037-tricep-rope-triceps-touw-voor-kabelstation-fitness"
         }
       }
     },
@@ -53572,6 +53584,12 @@
           "price_display": "€ 60,00",
           "title": "Bullpadel racket voor rugcomfort",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435218806-bullpadel-racket-voor-rugcomfort"
+        },
+        "m2435223676": {
+          "first_seen_at": "2026-08-25T21:09:36.009999+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "Nox AT10 Luxury Genius 18K Alum 2026 NIEUW!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435223676-nox-at10-luxury-genius-18k-alum-2026-nieuw"
         }
       }
     },
@@ -61293,6 +61311,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Oude piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435203703-oude-piano"
+        },
+        "m2435226532": {
+          "first_seen_at": "2026-08-25T21:10:02.431925+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Solton MS 60",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435226532-solton-ms-60"
         }
       }
     }
@@ -61300,7 +61324,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T20:44:52.582050+00:00",
+    "last_checked_at": "2026-08-25T21:10:12.446558+00:00",
     "outage_alert_sent": false
   }
 }
