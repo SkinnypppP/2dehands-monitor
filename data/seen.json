@@ -10736,6 +10736,18 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Klassieke gitaar cuanca 60R met stagg hardcase",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435019861-klassieke-gitaar-cuanca-60r-met-stagg-hardcase"
+        },
+        "m2435028513": {
+          "first_seen_at": "2026-08-25T11:56:33.796595+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Akoestische gitaar Morris, model F-12 dd 1972 + boekjes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435028513-akoestische-gitaar-morris-model-f-12-dd-1972-boekjes"
+        },
+        "m2435029124": {
+          "first_seen_at": "2026-08-25T11:56:33.796595+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435029124-akoestische-gitaar"
         }
       }
     },
@@ -22920,6 +22932,18 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Trilplaat / vibration board",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435022239-trilplaat-vibration-board"
+        },
+        "m2435031776": {
+          "first_seen_at": "2026-08-25T11:56:04.149118+00:00",
+          "price_display": "Bieden vanaf € 795,00",
+          "title": "Professionele Spirit Fitness XE795 Crosstrainer / Elliptical",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435031776-professionele-spirit-fitness-xe795-crosstrainer-elliptical"
+        },
+        "m2435033061": {
+          "first_seen_at": "2026-08-25T11:56:04.149118+00:00",
+          "price_display": "Bieden vanaf € 130,00",
+          "title": "fitnistrainer (hometrainer )",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435033061-fitnistrainer-hometrainer"
         }
       }
     },
@@ -60519,6 +60543,18 @@
           "price_display": "Bieden vanaf € 3.000,00",
           "title": "Yamaha-piano in perfecte staat!",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435022818-yamaha-piano-in-perfecte-staat"
+        },
+        "m2435025120": {
+          "first_seen_at": "2026-08-25T11:56:23.412971+00:00",
+          "price_display": "€ 3,30",
+          "title": "Kleine piano met een muziekje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435025120-kleine-piano-met-een-muziekje"
+        },
+        "m2435028231": {
+          "first_seen_at": "2026-08-25T11:56:23.412971+00:00",
+          "price_display": "Bieden vanaf € 4.200,00",
+          "title": "piano Yamaha U1 H",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435028231-piano-yamaha-u1-h"
         }
       }
     }
@@ -60526,7 +60562,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T11:29:57.142416+00:00",
+    "last_checked_at": "2026-08-25T11:56:35.666759+00:00",
     "outage_alert_sent": false
   }
 }
