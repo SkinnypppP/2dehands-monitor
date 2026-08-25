@@ -10676,6 +10676,18 @@
           "price_display": "€ 280,00",
           "title": "Cuenca 10 studiegitaar + draagzak & voetsteun",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434900363-cuenca-10-studiegitaar-draagzak-voetsteun"
+        },
+        "m2434947105": {
+          "first_seen_at": "2026-08-25T08:35:15.505314+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Klassieke gitaar voor kinderen, 3/4",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434947105-klassieke-gitaar-voor-kinderen-3-4"
+        },
+        "m2434948901": {
+          "first_seen_at": "2026-08-25T08:35:15.505314+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "manuel rodriguez e hijos",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2434948901-manuel-rodriguez-e-hijos"
         }
       }
     },
@@ -22830,6 +22842,12 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "Cablestation + Tunturi bench + gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434910693-cablestation-tunturi-bench-gewichten"
+        },
+        "m2434947281": {
+          "first_seen_at": "2026-08-25T08:34:47.695085+00:00",
+          "price_display": "€ 350,00",
+          "title": "Crosstrainer Tinturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434947281-crosstrainer-tinturi"
         }
       }
     },
@@ -49109,6 +49127,24 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Kracht toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434922807-kracht-toestel"
+        },
+        "m2434934280": {
+          "first_seen_at": "2026-08-25T08:34:28.301104+00:00",
+          "price_display": "€ 7,00",
+          "title": "Nieuwe Bodyring - Run Tec",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434934280-nieuwe-bodyring-run-tec"
+        },
+        "m2434949846": {
+          "first_seen_at": "2026-08-25T08:34:28.301104+00:00",
+          "price_display": "€ 95,00",
+          "title": "ATX - Pro wall Ball - 2x10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434949846-atx-pro-wall-ball-2x10kg"
+        },
+        "m2434953321": {
+          "first_seen_at": "2026-08-25T08:34:28.301104+00:00",
+          "price_display": "€ 950,00",
+          "title": "SPORTSART TR 33 LOOPBAND",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2434953321-sportsart-tr-33-loopband"
         }
       }
     },
@@ -52762,6 +52798,12 @@
           "price_display": "Bieden vanaf € 85,00",
           "title": "Kuikma hybrid LS pro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434926555-kuikma-hybrid-ls-pro"
+        },
+        "m2434945783": {
+          "first_seen_at": "2026-08-25T08:34:38.316668+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Nox AT10 Genius Limited Edition",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2434945783-nox-at10-genius-limited-edition"
         }
       }
     },
@@ -53031,6 +53073,12 @@
           "price_display": "Bieden vanaf € 1.250,00",
           "title": "Roland fp 90 draagbare piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2395185743-roland-fp-90-draagbare-piano"
+        },
+        "m2395197927": {
+          "first_seen_at": "2026-08-25T08:35:05.569128+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Studiologic Numa Compact 2",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2395197927-studiologic-numa-compact-2"
         },
         "m2395385324": {
           "first_seen_at": "2026-07-21T09:36:05.337007+00:00",
@@ -60267,6 +60315,12 @@
           "price_display": "€ 1.600,00",
           "title": "Kawai CA67 R digitale piano in perfecte staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434924534-kawai-ca67-r-digitale-piano-in-perfecte-staat"
+        },
+        "m2434944683": {
+          "first_seen_at": "2026-08-25T08:35:05.569128+00:00",
+          "price_display": "€ 1.700,00",
+          "title": "piano Yamaha model C-109",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2434944683-piano-yamaha-model-c-109"
         }
       }
     }
@@ -60274,7 +60328,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T07:54:30.823959+00:00",
+    "last_checked_at": "2026-08-25T08:35:16.683923+00:00",
     "outage_alert_sent": false
   }
 }
