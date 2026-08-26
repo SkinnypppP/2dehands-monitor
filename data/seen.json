@@ -681,11 +681,23 @@
           "title": "Washburn - HB-35 - - Elektrische gitaar - China",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165684690-washburn-hb-35-elektrische-gitaar-china"
         },
+        "a165685789": {
+          "first_seen_at": "2026-08-26T05:00:49.766454+00:00",
+          "price_display": "€ 204,00",
+          "title": "Fender - La Brea - - Akoestische gitaar - Zuid-Korea - 1991",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165685789-fender-la-brea-akoestische-gitaar-zuid-korea-1991"
+        },
         "a165687120": {
           "first_seen_at": "2026-08-22T05:12:24.075795+00:00",
           "price_display": "€ 900,00",
           "title": "Fender - Jazz Bass - - Elektrische basgitaar - Japan - 2006",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165687120-fender-jazz-bass-elektrische-basgitaar-japan-2006"
+        },
+        "a165687324": {
+          "first_seen_at": "2026-08-26T05:00:49.766454+00:00",
+          "price_display": "€ 340,00",
+          "title": "Ibanez - 540R Radius - - Guitare électrique - Japon",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165687324-ibanez-540r-radius-guitare-electrique-japon"
         },
         "a165689214": {
           "first_seen_at": "2026-08-24T05:10:52.441968+00:00",
@@ -23531,6 +23543,12 @@
           "price_display": "€ 40,00",
           "title": "Veiling - Halterset / Dumbells 40 kg - 2-delig - Zandgevuld",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165761102-veiling-halterset-dumbells-40-kg-2-delig-zandgevuld"
+        },
+        "a165808225": {
+          "first_seen_at": "2026-08-26T05:00:04.631440+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "Dumbell Set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165808225-dumbell-set"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -49955,6 +49973,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Halterset",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435238115-halterset"
+        },
+        "m2435258539": {
+          "first_seen_at": "2026-08-26T05:00:04.631440+00:00",
+          "price_display": "€ 6,00",
+          "title": "Gewichten 1kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435258539-gewichten-1kg"
         }
       }
     },
@@ -61402,7 +61426,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T02:24:24.693409+00:00",
+    "last_checked_at": "2026-08-26T05:00:51.641507+00:00",
     "outage_alert_sent": false
   }
 }
