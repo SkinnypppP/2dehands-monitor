@@ -49979,6 +49979,24 @@
           "price_display": "€ 6,00",
           "title": "Gewichten 1kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435258539-gewichten-1kg"
+        },
+        "m2435259748": {
+          "first_seen_at": "2026-08-26T05:40:23.406858+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "Trampoline de fitness pour enfants pour intérieur/extérieur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435259748-trampoline-de-fitness-pour-enfants-pour-interieur-exterieur"
+        },
+        "m2435262812": {
+          "first_seen_at": "2026-08-26T05:40:23.406858+00:00",
+          "price_display": "€ 195,00",
+          "title": "Fitnesstegels (rubbertegel) 5 m2 van 3 cm - Gymfloor",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435262812-fitnesstegels-rubbertegel-5-m2-van-3-cm-gymfloor"
+        },
+        "m2435263062": {
+          "first_seen_at": "2026-08-26T05:40:23.406858+00:00",
+          "price_display": "€ 75,00",
+          "title": "Halterset Tunturi",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435263062-halterset-tunturi"
         }
       }
     },
@@ -53680,6 +53698,12 @@
           "price_display": "€ 25,00",
           "title": "Sac de Padel Babolat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435227105-sac-de-padel-babolat"
+        },
+        "m2435261466": {
+          "first_seen_at": "2026-08-26T05:40:35.807609+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Padel racket kids",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435261466-padel-racket-kids"
         }
       }
     },
@@ -61426,7 +61450,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T05:00:51.641507+00:00",
+    "last_checked_at": "2026-08-26T05:41:08.871159+00:00",
     "outage_alert_sent": false
   }
 }
