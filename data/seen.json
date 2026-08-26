@@ -10958,6 +10958,24 @@
           "price_display": "Gratis",
           "title": "ukulele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435342700-ukulele"
+        },
+        "m2435366514": {
+          "first_seen_at": "2026-08-26T10:55:16.911182+00:00",
+          "price_display": "€ 250,00",
+          "title": "Alhambra 1C Klassieke Gitaar–Complete Set Koffer + Voetsteun",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435366514-alhambra-1c-klassieke-gitaar-complete-set-koffer-voetsteun"
+        },
+        "m2435366890": {
+          "first_seen_at": "2026-08-26T10:55:16.911182+00:00",
+          "price_display": "€ 275,00",
+          "title": "Spaanse Klassieke Gitaar (Jorge Banús López) – Complete Set",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435366890-spaanse-klassieke-gitaar-jorge-banus-lopez-complete-set"
+        },
+        "m2435367531": {
+          "first_seen_at": "2026-08-26T10:55:16.911182+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "L.R.Baggs Element Active System VTC",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435367531-l-r-baggs-element-active-system-vtc"
         }
       }
     },
@@ -50315,6 +50333,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "universal gym centurion 5 stack multistation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435354426-universal-gym-centurion-5-stack-multistation"
+        },
+        "m2435355069": {
+          "first_seen_at": "2026-08-26T10:54:19.943688+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "barbarian line fitness bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435355069-barbarian-line-fitness-bench"
+        },
+        "m2435356073": {
+          "first_seen_at": "2026-08-26T10:54:19.943688+00:00",
+          "price_display": "Bieden vanaf € 850,00",
+          "title": "bodycraft galena pro multistation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435356073-bodycraft-galena-pro-multistation"
+        },
+        "m2435361934": {
+          "first_seen_at": "2026-08-26T10:54:19.943688+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Fotsess toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435361934-fotsess-toestel"
         }
       }
     },
@@ -61851,6 +61887,18 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Kawai ES100 Digitale Piano incl. onderstel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435349465-kawai-es100-digitale-piano-incl-onderstel"
+        },
+        "m2435364097": {
+          "first_seen_at": "2026-08-26T10:55:03.677238+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Kinder piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435364097-kinder-piano"
+        },
+        "m2435365963": {
+          "first_seen_at": "2026-08-26T10:55:03.677238+00:00",
+          "price_display": "Bieden vanaf € 2.450,00",
+          "title": "Prachtige Japanse buffetpiano – zeer nette staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435365963-prachtige-japanse-buffetpiano-zeer-nette-staat"
         }
       }
     }
@@ -61858,7 +61906,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T10:19:36.101531+00:00",
+    "last_checked_at": "2026-08-26T10:55:22.546570+00:00",
     "outage_alert_sent": false
   }
 }
