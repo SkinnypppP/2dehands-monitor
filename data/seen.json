@@ -10976,6 +10976,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "L.R.Baggs Element Active System VTC",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435367531-l-r-baggs-element-active-system-vtc"
+        },
+        "m2435372265": {
+          "first_seen_at": "2026-08-26T11:24:03.500901+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Klassieke Gitaar Alhambra 1C",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435372265-klassieke-gitaar-alhambra-1c"
         }
       }
     },
@@ -16063,6 +16069,12 @@
           "price_display": "Bieden vanaf € 8,00",
           "title": "Zilver onder zilverprijs: halve dollar Kennedy 1967",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435247109-zilver-onder-zilverprijs-halve-dollar-kennedy-1967"
+        },
+        "m2435371480": {
+          "first_seen_at": "2026-08-26T11:23:43.425938+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "ik ben op zoek naar oude zilveren munten en voorwerpen",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435371480-ik-ben-op-zoek-naar-oude-zilveren-munten-en-voorwerpen"
         }
       }
     },
@@ -22579,6 +22591,12 @@
           "title": "Fitbike Ride 2 hometrainer – amper gebruikt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433329401-fitbike-ride-2-hometrainer-amper-gebruikt"
         },
+        "m2433339457": {
+          "first_seen_at": "2026-08-26T11:23:33.771556+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "crosstrainer wit-grijs",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2433339457-crosstrainer-wit-grijs"
+        },
         "m2433348574": {
           "first_seen_at": "2026-08-21T11:01:07.345190+00:00",
           "price_display": "Bieden vanaf € 90,00",
@@ -23358,6 +23376,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Kettler Ergometer E3 – stevige hometrainer in goede staat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435337604-kettler-ergometer-e3-stevige-hometrainer-in-goede-staat"
+        },
+        "m2435369785": {
+          "first_seen_at": "2026-08-26T11:23:33.771556+00:00",
+          "price_display": "€ 100,00",
+          "title": "Vintage sportraam",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435369785-vintage-sportraam"
         }
       }
     },
@@ -50351,6 +50375,18 @@
           "price_display": "Bieden vanaf € 10,00",
           "title": "Fotsess toestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435361934-fotsess-toestel"
+        },
+        "m2435367825": {
+          "first_seen_at": "2026-08-26T11:23:19.020671+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Halterset+gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435367825-halterset-gewichten"
+        },
+        "m2435368183": {
+          "first_seen_at": "2026-08-26T11:23:19.020671+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435368183-fitness"
         }
       }
     },
@@ -61899,6 +61935,12 @@
           "price_display": "Bieden vanaf € 2.450,00",
           "title": "Prachtige Japanse buffetpiano – zeer nette staat",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435365963-prachtige-japanse-buffetpiano-zeer-nette-staat"
+        },
+        "m2435369822": {
+          "first_seen_at": "2026-08-26T11:23:53.434919+00:00",
+          "price_display": "€ 60,00",
+          "title": "pianokruk    zwart Maene nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435369822-pianokruk-zwart-maene-nieuw"
         }
       }
     }
@@ -61906,7 +61948,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T10:55:22.546570+00:00",
+    "last_checked_at": "2026-08-26T11:24:03.924351+00:00",
     "outage_alert_sent": false
   }
 }
