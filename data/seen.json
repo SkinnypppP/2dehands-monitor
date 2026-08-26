@@ -10868,6 +10868,12 @@
           "price_display": "€ 70,00",
           "title": "Klassieke gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435224310-klassieke-gitaar"
+        },
+        "m2435246338": {
+          "first_seen_at": "2026-08-26T02:24:23.688270+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Gitaar te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435246338-gitaar-te-koop"
         }
       }
     },
@@ -15931,6 +15937,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Goudbaar 5g",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435163340-goudbaar-5g"
+        },
+        "m2435246500": {
+          "first_seen_at": "2026-08-26T02:24:00.191521+00:00",
+          "price_display": "Bieden vanaf € 33,00",
+          "title": "Zilver onder zilverprijs: zilveren penning .833",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435246500-zilver-onder-zilverprijs-zilveren-penning-833"
+        },
+        "m2435246704": {
+          "first_seen_at": "2026-08-26T02:24:00.191521+00:00",
+          "price_display": "Bieden vanaf € 7,50",
+          "title": "Zilver onder zilverprijs: 3x 6 pence Engeland",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435246704-zilver-onder-zilverprijs-3x-6-pence-engeland"
+        },
+        "m2435246884": {
+          "first_seen_at": "2026-08-26T02:24:00.191521+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gouden muntje 0,82gr",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435246884-gouden-muntje-0-82gr"
+        },
+        "m2435247109": {
+          "first_seen_at": "2026-08-26T02:24:00.191521+00:00",
+          "price_display": "Bieden vanaf € 8,00",
+          "title": "Zilver onder zilverprijs: halve dollar Kennedy 1967",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435247109-zilver-onder-zilverprijs-halve-dollar-kennedy-1967"
         }
       }
     },
@@ -61372,7 +61402,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-25T23:01:28.530116+00:00",
+    "last_checked_at": "2026-08-26T02:24:24.693409+00:00",
     "outage_alert_sent": false
   }
 }
