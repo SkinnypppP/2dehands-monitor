@@ -10982,6 +10982,24 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Klassieke Gitaar Alhambra 1C",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435372265-klassieke-gitaar-alhambra-1c"
+        },
+        "m2435378563": {
+          "first_seen_at": "2026-08-26T11:55:09.517645+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Acoustic Guitar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435378563-acoustic-guitar"
+        },
+        "m2435378599": {
+          "first_seen_at": "2026-08-26T11:55:09.517645+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gele concert ukulele",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435378599-gele-concert-ukulele"
+        },
+        "m2435387612": {
+          "first_seen_at": "2026-08-26T11:55:09.517645+00:00",
+          "price_display": "€ 2.100,00",
+          "title": "Gibson J45 Standard vintage sunburst 2021",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435387612-gibson-j45-standard-vintage-sunburst-2021"
         }
       }
     },
@@ -16075,6 +16093,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "ik ben op zoek naar oude zilveren munten en voorwerpen",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435371480-ik-ben-op-zoek-naar-oude-zilveren-munten-en-voorwerpen"
+        },
+        "m2435383101": {
+          "first_seen_at": "2026-08-26T11:54:53.715734+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "100 Gram Argor S.A. Chiasso",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2435383101-100-gram-argor-s-a-chiasso"
         }
       }
     },
@@ -23382,6 +23406,18 @@
           "price_display": "€ 100,00",
           "title": "Vintage sportraam",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435369785-vintage-sportraam"
+        },
+        "m2435380061": {
+          "first_seen_at": "2026-08-26T11:54:43.705106+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Christopeit CS4000 loopband – opklapbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435380061-christopeit-cs4000-loopband-opklapbaar"
+        },
+        "m2435380687": {
+          "first_seen_at": "2026-08-26T11:54:43.705106+00:00",
+          "price_display": "Bieden vanaf € 195,00",
+          "title": "tapis de course plusieurs vitesse avec écran digital neuve",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435380687-tapis-de-course-plusieurs-vitesse-avec-ecran-digital-neuve"
         }
       }
     },
@@ -50387,6 +50423,24 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435368183-fitness"
+        },
+        "m2435383333": {
+          "first_seen_at": "2026-08-26T11:54:20.872892+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Banc de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435383333-banc-de-musculation"
+        },
+        "m2435386197": {
+          "first_seen_at": "2026-08-26T11:54:20.872892+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Smith Machine - Barre Guidée",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435386197-smith-machine-barre-guidee"
+        },
+        "m2435386323": {
+          "first_seen_at": "2026-08-26T11:54:20.872892+00:00",
+          "price_display": "€ 190,00",
+          "title": "Eleiko Competition Kettlebells 16 kg + 24 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435386323-eleiko-competition-kettlebells-16-kg-24-kg"
         }
       }
     },
@@ -54118,6 +54172,12 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "HEAD speed junior padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435350134-head-speed-junior-padelracket"
+        },
+        "m2435384691": {
+          "first_seen_at": "2026-08-26T11:54:33.478357+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "HEAD X100 BALL PRESSURIZER",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435384691-head-x100-ball-pressurizer"
         }
       }
     },
@@ -61948,7 +62008,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T11:24:03.924351+00:00",
+    "last_checked_at": "2026-08-26T11:55:11.507613+00:00",
     "outage_alert_sent": false
   }
 }
