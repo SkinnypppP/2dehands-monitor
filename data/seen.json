@@ -10922,6 +10922,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Gitaar op standaard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435283916-gitaar-op-standaard"
+        },
+        "m2435298462": {
+          "first_seen_at": "2026-08-26T08:02:42.571480+00:00",
+          "price_display": "Bieden vanaf € 1.450,00",
+          "title": "Eastman E10D shade top aged",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435298462-eastman-e10d-shade-top-aged"
         }
       }
     },
@@ -23262,6 +23268,12 @@
           "price_display": "Bieden vanaf € 500,00",
           "title": "Crosstrainer Kettler Skylon 3",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435274685-crosstrainer-kettler-skylon-3"
+        },
+        "m2435285820": {
+          "first_seen_at": "2026-08-26T08:02:12.638440+00:00",
+          "price_display": "Gratis",
+          "title": "gratis hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435285820-gratis-hometrainer"
         }
       }
     },
@@ -50057,6 +50069,18 @@
           "price_display": "€ 25,00",
           "title": "Robuust houten klimrek",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435279212-robuust-houten-klimrek"
+        },
+        "m2435291550": {
+          "first_seen_at": "2026-08-26T08:01:51.717575+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "life fitness 95xe",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435291550-life-fitness-95xe"
+        },
+        "m2435293230": {
+          "first_seen_at": "2026-08-26T08:01:51.717575+00:00",
+          "price_display": "€ 270,00",
+          "title": "hexagon dumbbellset 5 t/m 15 kg – rubber, 100 kg totaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435293230-hexagon-dumbbellset-5-t-m-15-kg-rubber-100-kg-totaal"
         }
       }
     },
@@ -53776,6 +53800,12 @@
           "price_display": "Bieden vanaf € 65,00",
           "title": "Bullpadel Vertex 04 Hybrid –Goede staat | 5 maanden gebruikt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435276428-bullpadel-vertex-04-hybrid-goede-staat-5-maanden-gebruikt"
+        },
+        "m2435291955": {
+          "first_seen_at": "2026-08-26T08:02:03.027991+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Siux Electra Pro 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2435291955-siux-electra-pro-2026"
         }
       }
     },
@@ -61533,6 +61563,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Buffetpiano Boyd of London met verstelbaar krukje - Vintage",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435281912-buffetpiano-boyd-of-london-met-verstelbaar-krukje-vintage"
+        },
+        "m2435287764": {
+          "first_seen_at": "2026-08-26T08:02:33.334940+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435287764-piano"
         }
       }
     }
@@ -61540,7 +61576,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T07:13:56.778468+00:00",
+    "last_checked_at": "2026-08-26T08:02:48.790976+00:00",
     "outage_alert_sent": false
   }
 }
