@@ -807,6 +807,12 @@
           "title": "Professionele klassieke gitaar Alama 2025 model  Bouchet",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2383950512-professionele-klassieke-gitaar-alama-2025-model-bouchet"
         },
+        "m2389160967": {
+          "first_seen_at": "2026-08-27T00:03:35.739675+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Gitaar almansa 401 mate",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2389160967-gitaar-almansa-401-mate"
+        },
         "m2390724447": {
           "first_seen_at": "2026-07-13T14:08:36.532063+00:00",
           "price_display": "Bieden vanaf € 250,00",
@@ -11120,6 +11126,12 @@
           "price_display": "€ 100,00",
           "title": "Fazley electrische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435566534-fazley-electrische-gitaar"
+        },
+        "m2435580774": {
+          "first_seen_at": "2026-08-27T00:03:35.739675+00:00",
+          "price_display": "€ 100,00",
+          "title": "Klassieke gitaar artesano estudiante (met statief en capo)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2435580774-klassieke-gitaar-artesano-estudiante-met-statief-en-capo"
         }
       }
     },
@@ -23760,6 +23772,18 @@
           "price_display": "Bieden vanaf € 280,00",
           "title": "DOMYOS Interactieve roeitrainer 500B",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435546696-domyos-interactieve-roeitrainer-500b"
+        },
+        "m2435580306": {
+          "first_seen_at": "2026-08-27T00:03:07.889699+00:00",
+          "price_display": "€ 1.500,00",
+          "title": "Technogym Bench DGY100 complète avec accessoires – Bruxelles",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435580306-technogym-bench-dgy100-complete-avec-accessoires-bruxelles"
+        },
+        "m2435583021": {
+          "first_seen_at": "2026-08-27T00:03:07.889699+00:00",
+          "price_display": "Bieden vanaf € 220,00",
+          "title": "Vélo elliptique Domyos C3",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2435583021-velo-elliptique-domyos-c3"
         }
       }
     },
@@ -51353,6 +51377,12 @@
           "price_display": "Bieden vanaf € 180,00",
           "title": "Te koop aangeboden: crosstrainer Tunturi",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435555211-te-koop-aangeboden-crosstrainer-tunturi"
+        },
+        "m2435583680": {
+          "first_seen_at": "2026-08-27T00:02:51.746763+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Step professionnel rebook Deck",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2435583680-step-professionnel-rebook-deck"
         }
       }
     },
@@ -62997,6 +63027,18 @@
           "price_display": "€ 999,00",
           "title": "Eterna piano van yamaha",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435534987-eterna-piano-van-yamaha"
+        },
+        "m2435569827": {
+          "first_seen_at": "2026-08-27T00:03:26.103023+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435569827-piano-yamaha"
+        },
+        "m2435583433": {
+          "first_seen_at": "2026-08-27T00:03:26.103023+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "STEMMEN OP DE PIANOTUNER",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2435583433-stemmen-op-de-pianotuner"
         }
       }
     }
@@ -63004,7 +63046,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-26T20:35:19.596609+00:00",
+    "last_checked_at": "2026-08-27T00:03:36.816427+00:00",
     "outage_alert_sent": false
   }
 }
