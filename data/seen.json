@@ -12146,6 +12146,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "3/4 klassieke gitaar - startersmodel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437176421-3-4-klassieke-gitaar-startersmodel"
+        },
+        "m2437205154": {
+          "first_seen_at": "2026-08-30T23:40:52.207532+00:00",
+          "price_display": "Bieden vanaf € 2.250,00",
+          "title": "Bourgeois Down East 0014 Fret Limited Edition TFOA (2026)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437205154-bourgeois-down-east-0014-fret-limited-edition-tfoa-2026"
+        },
+        "m2437210627": {
+          "first_seen_at": "2026-08-30T23:40:52.207532+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "3/4 gitaar Alhambra",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437210627-3-4-gitaar-alhambra"
         }
       }
     },
@@ -17935,6 +17947,24 @@
           "price_display": "€ 320,00",
           "title": "Partij van 4x1 oz zilver munten Indian Buffalo",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437195561-partij-van-4x1-oz-zilver-munten-indian-buffalo"
+        },
+        "m2437202367": {
+          "first_seen_at": "2026-08-30T23:40:31.957390+00:00",
+          "price_display": "€ 100,00",
+          "title": "Partij 5x1 oz kopper Veinte Pesos Tribute Ultra Collector!",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437202367-partij-5x1-oz-kopper-veinte-pesos-tribute-ultra-collector"
+        },
+        "m2437204469": {
+          "first_seen_at": "2026-08-30T23:40:31.957390+00:00",
+          "price_display": "€ 105,00",
+          "title": "Partij van 7x1 oz Schloss Güldengossa koper munten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437204469-partij-van-7x1-oz-schloss-guldengossa-koper-munten"
+        },
+        "m2437209749": {
+          "first_seen_at": "2026-08-30T23:40:31.957390+00:00",
+          "price_display": "Bieden vanaf € 21,00",
+          "title": "Zilver onder spot: Canada zilveren dollar 1977",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437209749-zilver-onder-spot-canada-zilveren-dollar-1977"
         }
       }
     },
@@ -26058,6 +26088,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Spinning fiets",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437166425-spinning-fiets"
+        },
+        "m2437206601": {
+          "first_seen_at": "2026-08-30T23:40:23.898672+00:00",
+          "price_display": "€ 160,00",
+          "title": "DKN Am-3i hometrainer ergometer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437206601-dkn-am-3i-hometrainer-ergometer"
         }
       }
     },
@@ -55391,6 +55427,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Domyos halterset 50 kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437200125-domyos-halterset-50-kg"
+        },
+        "m2437209987": {
+          "first_seen_at": "2026-08-30T23:40:05.755996+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Dumbbell set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437209987-dumbbell-set"
         }
       }
     },
@@ -68230,7 +68272,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-30T21:24:10.347014+00:00",
+    "last_checked_at": "2026-08-30T23:40:53.670665+00:00",
     "outage_alert_sent": false
   }
 }
