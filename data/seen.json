@@ -54251,6 +54251,24 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Halters 10 en 20kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2436754958-halters-10-en-20kg"
+        },
+        "m2436759919": {
+          "first_seen_at": "2026-08-30T00:13:08.549148+00:00",
+          "price_display": "€ 80,00",
+          "title": "Gewichtsvest 20 kg nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2436759919-gewichtsvest-20-kg-nieuw"
+        },
+        "m2436761665": {
+          "first_seen_at": "2026-08-30T00:13:08.549148+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2436761665-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2436764783": {
+          "first_seen_at": "2026-08-30T00:13:08.549148+00:00",
+          "price_display": "Bieden vanaf € 16,00",
+          "title": "Gymbal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2436764783-gymbal"
         }
       }
     },
@@ -66736,7 +66754,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-29T22:01:13.149196+00:00",
+    "last_checked_at": "2026-08-30T00:13:57.114093+00:00",
     "outage_alert_sent": false
   }
 }
