@@ -729,6 +729,12 @@
           "title": "J&D Brothers W- 160 NAT - - Akoestische gitaar (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165900863-j-d-brothers-w-160-nat-akoestische-gitaar-zonder"
         },
+        "a165901811": {
+          "first_seen_at": "2026-08-30T05:29:11.822748+00:00",
+          "price_display": "€ 70,00",
+          "title": "Yamaha - Pacifica gaucher natural wood MII + housse - -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165901811-yamaha-pacifica-gaucher-natural-wood-mii-housse"
+        },
         "a165901815": {
           "first_seen_at": "2026-08-29T07:24:18.413673+00:00",
           "price_display": "€ 160,00",
@@ -740,6 +746,12 @@
           "price_display": "€ 340,00",
           "title": "Fender - ST62 - - Elektrische gitaar - Japan - 1995 (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165901817-fender-st62-elektrische-gitaar-japan-1995-zonder"
+        },
+        "a165904009": {
+          "first_seen_at": "2026-08-30T05:29:11.822748+00:00",
+          "price_display": "€ 350,00",
+          "title": "Yamaha - SG800 - - Elektrische gitaar - Japan - 1981 (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a165904009-yamaha-sg800-elektrische-gitaar-japan-1981-zonder"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -17497,6 +17509,18 @@
           "price_display": "€ 1.000,00",
           "title": "Museale Kavel: 7x Unieke 1oz Zilveren Gekleurde Draken 2012",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2436754768-museale-kavel-7x-unieke-1oz-zilveren-gekleurde-draken-2012"
+        },
+        "m2436770926": {
+          "first_seen_at": "2026-08-30T05:28:53.036729+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Umicore 1 gram goudbaar 999.9 Fine Gold",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2436770926-umicore-1-gram-goudbaar-999-9-fine-gold"
+        },
+        "m2436771040": {
+          "first_seen_at": "2026-08-30T05:28:53.036729+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Heraeus 2 gram goudbaar 999.9 Fine Gold",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2436771040-heraeus-2-gram-goudbaar-999-9-fine-gold"
         }
       }
     },
@@ -25727,6 +25751,12 @@
           "price_display": "€ 350,00",
           "title": "Dumbbell Rek - 1-10 Kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165605371-dumbbell-rek-1-10-kg"
+        },
+        "a165605372": {
+          "first_seen_at": "2026-08-30T05:28:26.078498+00:00",
+          "price_display": "€ 450,00",
+          "title": "Half Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a165605372-half-rack"
         },
         "a165605373": {
           "first_seen_at": "2026-08-28T16:33:48.952520+00:00",
@@ -66747,6 +66777,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Yamaha CVP 409",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2436746718-yamaha-cvp-409"
+        },
+        "m2436769958": {
+          "first_seen_at": "2026-08-30T05:29:02.996161+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Alesis 88-key digital piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2436769958-alesis-88-key-digital-piano"
         }
       }
     }
@@ -66754,7 +66790,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-30T00:13:57.114093+00:00",
+    "last_checked_at": "2026-08-30T05:29:13.215466+00:00",
     "outage_alert_sent": false
   }
 }
