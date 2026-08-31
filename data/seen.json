@@ -17965,6 +17965,12 @@
           "price_display": "Bieden vanaf € 21,00",
           "title": "Zilver onder spot: Canada zilveren dollar 1977",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437209749-zilver-onder-spot-canada-zilveren-dollar-1977"
+        },
+        "m2437213067": {
+          "first_seen_at": "2026-08-31T01:36:39.525422+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Zilver onder spot: 5 dollars 1969 bahamas zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2437213067-zilver-onder-spot-5-dollars-1969-bahamas-zilver"
         }
       }
     },
@@ -68272,7 +68278,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-30T23:40:53.670665+00:00",
+    "last_checked_at": "2026-08-31T01:36:56.801481+00:00",
     "outage_alert_sent": false
   }
 }
