@@ -12650,6 +12650,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Ideale gitaar voor beginners",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437933768-ideale-gitaar-voor-beginners"
+        },
+        "m2437959201": {
+          "first_seen_at": "2026-09-01T23:16:10.410938+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Martin & Co DRS1",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437959201-martin-co-drs1"
+        },
+        "m2437960120": {
+          "first_seen_at": "2026-09-01T23:16:10.410938+00:00",
+          "price_display": "€ 60,00",
+          "title": "Akoestische gitaar voor beginners",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437960120-akoestische-gitaar-voor-beginners"
         }
       }
     },
@@ -57347,6 +57359,18 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Gewichtenset, 30,5 kg in kunststof materiaal",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437947943-gewichtenset-30-5-kg-in-kunststof-materiaal"
+        },
+        "m2437949326": {
+          "first_seen_at": "2026-09-01T23:15:24.018414+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437949326-loopband"
+        },
+        "m2437951908": {
+          "first_seen_at": "2026-09-01T23:15:24.018414+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Trilplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437951908-trilplaat"
         }
       }
     },
@@ -70636,7 +70660,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-01T21:05:40.257965+00:00",
+    "last_checked_at": "2026-09-01T23:16:12.133096+00:00",
     "outage_alert_sent": false
   }
 }
