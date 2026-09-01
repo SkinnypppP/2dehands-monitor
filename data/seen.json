@@ -12428,6 +12428,12 @@
           "price_display": "Bieden vanaf € 1.000,00",
           "title": "Guild M20 Made in USA Ruil",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437593986-guild-m20-made-in-usa-ruil"
+        },
+        "m2437597557": {
+          "first_seen_at": "2026-09-01T00:21:04.982184+00:00",
+          "price_display": "Bieden vanaf € 105,00",
+          "title": "Elega C-56 klassieke gitaar – goede staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2437597557-elega-c-56-klassieke-gitaar-goede-staat"
         }
       }
     },
@@ -26586,6 +26592,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Crosstrainer. Zwart. Domyos 900 met Computer.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437575807-crosstrainer-zwart-domyos-900-met-computer"
+        },
+        "m2437607244": {
+          "first_seen_at": "2026-09-01T00:20:38.990269+00:00",
+          "price_display": "€ 200,00",
+          "title": "Domyos EB140 Hometrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437607244-domyos-eb140-hometrainer"
         }
       }
     },
@@ -56387,6 +56399,36 @@
           "price_display": "Zie omschrijving",
           "title": "Verbindingsbeugel voor squat stands ATX",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437590156-verbindingsbeugel-voor-squat-stands-atx"
+        },
+        "m2437596199": {
+          "first_seen_at": "2026-09-01T00:20:14.636692+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Hexagon dumbbells 2,5 kg PROUD",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437596199-hexagon-dumbbells-2-5-kg-proud"
+        },
+        "m2437596814": {
+          "first_seen_at": "2026-09-01T00:20:14.636692+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Hexagon dumbbells 7,5 kg PROUD",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437596814-hexagon-dumbbells-7-5-kg-proud"
+        },
+        "m2437602128": {
+          "first_seen_at": "2026-09-01T00:20:14.636692+00:00",
+          "price_display": "€ 45,00",
+          "title": "Dumbbell set",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437602128-dumbbell-set"
+        },
+        "m2437605187": {
+          "first_seen_at": "2026-09-01T00:20:14.636692+00:00",
+          "price_display": "€ 80,00",
+          "title": "Halterschijven 2x20kg (50mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437605187-halterschijven-2x20kg-50mm"
+        },
+        "m2437605809": {
+          "first_seen_at": "2026-09-01T00:20:14.636692+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "judo matten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2437605809-judo-matten"
         }
       }
     },
@@ -69514,7 +69556,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-08-31T20:57:36.295374+00:00",
+    "last_checked_at": "2026-09-01T00:21:06.122117+00:00",
     "outage_alert_sent": false
   }
 }
