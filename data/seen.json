@@ -19129,6 +19129,12 @@
           "price_display": "€ 250,00",
           "title": "piece en or",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2438300173-piece-en-or"
+        },
+        "m2438315804": {
+          "first_seen_at": "2026-09-02T22:44:50.498745+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "witte printrolletjes",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2438315804-witte-printrolletjes"
         }
       }
     },
@@ -27450,6 +27456,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Tapis de course marche",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437752945-tapis-de-course-marche"
+        },
+        "m2437763046": {
+          "first_seen_at": "2026-09-02T22:44:42.298759+00:00",
+          "price_display": "€ 300,00",
+          "title": "Inklapbare loopband / speedeunner 3500",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437763046-inklapbare-loopband-speedeunner-3500"
         },
         "m2437792834": {
           "first_seen_at": "2026-09-01T14:58:08.449412+00:00",
@@ -58385,6 +58397,30 @@
           "price_display": "€ 40,00",
           "title": "Halterstang",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438292071-halterstang"
+        },
+        "m2438307966": {
+          "first_seen_at": "2026-09-02T22:44:23.536701+00:00",
+          "price_display": "€ 380,00",
+          "title": "Halterbank incl 115 kg aan gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438307966-halterbank-incl-115-kg-aan-gewichten"
+        },
+        "m2438313409": {
+          "first_seen_at": "2026-09-02T22:44:23.536701+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Finnlo Maximum TR 8000 loopband te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438313409-finnlo-maximum-tr-8000-loopband-te-koop"
+        },
+        "m2438313628": {
+          "first_seen_at": "2026-09-02T22:44:23.536701+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Dipbars/parallelle staven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438313628-dipbars-parallelle-staven"
+        },
+        "m2438314545": {
+          "first_seen_at": "2026-09-02T22:44:23.536701+00:00",
+          "price_display": "€ 10,00",
+          "title": "Step bank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438314545-step-bank"
         }
       }
     },
@@ -71914,7 +71950,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-02T20:25:07.042587+00:00",
+    "last_checked_at": "2026-09-02T22:45:04.632557+00:00",
     "outage_alert_sent": false
   }
 }
