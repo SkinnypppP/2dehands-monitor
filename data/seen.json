@@ -26377,6 +26377,12 @@
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434088148-hometrainer"
         },
+        "m2434088710": {
+          "first_seen_at": "2026-09-03T22:30:36.781494+00:00",
+          "price_display": "Bieden vanaf € 170,00",
+          "title": "loopband focus fitness JET 2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2434088710-loopband-focus-fitness-jet-2"
+        },
         "m2434107882": {
           "first_seen_at": "2026-08-23T11:31:15.292549+00:00",
           "price_display": "€ 200,00",
@@ -28128,6 +28134,18 @@
           "price_display": "€ 180,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2438694927-hometrainer"
+        },
+        "m2438699895": {
+          "first_seen_at": "2026-09-03T22:30:36.781494+00:00",
+          "price_display": "€ 120,00",
+          "title": "Rameur Moovyoo Drakar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2438699895-rameur-moovyoo-drakar"
+        },
+        "m2438709719": {
+          "first_seen_at": "2026-09-03T22:30:36.781494+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "BODY 4CE+ Squat en dip rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2438709719-body-4ce-squat-en-dip-rack"
         }
       }
     },
@@ -59579,6 +59597,24 @@
           "price_display": "Bieden vanaf € 550,00",
           "title": "Fitness",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438698307-fitness"
+        },
+        "m2438715446": {
+          "first_seen_at": "2026-09-03T22:30:15.669322+00:00",
+          "price_display": "€ 110,00",
+          "title": "Poids et barre de musculation.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438715446-poids-et-barre-de-musculation"
+        },
+        "m2438715909": {
+          "first_seen_at": "2026-09-03T22:30:15.669322+00:00",
+          "price_display": "€ 140,00",
+          "title": "Poids et barre de musculation.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438715909-poids-et-barre-de-musculation"
+        },
+        "m2438716790": {
+          "first_seen_at": "2026-09-03T22:30:15.669322+00:00",
+          "price_display": "Bieden vanaf € 59,00",
+          "title": "Dumbells (3 paar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2438716790-dumbells-3-paar"
         }
       }
     },
@@ -73323,6 +73359,12 @@
           "price_display": "€ 2.300,00",
           "title": "buffet pianoforte in gepolijste notelaar.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2438686581-buffet-pianoforte-in-gepolijste-notelaar"
+        },
+        "m2438701283": {
+          "first_seen_at": "2026-09-03T22:31:00.193085+00:00",
+          "price_display": "Bieden vanaf € 295,00",
+          "title": "Fazley FSP-500-BK Set digitale piano zwart met onderstel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2438701283-fazley-fsp-500-bk-set-digitale-piano-zwart-met-onderstel"
         }
       }
     }
@@ -73330,7 +73372,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-03T20:02:32.983503+00:00",
+    "last_checked_at": "2026-09-03T22:31:12.587919+00:00",
     "outage_alert_sent": false
   }
 }
