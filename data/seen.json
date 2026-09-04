@@ -13412,6 +13412,12 @@
           "price_display": "€ 50,00",
           "title": "Klassieke gitaar Stagg",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2439062814-klassieke-gitaar-stagg"
+        },
+        "m2439091637": {
+          "first_seen_at": "2026-09-04T23:23:02.368936+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "guitar salvador cortez cc15",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2439091637-guitar-salvador-cortez-cc15"
         }
       }
     },
@@ -74674,7 +74680,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-04T21:42:18.642658+00:00",
+    "last_checked_at": "2026-09-04T23:23:03.507612+00:00",
     "outage_alert_sent": false
   }
 }
