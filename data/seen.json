@@ -13130,6 +13130,18 @@
           "price_display": "€ 60,00",
           "title": "Guitare classique enfant Kapok Brand neuve + accessoires",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2438694697-guitare-classique-enfant-kapok-brand-neuve-accessoires"
+        },
+        "m2438722712": {
+          "first_seen_at": "2026-09-04T00:21:22.050900+00:00",
+          "price_display": "€ 100,00",
+          "title": "Ukulele LAG Tiki Uku modèle U77S",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2438722712-ukulele-lag-tiki-uku-modele-u77s"
+        },
+        "m2438724060": {
+          "first_seen_at": "2026-09-04T00:21:22.050900+00:00",
+          "price_display": "€ 49,00",
+          "title": "DELTA BLUES T - HB",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2438724060-delta-blues-t-hb"
         }
       }
     },
@@ -19465,6 +19477,12 @@
           "price_display": "€ 275,00",
           "title": "15x Germania Mint 1 kilogram koperbaren 999.9 fine koper.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2438695689-15x-germania-mint-1-kilogram-koperbaren-999-9-fine-koper"
+        },
+        "m2438725364": {
+          "first_seen_at": "2026-09-04T00:20:58.085417+00:00",
+          "price_display": "€ 430,00",
+          "title": "Libertad 2024 Proof set zilver munten",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2438725364-libertad-2024-proof-set-zilver-munten"
         }
       }
     },
@@ -73372,7 +73390,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-03T22:31:12.587919+00:00",
+    "last_checked_at": "2026-09-04T00:21:24.034710+00:00",
     "outage_alert_sent": false
   }
 }
