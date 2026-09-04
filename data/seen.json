@@ -28674,6 +28674,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "FitBike Ride 2.6 Hometrainer – Zo goed als nieuw!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2439042312-fitbike-ride-2-6-hometrainer-zo-goed-als-nieuw"
+        },
+        "m2439070291": {
+          "first_seen_at": "2026-09-04T21:41:52.738120+00:00",
+          "price_display": "€ 120,00",
+          "title": "Vélo d'appartement pliable",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2439070291-velo-d-appartement-pliable"
         }
       }
     },
@@ -60665,6 +60671,42 @@
           "price_display": "€ 35,00",
           "title": "Rubber gym tiles fijne toplaag",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439062712-rubber-gym-tiles-fijne-toplaag"
+        },
+        "m2439072901": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "verschillende hulp stuken voor lat pully s",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439072901-verschillende-hulp-stuken-voor-lat-pully-s"
+        },
+        "m2439074127": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "Bieden vanaf € 320,00",
+          "title": "Focus Fitness Jet 7 Loopband – Goede Staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439074127-focus-fitness-jet-7-loopband-goede-staat"
+        },
+        "m2439076997": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Barre de traction",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439076997-barre-de-traction"
+        },
+        "m2439078095": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "€ 950,00",
+          "title": "Concept Ski Erg met pm5 Scherm en Voetplaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439078095-concept-ski-erg-met-pm5-scherm-en-voetplaat"
+        },
+        "m2439080778": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "€ 100,00",
+          "title": "loopband ProForm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439080778-loopband-proform"
+        },
+        "m2439083883": {
+          "first_seen_at": "2026-09-04T21:41:30.658277+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Ketler Racer Fitness Fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439083883-ketler-racer-fitness-fiets"
         }
       }
     },
@@ -74613,6 +74655,18 @@
           "price_display": "Bieden vanaf € 399,00",
           "title": "Thomann DP-26 digitale piano - complete set",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2439057847-thomann-dp-26-digitale-piano-complete-set"
+        },
+        "m2439067712": {
+          "first_seen_at": "2026-09-04T21:42:10.419142+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Digitale piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2439067712-digitale-piano-yamaha"
+        },
+        "m2439081697": {
+          "first_seen_at": "2026-09-04T21:42:10.419142+00:00",
+          "price_display": "Bieden vanaf € 50.000,00",
+          "title": "Bechstein A1 vleugelpiano 1924",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2439081697-bechstein-a1-vleugelpiano-1924"
         }
       }
     }
@@ -74620,7 +74674,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-04T19:29:55.915422+00:00",
+    "last_checked_at": "2026-09-04T21:42:18.642658+00:00",
     "outage_alert_sent": false
   }
 }
