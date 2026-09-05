@@ -61925,6 +61925,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Power rack",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439480280-power-rack"
+        },
+        "m2439481118": {
+          "first_seen_at": "2026-09-05T23:16:37.605007+00:00",
+          "price_display": "€ 44,00",
+          "title": "NEUF Haltère hexagonal ATLETICA 17,5 kg TPU Pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439481118-neuf-haltere-hexagonal-atletica-17-5-kg-tpu-pro"
+        },
+        "m2439483079": {
+          "first_seen_at": "2026-09-05T23:16:37.605007+00:00",
+          "price_display": "€ 11.000,00",
+          "title": "Eleiko Vaste Rubberen Dumbells 1kg t/m 10kg ,12kg t/m 52,5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439483079-eleiko-vaste-rubberen-dumbells-1kg-t-m-10kg-12kg-t-m-52-5kg"
         }
       }
     },
@@ -76180,7 +76192,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-05T21:40:14.016360+00:00",
+    "last_checked_at": "2026-09-05T23:17:25.161789+00:00",
     "outage_alert_sent": false
   }
 }
