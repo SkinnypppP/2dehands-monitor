@@ -29316,6 +29316,12 @@
           "price_display": "€ 40,00",
           "title": "Crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2439465393-crosstrainer"
+        },
+        "m2439493537": {
+          "first_seen_at": "2026-09-06T01:03:10.088445+00:00",
+          "price_display": "Bieden vanaf € 180,00",
+          "title": "Professionele fitnessfiets – zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2439493537-professionele-fitnessfiets-zeer-goede-staat"
         }
       }
     },
@@ -61937,6 +61943,12 @@
           "price_display": "€ 11.000,00",
           "title": "Eleiko Vaste Rubberen Dumbells 1kg t/m 10kg ,12kg t/m 52,5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439483079-eleiko-vaste-rubberen-dumbells-1kg-t-m-10kg-12kg-t-m-52-5kg"
+        },
+        "m2439491102": {
+          "first_seen_at": "2026-09-06T01:02:47.783608+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2439491102-halterbank"
         }
       }
     },
@@ -76192,7 +76204,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-05T23:17:25.161789+00:00",
+    "last_checked_at": "2026-09-06T01:03:39.344775+00:00",
     "outage_alert_sent": false
   }
 }
