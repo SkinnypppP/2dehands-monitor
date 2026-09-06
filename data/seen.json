@@ -67624,6 +67624,12 @@
           "price_display": "€ 80,00",
           "title": "Tecnifibre Wall Breaker 365 padelracket – incl. hoes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2439880700-tecnifibre-wall-breaker-365-padelracket-incl-hoes"
+        },
+        "m2439881658": {
+          "first_seen_at": "2026-09-06T22:23:16.606656+00:00",
+          "price_display": "€ 950,00",
+          "title": "Slinger padel ballenmachine - uitstekende staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2439881658-slinger-padel-ballenmachine-uitstekende-staat"
         }
       }
     },
@@ -77680,7 +77686,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-06T20:43:37.244297+00:00",
+    "last_checked_at": "2026-09-06T22:23:55.470474+00:00",
     "outage_alert_sent": false
   }
 }
