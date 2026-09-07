@@ -14282,6 +14282,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440183208-guitare"
+        },
+        "m2440207834": {
+          "first_seen_at": "2026-09-07T22:03:58.178180+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Ukelele met schouderriem + stemapparaat + staander",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440207834-ukelele-met-schouderriem-stemapparaat-staander"
+        },
+        "m2440208963": {
+          "first_seen_at": "2026-09-07T22:03:58.178180+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Republic lap steel gitaar/dobro met koffer en accessoires",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440208963-republic-lap-steel-gitaar-dobro-met-koffer-en-accessoires"
+        },
+        "m2440225829": {
+          "first_seen_at": "2026-09-07T22:03:58.178180+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "klassieke gitaar + staander + zak",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440225829-klassieke-gitaar-staander-zak"
         }
       }
     },
@@ -21169,6 +21187,12 @@
           "price_display": "€ 5,00",
           "title": "Iphone 14 hoesje",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440188520-iphone-14-hoesje"
+        },
+        "m2440209647": {
+          "first_seen_at": "2026-09-07T22:03:34.998305+00:00",
+          "price_display": "Bieden vanaf € 135,00",
+          "title": "2 onces argent",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440209647-2-onces-argent"
         }
       }
     },
@@ -29635,6 +29659,12 @@
           "title": "FitFirst Roeitrainer – zo goed als nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437871550-fitfirst-roeitrainer-zo-goed-als-nieuw"
         },
+        "m2437872656": {
+          "first_seen_at": "2026-09-07T22:03:25.995890+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Roeiapparaat hammer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2437872656-roeiapparaat-hammer"
+        },
         "m2437901061": {
           "first_seen_at": "2026-09-01T21:05:02.473322+00:00",
           "price_display": "Bieden vanaf € 90,00",
@@ -30462,6 +30492,18 @@
           "price_display": "Bieden vanaf € 295,00",
           "title": "Garmin Forerunner 965",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2440197300-garmin-forerunner-965"
+        },
+        "m2440210604": {
+          "first_seen_at": "2026-09-07T22:03:25.995890+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "VirtuFit TR-100 Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2440210604-virtufit-tr-100-loopband"
+        },
+        "m2440212647": {
+          "first_seen_at": "2026-09-07T22:03:25.995890+00:00",
+          "price_display": "€ 350,00",
+          "title": "Optimum Multi Gym",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2440212647-optimum-multi-gym"
         }
       }
     },
@@ -64157,6 +64199,42 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Turnturi incl. Tacx mat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440197565-turnturi-incl-tacx-mat"
+        },
+        "m2440207429": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440207429-loopband"
+        },
+        "m2440214746": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Vélo elliptique",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440214746-velo-elliptique"
+        },
+        "m2440230351": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "€ 40,00",
+          "title": "Station d'équilibre",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440230351-station-d-equilibre"
+        },
+        "m2440230870": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "Stepper met rekkers voor armspieren",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440230870-stepper-met-rekkers-voor-armspieren"
+        },
+        "m2440233629": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "€ 17,99",
+          "title": "Sveltus - Verweegbare riem [nieuw]",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440233629-sveltus-verweegbare-riem-nieuw"
+        },
+        "m2440235376": {
+          "first_seen_at": "2026-09-07T22:03:03.498297+00:00",
+          "price_display": "€ 15,00",
+          "title": "Coussin d'équilibre",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440235376-coussin-d-equilibre"
         }
       }
     },
@@ -68698,6 +68776,12 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Padelraket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2440179479-padelraket"
+        },
+        "m2440234295": {
+          "first_seen_at": "2026-09-07T22:03:17.687448+00:00",
+          "price_display": "Bieden vanaf € 90,00",
+          "title": "Raquette de padel Wilson Blade pro v2",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2440234295-raquette-de-padel-wilson-blade-pro-v2"
         }
       }
     },
@@ -78891,6 +78975,24 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Yamaha piano te koop.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440197260-yamaha-piano-te-koop"
+        },
+        "m2440217535": {
+          "first_seen_at": "2026-09-07T22:03:44.965700+00:00",
+          "price_display": "Bieden vanaf € 10.000,00",
+          "title": "Te koop BECHSTEIN A124 piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440217535-te-koop-bechstein-a124-piano"
+        },
+        "m2440220935": {
+          "first_seen_at": "2026-09-07T22:03:44.965700+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "PIANOLESSEN VOOR KINDEREN EN VOLWASSENEN",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440220935-pianolessen-voor-kinderen-en-volwassenen"
+        },
+        "m2440227889": {
+          "first_seen_at": "2026-09-07T22:03:44.965700+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Piano numérique Lagrima",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440227889-piano-numerique-lagrima"
         }
       }
     }
@@ -78898,7 +79000,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-07T19:13:48.885076+00:00",
+    "last_checked_at": "2026-09-07T22:04:00.438245+00:00",
     "outage_alert_sent": false
   }
 }
