@@ -14300,6 +14300,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "klassieke gitaar + staander + zak",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440225829-klassieke-gitaar-staander-zak"
+        },
+        "m2440242095": {
+          "first_seen_at": "2026-09-08T00:16:47.051394+00:00",
+          "price_display": "€ 135,00",
+          "title": "Akoestische gitaat ASBURN",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440242095-akoestische-gitaat-asburn"
+        },
+        "m2440242157": {
+          "first_seen_at": "2026-09-08T00:16:47.051394+00:00",
+          "price_display": "€ 135,00",
+          "title": "ASBURN Gitaar met toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440242157-asburn-gitaar-met-toebehoren"
         }
       }
     },
@@ -78993,6 +79005,18 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Piano numérique Lagrima",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440227889-piano-numerique-lagrima"
+        },
+        "m2440240681": {
+          "first_seen_at": "2026-09-08T00:16:34.552839+00:00",
+          "price_display": "Bieden vanaf € 575,00",
+          "title": "Roland FP-30X digitale piano + stand, 3 pedalen & pianobank",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440240681-roland-fp-30x-digitale-piano-stand-3-pedalen-pianobank"
+        },
+        "m2440242294": {
+          "first_seen_at": "2026-09-08T00:16:34.552839+00:00",
+          "price_display": "€ 150,00",
+          "title": "Piona droit gustin wright",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440242294-piona-droit-gustin-wright"
         }
       }
     }
@@ -79000,7 +79024,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-07T22:04:00.438245+00:00",
+    "last_checked_at": "2026-09-08T00:16:49.137442+00:00",
     "outage_alert_sent": false
   }
 }
