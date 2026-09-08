@@ -15710,6 +15710,18 @@
           "title": "Australie. 1 Dollar 2019 1 oz $1 AUD Australian Silver Lunar",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166270133-australie-1-dollar-2019-1-oz-1-aud-australian-silver-lunar"
         },
+        "a166276843": {
+          "first_seen_at": "2026-09-08T04:45:20.074856+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 Troy Ounce - Argent .999 - Velociraptor 2025 - 31,1 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166276843-1-troy-ounce-argent-999-velociraptor-2025-31-1-gram"
+        },
+        "a166276844": {
+          "first_seen_at": "2026-09-08T04:45:20.074856+00:00",
+          "price_display": "€ 1,00",
+          "title": "5 Troy Ounce - Argent .999 - Maple Leaf 2026 - 155,5 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166276844-5-troy-ounce-argent-999-maple-leaf-2026-155-5-gram"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -21205,6 +21217,12 @@
           "price_display": "Bieden vanaf € 135,00",
           "title": "2 onces argent",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440209647-2-onces-argent"
+        },
+        "m2440249159": {
+          "first_seen_at": "2026-09-08T04:45:20.074856+00:00",
+          "price_display": "€ 275,00",
+          "title": "5x Heracles 1 kilogram #koperbaren .999 fine koper.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440249159-5x-heracles-1-kilogram-koperbaren-999-fine-koper"
         }
       }
     },
@@ -79017,6 +79035,12 @@
           "price_display": "€ 150,00",
           "title": "Piona droit gustin wright",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440242294-piona-droit-gustin-wright"
+        },
+        "m2440245573": {
+          "first_seen_at": "2026-09-08T04:45:30.466245+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "piano casio",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440245573-piano-casio"
         }
       }
     }
@@ -79024,7 +79048,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-08T00:16:49.137442+00:00",
+    "last_checked_at": "2026-09-08T04:45:39.215477+00:00",
     "outage_alert_sent": false
   }
 }
