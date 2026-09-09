@@ -14606,6 +14606,12 @@
           "price_display": "€ 350,00",
           "title": "Richwood Artist Series RD-17C gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440566975-richwood-artist-series-rd-17c-gitaar"
+        },
+        "m2440603763": {
+          "first_seen_at": "2026-09-09T00:33:13.786204+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Aria Matsuoka D60 | 70’s | Brazilian",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440603763-aria-matsuoka-d60-70-s-brazilian"
         }
       }
     },
@@ -65285,6 +65291,18 @@
           "price_display": "€ 30,00",
           "title": "Dumbbells 30Kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440600406-dumbbells-30kg"
+        },
+        "m2440602601": {
+          "first_seen_at": "2026-09-09T00:32:25.479816+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Klarfit Ti-Trix pull up station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440602601-klarfit-ti-trix-pull-up-station"
+        },
+        "m2440605399": {
+          "first_seen_at": "2026-09-09T00:32:25.479816+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Fitness halters/ dumbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440605399-fitness-halters-dumbells"
         }
       }
     },
@@ -80301,6 +80319,12 @@
           "price_display": "€ 120,00",
           "title": "Piano droit Geyer – bois clair + tabouret",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440568060-piano-droit-geyer-bois-clair-tabouret"
+        },
+        "m2440606317": {
+          "first_seen_at": "2026-09-09T00:33:05.034341+00:00",
+          "price_display": "Bieden vanaf € 10.250,00",
+          "title": "vleugelpiano Seiler",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440606317-vleugelpiano-seiler"
         }
       }
     }
@@ -80308,7 +80332,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-08T22:35:38.510709+00:00",
+    "last_checked_at": "2026-09-09T00:33:14.378519+00:00",
     "outage_alert_sent": false
   }
 }
