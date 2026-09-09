@@ -14840,6 +14840,18 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "Akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440953918-akoestische-gitaar"
+        },
+        "m2440955706": {
+          "first_seen_at": "2026-09-09T22:24:43.474875+00:00",
+          "price_display": "€ 35,00",
+          "title": "Phoenix 001 akoestische westerngitaar Zwart",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440955706-phoenix-001-akoestische-westerngitaar-zwart"
+        },
+        "m2440977751": {
+          "first_seen_at": "2026-09-09T22:24:43.474875+00:00",
+          "price_display": "€ 40,00",
+          "title": "gitaar met voet",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2440977751-gitaar-met-voet"
         }
       }
     },
@@ -21943,6 +21955,12 @@
           "price_display": "€ 150,00",
           "title": "Marvel Thor 1 oz Zilveren Munt (2023) – Zeer Laag Certificaa",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440929129-marvel-thor-1-oz-zilveren-munt-2023-zeer-laag-certificaa"
+        },
+        "m2440973134": {
+          "first_seen_at": "2026-09-09T22:24:23.701434+00:00",
+          "price_display": "€ 600,00",
+          "title": "Canadese herdenkingsmunten Montreal 1976 zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2440973134-canadese-herdenkingsmunten-montreal-1976-zilver"
         }
       }
     },
@@ -66215,6 +66233,24 @@
           "price_display": "€ 5.499,00",
           "title": "Technogym Skillrun 5000 Loopband Skill Run Unity LIVE",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440950744-technogym-skillrun-5000-loopband-skill-run-unity-live"
+        },
+        "m2440958701": {
+          "first_seen_at": "2026-09-09T22:23:53.133237+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Professionele horizontale Legpress - 230 kg stack!",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440958701-professionele-horizontale-legpress-230-kg-stack"
+        },
+        "m2440971089": {
+          "first_seen_at": "2026-09-09T22:23:53.133237+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "Smith machine Newton",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440971089-smith-machine-newton"
+        },
+        "m2440974986": {
+          "first_seen_at": "2026-09-09T22:23:53.133237+00:00",
+          "price_display": "€ 80,00",
+          "title": "Kettlebell 28kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2440974986-kettlebell-28kg"
         }
       }
     },
@@ -70960,6 +70996,12 @@
           "price_display": "€ 85,00",
           "title": "Head XTR - Extreme",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2440944504-head-xtr-extreme"
+        },
+        "m2440967307": {
+          "first_seen_at": "2026-09-09T22:24:04.817193+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "Adidas Metalbone CTRL 3.5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2440967307-adidas-metalbone-ctrl-3-5"
         }
       }
     },
@@ -81579,6 +81621,18 @@
           "price_display": "Bieden vanaf € 1.000,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440953554-piano"
+        },
+        "m2440955604": {
+          "first_seen_at": "2026-09-09T22:24:32.396327+00:00",
+          "price_display": "Bieden vanaf € 4.500,00",
+          "title": "Prachtige Perzina 122 Konsumat V1 met Silent Systeem",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440955604-prachtige-perzina-122-konsumat-v1-met-silent-systeem"
+        },
+        "m2440965295": {
+          "first_seen_at": "2026-09-09T22:24:32.396327+00:00",
+          "price_display": "€ 395,00",
+          "title": "Antieke vleugel piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2440965295-antieke-vleugel-piano"
         }
       }
     }
@@ -81586,7 +81640,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-09T20:00:50.976223+00:00",
+    "last_checked_at": "2026-09-09T22:24:45.657858+00:00",
     "outage_alert_sent": false
   }
 }
