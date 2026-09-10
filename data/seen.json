@@ -1131,6 +1131,12 @@
           "title": "Sigma 000M-1ST",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2411219875-sigma-000m-1st"
         },
+        "m2411334297": {
+          "first_seen_at": "2026-09-10T00:24:18.907109+00:00",
+          "price_display": "€ 365,00",
+          "title": "Cordoba C5-CE elektro-klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2411334297-cordoba-c5-ce-elektro-klassieke-gitaar"
+        },
         "m2412111865": {
           "first_seen_at": "2026-07-14T11:53:06.255780+00:00",
           "price_display": "Bieden vanaf € 1.500,00",
@@ -31548,6 +31554,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Power Maxx - trilplaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2440940049-power-maxx-trilplaat"
+        },
+        "m2440986410": {
+          "first_seen_at": "2026-09-10T00:23:52.012928+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Proffesionele benchpress",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2440986410-proffesionele-benchpress"
         }
       }
     },
@@ -81640,7 +81652,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-09T22:24:45.657858+00:00",
+    "last_checked_at": "2026-09-10T00:24:19.771757+00:00",
     "outage_alert_sent": false
   }
 }
