@@ -15122,6 +15122,24 @@
           "price_display": "€ 1.600,00",
           "title": "Yamaha GC32C Japan",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441277316-yamaha-gc32c-japan"
+        },
+        "m2441289930": {
+          "first_seen_at": "2026-09-10T21:58:08.042431+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441289930-akoestische-gitaar"
+        },
+        "m2441290976": {
+          "first_seen_at": "2026-09-10T21:58:08.042431+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Instruments à cordes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441290976-instruments-a-cordes"
+        },
+        "m2441307064": {
+          "first_seen_at": "2026-09-10T21:58:08.042431+00:00",
+          "price_display": "Gratis",
+          "title": "Guitare Seagull rustic entourage mini jumbo",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441307064-guitare-seagull-rustic-entourage-mini-jumbo"
         }
       }
     },
@@ -31998,6 +32016,18 @@
           "price_display": "Bieden vanaf € 700,00",
           "title": "Finnlo Aquon Competition roeitrainer zwart",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2441264795-finnlo-aquon-competition-roeitrainer-zwart"
+        },
+        "m2441291421": {
+          "first_seen_at": "2026-09-10T21:57:33.940183+00:00",
+          "price_display": "Bieden vanaf € 420,00",
+          "title": "Complete homegym: loopband, hometrainer en crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2441291421-complete-homegym-loopband-hometrainer-en-crosstrainer"
+        },
+        "m2441297268": {
+          "first_seen_at": "2026-09-10T21:57:33.940183+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Roeitrainer (eik)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2441297268-roeitrainer-eik"
         }
       }
     },
@@ -67229,6 +67259,18 @@
           "price_display": "€ 15,00",
           "title": "Crivit opvouwbare stoelfiets arm- en beentrainer!",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441285428-crivit-opvouwbare-stoelfiets-arm-en-beentrainer"
+        },
+        "m2441290875": {
+          "first_seen_at": "2026-09-10T21:57:14.760175+00:00",
+          "price_display": "€ 75,00",
+          "title": "banc de musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441290875-banc-de-musculation"
+        },
+        "m2441290988": {
+          "first_seen_at": "2026-09-10T21:57:14.760175+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Cybex priam combiwagen met reiswieg en autostoeltjes",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441290988-cybex-priam-combiwagen-met-reiswieg-en-autostoeltjes"
         }
       }
     },
@@ -82791,6 +82833,18 @@
           "price_display": "€ 150,00",
           "title": "piano met statief en sustain pedaal",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2441276505-piano-met-statief-en-sustain-pedaal"
+        },
+        "m2441295795": {
+          "first_seen_at": "2026-09-10T21:57:57.162387+00:00",
+          "price_display": "€ 25.000,00",
+          "title": "C. BECHSTEIN Model C VLEUGEL",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2441295795-c-bechstein-model-c-vleugel"
+        },
+        "m2441300649": {
+          "first_seen_at": "2026-09-10T21:57:57.162387+00:00",
+          "price_display": "€ 1.450,00",
+          "title": "Roland DP603 digitale piano in perfecte staat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2441300649-roland-dp603-digitale-piano-in-perfecte-staat"
         }
       }
     }
@@ -82798,7 +82852,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-10T19:47:30.164203+00:00",
+    "last_checked_at": "2026-09-10T21:58:10.560724+00:00",
     "outage_alert_sent": false
   }
 }
