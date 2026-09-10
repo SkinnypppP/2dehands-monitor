@@ -15140,6 +15140,12 @@
           "price_display": "Gratis",
           "title": "Guitare Seagull rustic entourage mini jumbo",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441307064-guitare-seagull-rustic-entourage-mini-jumbo"
+        },
+        "m2441310404": {
+          "first_seen_at": "2026-09-10T23:45:40.635258+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fender Guitare Acoustique FA-115 Black",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2441310404-fender-guitare-acoustique-fa-115-black"
         }
       }
     },
@@ -82852,7 +82858,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-10T21:58:10.560724+00:00",
+    "last_checked_at": "2026-09-10T23:45:41.185934+00:00",
     "outage_alert_sent": false
   }
 }
