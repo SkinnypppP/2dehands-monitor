@@ -67277,6 +67277,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Cybex priam combiwagen met reiswieg en autostoeltjes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441290988-cybex-priam-combiwagen-met-reiswieg-en-autostoeltjes"
+        },
+        "m2441316934": {
+          "first_seen_at": "2026-09-11T01:29:50.815008+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Kettlebell 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441316934-kettlebell-10kg"
+        },
+        "m2441316970": {
+          "first_seen_at": "2026-09-11T01:29:50.815008+00:00",
+          "price_display": "€ 40,00",
+          "title": "Halterset",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441316970-halterset"
         }
       }
     },
@@ -82858,7 +82870,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-10T23:45:41.185934+00:00",
+    "last_checked_at": "2026-09-11T01:30:34.805303+00:00",
     "outage_alert_sent": false
   }
 }
