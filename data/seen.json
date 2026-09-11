@@ -68357,6 +68357,18 @@
           "price_display": "€ 2.190,00",
           "title": "Technogym Run Now Excite+ 600 Unity 3.0 LIVE Loopband Black",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441658851-technogym-run-now-excite-600-unity-3-0-live-loopband-black"
+        },
+        "m2441667591": {
+          "first_seen_at": "2026-09-11T23:18:25.949222+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "TE KOOP: Gervasport Professioneel Krachtstation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441667591-te-koop-gervasport-professioneel-krachtstation"
+        },
+        "m2441668082": {
+          "first_seen_at": "2026-09-11T23:18:25.949222+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "TE KOOP: Gervasport Professioneel Buikspierapparaat / Ab Mac",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2441668082-te-koop-gervasport-professioneel-buikspierapparaat-ab-mac"
         }
       }
     },
@@ -84214,7 +84226,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-11T21:16:34.280294+00:00",
+    "last_checked_at": "2026-09-11T23:19:14.913728+00:00",
     "outage_alert_sent": false
   }
 }
