@@ -15644,6 +15644,12 @@
           "price_display": "€ 140,00",
           "title": "Fender folk acoustique Fa serie",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442028852-fender-folk-acoustique-fa-serie"
+        },
+        "m2442037935": {
+          "first_seen_at": "2026-09-12T22:46:17.106371+00:00",
+          "price_display": "Bieden vanaf € 575,00",
+          "title": "Kodaira Artist No. 145S – klassieke gitaar + koffer",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442037935-kodaira-artist-no-145s-klassieke-gitaar-koffer"
         }
       }
     },
@@ -69593,6 +69599,18 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Wonder Core",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442028758-wonder-core"
+        },
+        "m2442032388": {
+          "first_seen_at": "2026-09-12T22:45:37.742501+00:00",
+          "price_display": "€ 7,00",
+          "title": "Een 10kg dumbbel en fitness accessoires",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442032388-een-10kg-dumbbel-en-fitness-accessoires"
+        },
+        "m2442040504": {
+          "first_seen_at": "2026-09-12T22:45:37.742501+00:00",
+          "price_display": "€ 17,50",
+          "title": "Kettlebell 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442040504-kettlebell-10kg"
         }
       }
     },
@@ -85708,7 +85726,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-12T20:55:17.889251+00:00",
+    "last_checked_at": "2026-09-12T22:46:18.248901+00:00",
     "outage_alert_sent": false
   }
 }
