@@ -15950,6 +15950,12 @@
           "price_display": "€ 75,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442431654-gitaar"
+        },
+        "m2442440598": {
+          "first_seen_at": "2026-09-13T21:45:20.570920+00:00",
+          "price_display": "Bieden vanaf € 250,00",
+          "title": "Guitare Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442440598-guitare-yamaha"
         }
       }
     },
@@ -23653,6 +23659,12 @@
           "price_display": "Bieden vanaf € 650,00",
           "title": "Goudstaaf 5Gram umicore nieuw",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2442339125-goudstaaf-5gram-umicore-nieuw"
+        },
+        "m2442448856": {
+          "first_seen_at": "2026-09-13T21:45:01.799403+00:00",
+          "price_display": "€ 50,00",
+          "title": "Geiger koperbar 100g slab ultra collector",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2442448856-geiger-koperbar-100g-slab-ultra-collector"
         }
       }
     },
@@ -70775,6 +70787,12 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "Gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442434242-gewichten"
+        },
+        "m2442455033": {
+          "first_seen_at": "2026-09-13T21:44:36.423377+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Airhockey pushers en pucks",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442455033-airhockey-pushers-en-pucks"
         }
       }
     },
@@ -75784,6 +75802,12 @@
           "price_display": "€ 30,00",
           "title": "Bullpadel racket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2442404342-bullpadel-racket"
+        },
+        "m2442440803": {
+          "first_seen_at": "2026-09-13T21:44:45.532919+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Padelracket Wilson nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2442440803-padelracket-wilson-nieuw"
         }
       }
     },
@@ -87196,7 +87220,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-13T19:44:28.126031+00:00",
+    "last_checked_at": "2026-09-13T21:45:21.505710+00:00",
     "outage_alert_sent": false
   }
 }
