@@ -70793,6 +70793,12 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Airhockey pushers en pucks",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442455033-airhockey-pushers-en-pucks"
+        },
+        "m2442460338": {
+          "first_seen_at": "2026-09-13T23:36:05.315956+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Sport & fitness : Foamroll (standard) met spikkels",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2442460338-sport-fitness-foamroll-standard-met-spikkels"
         }
       }
     },
@@ -75808,6 +75814,18 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Padelracket Wilson nieuw",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2442440803-padelracket-wilson-nieuw"
+        },
+        "m2442457672": {
+          "first_seen_at": "2026-09-13T23:36:14.157958+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Siux Pegasus Pro High-End Padel Racket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2442457672-siux-pegasus-pro-high-end-padel-racket"
+        },
+        "m2442458203": {
+          "first_seen_at": "2026-09-13T23:36:14.157958+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Nox ML Bahia",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2442458203-nox-ml-bahia"
         }
       }
     },
@@ -87213,6 +87231,12 @@
           "price_display": "Gratis",
           "title": "Buffet piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2442400795-buffet-piano"
+        },
+        "m2442456073": {
+          "first_seen_at": "2026-09-13T23:36:38.230591+00:00",
+          "price_display": "Bieden vanaf € 4.750,00",
+          "title": "Vleugel piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2442456073-vleugel-piano"
         }
       }
     }
@@ -87220,7 +87244,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-13T21:45:21.505710+00:00",
+    "last_checked_at": "2026-09-13T23:36:46.512135+00:00",
     "outage_alert_sent": false
   }
 }
