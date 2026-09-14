@@ -15956,6 +15956,12 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Guitare Yamaha",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442440598-guitare-yamaha"
+        },
+        "m2442465951": {
+          "first_seen_at": "2026-09-14T01:37:03.672415+00:00",
+          "price_display": "Bieden vanaf € 1.550,00",
+          "title": "Taylor 414 ce",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2442465951-taylor-414-ce"
         }
       }
     },
@@ -87244,7 +87250,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-13T23:36:46.512135+00:00",
+    "last_checked_at": "2026-09-14T01:37:05.187664+00:00",
     "outage_alert_sent": false
   }
 }
