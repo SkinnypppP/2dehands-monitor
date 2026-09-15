@@ -88437,6 +88437,18 @@
           "price_display": "€ 2.200,00",
           "title": "Yamaha Clavinova CLP-565GP digitale vleugelpiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2442802205-yamaha-clavinova-clp-565gp-digitale-vleugelpiano"
+        },
+        "m2442808966": {
+          "first_seen_at": "2026-09-15T00:46:00.798468+00:00",
+          "price_display": "Gratis",
+          "title": "gratis piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2442808966-gratis-piano"
+        },
+        "m2442817607": {
+          "first_seen_at": "2026-09-15T00:46:00.798468+00:00",
+          "price_display": "Bieden vanaf € 18.500,00",
+          "title": "Mason & Hamlin Boston 1907 Model AA - Medium Grand 173cm - B",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2442817607-mason-hamlin-boston-1907-model-aa-medium-grand-173cm-b"
         }
       }
     }
@@ -88444,7 +88456,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-14T22:24:48.490485+00:00",
+    "last_checked_at": "2026-09-15T00:46:11.726959+00:00",
     "outage_alert_sent": false
   }
 }
