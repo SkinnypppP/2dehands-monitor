@@ -16412,6 +16412,18 @@
           "price_display": "Bieden vanaf € 1.299,00",
           "title": "Blueridge BR-160A Dreadnought gitaar met LR Baggs M1 pickup",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2443125474-blueridge-br-160a-dreadnought-gitaar-met-lr-baggs-m1-pickup"
+        },
+        "m2443131163": {
+          "first_seen_at": "2026-09-15T23:54:28.205244+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "redhill gitaartje electro akoustisch",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2443131163-redhill-gitaartje-electro-akoustisch"
+        },
+        "m2443131667": {
+          "first_seen_at": "2026-09-15T23:54:28.205244+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "salvador cortez cc21",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2443131667-salvador-cortez-cc21"
         }
       }
     },
@@ -24505,6 +24517,12 @@
           "price_display": "€ 20,00",
           "title": "Grand Briquet Table FISHER BUTANE - Métal Massif (À réviser)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2443115764-grand-briquet-table-fisher-butane-metal-massif-a-reviser"
+        },
+        "m2443132137": {
+          "first_seen_at": "2026-09-15T23:54:08.598874+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "zilverbaar 100 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2443132137-zilverbaar-100-gram"
         }
       }
     },
@@ -34890,6 +34908,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Vélo d'exercise - Cyclette",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2443118637-velo-d-exercise-cyclette"
+        },
+        "m2443129166": {
+          "first_seen_at": "2026-09-15T23:53:57.507322+00:00",
+          "price_display": "€ 110,00",
+          "title": "Tapis de course Domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2443129166-tapis-de-course-domyos"
         }
       }
     },
@@ -72749,6 +72773,12 @@
           "price_display": "Bieden vanaf € 120,00",
           "title": "Halterbank + 110kg gewichten + rechte en gebogen baar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2443124142-halterbank-110kg-gewichten-rechte-en-gebogen-baar"
+        },
+        "m2443131347": {
+          "first_seen_at": "2026-09-15T23:53:39.408174+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "NIEUW Fat Gripz Pro Series - Arm Builders voor Krachttrainin",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2443131347-nieuw-fat-gripz-pro-series-arm-builders-voor-krachttrainin"
         }
       }
     },
@@ -89704,7 +89734,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-15T21:54:07.525058+00:00",
+    "last_checked_at": "2026-09-15T23:54:29.255282+00:00",
     "outage_alert_sent": false
   }
 }
