@@ -72779,6 +72779,12 @@
           "price_display": "Bieden vanaf € 35,00",
           "title": "NIEUW Fat Gripz Pro Series - Arm Builders voor Krachttrainin",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2443131347-nieuw-fat-gripz-pro-series-arm-builders-voor-krachttrainin"
+        },
+        "m2443140956": {
+          "first_seen_at": "2026-09-16T02:52:38.605647+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Bench press domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2443140956-bench-press-domyos"
         }
       }
     },
@@ -89734,7 +89740,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-15T23:54:29.255282+00:00",
+    "last_checked_at": "2026-09-16T02:53:25.162794+00:00",
     "outage_alert_sent": false
   }
 }
