@@ -17066,6 +17066,24 @@
           "price_display": "Bieden vanaf € 3.200,00",
           "title": "Martin d-28 re-imagined",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444137149-martin-d-28-re-imagined"
+        },
+        "m2444155795": {
+          "first_seen_at": "2026-09-18T23:55:20.102115+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Ukelele Ohana Ck-35",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444155795-ukelele-ohana-ck-35"
+        },
+        "m2444156326": {
+          "first_seen_at": "2026-09-18T23:55:20.102115+00:00",
+          "price_display": "Bieden vanaf € 5.250,00",
+          "title": "Goodall TR 000 (2018), short scale, als nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444156326-goodall-tr-000-2018-short-scale-als-nieuw"
+        },
+        "m2444156561": {
+          "first_seen_at": "2026-09-18T23:55:20.102115+00:00",
+          "price_display": "Bieden vanaf € 210,00",
+          "title": "Vox VX50-AG versterker akoustische gitaar en zang",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444156561-vox-vx50-ag-versterker-akoustische-gitaar-en-zang"
         }
       }
     },
@@ -75737,6 +75755,18 @@
           "price_display": "€ 90,00",
           "title": "Fitnessbank panatta",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444130808-fitnessbank-panatta"
+        },
+        "m2444153490": {
+          "first_seen_at": "2026-09-18T23:54:29.905124+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Pull up bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444153490-pull-up-bar"
+        },
+        "m2444155037": {
+          "first_seen_at": "2026-09-18T23:54:29.905124+00:00",
+          "price_display": "Bieden vanaf € 80,00",
+          "title": "Staple-fiets",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444155037-staple-fiets"
         }
       }
     },
@@ -93346,7 +93376,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-18T21:58:12.339723+00:00",
+    "last_checked_at": "2026-09-18T23:55:23.223617+00:00",
     "outage_alert_sent": false
   }
 }
