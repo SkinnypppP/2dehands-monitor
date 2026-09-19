@@ -17324,6 +17324,24 @@
           "price_display": "€ 70,00",
           "title": "guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444523085-guitare"
+        },
+        "m2444535057": {
+          "first_seen_at": "2026-09-19T22:31:29.909136+00:00",
+          "price_display": "€ 90,00",
+          "title": "Washburn 125th anniversary akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444535057-washburn-125th-anniversary-akoestische-gitaar"
+        },
+        "m2444536078": {
+          "first_seen_at": "2026-09-19T22:31:29.909136+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "Akoestische gitaar - nieuw",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444536078-akoestische-gitaar-nieuw"
+        },
+        "m2444536711": {
+          "first_seen_at": "2026-09-19T22:31:29.909136+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Guitare, José, Ramirez",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2444536711-guitare-jose-ramirez"
         }
       }
     },
@@ -76805,6 +76823,12 @@
           "price_display": "€ 117,00",
           "title": "Pull-up bar en dipstation - Bouw jouw eigen outdoor gym",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444527440-pull-up-bar-en-dipstation-bouw-jouw-eigen-outdoor-gym"
+        },
+        "m2444542242": {
+          "first_seen_at": "2026-09-19T22:30:47.422250+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Dumbell Tunturi - 2x 12,5kg - verstelbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444542242-dumbell-tunturi-2x-12-5kg-verstelbaar"
         }
       }
     },
@@ -94731,6 +94755,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "roland fp-10",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2444519043-roland-fp-10"
+        },
+        "m2444545709": {
+          "first_seen_at": "2026-09-19T22:31:21.390589+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Opknapper voor de liefhebber",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2444545709-opknapper-voor-de-liefhebber"
         }
       }
     }
@@ -94738,7 +94768,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-19T20:46:11.143583+00:00",
+    "last_checked_at": "2026-09-19T22:31:33.299505+00:00",
     "outage_alert_sent": false
   }
 }
