@@ -1017,11 +1017,29 @@
           "title": "Sire Marcus Miller - P10+ A4 4-string tobacco sunburst,",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166457911-sire-marcus-miller-p10-a4-4-string-tobacco-sunburst"
         },
+        "a166585202": {
+          "first_seen_at": "2026-09-20T05:08:32.415861+00:00",
+          "price_display": "€ 900,00",
+          "title": "Fender - American Stratocaster (USA) - Olive Drab Metallic",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166585202-fender-american-stratocaster-usa-olive-drab-metallic"
+        },
+        "a166585300": {
+          "first_seen_at": "2026-09-20T05:08:32.415861+00:00",
+          "price_display": "€ 320,00",
+          "title": "Sire Marcus Miller - V5 Vintage White - - Elektrische",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166585300-sire-marcus-miller-v5-vintage-white-elektrische"
+        },
         "a166586894": {
           "first_seen_at": "2026-09-19T07:33:51.005497+00:00",
           "price_display": "€ 315,00",
           "title": "Sire Marcus Miller - V5 TS Fretless Tobacco Sunburst - -",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166586894-sire-marcus-miller-v5-ts-fretless-tobacco-sunburst"
+        },
+        "a166587475": {
+          "first_seen_at": "2026-09-20T05:08:32.415861+00:00",
+          "price_display": "€ 495,00",
+          "title": "Orville - Les Paul - - Guitare électrique - Japon",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166587475-orville-les-paul-guitare-electrique-japon"
         },
         "a166587477": {
           "first_seen_at": "2026-09-19T07:33:51.005497+00:00",
@@ -76829,6 +76847,30 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Dumbell Tunturi - 2x 12,5kg - verstelbaar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444542242-dumbell-tunturi-2x-12-5kg-verstelbaar"
+        },
+        "m2444562244": {
+          "first_seen_at": "2026-09-20T05:07:46.410821+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "15kg Halterset (verwisselbaar)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444562244-15kg-halterset-verwisselbaar"
+        },
+        "m2444562296": {
+          "first_seen_at": "2026-09-20T05:07:46.410821+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Halterset met rode gewichten (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444562296-halterset-met-rode-gewichten-30mm"
+        },
+        "m2444562369": {
+          "first_seen_at": "2026-09-20T05:07:46.410821+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Halterset met zwarte gewichten (30mm)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444562369-halterset-met-zwarte-gewichten-30mm"
+        },
+        "m2444562661": {
+          "first_seen_at": "2026-09-20T05:07:46.410821+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Squatrack + dips in breedte en hoogte verstelbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2444562661-squatrack-dips-in-breedte-en-hoogte-verstelbaar"
         }
       }
     },
@@ -82383,6 +82425,12 @@
           "price_display": "Bieden vanaf € 1.490,00",
           "title": "Excellent piano Petrof noir laqué accordé et garanti",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a156001980-excellent-piano-petrof-noir-laque-accorde-et-garanti"
+        },
+        "a159566445": {
+          "first_seen_at": "2026-09-20T05:08:23.203959+00:00",
+          "price_display": "€ 44.900,00",
+          "title": "Steinway &amp; Sons, model C",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/a159566445-steinway-amp-sons-model-c"
         },
         "a161836280": {
           "first_seen_at": "2026-07-13T14:08:29.176483+00:00",
@@ -94768,7 +94816,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-19T22:31:33.299505+00:00",
+    "last_checked_at": "2026-09-20T05:08:34.969647+00:00",
     "outage_alert_sent": false
   }
 }
