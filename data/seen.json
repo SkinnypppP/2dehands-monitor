@@ -26407,6 +26407,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "pièces d'époque faire offre sérieuse",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2444891667-pieces-d-epoque-faire-offre-serieuse"
+        },
+        "m2444961652": {
+          "first_seen_at": "2026-09-20T23:34:18.547137+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "2010-W $1 Disabled Veterans Proof Zilver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2444961652-2010-w-1-disabled-veterans-proof-zilver"
         }
       }
     },
@@ -96057,6 +96063,12 @@
           "price_display": "€ 40,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2444937873-piano"
+        },
+        "m2444961825": {
+          "first_seen_at": "2026-09-20T23:34:26.390389+00:00",
+          "price_display": "€ 600,00",
+          "title": "Piano te koop",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2444961825-piano-te-koop"
         }
       }
     }
@@ -96064,7 +96076,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-20T21:44:41.944204+00:00",
+    "last_checked_at": "2026-09-20T23:34:32.977737+00:00",
     "outage_alert_sent": false
   }
 }
