@@ -17876,6 +17876,12 @@
           "price_display": "€ 40,00",
           "title": "gitaar met voet",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2445283054-gitaar-met-voet"
+        },
+        "m2445299422": {
+          "first_seen_at": "2026-09-22T01:07:46.269231+00:00",
+          "price_display": "€ 375,00",
+          "title": "Norman B20 akoestische gitaar| Made in Canada | met pickup",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2445299422-norman-b20-akoestische-gitaar-made-in-canada-met-pickup"
         }
       }
     },
@@ -26767,6 +26773,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "sales",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2445294052-sales"
+        },
+        "m2445298308": {
+          "first_seen_at": "2026-09-22T01:07:27.539565+00:00",
+          "price_display": "Bieden vanaf € 220,00",
+          "title": "2 pesos goud Mexico 1945",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2445298308-2-pesos-goud-mexico-1945"
+        },
+        "m2445302904": {
+          "first_seen_at": "2026-09-22T01:07:27.539565+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "duo zilverstaven,=62,20gram=!!!! 150€ !!!!!",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2445302904-duo-zilverstaven-62-20gram-150"
         }
       }
     },
@@ -78683,6 +78701,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2445292327-hometrainer"
+        },
+        "m2445300825": {
+          "first_seen_at": "2026-09-22T01:07:00.328691+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Fitnessbank, barbell met 2delig statief en 2 dumbells",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2445300825-fitnessbank-barbell-met-2delig-statief-en-2-dumbells"
         }
       }
     },
@@ -97060,7 +97084,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-21T22:37:19.008647+00:00",
+    "last_checked_at": "2026-09-22T01:07:47.235227+00:00",
     "outage_alert_sent": false
   }
 }
