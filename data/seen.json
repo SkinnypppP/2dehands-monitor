@@ -79625,6 +79625,12 @@
           "price_display": "€ 30,00",
           "title": "Fitnes",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2445613439-fitnes"
+        },
+        "m2445618392": {
+          "first_seen_at": "2026-09-23T00:23:32.149602+00:00",
+          "price_display": "€ 20,00",
+          "title": "Kettlebell 10kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2445618392-kettlebell-10kg"
         }
       }
     },
@@ -98277,6 +98283,12 @@
           "price_display": "€ 400,00",
           "title": "digitale piano Dynatone met pianostoel",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2445576741-digitale-piano-dynatone-met-pianostoel"
+        },
+        "m2445616741": {
+          "first_seen_at": "2026-09-23T00:24:11.184980+00:00",
+          "price_display": "Bieden vanaf € 210,00",
+          "title": "pianos",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2445616741-pianos"
         }
       }
     }
@@ -98284,7 +98296,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-22T22:06:04.122602+00:00",
+    "last_checked_at": "2026-09-23T00:24:19.882164+00:00",
     "outage_alert_sent": false
   }
 }
