@@ -80645,6 +80645,18 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "tacx",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446031195-tacx"
+        },
+        "m2446074506": {
+          "first_seen_at": "2026-09-24T04:12:08.782572+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "Clover fitness smart A8",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446074506-clover-fitness-smart-a8"
+        },
+        "m2446078481": {
+          "first_seen_at": "2026-09-24T04:12:08.782572+00:00",
+          "price_display": "€ 5,00",
+          "title": "Fitnessbank Domyos BA 120\nGebruikt staat \n5 €",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446078481-fitnessbank-domyos-ba-120-gebruikt-staat-5"
         }
       }
     },
@@ -99519,6 +99531,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Duitse top: Buffetpiano Schimmel uit 1965",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2446036070-duitse-top-buffetpiano-schimmel-uit-1965"
+        },
+        "m2446076243": {
+          "first_seen_at": "2026-09-24T04:12:42.943018+00:00",
+          "price_display": "€ 100,00",
+          "title": "Elektrische piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2446076243-elektrische-piano-yamaha"
         }
       }
     }
@@ -99526,7 +99544,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-24T00:00:12.876819+00:00",
+    "last_checked_at": "2026-09-24T04:12:53.757591+00:00",
     "outage_alert_sent": false
   }
 }
