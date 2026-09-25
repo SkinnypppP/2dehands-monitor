@@ -20252,6 +20252,24 @@
           "title": "3,49 grams - Or .980 - Ducat Austria 1915 - 986‰",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166869282-3-49-grams-or-980-ducat-austria-1915-986"
         },
+        "a166883594": {
+          "first_seen_at": "2026-09-25T04:48:46.888867+00:00",
+          "price_display": "€ 148,00",
+          "title": "3 Troy Ounce - Argent .999 - various refineries",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166883594-3-troy-ounce-argent-999-various-refineries"
+        },
+        "a166883595": {
+          "first_seen_at": "2026-09-25T04:48:46.888867+00:00",
+          "price_display": "€ 60,00",
+          "title": "1 gramme - Or .999 - Albino Moutinho (Sans prix de réserve)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166883595-1-gramme-or-999-albino-moutinho-sans-prix-de-reserve"
+        },
+        "a166883596": {
+          "first_seen_at": "2026-09-25T04:48:46.888867+00:00",
+          "price_display": "€ 250,00",
+          "title": "10 Onces troy - Argent .999 - Germania Mint (Sans prix de",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a166883596-10-onces-troy-argent-999-germania-mint-sans-prix-de"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -32310,6 +32328,12 @@
           "price_display": "€ 60,00",
           "title": "Hometrainer Tunturi B40",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428119434-hometrainer-tunturi-b40"
+        },
+        "m2428119935": {
+          "first_seen_at": "2026-09-25T04:48:35.314763+00:00",
+          "price_display": "€ 120,00",
+          "title": "Nordic Track E400 Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2428119935-nordic-track-e400-crosstrainer"
         },
         "m2428136812": {
           "first_seen_at": "2026-08-06T13:51:40.929126+00:00",
@@ -81473,6 +81497,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Bodybuilding apparaat.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446425506-bodybuilding-apparaat"
+        },
+        "m2446443025": {
+          "first_seen_at": "2026-09-25T04:48:15.899950+00:00",
+          "price_display": "€ 20,00",
+          "title": "Borstexpander",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446443025-borstexpander"
+        },
+        "m2446443181": {
+          "first_seen_at": "2026-09-25T04:48:15.899950+00:00",
+          "price_display": "€ 450,00",
+          "title": "Squatrek / Bankdruk met 105kg Olympische Gewichten ,Barbell",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446443181-squatrek-bankdruk-met-105kg-olympische-gewichten-barbell"
         }
       }
     },
@@ -100504,7 +100540,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-25T00:02:56.575760+00:00",
+    "last_checked_at": "2026-09-25T04:49:07.355997+00:00",
     "outage_alert_sent": false
   }
 }
