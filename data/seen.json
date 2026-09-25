@@ -27685,6 +27685,12 @@
           "price_display": "Zie omschrijving",
           "title": "3 stuks Dubbele Gouden Dukaat Goud (2007/2012/2013)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2446403175-3-stuks-dubbele-gouden-dukaat-goud-2007-2012-2013"
+        },
+        "m2446430994": {
+          "first_seen_at": "2026-09-25T00:02:37.572420+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Gr. Brit. one penny 1948, zeer mooie staat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2446430994-gr-brit-one-penny-1948-zeer-mooie-staat"
         }
       }
     },
@@ -81461,6 +81467,12 @@
           "price_display": "Bieden vanaf € 60,00",
           "title": "Machine musculaireWonder Core 2Appareil d'entraînement unise",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446413492-machine-musculairewonder-core-2appareil-d-entrainement-unise"
+        },
+        "m2446425506": {
+          "first_seen_at": "2026-09-25T00:02:06.935586+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bodybuilding apparaat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446425506-bodybuilding-apparaat"
         }
       }
     },
@@ -100492,7 +100504,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-24T21:42:34.911036+00:00",
+    "last_checked_at": "2026-09-25T00:02:56.575760+00:00",
     "outage_alert_sent": false
   }
 }
