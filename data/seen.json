@@ -1005,6 +1005,12 @@
           "title": "Fender - 1984-1988 Fender USA Stratocaster American Standard",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166442523-fender-1984-1988-fender-usa-stratocaster-american-standard"
         },
+        "a166442524": {
+          "first_seen_at": "2026-09-26T05:28:11.640531+00:00",
+          "price_display": "€ 850,00",
+          "title": "DAngelico - EXL-1 Excel - - Guitare à corps semi-creux",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166442524-dangelico-exl-1-excel-guitare-a-corps-semi-creux"
+        },
         "a166450945": {
           "first_seen_at": "2026-09-17T06:22:55.142846+00:00",
           "price_display": "€ 480,00",
@@ -1112,6 +1118,12 @@
           "price_display": "€ 1.599,00",
           "title": "Furch D34-SR Sitka Spruce & Indian Rosewood | Natural",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166692863-furch-d34-sr-sitka-spruce-indian-rosewood-natural"
+        },
+        "a166714917": {
+          "first_seen_at": "2026-09-26T05:28:11.640531+00:00",
+          "price_display": "€ 136,00",
+          "title": "Alhambra - 1 C - - Klassieke gitaar - Spanje (Zonder",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166714917-alhambra-1-c-klassieke-gitaar-spanje-zonder"
         },
         "m2171352659": {
           "first_seen_at": "2026-08-05T08:49:59.571086+00:00",
@@ -82463,6 +82475,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "roeitrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446745977-roeitrainer"
+        },
+        "m2446774551": {
+          "first_seen_at": "2026-09-26T05:27:21.726451+00:00",
+          "price_display": "€ 105,00",
+          "title": "Halterschijven 30mm....60kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446774551-halterschijven-30mm-60kg"
+        },
+        "m2446781771": {
+          "first_seen_at": "2026-09-26T05:27:21.726451+00:00",
+          "price_display": "€ 25,00",
+          "title": "Curlstang 120 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446781771-curlstang-120-cm"
+        },
+        "m2446781882": {
+          "first_seen_at": "2026-09-26T05:27:21.726451+00:00",
+          "price_display": "€ 40,00",
+          "title": "Halterstang 180 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446781882-halterstang-180-cm"
+        },
+        "m2446781971": {
+          "first_seen_at": "2026-09-26T05:27:21.726451+00:00",
+          "price_display": "€ 65,00",
+          "title": "Halterbank / fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2446781971-halterbank-fitnessbank"
         }
       }
     },
@@ -101661,6 +101697,12 @@
           "price_display": "Bieden vanaf € 800,00",
           "title": "Gear4music DP-6 digitale piano – zo goed als nieuw",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2446760676-gear4music-dp-6-digitale-piano-zo-goed-als-nieuw"
+        },
+        "m2446781308": {
+          "first_seen_at": "2026-09-26T05:28:03.437447+00:00",
+          "price_display": "Gratis",
+          "title": "Oude piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2446781308-oude-piano"
         }
       }
     }
@@ -101668,7 +101710,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-26T00:39:35.654522+00:00",
+    "last_checked_at": "2026-09-26T05:28:13.864039+00:00",
     "outage_alert_sent": false
   }
 }
