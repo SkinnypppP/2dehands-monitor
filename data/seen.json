@@ -18956,6 +18956,12 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "divers lot gitaar onderdelen, statieven, tools",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2447109291-divers-lot-gitaar-onderdelen-statieven-tools"
+        },
+        "m2447117611": {
+          "first_seen_at": "2026-09-26T23:08:20.064523+00:00",
+          "price_display": "Gratis",
+          "title": "Gratis gitaren gezocht",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2447117611-gratis-gitaren-gezocht"
         }
       }
     },
@@ -28435,6 +28441,18 @@
           "price_display": "€ 39,00",
           "title": "5 oz koper munt Zwart gekleurde Libertad",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2447020229-5-oz-koper-munt-zwart-gekleurde-libertad"
+        },
+        "m2447113582": {
+          "first_seen_at": "2026-09-26T23:08:00.306836+00:00",
+          "price_display": "€ 10,00",
+          "title": "NIEUW. set 33 houten stempels incl. gouden & zwarte inkt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2447113582-nieuw-set-33-houten-stempels-incl-gouden-zwarte-inkt"
+        },
+        "m2447119394": {
+          "first_seen_at": "2026-09-26T23:08:00.306836+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Lingot 20 gramme",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2447119394-lingot-20-gramme"
         }
       }
     },
@@ -83573,6 +83591,12 @@
           "price_display": "Bieden vanaf € 55,00",
           "title": "matériel de sport",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2447099846-materiel-de-sport"
+        },
+        "m2447121951": {
+          "first_seen_at": "2026-09-26T23:07:38.771327+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "Gewicht + stangen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2447121951-gewicht-stangen"
         }
       }
     },
@@ -102933,6 +102957,12 @@
           "price_display": "Bieden vanaf € 550,00",
           "title": "Knight Piano K15 notenhout – Tijdloze Klasse & Volle Klank",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2447109136-knight-piano-k15-notenhout-tijdloze-klasse-volle-klank"
+        },
+        "m2447115264": {
+          "first_seen_at": "2026-09-26T23:08:11.444117+00:00",
+          "price_display": "€ 2.200,00",
+          "title": "Roland LX5 CH Zwart gesatineerd",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2447115264-roland-lx5-ch-zwart-gesatineerd"
         }
       }
     }
@@ -102940,7 +102970,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-26T20:32:38.602281+00:00",
+    "last_checked_at": "2026-09-26T23:08:20.702089+00:00",
     "outage_alert_sent": false
   }
 }
