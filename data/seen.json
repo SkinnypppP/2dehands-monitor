@@ -41292,6 +41292,12 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Trotinette Orthopédique",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2447926870-trotinette-orthopedique"
+        },
+        "m2447936534": {
+          "first_seen_at": "2026-09-29T01:13:49.475702+00:00",
+          "price_display": "Bieden vanaf € 475,00",
+          "title": "Home fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2447936534-home-fitness"
         }
       }
     },
@@ -105034,7 +105040,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-28T21:32:31.667035+00:00",
+    "last_checked_at": "2026-09-29T01:14:19.624046+00:00",
     "outage_alert_sent": false
   }
 }
