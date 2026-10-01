@@ -19754,6 +19754,12 @@
           "price_display": "€ 1.950,00",
           "title": "Gibson j45 standard purple burst",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2448606867-gibson-j45-standard-purple-burst"
+        },
+        "m2448634088": {
+          "first_seen_at": "2026-10-01T02:04:18.935922+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "GUITARE CORT",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2448634088-guitare-cort"
         }
       }
     },
@@ -86939,6 +86945,12 @@
           "price_display": "€ 20,00",
           "title": "13 KG-punt",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448633152-13-kg-punt"
+        },
+        "m2448649956": {
+          "first_seen_at": "2026-10-01T02:03:32.792205+00:00",
+          "price_display": "€ 5,00",
+          "title": "Fitness / KOSSO ACCESOIRES .  Verschillende prijzen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448649956-fitness-kosso-accesoires-verschillende-prijzen"
         }
       }
     },
@@ -107146,7 +107158,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-09-30T23:03:31.287630+00:00",
+    "last_checked_at": "2026-10-01T02:04:20.122526+00:00",
     "outage_alert_sent": false
   }
 }
