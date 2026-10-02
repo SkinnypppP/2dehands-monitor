@@ -87857,6 +87857,36 @@
           "price_display": "€ 30,00",
           "title": "Professionele rubberen fitnessmatten / vloertegels",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448966768-professionele-rubberen-fitnessmatten-vloertegels"
+        },
+        "m2448968882": {
+          "first_seen_at": "2026-10-02T00:09:16.624436+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Professioneel fitness Abductor / Adductor machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448968882-professioneel-fitness-abductor-adductor-machine"
+        },
+        "m2448969645": {
+          "first_seen_at": "2026-10-02T00:09:16.624436+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Chest press machine",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448969645-chest-press-machine"
+        },
+        "m2448971878": {
+          "first_seen_at": "2026-10-02T00:09:16.624436+00:00",
+          "price_display": "Bieden vanaf € 280,00",
+          "title": "Homegym Focus - fitnesstoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448971878-homegym-focus-fitnesstoestel"
+        },
+        "m2448973973": {
+          "first_seen_at": "2026-10-02T00:09:16.624436+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "Halterset + bar + set gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448973973-halterset-bar-set-gewichten"
+        },
+        "m2448975808": {
+          "first_seen_at": "2026-10-02T00:09:16.624436+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Domyos Seat 06",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448975808-domyos-seat-06"
         }
       }
     },
@@ -94210,6 +94240,12 @@
           "price_display": "€ 85,00",
           "title": "Nox AT10 18k",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2448940679-nox-at10-18k"
+        },
+        "m2448974792": {
+          "first_seen_at": "2026-10-02T00:09:28.673744+00:00",
+          "price_display": "Bieden vanaf € 165,00",
+          "title": "Adidas Arrow Hit CTRL",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2448974792-adidas-arrow-hit-ctrl"
         }
       }
     },
@@ -108327,6 +108363,12 @@
           "price_display": "€ 900,00",
           "title": "Vleugelpiano Boisselot 1849 sn3102",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2448957031-vleugelpiano-boisselot-1849-sn3102"
+        },
+        "m2448974480": {
+          "first_seen_at": "2026-10-02T00:09:56.783108+00:00",
+          "price_display": "Bieden vanaf € 550,00",
+          "title": "Piano électrique Roland F-140R",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2448974480-piano-electrique-roland-f-140r"
         }
       }
     }
@@ -108334,7 +108376,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-01T20:35:27.417866+00:00",
+    "last_checked_at": "2026-10-02T00:10:03.919146+00:00",
     "outage_alert_sent": false
   }
 }
