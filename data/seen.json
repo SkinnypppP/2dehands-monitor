@@ -1185,6 +1185,12 @@
           "title": "Epiphone - FT-350BL El Dorado Vintage - - Guitare acoustique",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166964872-epiphone-ft-350bl-el-dorado-vintage-guitare-acoustique"
         },
+        "a166964874": {
+          "first_seen_at": "2026-10-02T05:31:26.175447+00:00",
+          "price_display": "€ 550,00",
+          "title": "Ovation - Collector 25’ - - Guitare électro-acoustique -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166964874-ovation-collector-25-guitare-electro-acoustique"
+        },
         "a166967930": {
           "first_seen_at": "2026-09-29T06:59:04.972725+00:00",
           "price_display": "€ 1.599,00",
@@ -29899,6 +29905,12 @@
           "price_display": "€ 128,00",
           "title": "5x tube #Britannia 2026 #zilver #1/10 ounce BU kwaliteit.",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2448963075-5x-tube-britannia-2026-zilver-1-10-ounce-bu-kwaliteit"
+        },
+        "m2448999151": {
+          "first_seen_at": "2026-10-02T05:31:08.390822+00:00",
+          "price_display": "Bieden vanaf € 176,00",
+          "title": "4x 1 oz zilveren FIFA WK 2026 Herdenkingsmunt",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2448999151-4x-1-oz-zilveren-fifa-wk-2026-herdenkingsmunt"
         }
       }
     },
@@ -42528,6 +42540,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "hometrainer DKN cardio 410 Dunlop",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2448927200-hometrainer-dkn-cardio-410-dunlop"
+        },
+        "m2449000304": {
+          "first_seen_at": "2026-10-02T05:31:01.033775+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "motomed armen en benen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2449000304-motomed-armen-en-benen"
         }
       }
     },
@@ -43043,6 +43061,12 @@
           "price_display": "€ 85,00",
           "title": "Veiling - Houten wandrek voor volwassenen - Naturel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a166505667-veiling-houten-wandrek-voor-volwassenen-naturel"
+        },
+        "a166506702": {
+          "first_seen_at": "2026-10-02T05:30:38.400524+00:00",
+          "price_display": "€ 850,00",
+          "title": "Matrix - S5x - Stepper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a166506702-matrix-s5x-stepper"
         },
         "a166506716": {
           "first_seen_at": "2026-09-24T09:20:34.538754+00:00",
@@ -87887,6 +87911,18 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Domyos Seat 06",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448975808-domyos-seat-06"
+        },
+        "m2448992852": {
+          "first_seen_at": "2026-10-02T05:30:38.400524+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "WHOOP Sportflex fitness band - Drift Grijs",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448992852-whoop-sportflex-fitness-band-drift-grijs"
+        },
+        "m2448999981": {
+          "first_seen_at": "2026-10-02T05:30:38.400524+00:00",
+          "price_display": "€ 200,00",
+          "title": "Loopband Dreaver S340 ! 200 euro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2448999981-loopband-dreaver-s340-200-euro"
         }
       }
     },
@@ -108376,7 +108412,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-02T00:10:03.919146+00:00",
+    "last_checked_at": "2026-10-02T05:31:26.992549+00:00",
     "outage_alert_sent": false
   }
 }
