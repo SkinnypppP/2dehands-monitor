@@ -1197,6 +1197,12 @@
           "title": "Gibson - Les Paul Standard Koa Hawaiano - - Guitare",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166967930-gibson-les-paul-standard-koa-hawaiano-guitare"
         },
+        "a166969250": {
+          "first_seen_at": "2026-10-04T05:44:30.499431+00:00",
+          "price_display": "€ 300,00",
+          "title": "EKO - Barracuda - - Elektrische gitaar - Italië - 1967",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166969250-eko-barracuda-elektrische-gitaar-italie-1967"
+        },
         "a166972611": {
           "first_seen_at": "2026-09-29T06:59:04.972725+00:00",
           "price_display": "€ 110,00",
@@ -1208,6 +1214,12 @@
           "price_display": "€ 270,00",
           "title": "Fender - Telecaster Thinline - - Guitare électrique - 2012",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167105392-fender-telecaster-thinline-guitare-electrique-2012"
+        },
+        "a167108028": {
+          "first_seen_at": "2026-10-04T05:44:30.499431+00:00",
+          "price_display": "€ 345,00",
+          "title": "Fender - Stratocaster HSS Floyd Rose (2019) | Made in Mexico",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167108028-fender-stratocaster-hss-floyd-rose-2019-made-in-mexico"
         },
         "a167108538": {
           "first_seen_at": "2026-10-03T05:33:28.342687+00:00",
@@ -30469,6 +30481,12 @@
           "price_display": "Gratis",
           "title": "je cherche lingot d or bien lire svp",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2449711743-je-cherche-lingot-d-or-bien-lire-svp"
+        },
+        "m2449716460": {
+          "first_seen_at": "2026-10-04T05:44:12.396366+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Varia #edelmetalen #Koper #Brons #Messing #Tin #Aluminium.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2449716460-varia-edelmetalen-koper-brons-messing-tin-aluminium"
         }
       }
     },
@@ -43350,6 +43368,12 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Splinter nieuwe loopband domyos",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2449708206-splinter-nieuwe-loopband-domyos"
+        },
+        "m2449728448": {
+          "first_seen_at": "2026-10-04T05:44:02.557462+00:00",
+          "price_display": "Bieden vanaf € 500,00",
+          "title": "VirtuFit Elite TR500i Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2449728448-virtufit-elite-tr500i-loopband"
         }
       }
     },
@@ -89459,6 +89483,12 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2449713425-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2449729444": {
+          "first_seen_at": "2026-10-04T05:43:43.215363+00:00",
+          "price_display": "€ 500,00",
+          "title": "Eleiko Half Rack",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2449729444-eleiko-half-rack"
         }
       }
     },
@@ -95944,6 +95974,12 @@
           "price_display": "Zie omschrijving",
           "title": "Padel.  Palet",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2449664810-padel-palet"
+        },
+        "m2449738927": {
+          "first_seen_at": "2026-10-04T05:43:53.824567+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Asics Gel Resolution X clay heren maat 47",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2449738927-asics-gel-resolution-x-clay-heren-maat-47"
         }
       }
     },
@@ -110482,7 +110518,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-04T00:06:42.190495+00:00",
+    "last_checked_at": "2026-10-04T05:44:32.856684+00:00",
     "outage_alert_sent": false
   }
 }
