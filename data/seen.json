@@ -30859,6 +30859,18 @@
           "price_display": "Bieden vanaf € 18,00",
           "title": "Oorlogsmunten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2450107492-oorlogsmunten"
+        },
+        "m2450123799": {
+          "first_seen_at": "2026-10-04T22:12:01.087042+00:00",
+          "price_display": "Bieden vanaf € 66,50",
+          "title": "1 oz Rectangular Lunar Horse 2026",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2450123799-1-oz-rectangular-lunar-horse-2026"
+        },
+        "m2450153238": {
+          "first_seen_at": "2026-10-04T22:12:01.087042+00:00",
+          "price_display": "Gratis",
+          "title": "12 Maple Leaf ‘Maplegrams ‘ puur goud (24 karaat)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2450153238-12-maple-leaf-maplegrams-puur-goud-24-karaat"
         }
       }
     },
@@ -43974,12 +43986,30 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Inversietafel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450088056-inversietafel"
+        },
+        "m2450131577": {
+          "first_seen_at": "2026-10-04T22:11:52.302687+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Life Fitness Stepper",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450131577-life-fitness-stepper"
+        },
+        "m2450141920": {
+          "first_seen_at": "2026-10-04T22:11:52.302687+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Hometrainer Virtufit iConsole+ HTR",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450141920-hometrainer-virtufit-iconsole-htr"
         }
       }
     },
     "Fitnessmaterialen": {
       "initialized_at": "2026-07-13T13:48:22.483713+00:00",
       "seen": {
+        "a134461354": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "€ 47,99",
+          "title": "vidaXL Halterschijven 4 st 20 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a134461354-vidaxl-halterschijven-4-st-20-kg"
+        },
         "a134465478": {
           "first_seen_at": "2026-08-02T07:19:57.143411+00:00",
           "price_display": "€ 372,99",
@@ -44615,6 +44645,12 @@
           "price_display": "€ 250,00",
           "title": "Hammer - Adjustable Bench",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167056575-hammer-adjustable-bench"
+        },
+        "a167088470": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "€ 41,00",
+          "title": "Veiling - Halterset / Dumbells 40 kg - 2-delig - Zandgevuld",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167088470-veiling-halterset-dumbells-40-kg-2-delig-zandgevuld"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -90485,6 +90521,54 @@
           "price_display": "€ 50,00",
           "title": "2 Dumbells, halters totaal 14,5kg per halter",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450110105-2-dumbells-halters-totaal-14-5kg-per-halter"
+        },
+        "m2450118609": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Pottes de Pressothérapie FITEM Plus8",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450118609-pottes-de-pressotherapie-fitem-plus8"
+        },
+        "m2450119423": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 140,00",
+          "title": "Atletica R8 Leg Extension/Curl",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450119423-atletica-r8-leg-extension-curl"
+        },
+        "m2450124298": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 160,00",
+          "title": "Barre Olympique ATX Ram Bar + cips ATX",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450124298-barre-olympique-atx-ram-bar-cips-atx"
+        },
+        "m2450125798": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Kettlebell rek",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450125798-kettlebell-rek"
+        },
+        "m2450127330": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "2 Disques olympiques ATX Barbell Standard",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450127330-2-disques-olympiques-atx-barbell-standard"
+        },
+        "m2450127944": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "€ 100,00",
+          "title": "Tapis de marche Walking Pad",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450127944-tapis-de-marche-walking-pad"
+        },
+        "m2450137859": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 950,00",
+          "title": "Pullover machine plate loaded in perfecte staat.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450137859-pullover-machine-plate-loaded-in-perfecte-staat"
+        },
+        "m2450140582": {
+          "first_seen_at": "2026-10-04T22:11:23.804070+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "SONGMICS verstelbare halters van 30 kg — 2x15 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450140582-songmics-verstelbare-halters-van-30-kg-2x15-kg"
         }
       }
     },
@@ -97048,6 +97132,18 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Quad padeltas",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2450113750-quad-padeltas"
+        },
+        "m2450146997": {
+          "first_seen_at": "2026-10-04T22:11:42.784643+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Bullpadel Vertex 05 padelracket – zeer goede staat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2450146997-bullpadel-vertex-05-padelracket-zeer-goede-staat"
+        },
+        "m2450147069": {
+          "first_seen_at": "2026-10-04T22:11:42.784643+00:00",
+          "price_display": "€ 140,00",
+          "title": "Bullpadel hack 04 2025 ONGEBRUIKT",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2450147069-bullpadel-hack-04-2025-ongebruikt"
         }
       }
     },
@@ -111741,6 +111837,36 @@
           "price_display": "Bieden vanaf € 375,00",
           "title": "Hemingway DP701",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450071273-hemingway-dp701"
+        },
+        "m2450119958": {
+          "first_seen_at": "2026-10-04T22:12:13.915023+00:00",
+          "price_display": "€ 210,00",
+          "title": "Piano numérique | Alesis Recital PRO",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450119958-piano-numerique-alesis-recital-pro"
+        },
+        "m2450126009": {
+          "first_seen_at": "2026-10-04T22:12:13.915023+00:00",
+          "price_display": "Bieden vanaf € 750,00",
+          "title": "Piano droit acoustique blanc / ivoire + tabouret assorti",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450126009-piano-droit-acoustique-blanc-ivoire-tabouret-assorti"
+        },
+        "m2450133821": {
+          "first_seen_at": "2026-10-04T22:12:13.915023+00:00",
+          "price_display": "Bieden vanaf € 1.250,00",
+          "title": "Studie piano Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450133821-studie-piano-yamaha"
+        },
+        "m2450134259": {
+          "first_seen_at": "2026-10-04T22:12:13.915023+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano krukje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450134259-piano-krukje"
+        },
+        "m2450143279": {
+          "first_seen_at": "2026-10-04T22:12:13.915023+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Pianoseiler",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450143279-pianoseiler"
         }
       }
     }
@@ -111748,7 +111874,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-04T18:58:22.081682+00:00",
+    "last_checked_at": "2026-10-04T22:12:28.646162+00:00",
     "outage_alert_sent": false
   }
 }
