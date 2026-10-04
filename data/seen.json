@@ -30463,6 +30463,12 @@
           "price_display": "€ 100.000,00",
           "title": "Krugerrand, maple leaf",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2449670537-krugerrand-maple-leaf"
+        },
+        "m2449711743": {
+          "first_seen_at": "2026-10-04T00:06:22.730574+00:00",
+          "price_display": "Gratis",
+          "title": "je cherche lingot d or bien lire svp",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2449711743-je-cherche-lingot-d-or-bien-lire-svp"
         }
       }
     },
@@ -43338,6 +43344,12 @@
           "price_display": "Bieden vanaf € 80,00",
           "title": "Domyos Essential+ 06: Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2449695018-domyos-essential-06-hometrainer"
+        },
+        "m2449708206": {
+          "first_seen_at": "2026-10-04T00:06:09.658496+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Splinter nieuwe loopband domyos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2449708206-splinter-nieuwe-loopband-domyos"
         }
       }
     },
@@ -89435,6 +89447,18 @@
           "price_display": "Bieden vanaf € 160,00",
           "title": "Saga BFR Cuffs jambes, connectées, neuves scellées",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2449695293-saga-bfr-cuffs-jambes-connectees-neuves-scellees"
+        },
+        "m2449705089": {
+          "first_seen_at": "2026-10-04T00:05:50.469361+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "haltersets te koop",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2449705089-haltersets-te-koop"
+        },
+        "m2449713425": {
+          "first_seen_at": "2026-10-04T00:05:50.469361+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2449713425-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
         }
       }
     },
@@ -110458,7 +110482,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-03T21:41:12.280785+00:00",
+    "last_checked_at": "2026-10-04T00:06:42.190495+00:00",
     "outage_alert_sent": false
   }
 }
