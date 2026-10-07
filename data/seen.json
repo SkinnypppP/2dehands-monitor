@@ -44856,6 +44856,12 @@
           "price_display": "€ 70,00",
           "title": "Grijze crosstrainer Domyos VE120",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450843191-grijze-crosstrainer-domyos-ve120"
+        },
+        "m2450852756": {
+          "first_seen_at": "2026-10-07T00:11:01.232116+00:00",
+          "price_display": "Bieden vanaf € 70,00",
+          "title": "Buik spoer trainer apparaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450852756-buik-spoer-trainer-apparaat"
         }
       }
     },
@@ -92219,6 +92225,24 @@
           "price_display": "Bieden vanaf € 1.400,00",
           "title": "Loopband tunturi T80",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450839230-loopband-tunturi-t80"
+        },
+        "m2450855542": {
+          "first_seen_at": "2026-10-07T00:10:36.335908+00:00",
+          "price_display": "€ 550,00",
+          "title": "Multi krachttoestel met legpress",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450855542-multi-krachttoestel-met-legpress"
+        },
+        "m2450856582": {
+          "first_seen_at": "2026-10-07T00:10:36.335908+00:00",
+          "price_display": "€ 80,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450856582-loopband"
+        },
+        "m2450861236": {
+          "first_seen_at": "2026-10-07T00:10:36.335908+00:00",
+          "price_display": "€ 850,00",
+          "title": "Tunturi SM80 full smith fitness NIEUW! + bumperplates",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2450861236-tunturi-sm80-full-smith-fitness-nieuw-bumperplates"
         }
       }
     },
@@ -98896,6 +98920,12 @@
           "price_display": "Bieden vanaf € 140,00",
           "title": "Nox AT10 genius 18k Tapia",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2450813836-nox-at10-genius-18k-tapia"
+        },
+        "m2450852116": {
+          "first_seen_at": "2026-10-07T00:10:50.043661+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Raquette Royal Padel 36 anniversario light",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2450852116-raquette-royal-padel-36-anniversario-light"
         }
       }
     },
@@ -113901,6 +113931,12 @@
           "price_display": "€ 2.750,00",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450838937-piano"
+        },
+        "m2450851860": {
+          "first_seen_at": "2026-10-07T00:11:20.209406+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke piano Érard 1912-1913",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2450851860-antieke-piano-erard-1912-1913"
         }
       }
     }
@@ -113908,7 +113944,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-06T20:45:32.127688+00:00",
+    "last_checked_at": "2026-10-07T00:11:30.668605+00:00",
     "outage_alert_sent": false
   }
 }
