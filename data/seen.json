@@ -31861,6 +31861,18 @@
           "price_display": "Bieden vanaf € 100,00",
           "title": "Te koop – Romeinse zilveren Denarius van Caracalla",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2451218219-te-koop-romeinse-zilveren-denarius-van-caracalla"
+        },
+        "m2451236805": {
+          "first_seen_at": "2026-10-08T02:55:10.388249+00:00",
+          "price_display": "€ 715,00",
+          "title": "Kookaburra zilveren munten 1ounce .999",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2451236805-kookaburra-zilveren-munten-1ounce-999"
+        },
+        "m2451237488": {
+          "first_seen_at": "2026-10-08T02:55:10.388249+00:00",
+          "price_display": "€ 775,00",
+          "title": "5 stuks 5 kilogram Geiger #koperbaar",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2451237488-5-stuks-5-kilogram-geiger-koperbaar"
         }
       }
     },
@@ -114910,7 +114922,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-07T23:40:13.895246+00:00",
+    "last_checked_at": "2026-10-08T02:55:28.281494+00:00",
     "outage_alert_sent": false
   }
 }
