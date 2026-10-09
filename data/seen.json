@@ -21590,6 +21590,12 @@
           "price_display": "€ 5.450,00",
           "title": "Goodall TR 000 (2018), als nieuw",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2451572264-goodall-tr-000-2018-als-nieuw"
+        },
+        "m2451581687": {
+          "first_seen_at": "2026-10-09T01:39:24.404008+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Cigarbox gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2451581687-cigarbox-gitaar"
         }
       }
     },
@@ -116056,7 +116062,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-08T21:56:03.010262+00:00",
+    "last_checked_at": "2026-10-09T01:39:25.507706+00:00",
     "outage_alert_sent": false
   }
 }
