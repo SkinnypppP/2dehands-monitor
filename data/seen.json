@@ -1179,6 +1179,12 @@
           "title": "Ampeg - Nombre darticles : 1 - Cabinet de basse - 2020",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166866119-ampeg-nombre-darticles-1-cabinet-de-basse-2020"
         },
+        "a166964458": {
+          "first_seen_at": "2026-10-10T05:14:33.009394+00:00",
+          "price_display": "€ 600,00",
+          "title": "Hondo Chiquita - Travel Guitar - - Elektrische gitaar -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a166964458-hondo-chiquita-travel-guitar-elektrische-gitaar"
+        },
         "a166964872": {
           "first_seen_at": "2026-10-01T08:48:55.779176+00:00",
           "price_display": "€ 190,00",
@@ -21824,6 +21830,12 @@
           "price_display": "€ 150,00",
           "title": "Guitare acoustique Hudson Guitar Co., modèle HI-100.",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2451946159-guitare-acoustique-hudson-guitar-co-modele-hi-100"
+        },
+        "m2451971826": {
+          "first_seen_at": "2026-10-10T05:14:33.009394+00:00",
+          "price_display": "€ 60,00",
+          "title": "Klassieke gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2451971826-klassieke-gitaar"
         }
       }
     },
@@ -23780,6 +23792,12 @@
           "title": "1 kilogram - Koper .999 - MrCopperArte - Met certificaat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167209888-1-kilogram-koper-999-mrcopperarte-met-certificaat"
         },
+        "a167209901": {
+          "first_seen_at": "2026-10-10T05:14:13.084029+00:00",
+          "price_display": "€ 25,00",
+          "title": "1 kilogram - Koper .999 - MrCopperArte - Met certificaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167209901-1-kilogram-koper-999-mrcopperarte-met-certificaat"
+        },
         "a167209965": {
           "first_seen_at": "2026-10-03T05:33:10.000093+00:00",
           "price_display": "€ 2,00",
@@ -23905,6 +23923,12 @@
           "price_display": "€ 1,00",
           "title": "Oostenrijk. 50 Euro 2007 Große Mediziner - Gerard Van",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167490213-oostenrijk-50-euro-2007-grosse-mediziner-gerard-van"
+        },
+        "a167522313": {
+          "first_seen_at": "2026-10-10T05:14:13.084029+00:00",
+          "price_display": "€ 1,00",
+          "title": "10 gram - Goud .999 - Philoro, Germany - Verzegeld",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167522313-10-gram-goud-999-philoro-germany-verzegeld"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -47015,6 +47039,12 @@
           "price_display": "€ 11,00",
           "title": "Lifemaxx - Crossmaxx - Halterschijven - Bumper Plates - 1,5",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167340634-lifemaxx-crossmaxx-halterschijven-bumper-plates-1-5"
+        },
+        "a167340637": {
+          "first_seen_at": "2026-10-10T05:13:44.729075+00:00",
+          "price_display": "€ 11,00",
+          "title": "Lifemaxx - Crossmaxx - Halterschijven - Bumper Plates - 1,5",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167340637-lifemaxx-crossmaxx-halterschijven-bumper-plates-1-5"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -94955,6 +94985,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Vélo elliptique professionnel Technogym Excite Synchro 700",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2451955597-velo-elliptique-professionnel-technogym-excite-synchro-700"
+        },
+        "m2451969477": {
+          "first_seen_at": "2026-10-10T05:13:44.729075+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "powerball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2451969477-powerball"
         }
       }
     },
@@ -117214,7 +117250,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-10T00:00:09.887287+00:00",
+    "last_checked_at": "2026-10-10T05:14:35.026667+00:00",
     "outage_alert_sent": false
   }
 }
