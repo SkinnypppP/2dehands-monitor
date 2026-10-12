@@ -119511,6 +119511,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Kawai F350 pedaal + Kawai HML-1 stand",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2452768243-kawai-f350-pedaal-kawai-hml-1-stand"
+        },
+        "m2452788900": {
+          "first_seen_at": "2026-10-12T02:19:31.260942+00:00",
+          "price_display": "Bieden vanaf € 7.000,00",
+          "title": "Kawai K500 PE zwarte piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2452788900-kawai-k500-pe-zwarte-piano"
         }
       }
     }
@@ -119518,7 +119524,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-11T23:08:02.362554+00:00",
+    "last_checked_at": "2026-10-12T02:19:40.526522+00:00",
     "outage_alert_sent": false
   }
 }
