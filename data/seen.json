@@ -22646,6 +22646,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453441432-gitaar"
+        },
+        "m2453486323": {
+          "first_seen_at": "2026-10-13T23:58:55.012087+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gitaar van het merk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453486323-gitaar-van-het-merk"
         }
       }
     },
@@ -48216,6 +48222,12 @@
           "price_display": "€ 100,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2453439385-loopband"
+        },
+        "m2453481635": {
+          "first_seen_at": "2026-10-13T23:58:25.205203+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Tunturi cardio fit - hometrainer - zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2453481635-tunturi-cardio-fit-hometrainer-zo-goed-als-nieuw"
         }
       }
     },
@@ -98111,6 +98123,30 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Domyos 500 roeitrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453477911-domyos-500-roeitrainer"
+        },
+        "m2453486148": {
+          "first_seen_at": "2026-10-13T23:58:07.222956+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Elektrische Loopband kapot",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453486148-elektrische-loopband-kapot"
+        },
+        "m2453486312": {
+          "first_seen_at": "2026-10-13T23:58:07.222956+00:00",
+          "price_display": "€ 15,00",
+          "title": "Dumbbells 25 lbs (12,5kg)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453486312-dumbbells-25-lbs-12-5kg"
+        },
+        "m2453486453": {
+          "first_seen_at": "2026-10-13T23:58:07.222956+00:00",
+          "price_display": "Bieden vanaf € 45,00",
+          "title": "Crosstrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453486453-crosstrainer"
+        },
+        "m2453493392": {
+          "first_seen_at": "2026-10-13T23:58:07.222956+00:00",
+          "price_display": "Bieden vanaf € 249,00",
+          "title": "Loopband Focus Fitness Jet 1.4 11 maand oud met garantie",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453493392-loopband-focus-fitness-jet-1-4-11-maand-oud-met-garantie"
         }
       }
     },
@@ -121167,6 +121203,12 @@
           "price_display": "Gratis",
           "title": "Oude Buffet piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2453469433-oude-buffet-piano"
+        },
+        "m2453484243": {
+          "first_seen_at": "2026-10-13T23:58:43.900376+00:00",
+          "price_display": "Bieden vanaf € 1.500,00",
+          "title": "Rippen notenhouten voor piano — Vintage — jaren 50",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2453484243-rippen-notenhouten-voor-piano-vintage-jaren-50"
         }
       }
     }
@@ -121174,7 +121216,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-13T20:51:09.653144+00:00",
+    "last_checked_at": "2026-10-13T23:58:55.896958+00:00",
     "outage_alert_sent": false
   }
 }
