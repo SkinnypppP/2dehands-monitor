@@ -22652,6 +22652,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar van het merk",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453486323-gitaar-van-het-merk"
+        },
+        "m2453502138": {
+          "first_seen_at": "2026-10-14T04:00:34.449488+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "la paz gitaar 30 euro",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453502138-la-paz-gitaar-30-euro"
         }
       }
     },
@@ -24775,6 +24781,24 @@
           "price_display": "€ 1,00",
           "title": "Niue. 2 Dollars 5 x 2023 1 oz $2 NZD Niue Hibernia Silver",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167621471-niue-2-dollars-5-x-2023-1-oz-2-nzd-niue-hibernia-silver"
+        },
+        "a167630684": {
+          "first_seen_at": "2026-10-14T04:00:13.128043+00:00",
+          "price_display": "€ 2,00",
+          "title": "1/200 Troy Ounce - Goud .999 - 1/200 oz 999 Fine Gold 5000",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167630684-1-200-troy-ounce-goud-999-1-200-oz-999-fine-gold-5000"
+        },
+        "a167630686": {
+          "first_seen_at": "2026-10-14T04:00:13.128043+00:00",
+          "price_display": "€ 1,00",
+          "title": "Verenigde Staten. 5 x 2026 1 oz Titanium Buffalo Round BU",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167630686-verenigde-staten-5-x-2026-1-oz-titanium-buffalo-round-bu"
+        },
+        "a167630687": {
+          "first_seen_at": "2026-10-14T04:00:13.128043+00:00",
+          "price_display": "€ 1,00",
+          "title": "1/200 Troy Ounce - Goud .999 - 2022 1/200 oz 999 Fine Gold",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167630687-1-200-troy-ounce-goud-999-2022-1-200-oz-999-fine-gold"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -33865,6 +33889,12 @@
           "price_display": "€ 299,00",
           "title": "SpiderMan tuvalu 1 Oz zilveren munt 2017 – NGC MS 70",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453468502-spiderman-tuvalu-1-oz-zilveren-munt-2017-ngc-ms-70"
+        },
+        "m2453499241": {
+          "first_seen_at": "2026-10-14T04:00:13.128043+00:00",
+          "price_display": "Bieden vanaf € 1.180,00",
+          "title": "lot pièce argent 700 gramme 900 millièmes 10 franc francais",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453499241-lot-piece-argent-700-gramme-900-milliemes-10-franc-francais"
         }
       }
     },
@@ -121216,7 +121246,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-13T23:58:55.896958+00:00",
+    "last_checked_at": "2026-10-14T04:00:35.538787+00:00",
     "outage_alert_sent": false
   }
 }
