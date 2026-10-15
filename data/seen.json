@@ -99701,6 +99701,18 @@
           "price_display": "Bieden vanaf € 5,00",
           "title": "Bodybuilding apparaat",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454145770-bodybuilding-apparaat"
+        },
+        "m2454152531": {
+          "first_seen_at": "2026-10-15T23:50:14.631520+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Thuisgym Spierkrachttraining Volledige Lichaamsoefeningen.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454152531-thuisgym-spierkrachttraining-volledige-lichaamsoefeningen"
+        },
+        "m2454154019": {
+          "first_seen_at": "2026-10-15T23:50:14.631520+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "RE:SPORT 2-in-1 Dubbell Set 30kg |Verstelbare Dumbell Set|",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454154019-re-sport-2-in-1-dubbell-set-30kg-verstelbare-dumbell-set"
         }
       }
     },
@@ -123081,6 +123093,12 @@
           "price_display": "€ 1.000,00",
           "title": "Petrof P114 Klasik buffetpiano (1976) – Fijne studiepiano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2454117582-petrof-p114-klasik-buffetpiano-1976-fijne-studiepiano"
+        },
+        "m2454163049": {
+          "first_seen_at": "2026-10-15T23:50:43.118760+00:00",
+          "price_display": "€ 25,00",
+          "title": "Pianokrukje",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2454163049-pianokrukje"
         }
       }
     }
@@ -123088,7 +123106,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-15T21:38:54.894711+00:00",
+    "last_checked_at": "2026-10-15T23:50:52.359836+00:00",
     "outage_alert_sent": false
   }
 }
