@@ -22832,6 +22832,12 @@
           "price_display": "€ 280,00",
           "title": "gretsch gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453823601-gretsch-gitaar"
+        },
+        "m2453835260": {
+          "first_seen_at": "2026-10-15T00:24:15.163271+00:00",
+          "price_display": "€ 1.650,00",
+          "title": "Jazz manouche Guitare JWC selmer replica",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2453835260-jazz-manouche-guitare-jwc-selmer-replica"
         }
       }
     },
@@ -34153,6 +34159,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "1 ons filharmonische zilveren munt 999,9",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453763076-1-ons-filharmonische-zilveren-munt-999-9"
+        },
+        "m2453832762": {
+          "first_seen_at": "2026-10-15T00:23:55.085148+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "maple leaf",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453832762-maple-leaf"
         }
       }
     },
@@ -49355,6 +49367,12 @@
           "price_display": "€ 31,89",
           "title": "Verstelbare Dumbbellset 30 kg - Ideale startersset voor t...",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167527392-verstelbare-dumbbellset-30-kg-ideale-startersset-voor-t"
+        },
+        "a167551222": {
+          "first_seen_at": "2026-10-15T00:23:26.032984+00:00",
+          "price_display": "€ 1.250,00",
+          "title": "Matrix - T5-mx - Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167551222-matrix-t5-mx-loopband"
         },
         "a24331701": {
           "first_seen_at": "2026-07-24T07:06:09.499625+00:00",
@@ -98849,6 +98867,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "Benchpress",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453822704-benchpress"
+        },
+        "m2453835716": {
+          "first_seen_at": "2026-10-15T00:23:26.032984+00:00",
+          "price_display": "€ 100,00",
+          "title": "Home trainer.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453835716-home-trainer"
         }
       }
     },
@@ -122092,7 +122116,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-14T22:00:55.371110+00:00",
+    "last_checked_at": "2026-10-15T00:24:16.398796+00:00",
     "outage_alert_sent": false
   }
 }
