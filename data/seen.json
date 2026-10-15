@@ -1305,6 +1305,12 @@
           "title": "Yamaha - RJ420D - - Elektrische gitaar - Taiwan (Zonder",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167154395-yamaha-rj420d-elektrische-gitaar-taiwan-zonder"
         },
+        "a167396684": {
+          "first_seen_at": "2026-10-15T04:58:58.542901+00:00",
+          "price_display": "€ 60,00",
+          "title": "Boss - Effectpedaal (Zonder minimumprijs)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167396684-boss-effectpedaal-zonder-minimumprijs"
+        },
         "a167397158": {
           "first_seen_at": "2026-10-12T09:25:18.420927+00:00",
           "price_display": "€ 75,00",
@@ -1346,6 +1352,12 @@
           "price_display": "€ 810,00",
           "title": "Rickenbacker - 370/12 Ruby - - Guitare électrique à 12",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167534750-rickenbacker-370-12-ruby-guitare-electrique-a-12"
+        },
+        "a167535294": {
+          "first_seen_at": "2026-10-15T04:58:58.542901+00:00",
+          "price_display": "€ 325,00",
+          "title": "Fberma - Bich - - Elektrische basgitaar - Colombia - 2024",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/a167535294-fberma-bich-elektrische-basgitaar-colombia-2024"
         },
         "a167538090": {
           "first_seen_at": "2026-10-11T08:44:32.003556+00:00",
@@ -34165,6 +34177,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "maple leaf",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453832762-maple-leaf"
+        },
+        "m2453839355": {
+          "first_seen_at": "2026-10-15T04:58:35.591609+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "2.5 Pesos of Mexico 1945",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453839355-2-5-pesos-of-mexico-1945"
+        },
+        "m2453841991": {
+          "first_seen_at": "2026-10-15T04:58:35.591609+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "gouden enkele dukaat",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2453841991-gouden-enkele-dukaat"
         }
       }
     },
@@ -98873,6 +98897,18 @@
           "price_display": "€ 100,00",
           "title": "Home trainer.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453835716-home-trainer"
+        },
+        "m2453838659": {
+          "first_seen_at": "2026-10-15T04:58:05.119415+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Pushup bord",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453838659-pushup-bord"
+        },
+        "m2453839264": {
+          "first_seen_at": "2026-10-15T04:58:05.119415+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "powerball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2453839264-powerball"
         }
       }
     },
@@ -122116,7 +122152,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-15T00:24:16.398796+00:00",
+    "last_checked_at": "2026-10-15T04:59:00.930265+00:00",
     "outage_alert_sent": false
   }
 }
