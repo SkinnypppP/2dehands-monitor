@@ -35287,6 +35287,18 @@
           "price_display": "€ 1.600,00",
           "title": "Gouden muntje 1/4 oz (ZEER ZELDZAAM)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454769241-gouden-muntje-1-4-oz-zeer-zeldzaam"
+        },
+        "m2454878538": {
+          "first_seen_at": "2026-10-17T22:25:30.494970+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Gouden munt 6.72 gram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454878538-gouden-munt-6-72-gram"
+        },
+        "m2454880952": {
+          "first_seen_at": "2026-10-17T22:25:30.494970+00:00",
+          "price_display": "€ 2.500,00",
+          "title": "1 kg Zilver bar umicore",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454880952-1-kg-zilver-bar-umicore"
         }
       }
     },
@@ -50124,6 +50136,18 @@
           "price_display": "€ 499,00",
           "title": "loopband / treadmill",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2454865715-loopband-treadmill"
+        },
+        "m2454890552": {
+          "first_seen_at": "2026-10-17T22:25:20.535902+00:00",
+          "price_display": "€ 200,00",
+          "title": "Loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2454890552-loopband"
+        },
+        "m2454893238": {
+          "first_seen_at": "2026-10-17T22:25:20.535902+00:00",
+          "price_display": "€ 599,00",
+          "title": "VirtuFit Ultimate Pro 2i Ergometer Roeitrainer.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2454893238-virtufit-ultimate-pro-2i-ergometer-roeitrainer"
         }
       }
     },
@@ -101669,6 +101693,18 @@
           "price_display": "Bieden vanaf € 1.500,00",
           "title": "body solid fusion 600",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454876842-body-solid-fusion-600"
+        },
+        "m2454879694": {
+          "first_seen_at": "2026-10-17T22:24:55.471182+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Station de musculation BH fitness en très bon état à vendre",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454879694-station-de-musculation-bh-fitness-en-tres-bon-etat-a-vendre"
+        },
+        "m2454883494": {
+          "first_seen_at": "2026-10-17T22:24:55.471182+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "Squat rek + bank + barbell met gewichten en houder",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454883494-squat-rek-bank-barbell-met-gewichten-en-houder"
         }
       }
     },
@@ -108940,6 +108976,24 @@
           "price_display": "€ 2.000,00",
           "title": "Babolat x Lamborghini BL002 Lime",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2454875734-babolat-x-lamborghini-bl002-lime"
+        },
+        "m2454877535": {
+          "first_seen_at": "2026-10-17T22:25:07.679547+00:00",
+          "price_display": "€ 150,00",
+          "title": "Babolat viper juan lebron 2025",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2454877535-babolat-viper-juan-lebron-2025"
+        },
+        "m2454877776": {
+          "first_seen_at": "2026-10-17T22:25:07.679547+00:00",
+          "price_display": "€ 160,00",
+          "title": "Bullpadel Xplo 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2454877776-bullpadel-xplo-2026"
+        },
+        "m2454878240": {
+          "first_seen_at": "2026-10-17T22:25:07.679547+00:00",
+          "price_display": "€ 220,00",
+          "title": "Oxdog hyper pro 2.0 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2454878240-oxdog-hyper-pro-2-0-2026"
         }
       }
     },
@@ -125523,6 +125577,12 @@
           "price_display": "Gratis",
           "title": "Piano gratis",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2454858691-piano-gratis"
+        },
+        "m2454881342": {
+          "first_seen_at": "2026-10-17T22:25:42.500739+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Staande piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2454881342-staande-piano"
         }
       }
     }
@@ -125530,7 +125590,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-17T20:17:44.294732+00:00",
+    "last_checked_at": "2026-10-17T22:25:51.617045+00:00",
     "outage_alert_sent": false
   }
 }
