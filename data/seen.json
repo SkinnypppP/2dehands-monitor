@@ -23258,6 +23258,12 @@
           "price_display": "Zie omschrijving",
           "title": "gezocht  metalen parlor resonator",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454495332-gezocht-metalen-parlor-resonator"
+        },
+        "m2454511335": {
+          "first_seen_at": "2026-10-17T04:34:31.998338+00:00",
+          "price_display": "€ 40,00",
+          "title": "balalaika",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454511335-balalaika"
         }
       }
     },
@@ -25453,6 +25459,24 @@
           "price_display": "€ 715,00",
           "title": "10 gram - Goud .999 - Valcambi, Switzerland - Verzegeld en",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167769338-10-gram-goud-999-valcambi-switzerland-verzegeld-en"
+        },
+        "a167795281": {
+          "first_seen_at": "2026-10-17T04:34:06.238135+00:00",
+          "price_display": "€ 1,00",
+          "title": "Tsjaad. 5000 Francs 2023 1/200 oz 999 Fine Gold 5000 CFA",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167795281-tsjaad-5000-francs-2023-1-200-oz-999-fine-gold-5000-cfa"
+        },
+        "a167795282": {
+          "first_seen_at": "2026-10-17T04:34:06.238135+00:00",
+          "price_display": "€ 4,00",
+          "title": "Verenigd Koninkrijk. 10 Pounds 2024 1/10 oz £10 GBP UK Gold",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167795282-verenigd-koninkrijk-10-pounds-2024-1-10-oz-10-gbp-uk-gold"
+        },
+        "a167795284": {
+          "first_seen_at": "2026-10-17T04:34:06.238135+00:00",
+          "price_display": "€ 1,00",
+          "title": "Tsjaad. 5000 Francs 1/200 oz 999 Fine Gold 5000 CFA Francs",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a167795284-tsjaad-5000-francs-1-200-oz-999-fine-gold-5000-cfa-francs"
         },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
@@ -34759,6 +34783,18 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Mines jeton",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454441047-mines-jeton"
+        },
+        "m2454507347": {
+          "first_seen_at": "2026-10-17T04:34:06.238135+00:00",
+          "price_display": "Bieden vanaf € 215,00",
+          "title": "Dos Pesos Or 1945 uit Mexico",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454507347-dos-pesos-or-1945-uit-mexico"
+        },
+        "m2454509358": {
+          "first_seen_at": "2026-10-17T04:34:06.238135+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Dos Y Medio Pesos (2,5 Pesos) uit Mexico 1945",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454509358-dos-y-medio-pesos-2-5-pesos-uit-mexico-1945"
         }
       }
     },
@@ -124198,7 +124234,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-17T00:12:18.937630+00:00",
+    "last_checked_at": "2026-10-17T04:34:32.403579+00:00",
     "outage_alert_sent": false
   }
 }
