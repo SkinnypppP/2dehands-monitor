@@ -23876,6 +23876,18 @@
           "price_display": "Bieden vanaf € 350,00",
           "title": "Lag Transmontane elektrisch-akoestische westerngitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2455289980-lag-transmontane-elektrisch-akoestische-westerngitaar"
+        },
+        "m2455298091": {
+          "first_seen_at": "2026-10-18T23:04:05.043532+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "TE KOOP: GITAAR",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2455298091-te-koop-gitaar"
+        },
+        "m2455299430": {
+          "first_seen_at": "2026-10-18T23:04:05.043532+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vintage Angelica 2842 Klassieke Gitaar – Boosey & Hawkes",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2455299430-vintage-angelica-2842-klassieke-gitaar-boosey-hawkes"
         }
       }
     },
@@ -102659,6 +102671,24 @@
           "price_display": "€ 45,00",
           "title": "Banc de musculation pliable polyvalent NEUF",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455292768-banc-de-musculation-pliable-polyvalent-neuf"
+        },
+        "m2455305130": {
+          "first_seen_at": "2026-10-18T23:03:20.290883+00:00",
+          "price_display": "€ 320,00",
+          "title": "Uitgebreide fitness bank - 111 kg aan gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455305130-uitgebreide-fitness-bank-111-kg-aan-gewichten"
+        },
+        "m2455305477": {
+          "first_seen_at": "2026-10-18T23:03:20.290883+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Powerstation multistation dip pullup halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455305477-powerstation-multistation-dip-pullup-halterbank"
+        },
+        "m2455306387": {
+          "first_seen_at": "2026-10-18T23:03:20.290883+00:00",
+          "price_display": "€ 10,00",
+          "title": "Kettle Bell 8 kg uit kunststof",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455306387-kettle-bell-8-kg-uit-kunststof"
         }
       }
     },
@@ -126790,7 +126820,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-18T21:06:08.352453+00:00",
+    "last_checked_at": "2026-10-18T23:04:06.597448+00:00",
     "outage_alert_sent": false
   }
 }
