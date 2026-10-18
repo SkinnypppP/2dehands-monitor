@@ -23528,6 +23528,12 @@
           "price_display": "€ 100,00",
           "title": "Cort AD810 NS akoestische gitaar met complete accessoireset",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454870688-cort-ad810-ns-akoestische-gitaar-met-complete-accessoireset"
+        },
+        "m2454895927": {
+          "first_seen_at": "2026-10-18T00:08:25.351243+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454895927-akoestische-gitaar"
         }
       }
     },
@@ -101705,6 +101711,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Squat rek + bank + barbell met gewichten en houder",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454883494-squat-rek-bank-barbell-met-gewichten-en-houder"
+        },
+        "m2454898397": {
+          "first_seen_at": "2026-10-18T00:07:44.988892+00:00",
+          "price_display": "Bieden vanaf € 7,50",
+          "title": "powerball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454898397-powerball"
         }
       }
     },
@@ -125590,7 +125602,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-17T22:25:51.617045+00:00",
+    "last_checked_at": "2026-10-18T00:08:26.331827+00:00",
     "outage_alert_sent": false
   }
 }
