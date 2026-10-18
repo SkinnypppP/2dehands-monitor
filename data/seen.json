@@ -23534,6 +23534,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Akoestische gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454895927-akoestische-gitaar"
+        },
+        "m2454901491": {
+          "first_seen_at": "2026-10-18T04:24:35.867449+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Vintage Egmond Lucky 7 Archtop Gitaar – Jaren 60 Sunburst",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2454901491-vintage-egmond-lucky-7-archtop-gitaar-jaren-60-sunburst"
         }
       }
     },
@@ -35305,6 +35311,12 @@
           "price_display": "€ 2.500,00",
           "title": "1 kg Zilver bar umicore",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454880952-1-kg-zilver-bar-umicore"
+        },
+        "m2454902355": {
+          "first_seen_at": "2026-10-18T04:24:15.311986+00:00",
+          "price_display": "Bieden vanaf € 2.000,00",
+          "title": "1kg dargent emeko a vendre avec facture",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2454902355-1kg-dargent-emeko-a-vendre-avec-facture"
         }
       }
     },
@@ -101717,6 +101729,12 @@
           "price_display": "Bieden vanaf € 7,50",
           "title": "powerball",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454898397-powerball"
+        },
+        "m2454905651": {
+          "first_seen_at": "2026-10-18T04:23:51.152281+00:00",
+          "price_display": "€ 9.500,00",
+          "title": "Matrix Versa Black   9 x Kracht Machines",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2454905651-matrix-versa-black-9-x-kracht-machines"
         }
       }
     },
@@ -125602,7 +125620,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-18T00:08:26.331827+00:00",
+    "last_checked_at": "2026-10-18T04:24:36.687071+00:00",
     "outage_alert_sent": false
   }
 }
