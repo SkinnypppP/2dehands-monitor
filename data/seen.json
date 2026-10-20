@@ -36121,6 +36121,30 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "iPhone 14 telefoonhoesje",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2455672644-iphone-14-telefoonhoesje"
+        },
+        "m2455682067": {
+          "first_seen_at": "2026-10-20T01:27:36.359437+00:00",
+          "price_display": "Bieden vanaf € 940,00",
+          "title": "10 Pesos gould Mexico Hidalgo 1917M",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2455682067-10-pesos-gould-mexico-hidalgo-1917m"
+        },
+        "m2455684296": {
+          "first_seen_at": "2026-10-20T01:27:36.359437+00:00",
+          "price_display": "Bieden vanaf € 470,00",
+          "title": "5 pesos goud Mexico 1920 M",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2455684296-5-pesos-goud-mexico-1920-m"
+        },
+        "m2455686456": {
+          "first_seen_at": "2026-10-20T01:27:36.359437+00:00",
+          "price_display": "Bieden vanaf € 540,00",
+          "title": "5 Roebel Goud Rusland Nicolas II 1897 АГ",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2455686456-5-roebel-goud-rusland-nicolas-ii-1897"
+        },
+        "m2455687486": {
+          "first_seen_at": "2026-10-20T01:27:36.359437+00:00",
+          "price_display": "Bieden vanaf € 450,00",
+          "title": "1 Ducat Or 1915 Oostenrijk",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2455687486-1-ducat-or-1915-oostenrijk"
         }
       }
     },
@@ -103511,6 +103535,12 @@
           "price_display": "Bieden vanaf € 200,00",
           "title": "Fitness gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455679379-fitness-gewichten"
+        },
+        "m2455687231": {
+          "first_seen_at": "2026-10-20T01:27:07.241522+00:00",
+          "price_display": "€ 50,00",
+          "title": "Adidas performance AB Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2455687231-adidas-performance-ab-bench"
         }
       }
     },
@@ -127888,7 +127918,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-19T22:55:59.476300+00:00",
+    "last_checked_at": "2026-10-20T01:28:01.502638+00:00",
     "outage_alert_sent": false
   }
 }
