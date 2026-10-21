@@ -104645,6 +104645,12 @@
           "price_display": "Bieden vanaf € 400,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456063836-loopband"
+        },
+        "m2456076077": {
+          "first_seen_at": "2026-10-21T01:31:20.358091+00:00",
+          "price_display": "€ 75,00",
+          "title": "Fitness training station power tower",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456076077-fitness-training-station-power-tower"
         }
       }
     },
@@ -129148,7 +129154,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-20T23:09:26.146810+00:00",
+    "last_checked_at": "2026-10-21T01:32:07.929098+00:00",
     "outage_alert_sent": false
   }
 }
