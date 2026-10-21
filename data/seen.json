@@ -24554,6 +24554,30 @@
           "price_display": "€ 110,00",
           "title": "Cole Clark 5080 stijl gitaar - replica",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456406520-cole-clark-5080-stijl-gitaar-replica"
+        },
+        "m2456411295": {
+          "first_seen_at": "2026-10-21T23:43:25.984134+00:00",
+          "price_display": "Bieden vanaf € 175,00",
+          "title": "acc gitaar Lag",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456411295-acc-gitaar-lag"
+        },
+        "m2456414391": {
+          "first_seen_at": "2026-10-21T23:43:25.984134+00:00",
+          "price_display": "Bieden vanaf € 395,00",
+          "title": "Fernandes FGZ400 | 1990’s | Japan | Superstrat",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456414391-fernandes-fgz400-1990-s-japan-superstrat"
+        },
+        "m2456414806": {
+          "first_seen_at": "2026-10-21T23:43:25.984134+00:00",
+          "price_display": "Bieden vanaf € 2.395,00",
+          "title": "Martin D18E | 2018 reimagined | Fishman Aura VT",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456414806-martin-d18e-2018-reimagined-fishman-aura-vt"
+        },
+        "m2456415171": {
+          "first_seen_at": "2026-10-21T23:43:25.984134+00:00",
+          "price_display": "Bieden vanaf € 895,00",
+          "title": "Custom Les Paul | 1981 | Matsumoku | Japan | Set neck",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456415171-custom-les-paul-1981-matsumoku-japan-set-neck"
         }
       }
     },
@@ -36835,6 +36859,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Kookaburra 1991",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456355676-kookaburra-1991"
+        },
+        "m2456416041": {
+          "first_seen_at": "2026-10-21T23:43:05.506048+00:00",
+          "price_display": "Bieden vanaf € 430,00",
+          "title": "1/10 ounce panda 1987 goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456416041-1-10-ounce-panda-1987-goud"
+        },
+        "m2456416424": {
+          "first_seen_at": "2026-10-21T23:43:05.506048+00:00",
+          "price_display": "Bieden vanaf € 1.000,00",
+          "title": "1/4 troy ounce gold Maple Leaf coin 2023",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456416424-1-4-troy-ounce-gold-maple-leaf-coin-2023"
+        },
+        "m2456417000": {
+          "first_seen_at": "2026-10-21T23:43:05.506048+00:00",
+          "price_display": "Bieden vanaf € 825,00",
+          "title": "Dubbele Gouden Dukaat 2002",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456417000-dubbele-gouden-dukaat-2002"
         }
       }
     },
@@ -52248,6 +52290,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Loopband",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2456395681-loopband"
+        },
+        "m2456418707": {
+          "first_seen_at": "2026-10-21T23:42:54.055655+00:00",
+          "price_display": "€ 600,00",
+          "title": "fitnessmateriaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2456418707-fitnessmateriaal"
         }
       }
     },
@@ -105737,6 +105785,12 @@
           "price_display": "€ 120,00",
           "title": "Sowa Cars BMW Spacers",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456400573-sowa-cars-bmw-spacers"
+        },
+        "m2456419246": {
+          "first_seen_at": "2026-10-21T23:42:36.690082+00:00",
+          "price_display": "€ 40,00",
+          "title": "Allemaal gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456419246-allemaal-gewichten"
         }
       }
     },
@@ -130456,7 +130510,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-21T20:47:16.520229+00:00",
+    "last_checked_at": "2026-10-21T23:43:27.713761+00:00",
     "outage_alert_sent": false
   }
 }
