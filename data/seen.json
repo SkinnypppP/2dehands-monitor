@@ -105791,6 +105791,12 @@
           "price_display": "€ 40,00",
           "title": "Allemaal gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456419246-allemaal-gewichten"
+        },
+        "m2456428625": {
+          "first_seen_at": "2026-10-22T01:55:31.332219+00:00",
+          "price_display": "€ 250,00",
+          "title": "Professionele Olympische bank voor de ontwikkelde",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456428625-professionele-olympische-bank-voor-de-ontwikkelde"
         }
       }
     },
@@ -130510,7 +130516,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-21T23:43:27.713761+00:00",
+    "last_checked_at": "2026-10-22T01:56:17.075006+00:00",
     "outage_alert_sent": false
   }
 }
