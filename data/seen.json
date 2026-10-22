@@ -24866,6 +24866,18 @@
           "price_display": "€ 150,00",
           "title": "Takamine GD-30\nmodel: GD30\n\n\n\nbody\n\nvor",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456746242-takamine-gd-30-model-gd30-body-vor"
+        },
+        "m2456774634": {
+          "first_seen_at": "2026-10-22T23:49:30.009023+00:00",
+          "price_display": "€ 500,00",
+          "title": "Ukelele Tenor",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456774634-ukelele-tenor"
+        },
+        "m2456779376": {
+          "first_seen_at": "2026-10-22T23:49:30.009023+00:00",
+          "price_display": "€ 95,00",
+          "title": "resonator gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2456779376-resonator-gitaar"
         }
       }
     },
@@ -37249,6 +37261,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "The Hobbit: een onverwachte reis - 1 oz zilveren gouden doll",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456742161-the-hobbit-een-onverwachte-reis-1-oz-zilveren-gouden-doll"
+        },
+        "m2456776311": {
+          "first_seen_at": "2026-10-22T23:49:12.644822+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "PAMP GOUD BAR (31GRAM)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2456776311-pamp-goud-bar-31gram"
         }
       }
     },
@@ -106733,6 +106751,36 @@
           "price_display": "€ 4.250,00",
           "title": "Rubberen Ziva Pu Dumbells 12kg t/m 50kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456763091-rubberen-ziva-pu-dumbells-12kg-t-m-50kg"
+        },
+        "m2456766040": {
+          "first_seen_at": "2026-10-22T23:48:44.087742+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Halters voor krachttraining, elk 12 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456766040-halters-voor-krachttraining-elk-12-kg"
+        },
+        "m2456766848": {
+          "first_seen_at": "2026-10-22T23:48:44.087742+00:00",
+          "price_display": "€ 240,00",
+          "title": "Sidea Hexa Dumbbells 2x28kg,2x30kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456766848-sidea-hexa-dumbbells-2x28kg-2x30kg"
+        },
+        "m2456773433": {
+          "first_seen_at": "2026-10-22T23:48:44.087742+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Dumbells old school 4 tot 59 kilo totaal 2800 pound",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456773433-dumbells-old-school-4-tot-59-kilo-totaal-2800-pound"
+        },
+        "m2456778143": {
+          "first_seen_at": "2026-10-22T23:48:44.087742+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456778143-loopband"
+        },
+        "m2456779214": {
+          "first_seen_at": "2026-10-22T23:48:44.087742+00:00",
+          "price_display": "Bieden vanaf € 7,50",
+          "title": "powerball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2456779214-powerball"
         }
       }
     },
@@ -131668,7 +131716,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-22T20:51:48.973493+00:00",
+    "last_checked_at": "2026-10-22T23:49:32.029435+00:00",
     "outage_alert_sent": false
   }
 }
