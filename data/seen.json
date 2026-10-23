@@ -37567,6 +37567,12 @@
           "price_display": "€ 48,00",
           "title": "Boek : Belgische Zilver merken (R. Stuyck)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457118596-boek-belgische-zilver-merken-r-stuyck"
+        },
+        "m2457135002": {
+          "first_seen_at": "2026-10-23T23:27:36.383746+00:00",
+          "price_display": "Bieden vanaf € 870,00",
+          "title": "2 rand 1967 goud Zuid-Afrika",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457135002-2-rand-1967-goud-zuid-afrika"
         }
       }
     },
@@ -53178,6 +53184,24 @@
           "price_display": "€ 300,00",
           "title": "Fitness toestellen",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2457078303-fitness-toestellen"
+        },
+        "m2457124428": {
+          "first_seen_at": "2026-10-23T23:27:24.160389+00:00",
+          "price_display": "Bieden vanaf € 3.500,00",
+          "title": "technogym elliptical cross trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2457124428-technogym-elliptical-cross-trainer"
+        },
+        "m2457129929": {
+          "first_seen_at": "2026-10-23T23:27:24.160389+00:00",
+          "price_display": "Bieden vanaf € 35,00",
+          "title": "DOMYOS crosstrainers",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2457129929-domyos-crosstrainers"
+        },
+        "m2457138147": {
+          "first_seen_at": "2026-10-23T23:27:24.160389+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "WONDERCORE fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2457138147-wondercore-fitness"
         }
       }
     },
@@ -107657,6 +107681,12 @@
           "price_display": "Bieden vanaf € 40,00",
           "title": "Fitness machine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457121031-fitness-machine"
+        },
+        "m2457131376": {
+          "first_seen_at": "2026-10-23T23:27:06.655623+00:00",
+          "price_display": "€ 55,00",
+          "title": "Halteres",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457131376-halteres"
         }
       }
     },
@@ -132796,7 +132826,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-23T20:36:36.611727+00:00",
+    "last_checked_at": "2026-10-23T23:27:58.014865+00:00",
     "outage_alert_sent": false
   }
 }
