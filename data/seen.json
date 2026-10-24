@@ -25400,6 +25400,18 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Guitares Alhambra 7fc/Kodaira 145s/Contreras",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457558634-guitares-alhambra-7fc-kodaira-145s-contreras"
+        },
+        "m2457603043": {
+          "first_seen_at": "2026-10-24T21:59:05.528139+00:00",
+          "price_display": "€ 200,00",
+          "title": "Ioan Cashimira",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457603043-ioan-cashimira"
+        },
+        "m2457603862": {
+          "first_seen_at": "2026-10-24T21:59:05.528139+00:00",
+          "price_display": "€ 230,00",
+          "title": "Yamaha gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457603862-yamaha-gitaar"
         }
       }
     },
@@ -53724,6 +53736,12 @@
           "title": "vidaXL Multifunctionele home gym fitnessmachine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a134465478-vidaxl-multifunctionele-home-gym-fitnessmachine"
         },
+        "a143318791": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "€ 1.402,83",
+          "title": "Lower Back Bench",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a143318791-lower-back-bench"
+        },
         "a153420757": {
           "first_seen_at": "2026-07-22T07:12:53.916127+00:00",
           "price_display": "€ 18,99",
@@ -54467,6 +54485,12 @@
           "price_display": "€ 950,00",
           "title": "Concept 2 - Rowerg Model D Pm5 - Roeitrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167837218-concept-2-rowerg-model-d-pm5-roeitrainer"
+        },
+        "a167837220": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "€ 950,00",
+          "title": "Concept 2 - Rowerg Model D Pm5 - Roeitrainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167837220-concept-2-rowerg-model-d-pm5-roeitrainer"
         },
         "a167837901": {
           "first_seen_at": "2026-10-24T06:32:23.423450+00:00",
@@ -108713,6 +108737,30 @@
           "price_display": "Bieden vanaf € 20,00",
           "title": "Banc de Sports Fitness Splendor",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457572138-banc-de-sports-fitness-splendor"
+        },
+        "m2457590368": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457590368-fitnessbank"
+        },
+        "m2457591412": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Spinninbike profesioneel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457591412-spinninbike-profesioneel"
+        },
+        "m2457615177": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterstangen opbergstandaard 50mm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457615177-halterstangen-opbergstandaard-50mm"
+        },
+        "m2457616995": {
+          "first_seen_at": "2026-10-24T21:58:19.386830+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "ATX curl bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457616995-atx-curl-bar"
         }
       }
     },
@@ -134044,7 +134092,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-24T19:48:44.262419+00:00",
+    "last_checked_at": "2026-10-24T21:59:07.211320+00:00",
     "outage_alert_sent": false
   }
 }
