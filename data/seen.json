@@ -37573,6 +37573,12 @@
           "price_display": "Bieden vanaf € 870,00",
           "title": "2 rand 1967 goud Zuid-Afrika",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457135002-2-rand-1967-goud-zuid-afrika"
+        },
+        "m2457143296": {
+          "first_seen_at": "2026-10-24T01:48:29.906279+00:00",
+          "price_display": "Bieden vanaf € 2.380,00",
+          "title": "San Marino 20 + 50 euro 2008 Goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457143296-san-marino-20-50-euro-2008-goud"
         }
       }
     },
@@ -132826,7 +132832,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-23T23:27:58.014865+00:00",
+    "last_checked_at": "2026-10-24T01:48:48.712884+00:00",
     "outage_alert_sent": false
   }
 }
