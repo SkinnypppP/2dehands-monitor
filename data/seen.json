@@ -25418,6 +25418,12 @@
           "price_display": "Bieden vanaf € 240,00",
           "title": "Fender CD-60SCE, guitare électro-acoustique dreadnought",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457633234-fender-cd-60sce-guitare-electro-acoustique-dreadnought"
+        },
+        "m2457641556": {
+          "first_seen_at": "2026-10-25T04:31:54.332332+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "Semi-Akoestische basgitaar met toebehoren",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457641556-semi-akoestische-basgitaar-met-toebehoren"
         }
       }
     },
@@ -27757,6 +27763,24 @@
           "price_display": "€ 1,00",
           "title": "1 Troy Ounce - Zilver .999 - Kangourou 2026 - 31,1 gram -",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168064366-1-troy-ounce-zilver-999-kangourou-2026-31-1-gram"
+        },
+        "a168130208": {
+          "first_seen_at": "2026-10-25T04:31:33.516508+00:00",
+          "price_display": "€ 65,00",
+          "title": "5 gram - Goud - NES",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168130208-5-gram-goud-nes"
+        },
+        "a168130217": {
+          "first_seen_at": "2026-10-25T04:31:33.516508+00:00",
+          "price_display": "€ 68,00",
+          "title": "50 gram - Zilver .999 - Nadir Metal Rafineri - 50 gram -",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168130217-50-gram-zilver-999-nadir-metal-rafineri-50-gram"
+        },
+        "a168130654": {
+          "first_seen_at": "2026-10-25T04:31:33.516508+00:00",
+          "price_display": "€ 80,00",
+          "title": "Salomonseilanden. 10 Dollars 2007 Machu Picchu - 1g (.999)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168130654-salomonseilanden-10-dollars-2007-machu-picchu-1g-999"
         },
         "a168132674": {
           "first_seen_at": "2026-10-24T14:50:56.684603+00:00",
@@ -134122,7 +134146,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-25T00:05:17.050056+00:00",
+    "last_checked_at": "2026-10-25T04:31:55.397124+00:00",
     "outage_alert_sent": false
   }
 }
