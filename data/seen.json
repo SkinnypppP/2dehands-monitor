@@ -25412,6 +25412,12 @@
           "price_display": "€ 230,00",
           "title": "Yamaha gitaar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457603862-yamaha-gitaar"
+        },
+        "m2457633234": {
+          "first_seen_at": "2026-10-25T00:05:16.658428+00:00",
+          "price_display": "Bieden vanaf € 240,00",
+          "title": "Fender CD-60SCE, guitare électro-acoustique dreadnought",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2457633234-fender-cd-60sce-guitare-electro-acoustique-dreadnought"
         }
       }
     },
@@ -37957,6 +37963,12 @@
           "price_display": "Zie omschrijving",
           "title": "1 x Gouden vijfje",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457443306-1-x-gouden-vijfje"
+        },
+        "m2457640446": {
+          "first_seen_at": "2026-10-25T00:04:56.994117+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Blastoise Vmax",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2457640446-blastoise-vmax"
         }
       }
     },
@@ -108761,6 +108773,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "ATX curl bar",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457616995-atx-curl-bar"
+        },
+        "m2457627085": {
+          "first_seen_at": "2026-10-25T00:04:29.846829+00:00",
+          "price_display": "€ 100,00",
+          "title": "Kettler Apollo rugstrekker",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2457627085-kettler-apollo-rugstrekker"
         }
       }
     },
@@ -134085,6 +134103,18 @@
           "price_display": "Bieden vanaf € 4.000,00",
           "title": "Yamaha UX3 piano - stil - gestemd",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2457579783-yamaha-ux3-piano-stil-gestemd"
+        },
+        "m2457624232": {
+          "first_seen_at": "2026-10-25T00:05:07.800141+00:00",
+          "price_display": "Bieden vanaf € 345,00",
+          "title": "Antieke Steinberger piano – zwart – met pianokruk",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2457624232-antieke-steinberger-piano-zwart-met-pianokruk"
+        },
+        "m2457625145": {
+          "first_seen_at": "2026-10-25T00:05:07.800141+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Antieke houten piano – klassieke buffetpiano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2457625145-antieke-houten-piano-klassieke-buffetpiano"
         }
       }
     }
@@ -134092,7 +134122,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-24T21:59:07.211320+00:00",
+    "last_checked_at": "2026-10-25T00:05:17.050056+00:00",
     "outage_alert_sent": false
   }
 }
