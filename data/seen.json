@@ -25676,6 +25676,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Seymour Duncan Woody SA-3HC",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2458106910-seymour-duncan-woody-sa-3hc"
+        },
+        "m2458148265": {
+          "first_seen_at": "2026-10-26T00:14:29.508097+00:00",
+          "price_display": "Bieden vanaf € 330,00",
+          "title": "Zeldzame luit oud ud",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2458148265-zeldzame-luit-oud-ud"
         }
       }
     },
@@ -109991,6 +109997,30 @@
           "price_display": "Bieden vanaf € 300,00",
           "title": "Fitnessset",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458142754-fitnessset"
+        },
+        "m2458149699": {
+          "first_seen_at": "2026-10-26T00:13:33.919597+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458149699-halterschijven"
+        },
+        "m2458149929": {
+          "first_seen_at": "2026-10-26T00:13:33.919597+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Kettlebel 2 kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458149929-kettlebel-2-kg"
+        },
+        "m2458150305": {
+          "first_seen_at": "2026-10-26T00:13:33.919597+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Fitness Materiaal",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458150305-fitness-materiaal"
+        },
+        "m2458153689": {
+          "first_seen_at": "2026-10-26T00:13:33.919597+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "30 euro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458153689-30-euro"
         }
       }
     },
@@ -135531,6 +135561,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Piano Technics",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2458122247-piano-technics"
+        },
+        "m2458148711": {
+          "first_seen_at": "2026-10-26T00:14:17.559139+00:00",
+          "price_display": "Bieden vanaf € 700,00",
+          "title": "Digitale piano van Yamaha",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2458148711-digitale-piano-van-yamaha"
         }
       }
     }
@@ -135538,7 +135574,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-25T22:06:24.792871+00:00",
+    "last_checked_at": "2026-10-26T00:14:30.183341+00:00",
     "outage_alert_sent": false
   }
 }
