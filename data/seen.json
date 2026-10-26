@@ -28040,6 +28040,18 @@
           "title": "Salomonseilanden. 10 Dollars 2007 Machu Picchu - 1g (.999)",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168130654-salomonseilanden-10-dollars-2007-machu-picchu-1g-999"
         },
+        "a168132343": {
+          "first_seen_at": "2026-10-26T04:53:55.156230+00:00",
+          "price_display": "€ 370,00",
+          "title": "Niue. 20 Dollars 2022 250 g $20 NZD Niue StoneX Silver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168132343-niue-20-dollars-2022-250-g-20-nzd-niue-stonex-silver"
+        },
+        "a168132610": {
+          "first_seen_at": "2026-10-26T04:53:55.156230+00:00",
+          "price_display": "€ 2.577,00",
+          "title": "25 gram - Goud .999 - Heimerle + Meule - Verzegeld",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168132610-25-gram-goud-999-heimerle-meule-verzegeld"
+        },
         "a168132674": {
           "first_seen_at": "2026-10-24T14:50:56.684603+00:00",
           "price_display": "€ 1,00",
@@ -28063,6 +28075,12 @@
           "price_display": "€ 1,00",
           "title": "15 gram - Goud .999 - ESG / Valcambi SA - Met certificaat",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168139639-15-gram-goud-999-esg-valcambi-sa-met-certificaat"
+        },
+        "a168149431": {
+          "first_seen_at": "2026-10-26T04:53:55.156230+00:00",
+          "price_display": "€ 1,00",
+          "title": "1 kilogram - Koper .999 - 1 Kilo 999 Fine Copper Viva México",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a168149431-1-kilogram-koper-999-1-kilo-999-fine-copper-viva-mexico"
         },
         "a168149892": {
           "first_seen_at": "2026-10-25T13:49:30.616784+00:00",
@@ -110021,6 +110039,18 @@
           "price_display": "Bieden vanaf € 30,00",
           "title": "30 euro",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458153689-30-euro"
+        },
+        "m2458161437": {
+          "first_seen_at": "2026-10-26T04:53:23.055729+00:00",
+          "price_display": "Bieden vanaf € 7,50",
+          "title": "powerball",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458161437-powerball"
+        },
+        "m2458165152": {
+          "first_seen_at": "2026-10-26T04:53:23.055729+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Fitness toestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458165152-fitness-toestel"
         }
       }
     },
@@ -135574,7 +135604,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-26T00:14:30.183341+00:00",
+    "last_checked_at": "2026-10-26T04:54:15.140301+00:00",
     "outage_alert_sent": false
   }
 }
