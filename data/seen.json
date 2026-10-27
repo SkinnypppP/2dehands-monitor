@@ -25892,6 +25892,12 @@
           "price_display": "Bieden vanaf € 220,00",
           "title": "Washburn HB30 semi-hollow gitaar, cherry red, met koffer",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2458507133-washburn-hb30-semi-hollow-gitaar-cherry-red-met-koffer"
+        },
+        "m2458508687": {
+          "first_seen_at": "2026-10-27T00:47:16.236337+00:00",
+          "price_display": "Bieden vanaf € 20,00",
+          "title": "Akoestische gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2458508687-akoestische-gitaar"
         }
       }
     },
@@ -38653,6 +38659,12 @@
           "price_display": "€ 17,50",
           "title": "Zuiver Kopergranulaat 99,9% – Orgone / Gieten / Koper",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2458493533-zuiver-kopergranulaat-99-9-orgone-gieten-koper"
+        },
+        "m2458511295": {
+          "first_seen_at": "2026-10-27T00:46:58.610957+00:00",
+          "price_display": "€ 700,00",
+          "title": "Goudstaaf Umicore 5g",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2458511295-goudstaaf-umicore-5g"
         }
       }
     },
@@ -54726,6 +54738,12 @@
           "price_display": "Bieden vanaf € 55,00",
           "title": "Vélo d’appartement",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2458489447-velo-d-appartement"
+        },
+        "m2458511449": {
+          "first_seen_at": "2026-10-27T00:46:51.692052+00:00",
+          "price_display": "€ 900,00",
+          "title": "Nautilus T626",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2458511449-nautilus-t626"
         }
       }
     },
@@ -110939,6 +110957,12 @@
           "price_display": "Bieden vanaf € 1.500,00",
           "title": "Hammer Strength Leg Extension",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458496443-hammer-strength-leg-extension"
+        },
+        "m2458515850": {
+          "first_seen_at": "2026-10-27T00:46:36.038767+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "WalkingPad P1 opvouwbare loopband — gloednieuw, ongebruikt",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458515850-walkingpad-p1-opvouwbare-loopband-gloednieuw-ongebruikt"
         }
       }
     },
@@ -118726,6 +118750,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Quad leopard",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2458481016-quad-leopard"
+        },
+        "m2458518176": {
+          "first_seen_at": "2026-10-27T00:46:43.831853+00:00",
+          "price_display": "€ 130,00",
+          "title": "Head Extreme Pro",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2458518176-head-extreme-pro"
         }
       }
     },
@@ -136695,6 +136725,18 @@
           "price_display": "Bieden vanaf € 2.500,00",
           "title": "Atlas-buffet piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2458503484-atlas-buffet-piano"
+        },
+        "m2458516984": {
+          "first_seen_at": "2026-10-27T00:47:05.870969+00:00",
+          "price_display": "€ 50,00",
+          "title": "Tweezitsbank voor piano - pianostoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2458516984-tweezitsbank-voor-piano-pianostoel"
+        },
+        "m2458522614": {
+          "first_seen_at": "2026-10-27T00:47:05.870969+00:00",
+          "price_display": "€ 400,00",
+          "title": "Yamaha Arius YPD 142",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2458522614-yamaha-arius-ypd-142"
         }
       }
     }
@@ -136702,7 +136744,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-26T21:37:32.536003+00:00",
+    "last_checked_at": "2026-10-27T00:47:17.129963+00:00",
     "outage_alert_sent": false
   }
 }
