@@ -112109,6 +112109,48 @@
           "price_display": "Bieden vanaf € 3.495,00",
           "title": "Complete RIZE Homegym – Professionele Fitnessapparatuur –",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458920331-complete-rize-homegym-professionele-fitnessapparatuur"
+        },
+        "m2458931061": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "€ 15,00",
+          "title": "Buikspier trainer",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458931061-buikspier-trainer"
+        },
+        "m2458934989": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Energetics Fitnessbank/ Bench press + Benen (Goede staat)",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458934989-energetics-fitnessbank-bench-press-benen-goede-staat"
+        },
+        "m2458935120": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "€ 20,00",
+          "title": "1 x lange halterstang (120cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458935120-1-x-lange-halterstang-120cm-2-8cm"
+        },
+        "m2458935627": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "1 x lange halterstang (160cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458935627-1-x-lange-halterstang-160cm-2-8cm"
+        },
+        "m2458935900": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "Bieden vanaf € 30,00",
+          "title": "1 x gebogen halterstang (120cm) 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458935900-1-x-gebogen-halterstang-120cm-2-8cm"
+        },
+        "m2458936052": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "€ 15,00",
+          "title": "2 x Domyos 2,5kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458936052-2-x-domyos-2-5kg-halterschijven-2-8cm"
+        },
+        "m2458936221": {
+          "first_seen_at": "2026-10-28T05:48:11.358330+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "2 x Domyos 5kg halterschijven. 2,8cm.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2458936221-2-x-domyos-5kg-halterschijven-2-8cm"
         }
       }
     },
@@ -138088,7 +138130,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-28T00:13:09.015111+00:00",
+    "last_checked_at": "2026-10-28T05:49:05.486655+00:00",
     "outage_alert_sent": false
   }
 }
