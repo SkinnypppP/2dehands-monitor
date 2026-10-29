@@ -54721,6 +54721,12 @@
           "title": "Heubozen crosstrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2455378125-heubozen-crosstrainer"
         },
+        "m2455384894": {
+          "first_seen_at": "2026-10-29T23:37:53.393472+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Schwinn IC8 professional spinning bike",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2455384894-schwinn-ic8-professional-spinning-bike"
+        },
         "m2455398181": {
           "first_seen_at": "2026-10-19T13:02:22.949406+00:00",
           "price_display": "€ 300,00",
@@ -113963,6 +113969,30 @@
           "price_display": "€ 650,00",
           "title": "Concept2 Model D roeitrainer met PM3 monitor",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459597736-concept2-model-d-roeitrainer-met-pm3-monitor"
+        },
+        "m2459618728": {
+          "first_seen_at": "2026-10-29T23:37:34.478947+00:00",
+          "price_display": "€ 400,00",
+          "title": "Fitnesstoestel + loopband",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459618728-fitnesstoestel-loopband"
+        },
+        "m2459629307": {
+          "first_seen_at": "2026-10-29T23:37:34.478947+00:00",
+          "price_display": "Gratis",
+          "title": "bench - halterbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459629307-bench-halterbank"
+        },
+        "m2459632941": {
+          "first_seen_at": "2026-10-29T23:37:34.478947+00:00",
+          "price_display": "Bieden vanaf € 50,00",
+          "title": "Pull up & dip station",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459632941-pull-up-dip-station"
+        },
+        "m2459640519": {
+          "first_seen_at": "2026-10-29T23:37:34.478947+00:00",
+          "price_display": "€ 40,00",
+          "title": "EZ curl bar 120 cm",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459640519-ez-curl-bar-120-cm"
         }
       }
     },
@@ -140217,6 +140247,12 @@
           "price_display": "Gratis",
           "title": "Piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2459595359-piano"
+        },
+        "m2459618080": {
+          "first_seen_at": "2026-10-29T23:38:10.491668+00:00",
+          "price_display": "€ 150,00",
+          "title": "Piano Coveliers antiek",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2459618080-piano-coveliers-antiek"
         }
       }
     }
@@ -140224,7 +140260,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-29T19:46:15.703734+00:00",
+    "last_checked_at": "2026-10-29T23:38:17.695322+00:00",
     "outage_alert_sent": false
   }
 }
