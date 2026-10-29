@@ -26324,6 +26324,12 @@
           "price_display": "€ 300,00",
           "title": "Folkgitaar Fender, Tim Armstrong Hellcat Checker model",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2459237804-folkgitaar-fender-tim-armstrong-hellcat-checker-model"
+        },
+        "m2459273965": {
+          "first_seen_at": "2026-10-29T01:18:07.537740+00:00",
+          "price_display": "Bieden vanaf € 300,00",
+          "title": "ORTEGA KLASSIEKER",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2459273965-ortega-klassieker"
         }
       }
     },
@@ -113057,6 +113063,48 @@
           "price_display": "€ 30,00",
           "title": "Verstelbare halter met gietijzeren gewichten",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459256620-verstelbare-halter-met-gietijzeren-gewichten"
+        },
+        "m2459258849": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "€ 20,00",
+          "title": "Set van 2 kettlebells – 2 kg per stuk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459258849-set-van-2-kettlebells-2-kg-per-stuk"
+        },
+        "m2459259777": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "€ 20,00",
+          "title": "Nieuwe fitnessmat / oefenmat – antislip",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459259777-nieuwe-fitnessmat-oefenmat-antislip"
+        },
+        "m2459259779": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "Bieden vanaf € 25,00",
+          "title": "BetterMe Fitness Tracker Zwart Nieuw met Doos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459259779-betterme-fitness-tracker-zwart-nieuw-met-doos"
+        },
+        "m2459259933": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "€ 50,00",
+          "title": "Fitness-trampoline voor thuis",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459259933-fitness-trampoline-voor-thuis"
+        },
+        "m2459260081": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "Bieden vanaf € 10,00",
+          "title": "BetterMe Fitness Strap Wit Nieuw met Doos",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459260081-betterme-fitness-strap-wit-nieuw-met-doos"
+        },
+        "m2459260452": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "€ 98,00",
+          "title": "Professionele snijmachine voor groenten en fruit",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459260452-professionele-snijmachine-voor-groenten-en-fruit"
+        },
+        "m2459269956": {
+          "first_seen_at": "2026-10-29T01:17:18.402582+00:00",
+          "price_display": "€ 100,00",
+          "title": "Tapis de marche",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459269956-tapis-de-marche"
         }
       }
     },
@@ -139192,7 +139240,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-28T21:49:08.269053+00:00",
+    "last_checked_at": "2026-10-29T01:18:08.327572+00:00",
     "outage_alert_sent": false
   }
 }
