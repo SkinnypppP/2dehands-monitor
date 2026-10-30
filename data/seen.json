@@ -26576,6 +26576,18 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Fender Squier affinity series starcaster deluxe Candy Red .",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2459601807-fender-squier-affinity-series-starcaster-deluxe-candy-red"
+        },
+        "m2459652211": {
+          "first_seen_at": "2026-10-30T02:55:43.349350+00:00",
+          "price_display": "Bieden vanaf € 600,00",
+          "title": "Klassieke gitaar - Kawai G200 -",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2459652211-klassieke-gitaar-kawai-g200"
+        },
+        "m2459652323": {
+          "first_seen_at": "2026-10-30T02:55:43.349350+00:00",
+          "price_display": "Bieden vanaf € 1.450,00",
+          "title": "Folk gitaar Eastman AC630CE",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2459652323-folk-gitaar-eastman-ac630ce"
         }
       }
     },
@@ -39547,6 +39559,12 @@
           "price_display": "€ 95,00",
           "title": "lot gestempelde zilveren munten. 86gr",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2459426927-lot-gestempelde-zilveren-munten-86gr"
+        },
+        "m2459651012": {
+          "first_seen_at": "2026-10-30T02:55:25.915041+00:00",
+          "price_display": "€ 140,00",
+          "title": "Goud nugget 0.32g",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2459651012-goud-nugget-0-32g"
         }
       }
     },
@@ -56010,6 +56028,12 @@
           "price_display": "Bieden vanaf € 6.500,00",
           "title": "Myofx EMS",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2459592539-myofx-ems"
+        },
+        "m2459652394": {
+          "first_seen_at": "2026-10-30T02:55:18.993239+00:00",
+          "price_display": "Bieden vanaf € 375,00",
+          "title": "Fitnesstoestel",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2459652394-fitnesstoestel"
         }
       }
     },
@@ -113993,6 +114017,18 @@
           "price_display": "€ 40,00",
           "title": "EZ curl bar 120 cm",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459640519-ez-curl-bar-120-cm"
+        },
+        "m2459647814": {
+          "first_seen_at": "2026-10-30T02:55:00.811886+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "LOOPBAND TOT 13 km per uur",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459647814-loopband-tot-13-km-per-uur"
+        },
+        "m2459652793": {
+          "first_seen_at": "2026-10-30T02:55:00.811886+00:00",
+          "price_display": "€ 200,00",
+          "title": "Pulley station wandmontage gorilla sports met accesoires",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2459652793-pulley-station-wandmontage-gorilla-sports-met-accesoires"
         }
       }
     },
@@ -140260,7 +140296,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-10-29T23:38:17.695322+00:00",
+    "last_checked_at": "2026-10-30T02:55:44.765641+00:00",
     "outage_alert_sent": false
   }
 }
