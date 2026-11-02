@@ -40825,6 +40825,18 @@
           "price_display": "Bieden vanaf € 645,00",
           "title": "10 oz.999 zilver kookaburra 2026",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2460827984-10-oz-999-zilver-kookaburra-2026"
+        },
+        "m2460861542": {
+          "first_seen_at": "2026-11-02T02:45:59.896307+00:00",
+          "price_display": "Bieden vanaf € 530,00",
+          "title": "Geiger Edelmetalle 250g 999 Fijnzilver.",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2460861542-geiger-edelmetalle-250g-999-fijnzilver"
+        },
+        "m2460861919": {
+          "first_seen_at": "2026-11-02T02:45:59.896307+00:00",
+          "price_display": "Bieden vanaf € 1.200,00",
+          "title": "Valcambi 10 gram goudbaar 999.9",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2460861919-valcambi-10-gram-goudbaar-999-9"
         }
       }
     },
@@ -117323,6 +117335,12 @@
           "price_display": "Bieden vanaf € 15,00",
           "title": "Domyos step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2460838037-domyos-step"
+        },
+        "m2460857735": {
+          "first_seen_at": "2026-11-02T02:45:33.018801+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "musculation",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2460857735-musculation"
         }
       }
     },
@@ -144213,6 +144231,12 @@
           "price_display": "€ 300,00",
           "title": "Piano te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2460836901-piano-te-koop"
+        },
+        "m2460860450": {
+          "first_seen_at": "2026-11-02T02:46:09.071677+00:00",
+          "price_display": "€ 400,00",
+          "title": "Roland KR-570 digitale piano, 88 toetsen, 3 pedalen",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2460860450-roland-kr-570-digitale-piano-88-toetsen-3-pedalen"
         }
       }
     }
@@ -144220,7 +144244,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-01T23:42:31.304078+00:00",
+    "last_checked_at": "2026-11-02T02:46:21.781560+00:00",
     "outage_alert_sent": false
   }
 }
