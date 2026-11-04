@@ -59730,6 +59730,12 @@
           "title": "Lmx. Challenge Bag - 6 Kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167859198-lmx-challenge-bag-6-kg"
         },
+        "a167918084": {
+          "first_seen_at": "2026-11-04T02:31:40.480130+00:00",
+          "price_display": "€ 90,00",
+          "title": "Tunturi Cardio Fit E30 Hometrainer — gebruikt",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/a167918084-tunturi-cardio-fit-e30-hometrainer-gebruikt"
+        },
         "a168233284": {
           "first_seen_at": "2026-11-03T02:25:00.983543+00:00",
           "price_display": "€ 116,99",
@@ -119405,6 +119411,18 @@
           "price_display": "€ 150,00",
           "title": "Fitnessbank",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2461594636-fitnessbank"
+        },
+        "m2461601068": {
+          "first_seen_at": "2026-11-04T02:31:40.480130+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Gym - homegym - halterbank - bench - halterschijven",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2461601068-gym-homegym-halterbank-bench-halterschijven"
+        },
+        "m2461603343": {
+          "first_seen_at": "2026-11-04T02:31:40.480130+00:00",
+          "price_display": "€ 550,00",
+          "title": "Pumpbells, verstelbare dumbell 32kg elk",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2461603343-pumpbells-verstelbare-dumbell-32kg-elk"
         }
       }
     },
@@ -127720,6 +127738,12 @@
           "price_display": "€ 160,00",
           "title": "NOX AT10 Luxury Genius 18K Alum 2026 - Agustín Tapia",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2461578141-nox-at10-luxury-genius-18k-alum-2026-agustin-tapia"
+        },
+        "m2461603757": {
+          "first_seen_at": "2026-11-04T02:31:51.814263+00:00",
+          "price_display": "€ 100,00",
+          "title": "NOX AT10 12K Padelracket",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2461603757-nox-at10-12k-padelracket"
         }
       }
     },
@@ -146830,7 +146854,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-03T22:26:59.000396+00:00",
+    "last_checked_at": "2026-11-04T02:32:21.940160+00:00",
     "outage_alert_sent": false
   }
 }
