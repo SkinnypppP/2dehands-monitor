@@ -28178,6 +28178,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Sheffield guitar",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2462026567-sheffield-guitar"
+        },
+        "m2462036265": {
+          "first_seen_at": "2026-11-05T03:02:02.038131+00:00",
+          "price_display": "Bieden vanaf € 650,00",
+          "title": "BAGLAMA",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2462036265-baglama"
         }
       }
     },
@@ -41965,6 +41971,12 @@
           "price_display": "Bieden vanaf € 2.000,00",
           "title": "Goudbaar",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2462016240-goudbaar"
+        },
+        "m2462033745": {
+          "first_seen_at": "2026-11-05T03:01:41.167171+00:00",
+          "price_display": "€ 15,00",
+          "title": "Britannia 1/10 oz .999 zilver – 2026",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2462033745-britannia-1-10-oz-999-zilver-2026"
         }
       }
     },
@@ -120293,6 +120305,12 @@
           "price_display": "€ 50,00",
           "title": "Halteres",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2462025870-halteres"
+        },
+        "m2462031639": {
+          "first_seen_at": "2026-11-05T03:01:15.215263+00:00",
+          "price_display": "Bieden vanaf € 350,00",
+          "title": "Fitnessbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2462031639-fitnessbank"
         }
       }
     },
@@ -148078,7 +148096,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-04T22:52:04.349489+00:00",
+    "last_checked_at": "2026-11-05T03:02:03.103442+00:00",
     "outage_alert_sent": false
   }
 }
