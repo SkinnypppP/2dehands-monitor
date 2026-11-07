@@ -28556,6 +28556,12 @@
           "price_display": "Bieden vanaf € 150,00",
           "title": "Beginnersgitaar voor kinderen",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2462747248-beginnersgitaar-voor-kinderen"
+        },
+        "m2462769673": {
+          "first_seen_at": "2026-11-07T02:59:25.799721+00:00",
+          "price_display": "Bieden vanaf € 1.200,00",
+          "title": "Fazley basgitaar + versterker",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2462769673-fazley-basgitaar-versterker"
         }
       }
     },
@@ -60234,6 +60240,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Kettler crosstrainer Skylon s4",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2462743905-kettler-crosstrainer-skylon-s4"
+        },
+        "m2462770037": {
+          "first_seen_at": "2026-11-07T02:59:00.334027+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "Decathlon Corength Inklapbare Halterbank met Haltersteunen",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2462770037-decathlon-corength-inklapbare-halterbank-met-haltersteunen"
         }
       }
     },
@@ -122213,6 +122225,12 @@
           "price_display": "€ 200,00",
           "title": "Tapis de course Domyos TC 450 en très bon état",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2462763130-tapis-de-course-domyos-tc-450-en-tres-bon-etat"
+        },
+        "m2462766956": {
+          "first_seen_at": "2026-11-07T02:58:43.409655+00:00",
+          "price_display": "Bieden vanaf € 3,00",
+          "title": "Witte halter body",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2462766956-witte-halter-body"
         }
       }
     },
@@ -150382,7 +150400,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-06T23:23:06.317741+00:00",
+    "last_checked_at": "2026-11-07T02:59:26.459018+00:00",
     "outage_alert_sent": false
   }
 }
