@@ -29108,6 +29108,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Martin te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2463591696-martin-te-koop"
+        },
+        "m2463623948": {
+          "first_seen_at": "2026-11-08T23:53:08.532115+00:00",
+          "price_display": "€ 185,00",
+          "title": "Morgan gytsr",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2463623948-morgan-gytsr"
+        },
+        "m2463630080": {
+          "first_seen_at": "2026-11-08T23:53:08.532115+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2463630080-gitaar"
+        },
+        "m2463634099": {
+          "first_seen_at": "2026-11-08T23:53:08.532115+00:00",
+          "price_display": "Bieden vanaf € 110,00",
+          "title": "Yamaha C40 Klasieke 4/4 gitaar bundel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2463634099-yamaha-c40-klasieke-4-4-gitaar-bundel"
         }
       }
     },
@@ -124427,6 +124445,18 @@
           "price_display": "Gratis",
           "title": "Reebok step",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2463618258-reebok-step"
+        },
+        "m2463621300": {
+          "first_seen_at": "2026-11-08T23:52:25.815663+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Set 2 kilo gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2463621300-set-2-kilo-gewichten"
+        },
+        "m2463621709": {
+          "first_seen_at": "2026-11-08T23:52:25.815663+00:00",
+          "price_display": "€ 13,00",
+          "title": "Halterschijven zwart 2x7.5kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2463621709-halterschijven-zwart-2x7-5kg"
         }
       }
     },
@@ -133180,6 +133210,12 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "ASICS PADELRACKET MET GELRESOLUTIE",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2463586066-asics-padelracket-met-gelresolutie"
+        },
+        "m2463646731": {
+          "first_seen_at": "2026-11-08T23:52:34.730905+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Raquette de padel Bullpadel Vertex 05 Hybrid 2026",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2463646731-raquette-de-padel-bullpadel-vertex-05-hybrid-2026"
         }
       }
     },
@@ -152992,7 +153028,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-08T20:28:11.199322+00:00",
+    "last_checked_at": "2026-11-08T23:53:10.665155+00:00",
     "outage_alert_sent": false
   }
 }
