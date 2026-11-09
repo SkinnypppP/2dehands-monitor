@@ -124457,6 +124457,12 @@
           "price_display": "€ 13,00",
           "title": "Halterschijven zwart 2x7.5kg",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2463621709-halterschijven-zwart-2x7-5kg"
+        },
+        "m2463653913": {
+          "first_seen_at": "2026-11-09T04:07:23.512187+00:00",
+          "price_display": "€ 25,99",
+          "title": "Medifitmode fitnessbal 75 cm blauw zonder pomp nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2463653913-medifitmode-fitnessbal-75-cm-blauw-zonder-pomp-nieuw"
         }
       }
     },
@@ -153028,7 +153034,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-08T23:53:10.665155+00:00",
+    "last_checked_at": "2026-11-09T04:08:10.597159+00:00",
     "outage_alert_sent": false
   }
 }
