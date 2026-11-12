@@ -29876,6 +29876,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Zero Sette Castelfidardo - Akoestische gitaar + case",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2464786350-zero-sette-castelfidardo-akoestische-gitaar-case"
+        },
+        "m2464788666": {
+          "first_seen_at": "2026-11-12T02:39:53.092121+00:00",
+          "price_display": "Bieden vanaf € 150,00",
+          "title": "Zeer mooie gitaar",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2464788666-zeer-mooie-gitaar"
         }
       }
     },
@@ -44383,6 +44389,12 @@
           "price_display": "Bieden vanaf € 125,00",
           "title": "Jean de Luxebourg",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2464743821-jean-de-luxebourg"
+        },
+        "m2464799176": {
+          "first_seen_at": "2026-11-12T02:39:35.412212+00:00",
+          "price_display": "€ 860,00",
+          "title": "6 Maplegrams puur goud in muntjes van 1g (24 karaat)",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2464799176-6-maplegrams-puur-goud-in-muntjes-van-1g-24-karaat"
         }
       }
     },
@@ -62994,6 +63006,12 @@
           "price_display": "Bieden vanaf € 115,00",
           "title": "Muurgemonteerde multigym-machine",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2464785050-muurgemonteerde-multigym-machine"
+        },
+        "m2464794228": {
+          "first_seen_at": "2026-11-12T02:39:23.192338+00:00",
+          "price_display": "€ 420,00",
+          "title": "Vélo assis ProForm 325 CSX – NEUF",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2464794228-velo-assis-proform-325-csx-neuf"
         }
       }
     },
@@ -127043,6 +127061,24 @@
           "price_display": "€ 2.000,00",
           "title": "Technogym Pure Strength Plate Loaded Leg Press",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2464785685-technogym-pure-strength-plate-loaded-leg-press"
+        },
+        "m2464792755": {
+          "first_seen_at": "2026-11-12T02:39:00.637926+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Optrekbar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2464792755-optrekbar"
+        },
+        "m2464793942": {
+          "first_seen_at": "2026-11-12T02:39:00.637926+00:00",
+          "price_display": "€ 40,00",
+          "title": "Schitterende fitnessbank, zeer degelijk, nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2464793942-schitterende-fitnessbank-zeer-degelijk-nieuw"
+        },
+        "m2464800883": {
+          "first_seen_at": "2026-11-12T02:39:00.637926+00:00",
+          "price_display": "Bieden vanaf € 15,00",
+          "title": "Dumbells Decathlon",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2464800883-dumbells-decathlon"
         }
       }
     },
@@ -156297,6 +156333,12 @@
           "price_display": "Gratis",
           "title": "Gratis piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2464718832-gratis-piano"
+        },
+        "m2464795611": {
+          "first_seen_at": "2026-11-12T02:39:43.363085+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Antieke A. Hanlet piano uit 1952 – voor restauratie",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2464795611-antieke-a-hanlet-piano-uit-1952-voor-restauratie"
         }
       }
     }
@@ -156304,7 +156346,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-11T21:54:01.429111+00:00",
+    "last_checked_at": "2026-11-12T02:39:54.308823+00:00",
     "outage_alert_sent": false
   }
 }
