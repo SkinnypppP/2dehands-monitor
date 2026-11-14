@@ -45007,6 +45007,12 @@
           "price_display": "Bieden vanaf € 600,00",
           "title": "7 x 1oz zilveren 999 munten",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2465424796-7-x-1oz-zilveren-999-munten"
+        },
+        "m2465522432": {
+          "first_seen_at": "2026-11-14T04:34:10.770731+00:00",
+          "price_display": "€ 845,00",
+          "title": "Maplegram 6st. (Royal Canadian Mint) puur goud",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2465522432-maplegram-6st-royal-canadian-mint-puur-goud"
         }
       }
     },
@@ -158062,7 +158068,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-13T23:56:09.908853+00:00",
+    "last_checked_at": "2026-11-14T04:34:27.051023+00:00",
     "outage_alert_sent": false
   }
 }
