@@ -30524,6 +30524,24 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "Gitaar te koop",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2465899192-gitaar-te-koop"
+        },
+        "m2465913107": {
+          "first_seen_at": "2026-11-15T01:17:18.439437+00:00",
+          "price_display": "Bieden vanaf € 65,00",
+          "title": "guitar classique (comme neuf)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2465913107-guitar-classique-comme-neuf"
+        },
+        "m2465914688": {
+          "first_seen_at": "2026-11-15T01:17:18.439437+00:00",
+          "price_display": "Bieden vanaf € 40,00",
+          "title": "Guitare classique Clifton 4/4 – Bon état",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2465914688-guitare-classique-clifton-4-4-bon-etat"
+        },
+        "m2465914927": {
+          "first_seen_at": "2026-11-15T01:17:18.439437+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "Guitare classique Alhambra 1C – Made in Spain",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2465914927-guitare-classique-alhambra-1c-made-in-spain"
         }
       }
     },
@@ -62964,6 +62982,12 @@
           "price_display": "Bieden vanaf € 70,00",
           "title": "Hometrainer",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2462301863-hometrainer"
+        },
+        "m2462303329": {
+          "first_seen_at": "2026-11-15T01:16:48.792490+00:00",
+          "price_display": "€ 170,00",
+          "title": "Loopband - Kinetic Sports",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2462303329-loopband-kinetic-sports"
         },
         "m2462329612": {
           "first_seen_at": "2026-11-05T23:42:38.112041+00:00",
@@ -129221,6 +129245,18 @@
           "price_display": "Bieden vanaf € 25,00",
           "title": "RESERVEONDERDEEL VOOR OPTREKSTANG DECATHLON VOOR POWER RACK",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2465897607-reserveonderdeel-voor-optrekstang-decathlon-voor-power-rack"
+        },
+        "m2465912395": {
+          "first_seen_at": "2026-11-15T01:16:31.094323+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Rubber mat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2465912395-rubber-mat"
+        },
+        "m2465912482": {
+          "first_seen_at": "2026-11-15T01:16:31.094323+00:00",
+          "price_display": "Bieden vanaf € 225,00",
+          "title": "halterbank vouwbaar fmb-800",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2465912482-halterbank-vouwbaar-fmb-800"
         }
       }
     },
@@ -159105,6 +159141,12 @@
           "price_display": "Bieden vanaf € 450,00",
           "title": "Elektrische piano ROLAND wit",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2465880501-elektrische-piano-roland-wit"
+        },
+        "m2465907827": {
+          "first_seen_at": "2026-11-15T01:17:07.601216+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Belgische antieken piano met bijhorende pianostoel",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2465907827-belgische-antieken-piano-met-bijhorende-pianostoel"
         }
       }
     }
@@ -159112,7 +159154,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-14T21:36:09.283832+00:00",
+    "last_checked_at": "2026-11-15T01:17:21.013428+00:00",
     "outage_alert_sent": false
   }
 }
