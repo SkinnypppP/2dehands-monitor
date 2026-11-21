@@ -34928,6 +34928,18 @@
           "title": "1 gram - Goud .999 - Valcambi - Verzegeld",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a169182325-1-gram-goud-999-valcambi-verzegeld"
         },
+        "a169217243": {
+          "first_seen_at": "2026-11-21T04:19:38.312201+00:00",
+          "price_display": "€ 1,00",
+          "title": "20 gram - Goud .999 - Heimerle + Meule, Germany - Verzegeld",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a169217243-20-gram-goud-999-heimerle-meule-germany-verzegeld"
+        },
+        "a169217245": {
+          "first_seen_at": "2026-11-21T04:19:38.312201+00:00",
+          "price_display": "€ 55,00",
+          "title": "2 gram - Goud .999 - Valcambi, Switzerland (Zonder",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a169217245-2-gram-goud-999-valcambi-switzerland-zonder"
+        },
         "m2363338615": {
           "first_seen_at": "2026-07-27T08:26:16.210844+00:00",
           "price_display": "Zie omschrijving",
@@ -47503,6 +47515,12 @@
           "price_display": "€ 30,00",
           "title": "2x1 oz koper munten Harry Potter high relief ultra collector",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2468176397-2x1-oz-koper-munten-harry-potter-high-relief-ultra-collector"
+        },
+        "m2468210927": {
+          "first_seen_at": "2026-11-21T04:19:38.312201+00:00",
+          "price_display": "€ 775,00",
+          "title": "6 x 1gr. 99,99% puur goud Maple Leaf Maplegram",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2468210927-6-x-1gr-99-99-puur-goud-maple-leaf-maplegram"
         }
       }
     },
@@ -61135,6 +61153,12 @@
           "title": "Roeitoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450491624-roeitoestel"
         },
+        "m2450491763": {
+          "first_seen_at": "2026-11-21T04:19:28.416827+00:00",
+          "price_display": "Bieden vanaf € 200,00",
+          "title": "Vélo d'appartement Domyos EB 520 - Auto-alimenté & Connecté",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2450491763-velo-d-appartement-domyos-eb-520-auto-alimente-connecte"
+        },
         "m2450494972": {
           "first_seen_at": "2026-10-05T22:04:53.738978+00:00",
           "price_display": "€ 200,00",
@@ -67266,6 +67290,12 @@
           "price_display": "Bieden vanaf € 110,00",
           "title": "Pull-up x dips & more training station",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2468173261-pull-up-x-dips-more-training-station"
+        },
+        "m2468203340": {
+          "first_seen_at": "2026-11-21T04:19:28.416827+00:00",
+          "price_display": "Bieden vanaf € 95,00",
+          "title": "Wandelband zo goed als nieuw",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessapparatuur/m2468203340-wandelband-zo-goed-als-nieuw"
         }
       }
     },
@@ -134297,6 +134327,12 @@
           "price_display": "€ 100,00",
           "title": "STAR Multi-Gym krachtstation",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468190482-star-multi-gym-krachtstation"
+        },
+        "m2468199519": {
+          "first_seen_at": "2026-11-21T04:19:06.665793+00:00",
+          "price_display": "€ 210,00",
+          "title": "DKN T-980 loopband - elektrische helling - inklapbaar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468199519-dkn-t-980-loopband-elektrische-helling-inklapbaar"
         }
       }
     },
@@ -165315,6 +165351,18 @@
           "price_display": "Bieden vanaf € 269,00",
           "title": "Buffet piano",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2468173921-buffet-piano"
+        },
+        "m2468201734": {
+          "first_seen_at": "2026-11-21T04:19:51.801894+00:00",
+          "price_display": "€ 130,00",
+          "title": "Piano Numérique Yamaha PSR e413",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2468201734-piano-numerique-yamaha-psr-e413"
+        },
+        "m2468201855": {
+          "first_seen_at": "2026-11-21T04:19:51.801894+00:00",
+          "price_display": "€ 680,00",
+          "title": "Grand Piano Numérique Roland HP 337e",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2468201855-grand-piano-numerique-roland-hp-337e"
         }
       }
     }
@@ -165322,7 +165370,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-20T23:49:33.423463+00:00",
+    "last_checked_at": "2026-11-21T04:20:02.234669+00:00",
     "outage_alert_sent": false
   }
 }
