@@ -32060,6 +32060,12 @@
           "price_display": "€ 100,00",
           "title": "Morgan UK-C-24 Ukelele",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2468540427-morgan-uk-c-24-ukelele"
+        },
+        "m2468553176": {
+          "first_seen_at": "2026-11-22T00:02:15.316324+00:00",
+          "price_display": "Bieden vanaf € 120,00",
+          "title": "La Mancha Rubinito",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/snaarinstrumenten-gitaren-akoestisch/m2468553176-la-mancha-rubinito"
         }
       }
     },
@@ -47767,6 +47773,12 @@
           "price_display": "€ 3.000,00",
           "title": "20 francs coq or",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2468539722-20-francs-coq-or"
+        },
+        "m2468575248": {
+          "first_seen_at": "2026-11-22T00:01:56.452818+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "5 OZ argent et 5  1/2 OZ argent",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2468575248-5-oz-argent-et-5-1-2-oz-argent"
         }
       }
     },
@@ -135131,6 +135143,48 @@
           "price_display": "Gratis",
           "title": "gratis ophalen sven krachtstation.",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468547255-gratis-ophalen-sven-krachtstation"
+        },
+        "m2468552810": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Bieden vanaf € 100,00",
+          "title": "Taurus kettlebell 32kg. TWV 145€.",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468552810-taurus-kettlebell-32kg-twv-145"
+        },
+        "m2468553182": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Strongman kettlebell 16kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468553182-strongman-kettlebell-16kg"
+        },
+        "m2468553403": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Bieden vanaf € 85,00",
+          "title": "Strongman kettlebell 20kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468553403-strongman-kettlebell-20kg"
+        },
+        "m2468558632": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Gratis",
+          "title": "GRATIS",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468558632-gratis"
+        },
+        "m2468559422": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "€ 1.000,00",
+          "title": "Lat Pulldown 100kg Stack + Incline Chest Press 100kg",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468559422-lat-pulldown-100kg-stack-incline-chest-press-100kg"
+        },
+        "m2468565924": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Bieden vanaf € 17,00",
+          "title": "stepbank",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468565924-stepbank"
+        },
+        "m2468587775": {
+          "first_seen_at": "2026-11-22T00:01:24.771276+00:00",
+          "price_display": "Bieden vanaf € 400,00",
+          "title": "Squat rack - pull up bar - halterstang - gewichten",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2468587775-squat-rack-pull-up-bar-halterstang-gewichten"
         }
       }
     },
@@ -166389,6 +166443,12 @@
           "price_display": "Bieden vanaf € 0,00",
           "title": "piano te geef",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2468540028-piano-te-geef"
+        },
+        "m2468565652": {
+          "first_seen_at": "2026-11-22T00:02:05.145084+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Piano",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2468565652-piano"
         }
       }
     }
@@ -166396,7 +166456,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-21T19:52:49.239677+00:00",
+    "last_checked_at": "2026-11-22T00:02:16.107069+00:00",
     "outage_alert_sent": false
   }
 }
