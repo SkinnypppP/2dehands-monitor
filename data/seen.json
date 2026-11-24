@@ -35678,6 +35678,12 @@
           "title": "2 gram - Goud .999 - Valcambi, Switzerland (Zonder",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a169217245-2-gram-goud-999-valcambi-switzerland-zonder"
         },
+        "a169271084": {
+          "first_seen_at": "2026-11-24T05:27:28.663853+00:00",
+          "price_display": "€ 3,00",
+          "title": "Niue. 2 Dollars 10 x 2022 1 oz $2 NZD Niue Shamrock Silver",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/a169271084-niue-2-dollars-10-x-2022-1-oz-2-nzd-niue-shamrock-silver"
+        },
         "a169271102": {
           "first_seen_at": "2026-11-22T06:35:22.102272+00:00",
           "price_display": "€ 1,00",
@@ -48415,6 +48421,18 @@
           "price_display": "Bieden vanaf € 998,00",
           "title": "Krugerrand 1/ 4:8,5 gram 22 karaat GOUD!",
           "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2469298244-krugerrand-1-4-8-5-gram-22-karaat-goud"
+        },
+        "m2469332898": {
+          "first_seen_at": "2026-11-24T05:27:28.663853+00:00",
+          "price_display": "Bieden vanaf € 0,00",
+          "title": "Monsterbox maple leaf",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2469332898-monsterbox-maple-leaf"
+        },
+        "m2469347605": {
+          "first_seen_at": "2026-11-24T05:27:28.663853+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Herdekkings set 25 jaar 9/11",
+          "url": "https://www.2dehands.be/v/postzegels-en-munten/edelmetalen-en-baren/m2469347605-herdekkings-set-25-jaar-9-11"
         }
       }
     },
@@ -136913,6 +136931,24 @@
           "price_display": "Bieden vanaf € 250,00",
           "title": "Fitnesstoestel",
           "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2469314835-fitnesstoestel"
+        },
+        "m2469332019": {
+          "first_seen_at": "2026-11-24T05:27:02.572560+00:00",
+          "price_display": "Zie omschrijving",
+          "title": "Krachttraining Rack / Squat Rack – Pull-up bar",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2469332019-krachttraining-rack-squat-rack-pull-up-bar"
+        },
+        "m2469339880": {
+          "first_seen_at": "2026-11-24T05:27:02.572560+00:00",
+          "price_display": "Bieden vanaf € 60,00",
+          "title": "Set accessoires fitness",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2469339880-set-accessoires-fitness"
+        },
+        "m2469347470": {
+          "first_seen_at": "2026-11-24T05:27:02.572560+00:00",
+          "price_display": "€ 50,00",
+          "title": "Halteres",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/fitnessmaterialen/m2469347470-halteres"
         }
       }
     },
@@ -146596,6 +146632,12 @@
           "price_display": "Bieden vanaf € 50,00",
           "title": "padelracket",
           "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2469288998-padelracket"
+        },
+        "m2469326445": {
+          "first_seen_at": "2026-11-24T05:27:13.490966+00:00",
+          "price_display": "Bieden vanaf € 75,00",
+          "title": "Padel koppelpakket: 2x Babolat (Storm + Contact) – Topstaat",
+          "url": "https://www.2dehands.be/v/sport-en-fitness/padel/m2469326445-padel-koppelpakket-2x-babolat-storm-contact-topstaat"
         }
       }
     },
@@ -168663,6 +168705,12 @@
           "price_display": "€ 2.150,00",
           "title": "TE KOOP – Prachtige witte Liedermann buffetpiano L112T",
           "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2469320996-te-koop-prachtige-witte-liedermann-buffetpiano-l112t"
+        },
+        "m2469341338": {
+          "first_seen_at": "2026-11-24T05:27:41.187980+00:00",
+          "price_display": "€ 9.000,00",
+          "title": "Steinway & Sons Model Z rechtopstaande piano (115Z)",
+          "url": "https://www.2dehands.be/v/muziek-en-instrumenten/piano-s/m2469341338-steinway-sons-model-z-rechtopstaande-piano-115z"
         }
       }
     }
@@ -168670,7 +168718,7 @@
   "monitor_state": {
     "consecutive_failed_cycles": 0,
     "first_failure_at": "2026-08-09T09:24:35.462168+00:00",
-    "last_checked_at": "2026-11-23T21:31:11.538708+00:00",
+    "last_checked_at": "2026-11-24T05:27:52.190979+00:00",
     "outage_alert_sent": false
   }
 }
